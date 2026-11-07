@@ -1,0 +1,2110 @@
+{
+  "sitio": "uisil.ac.cr",
+  "url": "https://uisil.ac.cr",
+  "auditadoEn": "2026-11-06T00:51:15.305Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://uisil.ac.cr",
+      "instante": "2026-11-06T00:48:55.902Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809478139.699598,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "uisil.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825462136.696822,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "idioma",
+          "domain": "uisil.ac.cr",
+          "path": "/",
+          "expires": 1793929738.092719,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478138.664441,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478138.664592,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478138.664657,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478138.664689,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_ga_TW496MZHY9",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1828486138.773603,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1828486138.77436,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1801702138,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_clck",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1825462138,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1801702138,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927039.019083,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801702139.198395,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1794012539,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827622143.109547,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794530943.109626,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827622143.109661,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827622143.198694,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794530943.198736,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793926743.198756,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "stackpath.bootstrapcdn.com",
+        "cdn.liveconnect.chat",
+        "fonts.gstatic.com",
+        "uisil.net",
+        "youtube.com",
+        "scripts.clarity.ms",
+        "aulavirtual.cr",
+        "google.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "gstatic.com",
+        "facebook.com",
+        "g.clarity.ms",
+        "google.co.cr",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "scripts.clarity.ms",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "facebook.com",
+        "g.clarity.ms",
+        "static.doubleclick.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://uisil.ac.cr",
+      "instante": "2026-11-06T00:49:16.137Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "uisil.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825462156.980729,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "idioma",
+          "domain": "uisil.ac.cr",
+          "path": "/",
+          "expires": 1793929757.639132,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478157.87264,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478157.872771,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478157.872835,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478157.87287,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "_ga_TW496MZHY9",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1828486158.06026,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1828486158.060878,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1801702158,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_clck",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1825462158,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1801702158,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927058.333932,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801702158.473069,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1794012558,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827622160.983407,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794530960.983551,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827622160.983632,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827622161.098142,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794530961.09833,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793926761.098423,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "stackpath.bootstrapcdn.com",
+        "cdn.liveconnect.chat",
+        "fonts.gstatic.com",
+        "uisil.net",
+        "youtube.com",
+        "scripts.clarity.ms",
+        "google.com",
+        "aulavirtual.cr",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "facebook.com",
+        "q.clarity.ms",
+        "google.co.cr",
+        "gstatic.com",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "scripts.clarity.ms",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "facebook.com",
+        "q.clarity.ms",
+        "static.doubleclick.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://uisil.ac.cr",
+      "instante": "2026-11-06T00:49:37.867Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809478180.561513,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "uisil.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825462178.723955,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "idioma",
+          "domain": "uisil.ac.cr",
+          "path": "/",
+          "expires": 1793929779.132233,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_TW496MZHY9",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1828486179.477674,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1828486179.478453,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1801702179,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_clck",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1825462179,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478179.570362,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478179.57052,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478179.57059,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478179.570653,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927079.727226,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1801702179,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801702179.998315,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1794012580,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827622182.536336,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794530982.536564,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827622182.536679,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827622182.659115,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794530982.659171,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793926782.659219,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "stackpath.bootstrapcdn.com",
+        "cdn.liveconnect.chat",
+        "fonts.gstatic.com",
+        "scripts.clarity.ms",
+        "uisil.net",
+        "youtube.com",
+        "aulavirtual.cr",
+        "google.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "l.clarity.ms",
+        "facebook.com",
+        "gstatic.com",
+        "google.co.cr",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "scripts.clarity.ms",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "l.clarity.ms",
+        "facebook.com",
+        "static.doubleclick.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://uisil.ac.cr",
+      "instante": "2026-11-06T00:50:01.639Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809478204.161442,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "uisil.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825462202.426871,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "idioma",
+          "domain": "uisil.ac.cr",
+          "path": "/",
+          "expires": 1793929802.792461,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_TW496MZHY9",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1828486203.152559,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1828486203.153023,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1801702203,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 23
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478203.227284,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478203.227403,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478203.227434,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478203.227468,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_clck",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1825462203,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927103.420217,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1801702203,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801702203.644425,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1794012603,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827622206.337956,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794531006.33802,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827622206.338046,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827622205.452218,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794531005.452256,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793926805.452275,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "stackpath.bootstrapcdn.com",
+        "cdn.liveconnect.chat",
+        "fonts.gstatic.com",
+        "scripts.clarity.ms",
+        "uisil.net",
+        "youtube.com",
+        "aulavirtual.cr",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "facebook.com",
+        "google.co.cr",
+        "b.clarity.ms",
+        "gstatic.com",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "scripts.clarity.ms",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "facebook.com",
+        "b.clarity.ms",
+        "static.doubleclick.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://uisil.ac.cr",
+      "instante": "2026-11-06T00:50:22.699Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809478225.498496,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "uisil.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825462223.518779,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478242.135376,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478242.135462,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1828486224.452325,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1801702224,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_clck",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1825462224,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1801702242,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801702224.845154,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827622227.542075,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794531027.542136,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827622227.542161,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827622226.653457,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794531026.653498,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793926826.653519,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_TW496MZHY9",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1828486241.818189,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828486241.894972,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478224.135236,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809478242.135549,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "idioma",
+          "domain": "uisil.ac.cr",
+          "path": "/",
+          "expires": 1793929842.217705,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_clsk",
+          "domain": ".uisil.ac.cr",
+          "path": "/",
+          "expires": 1794012642,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "stackpath.bootstrapcdn.com",
+        "cdn.liveconnect.chat",
+        "fonts.gstatic.com",
+        "scripts.clarity.ms",
+        "uisil.net",
+        "youtube.com",
+        "aulavirtual.cr",
+        "google.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "facebook.com",
+        "gstatic.com",
+        "f.clarity.ms",
+        "google.co.cr",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "scripts.clarity.ms",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "facebook.com",
+        "f.clarity.ms",
+        "static.doubleclick.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://uisil.ac.cr",
+      "instante": "2026-11-06T00:50:51.841Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809478254.480575,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "uisil.ac.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "expires": 1825462252.673921,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809478267.758815,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809478267.75887,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".uisil.ac.cr",
+          "expires": 1828486253.520673,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".uisil.ac.cr",
+          "expires": 1801702253,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_clck",
+          "domain": ".uisil.ac.cr",
+          "expires": 1825462253,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uisil.ac.cr",
+          "expires": 1801702268,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801702253.893703,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "expires": 1827622256.169645,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "expires": 1794531056.169706,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "expires": 1827622256.16973,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "expires": 1827622256.271749,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "expires": 1794531056.271934,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "expires": 1793926856.272028,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_TW496MZHY9",
+          "domain": ".uisil.ac.cr",
+          "expires": 1828486267.414736,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828486267.504266,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809478253.758677,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809478267.758957,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "_clsk",
+          "domain": ".uisil.ac.cr",
+          "expires": 1794012667,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "idioma",
+          "domain": "uisil.ac.cr",
+          "expires": 1793929867.901123,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google-analytics.com",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "fonts.gstatic.com",
+        "google.co.cr",
+        "uisil.net",
+        "youtube.com",
+        "scripts.clarity.ms",
+        "stackpath.bootstrapcdn.com",
+        "cdn.liveconnect.chat",
+        "gstatic.com",
+        "f.clarity.ms",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "aulavirtual.cr",
+        "jnn-pa.googleapis.com",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "clarity.ms",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "google-analytics.com",
+        "scripts.clarity.ms",
+        "f.clarity.ms",
+        "static.doubleclick.net",
+        "facebook.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com",
+        "CLID@www.clarity.ms",
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "_ga_TW496MZHY9@.uisil.ac.cr",
+        "_ga@.uisil.ac.cr",
+        "_clck@.uisil.ac.cr",
+        "_fbp@.uisil.ac.cr",
+        "test_cookie@.doubleclick.net",
+        "fr@.facebook.com",
+        "_clsk@.uisil.ac.cr",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 24,
+        "rastreadoresEnE0": 12
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "idioma",
+      "dominio": "uisil.ac.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".uisil.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "idioma",
+      "dominio": "uisil.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".uisil.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "idioma",
+      "dominio": "uisil.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".uisil.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "idioma",
+      "dominio": "uisil.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".uisil.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".uisil.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "idioma",
+      "dominio": "uisil.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".uisil.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "idioma",
+      "dominio": "uisil.ac.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 23,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 8.4,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

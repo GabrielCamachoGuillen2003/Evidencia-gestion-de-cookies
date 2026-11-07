@@ -1,0 +1,3367 @@
+{
+  "sitio": "officedepot.co.cr",
+  "url": "https://www.officedepot.co.cr",
+  "auditadoEn": "2026-11-06T01:30:14.685Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.officedepot.co.cr",
+      "instante": "2026-11-06T01:26:53.808Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/officedepotCR/en",
+          "expires": 1825464416.470945,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/wishlistHeader",
+          "expires": 1825464416.35885,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 63
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": 1825464414.241206,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "cookie-notification",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488414.241239,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 12
+        },
+        {
+          "name": "ROUTE",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 31
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793930214.241302,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.com.mx",
+          "path": "/",
+          "expires": 1793930214.567585,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793930215.724962,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827624416.43952,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624416,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624416,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "auid",
+          "domain": ".acuityplatform.com",
+          "path": "/",
+          "expires": 1825464416.840856,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_ga_ZX8ZMFYFP4",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488416.846642,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488416.889239,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1794014816,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_dc_gtm_UA-7216073-22",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793928476,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gat_UA-7216073-8",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793928476,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793929316.938403,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "mcforms-200118034-sessionId",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 38
+        },
+        {
+          "name": "_fbp",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1801704417,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ga_NXL84VXGW4",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488417.39599,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "twk_uuid_5b96ecc1c9abba5796776a49",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1809480417,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 239
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1796520417.433325,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1799112417.53077,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801704417.531139,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624426,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_C9OLHSRC77U8C02R94R0",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624426,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "isPushNotificationsEnabled",
+          "mcforms-200118034-lastEvents",
+          "twk_5b96ecc1c9abba5796776a49",
+          "isOptedOut",
+          "twk_token_5b96ecc1c9abba5796776a49",
+          "mcforms-200118034-state",
+          "QM_S",
+          "mcforms-200118034-session",
+          "lastExternalReferrerTime",
+          "mcforms-200118034-experienceConfigVersion",
+          "os_pageViews",
+          "mcforms-200118034-timeQueueEvents",
+          "lastExternalReferrer",
+          "mcforms_event_200118034",
+          "mcforms-200118034-pageviews"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "ONESIGNAL_HTTP_PROMPT_SHOWN",
+          "tt_pixel_session_index",
+          "previousNav",
+          "arrObjCats",
+          "tt_appInfo",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "dev.visualwebsiteoptimizer.com",
+        "cdn.jsdelivr.net",
+        "officedepot.com.mx",
+        "apis.google.com",
+        "cdn.onesignal.com",
+        "artfut.com",
+        "googleoptimize.com",
+        "cdn.groupbycloud.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "chimpstatic.com",
+        "google-analytics.com",
+        "cdnssl.clicktale.net",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "acuityplatform.com",
+        "connect.facebook.net",
+        "cdn.quantummetric.com",
+        "graph.facebook.com",
+        "onesignal.com",
+        "form-assets.mailchimp.com",
+        "officedepotcr.os.tc",
+        "ingest.quantummetric.com",
+        "analytics-ipv6.tiktokw.us",
+        "va.tawk.to",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "s2.adform.net",
+        "pixel.mathtag.com",
+        "google.com",
+        "facebook.com",
+        "mpc2-prod-29-is5qnl632q-uc.a.run.app",
+        "eventcollector.mcf-prod.a.intuit.com",
+        "img.os-content.com"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "google-analytics.com",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "connect.facebook.net",
+        "graph.facebook.com",
+        "onesignal.com",
+        "va.tawk.to",
+        "stats.g.doubleclick.net",
+        "s2.adform.net",
+        "pixel.mathtag.com",
+        "facebook.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.officedepot.co.cr",
+      "instante": "2026-11-06T01:27:10.935Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/officedepotCR/en",
+          "expires": 1825464432.83137,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/wishlistHeader",
+          "expires": 1825464432.6928,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 63
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": 1825464431.235859,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "cookie-notification",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488431.235887,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 12
+        },
+        {
+          "name": "ROUTE",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 31
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793930231.235946,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.com.mx",
+          "path": "/",
+          "expires": 1793930231.467198,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793930232.003929,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827624432.487124,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624432,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624432,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "mcforms-200118034-sessionId",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 38
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "_gid",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1794014833,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_dc_gtm_UA-7216073-22",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793928493,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gat_UA-7216073-8",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793928493,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_ZX8ZMFYFP4",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488433.151303,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488433.15211,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793929333.240808,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "auid",
+          "domain": ".acuityplatform.com",
+          "path": "/",
+          "expires": 1825464434.317513,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 13
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1796520433.436004,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_NXL84VXGW4",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488433.454973,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "twk_uuid_5b96ecc1c9abba5796776a49",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1809480433,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 239
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1799112433.555353,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "_fbp",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1801704433,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801704433.837347,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624442,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_C9OLHSRC77U8C02R94R0",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624442,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "isPushNotificationsEnabled",
+          "mcforms-200118034-lastEvents",
+          "twk_5b96ecc1c9abba5796776a49",
+          "isOptedOut",
+          "twk_token_5b96ecc1c9abba5796776a49",
+          "mcforms-200118034-state",
+          "mcforms-200118034-session",
+          "QM_S",
+          "lastExternalReferrerTime",
+          "mcforms-200118034-experienceConfigVersion",
+          "os_pageViews",
+          "mcforms-200118034-timeQueueEvents",
+          "lastExternalReferrer",
+          "mcforms_event_200118034",
+          "mcforms-200118034-pageviews"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "ONESIGNAL_HTTP_PROMPT_SHOWN",
+          "tt_pixel_session_index",
+          "previousNav",
+          "arrObjCats",
+          "tt_appInfo",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "dev.visualwebsiteoptimizer.com",
+        "cdn.jsdelivr.net",
+        "officedepot.com.mx",
+        "apis.google.com",
+        "cdn.onesignal.com",
+        "artfut.com",
+        "googleoptimize.com",
+        "cdn.groupbycloud.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "chimpstatic.com",
+        "form-assets.mailchimp.com",
+        "google-analytics.com",
+        "cdnssl.clicktale.net",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "acuityplatform.com",
+        "connect.facebook.net",
+        "cdn.quantummetric.com",
+        "graph.facebook.com",
+        "onesignal.com",
+        "analytics-ipv6.tiktokw.us",
+        "officedepotcr.os.tc",
+        "ingest.quantummetric.com",
+        "va.tawk.to",
+        "s2.adform.net",
+        "stats.g.doubleclick.net",
+        "analytics.google.com",
+        "google.co.cr",
+        "pixel.mathtag.com",
+        "google.com",
+        "eventcollector.mcf-prod.a.intuit.com",
+        "facebook.com",
+        "mpc2-prod-29-is5qnl632q-uc.a.run.app",
+        "img.os-content.com"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "google-analytics.com",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "connect.facebook.net",
+        "graph.facebook.com",
+        "onesignal.com",
+        "va.tawk.to",
+        "s2.adform.net",
+        "stats.g.doubleclick.net",
+        "pixel.mathtag.com",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.officedepot.co.cr",
+      "instante": "2026-11-06T01:27:42.761Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/officedepotCR/en",
+          "expires": 1825464464.621679,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/wishlistHeader",
+          "expires": 1825464464.495753,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 63
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": 1825464463.099282,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "cookie-notification",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488463.099347,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 12
+        },
+        {
+          "name": "ROUTE",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 31
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793930263.099464,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.com.mx",
+          "path": "/",
+          "expires": 1793930263.345446,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793930263.834908,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827624464.27319,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624464,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624464,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "mcforms-200118034-sessionId",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 38
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "_ga_ZX8ZMFYFP4",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488464.891684,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793929364.90573,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "auid",
+          "domain": ".acuityplatform.com",
+          "path": "/",
+          "expires": 1825464464.919756,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_ga",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488464.940842,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1794014864,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_dc_gtm_UA-7216073-22",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793928524,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gat_UA-7216073-8",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793928524,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "twk_uuid_5b96ecc1c9abba5796776a49",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1809480465,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 239
+        },
+        {
+          "name": "_ga_NXL84VXGW4",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488465.339718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1801704465,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801704465.698825,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1796520465.821389,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1799112465.910845,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624474,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_C9OLHSRC77U8C02R94R0",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624474,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "isPushNotificationsEnabled",
+          "mcforms-200118034-lastEvents",
+          "twk_5b96ecc1c9abba5796776a49",
+          "isOptedOut",
+          "twk_token_5b96ecc1c9abba5796776a49",
+          "mcforms-200118034-state",
+          "mcforms-200118034-session",
+          "QM_S",
+          "lastExternalReferrerTime",
+          "mcforms-200118034-experienceConfigVersion",
+          "os_pageViews",
+          "mcforms-200118034-timeQueueEvents",
+          "lastExternalReferrer",
+          "mcforms_event_200118034",
+          "mcforms-200118034-pageviews"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "ONESIGNAL_HTTP_PROMPT_SHOWN",
+          "tt_pixel_session_index",
+          "previousNav",
+          "arrObjCats",
+          "tt_appInfo",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "dev.visualwebsiteoptimizer.com",
+        "cdn.jsdelivr.net",
+        "officedepot.com.mx",
+        "apis.google.com",
+        "cdn.onesignal.com",
+        "artfut.com",
+        "googleoptimize.com",
+        "cdn.groupbycloud.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "chimpstatic.com",
+        "form-assets.mailchimp.com",
+        "google-analytics.com",
+        "cdnssl.clicktale.net",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "acuityplatform.com",
+        "connect.facebook.net",
+        "cdn.quantummetric.com",
+        "graph.facebook.com",
+        "onesignal.com",
+        "analytics-ipv6.tiktokw.us",
+        "officedepotcr.os.tc",
+        "ingest.quantummetric.com",
+        "va.tawk.to",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "pixel.mathtag.com",
+        "google.com",
+        "eventcollector.mcf-prod.a.intuit.com",
+        "s2.adform.net",
+        "facebook.com",
+        "mpc2-prod-29-is5qnl632q-uc.a.run.app",
+        "img.os-content.com"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "google-analytics.com",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "connect.facebook.net",
+        "graph.facebook.com",
+        "onesignal.com",
+        "va.tawk.to",
+        "stats.g.doubleclick.net",
+        "pixel.mathtag.com",
+        "s2.adform.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.officedepot.co.cr",
+      "instante": "2026-11-06T01:28:30.180Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/officedepotCR/en",
+          "expires": 1825464512.16699,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/wishlistHeader",
+          "expires": 1825464512.044719,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 63
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": 1825464510.484189,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "cookie-notification",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488510.48422,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 12
+        },
+        {
+          "name": "ROUTE",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 31
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793930310.484277,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.com.mx",
+          "path": "/",
+          "expires": 1793930310.712674,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793930311.302967,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827624511.60725,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624511,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624511,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "mcforms-200118034-sessionId",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 38
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "auid",
+          "domain": ".acuityplatform.com",
+          "path": "/",
+          "expires": 1825464513.439952,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_ga_ZX8ZMFYFP4",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488512.459981,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793929412.468861,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488512.496316,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1794014912,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_dc_gtm_UA-7216073-22",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793928572,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gat_UA-7216073-8",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793928572,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "twk_uuid_5b96ecc1c9abba5796776a49",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1809480512,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 239
+        },
+        {
+          "name": "_ga_NXL84VXGW4",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488512.94732,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1801704513,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1796520513.065512,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801704513.118083,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1799112513.15811,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624521,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_C9OLHSRC77U8C02R94R0",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624521,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "isPushNotificationsEnabled",
+          "mcforms-200118034-lastEvents",
+          "twk_5b96ecc1c9abba5796776a49",
+          "isOptedOut",
+          "twk_token_5b96ecc1c9abba5796776a49",
+          "mcforms-200118034-state",
+          "mcforms-200118034-session",
+          "QM_S",
+          "lastExternalReferrerTime",
+          "mcforms-200118034-experienceConfigVersion",
+          "os_pageViews",
+          "mcforms-200118034-timeQueueEvents",
+          "lastExternalReferrer",
+          "mcforms_event_200118034",
+          "mcforms-200118034-pageviews"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "ONESIGNAL_HTTP_PROMPT_SHOWN",
+          "tt_pixel_session_index",
+          "previousNav",
+          "arrObjCats",
+          "tt_appInfo",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "dev.visualwebsiteoptimizer.com",
+        "cdn.jsdelivr.net",
+        "officedepot.com.mx",
+        "apis.google.com",
+        "cdn.onesignal.com",
+        "artfut.com",
+        "googleoptimize.com",
+        "cdn.groupbycloud.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "chimpstatic.com",
+        "form-assets.mailchimp.com",
+        "analytics-ipv6.tiktokw.us",
+        "google-analytics.com",
+        "cdnssl.clicktale.net",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "acuityplatform.com",
+        "connect.facebook.net",
+        "cdn.quantummetric.com",
+        "graph.facebook.com",
+        "onesignal.com",
+        "ingest.quantummetric.com",
+        "officedepotcr.os.tc",
+        "va.tawk.to",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "s2.adform.net",
+        "pixel.mathtag.com",
+        "google.com",
+        "eventcollector.mcf-prod.a.intuit.com",
+        "facebook.com",
+        "mpc2-prod-29-is5qnl632q-uc.a.run.app",
+        "img.os-content.com"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "google-analytics.com",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "connect.facebook.net",
+        "graph.facebook.com",
+        "onesignal.com",
+        "va.tawk.to",
+        "stats.g.doubleclick.net",
+        "s2.adform.net",
+        "pixel.mathtag.com",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.officedepot.co.cr",
+      "instante": "2026-11-06T01:29:00.003Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/officedepotCR/en",
+          "expires": 1825464556.793309,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/wishlistHeader",
+          "expires": 1825464556.654299,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 63
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": 1825464555.989464,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "cookie-notification",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488540.433558,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 12
+        },
+        {
+          "name": "ROUTE",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 31
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793930340.433621,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.com.mx",
+          "path": "/",
+          "expires": 1793930340.70435,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793930341.173956,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827624556.602901,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624556,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624556,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "auid",
+          "domain": ".acuityplatform.com",
+          "path": "/",
+          "expires": 1825464558,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 13
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "_gid",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1794014956,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_dc_gtm_UA-7216073-22",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793928602,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gat_UA-7216073-8",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1793928602,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "mcforms-200118034-sessionId",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 38
+        },
+        {
+          "name": "_fbp",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1801704556,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1796520542.796981,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1799112556.817699,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801704542.921184,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_ZX8ZMFYFP4",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488556.660696,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488556.683654,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.officedepot.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "twk_uuid_5b96ecc1c9abba5796776a49",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1809480556,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 239
+        },
+        {
+          "name": "_ga_NXL84VXGW4",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1828488556.915457,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828488557.013591,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799112557.735486,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799112557.735566,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tuuid",
+          "domain": ".bidswitch.net",
+          "path": "/",
+          "expires": 1825464557.497242,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "c",
+          "domain": ".bidswitch.net",
+          "path": "/",
+          "expires": 1825464557.083902,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "audit_p",
+          "domain": ".rubiconproject.com",
+          "path": "/",
+          "expires": 1825464557.099516,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 194
+        },
+        {
+          "name": "khaos",
+          "domain": ".rubiconproject.com",
+          "path": "/",
+          "expires": 1825464557.099655,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "khaos_p",
+          "domain": ".rubiconproject.com",
+          "path": "/",
+          "expires": 1825464557.099715,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "audit",
+          "domain": ".rubiconproject.com",
+          "path": "/",
+          "expires": 1825464557.099784,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 194
+        },
+        {
+          "name": "receive-cookie-deprecation",
+          "domain": ".rubiconproject.com",
+          "path": "/",
+          "expires": 1801704557.099842,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624557,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 91
+        },
+        {
+          "name": "ttcsid_C9OLHSRC77U8C02R94R0",
+          "domain": ".officedepot.co.cr",
+          "path": "/",
+          "expires": 1827624557,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "tuuid_lu",
+          "domain": ".bidswitch.net",
+          "path": "/",
+          "expires": 1825464557.497418,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825464557.640465,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825464557.640823,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799112557.735603,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 6
+        },
+        {
+          "name": "aum",
+          "domain": ".acuityplatform.com",
+          "path": "/",
+          "expires": 1825464557.82921,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 406
+        },
+        {
+          "name": "t_gid",
+          "domain": ".taboola.com",
+          "path": "/",
+          "expires": 1825464557.971949,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 54
+        },
+        {
+          "name": "t_pt_gid",
+          "domain": ".taboola.com",
+          "path": "/",
+          "expires": 1825464557.972029,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "isPushNotificationsEnabled",
+          "mcforms-200118034-lastEvents",
+          "twk_5b96ecc1c9abba5796776a49",
+          "isOptedOut",
+          "twk_token_5b96ecc1c9abba5796776a49",
+          "mcforms-200118034-state",
+          "QM_S",
+          "mcforms-200118034-session",
+          "lastExternalReferrerTime",
+          "mcforms-200118034-experienceConfigVersion",
+          "os_pageViews",
+          "mcforms-200118034-timeQueueEvents",
+          "lastExternalReferrer",
+          "mcforms_event_200118034",
+          "mcforms-200118034-pageviews"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "ONESIGNAL_HTTP_PROMPT_SHOWN",
+          "tt_pixel_session_index",
+          "previousNav",
+          "arrObjCats",
+          "tt_appInfo",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "dev.visualwebsiteoptimizer.com",
+        "cdn.jsdelivr.net",
+        "officedepot.com.mx",
+        "apis.google.com",
+        "cdn.onesignal.com",
+        "artfut.com",
+        "googleoptimize.com",
+        "cdn.groupbycloud.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "chimpstatic.com",
+        "form-assets.mailchimp.com",
+        "google-analytics.com",
+        "cdnssl.clicktale.net",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "acuityplatform.com",
+        "connect.facebook.net",
+        "cdn.quantummetric.com",
+        "graph.facebook.com",
+        "analytics-ipv6.tiktokw.us",
+        "onesignal.com",
+        "ingest.quantummetric.com",
+        "officedepotcr.os.tc",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "va.tawk.to",
+        "s2.adform.net",
+        "pixel.mathtag.com",
+        "google.com",
+        "facebook.com",
+        "mpc2-prod-29-is5qnl632q-uc.a.run.app",
+        "eventcollector.mcf-prod.a.intuit.com",
+        "img.os-content.com",
+        "sync.navdmp.com",
+        "x.bidswitch.net",
+        "pixel.rubiconproject.com",
+        "pixel.tapad.com",
+        "cm.g.doubleclick.net",
+        "ums.acuityplatform.com",
+        "match.adsrvr.org",
+        "sync-t1.taboola.com"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "google-analytics.com",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "connect.facebook.net",
+        "graph.facebook.com",
+        "onesignal.com",
+        "stats.g.doubleclick.net",
+        "va.tawk.to",
+        "s2.adform.net",
+        "pixel.mathtag.com",
+        "facebook.com",
+        "x.bidswitch.net",
+        "pixel.rubiconproject.com",
+        "pixel.tapad.com",
+        "cm.g.doubleclick.net",
+        "match.adsrvr.org",
+        "sync-t1.taboola.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.officedepot.co.cr",
+      "instante": "2026-11-06T01:29:25.620Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "expires": 1825464608.119604,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "expires": 1825464607.97618,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.officedepot.co.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 63
+        },
+        {
+          "name": "anonymous-consents",
+          "domain": "www.officedepot.co.cr",
+          "expires": 1825464607.46604,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "cookie-notification",
+          "domain": "www.officedepot.co.cr",
+          "expires": 1828488565.940104,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 12
+        },
+        {
+          "name": "ROUTE",
+          "domain": "www.officedepot.co.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 31
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.co.cr",
+          "expires": 1793930365.940152,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".officedepot.com.mx",
+          "expires": 1793930366.195981,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "expires": 1793930366.738483,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "expires": 1827624607.905396,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".officedepot.co.cr",
+          "expires": 1827624608,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".officedepot.co.cr",
+          "expires": 1827624608,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "mcforms-200118034-sessionId",
+          "domain": "www.officedepot.co.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 38
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.officedepot.co.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "_gid",
+          "domain": ".officedepot.co.cr",
+          "expires": 1794015008,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_dc_gtm_UA-7216073-22",
+          "domain": ".officedepot.co.cr",
+          "expires": 1793928627,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gat_UA-7216073-8",
+          "domain": ".officedepot.co.cr",
+          "expires": 1793928627,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "auid",
+          "domain": ".acuityplatform.com",
+          "expires": 1825464610,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 13
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "expires": 1796520568.228487,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_fbp",
+          "domain": ".officedepot.co.cr",
+          "expires": 1801704608,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "expires": 1799112608.155488,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801704568.54202,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_ZX8ZMFYFP4",
+          "domain": ".officedepot.co.cr",
+          "expires": 1828488608.004688,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".officedepot.co.cr",
+          "expires": 1828488608.029091,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828488608.166748,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.officedepot.co.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "twk_uuid_5b96ecc1c9abba5796776a49",
+          "domain": ".officedepot.co.cr",
+          "expires": 1809480608,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 239
+        },
+        {
+          "name": "_ga_NXL84VXGW4",
+          "domain": ".officedepot.co.cr",
+          "expires": 1828488608.265347,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".officedepot.co.cr",
+          "expires": 1827624608,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "ttcsid_C9OLHSRC77U8C02R94R0",
+          "domain": ".officedepot.co.cr",
+          "expires": 1827624608,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "expires": 1799112609.386156,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "expires": 1799112609.386227,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tuuid",
+          "domain": ".bidswitch.net",
+          "expires": 1825464609.27556,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "c",
+          "domain": ".bidswitch.net",
+          "expires": 1825464608.856202,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "audit_p",
+          "domain": ".rubiconproject.com",
+          "expires": 1825464608.921101,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 194
+        },
+        {
+          "name": "khaos",
+          "domain": ".rubiconproject.com",
+          "expires": 1825464608.921244,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "khaos_p",
+          "domain": ".rubiconproject.com",
+          "expires": 1825464608.921271,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "audit",
+          "domain": ".rubiconproject.com",
+          "expires": 1825464608.921299,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 194
+        },
+        {
+          "name": "receive-cookie-deprecation",
+          "domain": ".rubiconproject.com",
+          "expires": 1801704608.921334,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 1
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "expires": 1825464609.300958,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tuuid_lu",
+          "domain": ".bidswitch.net",
+          "expires": 1825464609.275645,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "expires": 1825464609.301037,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "expires": 1799112609.386262,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 6
+        },
+        {
+          "name": "aum",
+          "domain": ".acuityplatform.com",
+          "expires": 1825464609.479443,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 406
+        },
+        {
+          "name": "V",
+          "domain": ".contextweb.com",
+          "expires": 1825032609.627802,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 360,
+          "valorLongitud": 12
+        },
+        {
+          "name": "VP",
+          "domain": ".contextweb.com",
+          "expires": 1825032609.627859,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 360,
+          "valorLongitud": 17
+        },
+        {
+          "name": "pb_rtb_ev",
+          "domain": ".contextweb.com",
+          "expires": 1825464609.627889,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 49
+        },
+        {
+          "name": "pb_rtb_ev_part",
+          "domain": ".contextweb.com",
+          "expires": 1825464609.62791,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 49
+        },
+        {
+          "name": "INGRESSCOOKIE",
+          "domain": "bh.contextweb.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "dev.visualwebsiteoptimizer.com",
+        "cdn.jsdelivr.net",
+        "officedepot.com.mx",
+        "apis.google.com",
+        "cdn.onesignal.com",
+        "artfut.com",
+        "googleoptimize.com",
+        "cdn.groupbycloud.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "chimpstatic.com",
+        "google-analytics.com",
+        "cdnssl.clicktale.net",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "acuityplatform.com",
+        "connect.facebook.net",
+        "cdn.quantummetric.com",
+        "s2.adform.net",
+        "graph.facebook.com",
+        "form-assets.mailchimp.com",
+        "onesignal.com",
+        "va.tawk.to",
+        "ingest.quantummetric.com",
+        "officedepotcr.os.tc",
+        "mpc2-prod-29-is5qnl632q-uc.a.run.app",
+        "facebook.com",
+        "pixel.mathtag.com",
+        "google.com",
+        "eventcollector.mcf-prod.a.intuit.com",
+        "pixel.tapad.com",
+        "x.bidswitch.net",
+        "sync.navdmp.com",
+        "cm.g.doubleclick.net",
+        "pixel.rubiconproject.com",
+        "ums.acuityplatform.com",
+        "match.adsrvr.org",
+        "bh.contextweb.com",
+        "img.os-content.com",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "google-analytics.com",
+        "8081986.fls.doubleclick.net",
+        "embed.tawk.to",
+        "a2.adform.net",
+        "connect.facebook.net",
+        "s2.adform.net",
+        "graph.facebook.com",
+        "onesignal.com",
+        "va.tawk.to",
+        "facebook.com",
+        "pixel.mathtag.com",
+        "pixel.tapad.com",
+        "x.bidswitch.net",
+        "cm.g.doubleclick.net",
+        "pixel.rubiconproject.com",
+        "match.adsrvr.org"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ttp@.tiktok.com",
+        "_tt_enable_cookie@.officedepot.co.cr",
+        "_ttp@.officedepot.co.cr",
+        "auid@.acuityplatform.com",
+        "_ga_ZX8ZMFYFP4@.officedepot.co.cr",
+        "_ga@.officedepot.co.cr",
+        "_gid@.officedepot.co.cr",
+        "_gat_UA-7216073-8@.officedepot.co.cr",
+        "test_cookie@.doubleclick.net",
+        "_fbp@.officedepot.co.cr",
+        "_ga_NXL84VXGW4@.officedepot.co.cr",
+        "C@.adform.net",
+        "uid@.adform.net",
+        "fr@.facebook.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 30,
+        "rastreadoresEnE0": 15
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "cookie-notification",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ROUTE",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "twk_idm_key",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_dc_gtm_UA-7216073-22",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "mcforms-200118034-sessionId",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ttcsid",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ttcsid_C9OLHSRC77U8C02R94R0",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cookie-notification",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ROUTE",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "mcforms-200118034-sessionId",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "twk_idm_key",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_dc_gtm_UA-7216073-22",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ttcsid",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ttcsid_C9OLHSRC77U8C02R94R0",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cookie-notification",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ROUTE",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "mcforms-200118034-sessionId",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "twk_idm_key",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_dc_gtm_UA-7216073-22",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ttcsid",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ttcsid_C9OLHSRC77U8C02R94R0",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cookie-notification",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ROUTE",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "mcforms-200118034-sessionId",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "twk_idm_key",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_dc_gtm_UA-7216073-22",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ttcsid",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ttcsid_C9OLHSRC77U8C02R94R0",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cookie-notification",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ROUTE",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "twk_idm_key",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_dc_gtm_UA-7216073-22",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "mcforms-200118034-sessionId",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ttcsid",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ttcsid_C9OLHSRC77U8C02R94R0",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "anonymous-consents",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cookie-notification",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ROUTE",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "mcforms-200118034-sessionId",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "twk_idm_key",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_dc_gtm_UA-7216073-22",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ttcsid",
+      "dominio": ".officedepot.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ttcsid_C9OLHSRC77U8C02R94R0",
+      "dominio": ".officedepot.co.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 30,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 33.5,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

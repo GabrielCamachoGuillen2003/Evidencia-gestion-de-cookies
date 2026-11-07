@@ -1,0 +1,1338 @@
+{
+  "sitio": "avenidaescazu.com",
+  "url": "https://www.avenidaescazu.com",
+  "auditadoEn": "2026-11-06T03:43:02.659Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.avenidaescazu.com",
+      "instante": "2026-11-06T03:41:01.153Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_9LE8FQ367B",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1828496462.975404,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1828496463.08653,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1794022863,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_gat_UA-150203760-4",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1793936523,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ssi",
+          "domain": ".sitescout.com",
+          "path": "/",
+          "expires": 1825472465.031927,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ssuma",
+          "domain": ".sitescout.com",
+          "path": "/",
+          "expires": 1796528465.032042,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 124
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793937365.413595,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120465.609389,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120465.609468,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_cc_dc",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817262479.535791,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_cc_id",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817262479.535849,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_cc_cc",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817264465.535873,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 162
+        },
+        {
+          "name": "_cc_aud",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817264465.535923,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 32
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120465.609506,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "cntr_attr"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "up.pixel.ad",
+        "pixel-sync.sitescout.com",
+        "pixel.sitescout.com",
+        "pixel.tapad.com",
+        "loadm.exelator.com",
+        "idsync.rlcdn.com",
+        "sync.crwdcntrl.net",
+        "cm.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "pixel.tapad.com",
+        "loadm.exelator.com",
+        "sync.crwdcntrl.net",
+        "cm.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.avenidaescazu.com",
+      "instante": "2026-11-06T03:41:17.236Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_9LE8FQ367B",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1828496478.850127,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1828496478.901884,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1794022878,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-150203760-4",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1793936538,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ssi",
+          "domain": ".sitescout.com",
+          "path": "/",
+          "expires": 1825472480.82827,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ssuma",
+          "domain": ".sitescout.com",
+          "path": "/",
+          "expires": 1796528480.828695,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 124
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793937381.086782,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120481.37096,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120481.371258,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_cc_cc",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120481.371442,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "cntr_attr"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "up.pixel.ad",
+        "pixel-sync.sitescout.com",
+        "pixel.sitescout.com",
+        "pixel.tapad.com",
+        "loadm.exelator.com",
+        "idsync.rlcdn.com",
+        "sync.crwdcntrl.net",
+        "cm.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "pixel.tapad.com",
+        "loadm.exelator.com",
+        "sync.crwdcntrl.net",
+        "cm.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.avenidaescazu.com",
+      "instante": "2026-11-06T03:41:35.776Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_9LE8FQ367B",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1828496497.560513,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1828496497.608793,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1794022897,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-150203760-4",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1793936557,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ssi",
+          "domain": ".sitescout.com",
+          "path": "/",
+          "expires": 1825472499.576119,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ssuma",
+          "domain": ".sitescout.com",
+          "path": "/",
+          "expires": 1796528499.576333,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 124
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793937399.814057,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120500.341961,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120500.342038,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_cc_dc",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817262479.965896,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_cc_id",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817262479.965944,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_cc_cc",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817264499.965967,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 162
+        },
+        {
+          "name": "_cc_aud",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817264499.966012,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 32
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120500.342073,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "cntr_attr"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "up.pixel.ad",
+        "pixel-sync.sitescout.com",
+        "pixel.sitescout.com",
+        "pixel.tapad.com",
+        "loadm.exelator.com",
+        "idsync.rlcdn.com",
+        "sync.crwdcntrl.net",
+        "cm.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "pixel.tapad.com",
+        "loadm.exelator.com",
+        "sync.crwdcntrl.net",
+        "cm.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.avenidaescazu.com",
+      "instante": "2026-11-06T03:41:56.789Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_9LE8FQ367B",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1828496518.458421,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1828496518.512472,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1794022918,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-150203760-4",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1793936578,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ssi",
+          "domain": ".sitescout.com",
+          "path": "/",
+          "expires": 1825472520.377249,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ssuma",
+          "domain": ".sitescout.com",
+          "path": "/",
+          "expires": 1796528520.377571,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 124
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793937420.616938,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120520.837379,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120520.837482,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_cc_cc",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120520.837517,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "cntr_attr"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "up.pixel.ad",
+        "pixel-sync.sitescout.com",
+        "pixel.sitescout.com",
+        "pixel.tapad.com",
+        "loadm.exelator.com",
+        "idsync.rlcdn.com",
+        "sync.crwdcntrl.net",
+        "cm.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "pixel.tapad.com",
+        "loadm.exelator.com",
+        "sync.crwdcntrl.net",
+        "cm.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.avenidaescazu.com",
+      "instante": "2026-11-06T03:42:14.971Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gid",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1794022951,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-150203760-4",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1793936596,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ssi",
+          "domain": ".sitescout.com",
+          "path": "/",
+          "expires": 1825472553.135127,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793937438.704801,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120538.923988,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120538.924298,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_cc_dc",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817262479.894973,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_cc_id",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817262479.895203,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 31
+        },
+        {
+          "name": "_cc_cc",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817264538.895318,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 164
+        },
+        {
+          "name": "_cc_aud",
+          "domain": ".crwdcntrl.net",
+          "path": "/",
+          "expires": 1817264538.895482,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 270,
+          "valorLongitud": 32
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799120538.924507,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_ga_9LE8FQ367B",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1828496551.329614,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".avenidaescazu.com",
+          "path": "/",
+          "expires": 1828496551.339994,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ssuma",
+          "domain": ".sitescout.com",
+          "path": "/",
+          "expires": 1796528552.946513,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 251
+        },
+        {
+          "name": "anProfile",
+          "domain": ".pro-market.net",
+          "path": "/",
+          "expires": 1809488553.201334,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 111
+        },
+        {
+          "name": "ljt_reader",
+          "domain": ".lijit.com",
+          "path": "/",
+          "expires": 1825472553.370762,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "i",
+          "domain": ".openx.net",
+          "path": "/",
+          "expires": 1825472553.30776,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 47
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801712553.441283,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801712553.441432,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "KRTBCOOKIE_188",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1801712553.400112,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 241
+        },
+        {
+          "name": "PugT",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1796528553.400329,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 10
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801712553.441369,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 140
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "cntr_attr"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "up.pixel.ad",
+        "pixel-sync.sitescout.com",
+        "pixel.sitescout.com",
+        "pixel.tapad.com",
+        "loadm.exelator.com",
+        "idsync.rlcdn.com",
+        "sync.crwdcntrl.net",
+        "cm.g.doubleclick.net",
+        "fei.pro-market.net",
+        "image2.pubmatic.com",
+        "us-u.openx.net",
+        "ib.adnxs.com",
+        "ce.lijit.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "pixel.tapad.com",
+        "loadm.exelator.com",
+        "sync.crwdcntrl.net",
+        "cm.g.doubleclick.net",
+        "image2.pubmatic.com",
+        "us-u.openx.net",
+        "ib.adnxs.com",
+        "ce.lijit.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.avenidaescazu.com",
+      "instante": "2026-11-06T03:42:40.523Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gid",
+          "domain": ".avenidaescazu.com",
+          "expires": 1794022975,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-150203760-4",
+          "domain": ".avenidaescazu.com",
+          "expires": 1793936622,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ssi",
+          "domain": ".sitescout.com",
+          "expires": 1825472577.788005,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "expires": 1793937464.537503,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_cc_cc",
+          "domain": ".crwdcntrl.net",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "expires": 1799120564.761649,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "expires": 1799120564.761945,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "expires": 1799120564.762153,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_ga_9LE8FQ367B",
+          "domain": ".avenidaescazu.com",
+          "expires": 1828496576.025787,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".avenidaescazu.com",
+          "expires": 1828496576.027109,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ssuma",
+          "domain": ".sitescout.com",
+          "expires": 1796528577.643429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 251
+        },
+        {
+          "name": "anProfile",
+          "domain": ".pro-market.net",
+          "expires": 1809488577.899053,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 112
+        },
+        {
+          "name": "ljt_reader",
+          "domain": ".lijit.com",
+          "expires": 1825472577.990244,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "i",
+          "domain": ".openx.net",
+          "expires": 1825472577.913364,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 47
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "expires": 1801712578.10611,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "expires": 1801712578.106227,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "KRTBCOOKIE_188",
+          "domain": ".pubmatic.com",
+          "expires": 1801712578.01857,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 241
+        },
+        {
+          "name": "PugT",
+          "domain": ".pubmatic.com",
+          "expires": 1796528578.018632,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 10
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "expires": 1801712578.106194,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 135
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "up.pixel.ad",
+        "pixel-sync.sitescout.com",
+        "pixel.sitescout.com",
+        "fei.pro-market.net",
+        "image2.pubmatic.com",
+        "us-u.openx.net",
+        "ib.adnxs.com",
+        "ce.lijit.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "image2.pubmatic.com",
+        "us-u.openx.net",
+        "ib.adnxs.com",
+        "ce.lijit.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_9LE8FQ367B@.avenidaescazu.com",
+        "_ga@.avenidaescazu.com",
+        "_gid@.avenidaescazu.com",
+        "_gat_UA-150203760-4@.avenidaescazu.com",
+        "ssi@.sitescout.com",
+        "_ssuma@.sitescout.com",
+        "test_cookie@.doubleclick.net",
+        "TapAd_TS@.tapad.com",
+        "TapAd_DID@.tapad.com",
+        "_cc_dc@.crwdcntrl.net",
+        "_cc_id@.crwdcntrl.net",
+        "_cc_cc@.crwdcntrl.net",
+        "_cc_aud@.crwdcntrl.net",
+        "TapAd_3WAY_SYNCS@.tapad.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 14,
+        "rastreadoresEnE0": 6
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 11,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

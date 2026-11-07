@@ -1,0 +1,1078 @@
+{
+  "sitio": "uia.ac.cr",
+  "url": "https://uia.ac.cr",
+  "auditadoEn": "2026-11-05T07:52:01.824Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://uia.ac.cr",
+      "instante": "2026-11-05T07:49:51.574Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "crmcsr",
+          "domain": "crm.zoho.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "gclid",
+          "domain": "uia.ac.cr",
+          "path": "/",
+          "expires": 1796456992,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 9
+        },
+        {
+          "name": "_ga_CKFQVCG90D",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828424992.954193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1801640993,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_gid",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1793951393,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-93467160-3",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1793865053,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_R5XVB5PR3T",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828424993.424018,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828424993.425043,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_TMF1YGDHFL",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828424993.432183,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801640993.503667,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "script.crazyegg.com",
+        "maxcdn.bootstrapcdn.com",
+        "stackpath.bootstrapcdn.com",
+        "googletagmanager.com",
+        "code.jquery.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "crm.zoho.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "script.crazyegg.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://uia.ac.cr",
+      "instante": "2026-11-05T07:50:08.047Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "crmcsr",
+          "domain": "crm.zoho.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga_CKFQVCG90D",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425009.151326,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "gclid",
+          "domain": "uia.ac.cr",
+          "path": "/",
+          "expires": 1796457009,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 9
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1801641009,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_gid",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1793951409,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-93467160-3",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1793865069,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641009.519593,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_R5XVB5PR3T",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425009.703998,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425009.704738,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_TMF1YGDHFL",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425009.712572,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "script.crazyegg.com",
+        "maxcdn.bootstrapcdn.com",
+        "stackpath.bootstrapcdn.com",
+        "googletagmanager.com",
+        "code.jquery.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "crm.zoho.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "script.crazyegg.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://uia.ac.cr",
+      "instante": "2026-11-05T07:50:28.294Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "crmcsr",
+          "domain": "crm.zoho.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga_CKFQVCG90D",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425029.325741,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "gclid",
+          "domain": "uia.ac.cr",
+          "path": "/",
+          "expires": 1796457029,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 9
+        },
+        {
+          "name": "_gid",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1793951429,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-93467160-3",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1793865089,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1801641029,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga_R5XVB5PR3T",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425029.755445,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425029.756239,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_TMF1YGDHFL",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425029.763168,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641029.895164,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "script.crazyegg.com",
+        "maxcdn.bootstrapcdn.com",
+        "stackpath.bootstrapcdn.com",
+        "googletagmanager.com",
+        "code.jquery.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "crm.zoho.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "script.crazyegg.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://uia.ac.cr",
+      "instante": "2026-11-05T07:50:51.979Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "crmcsr",
+          "domain": "crm.zoho.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga_CKFQVCG90D",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425053.100711,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "gclid",
+          "domain": "uia.ac.cr",
+          "path": "/",
+          "expires": 1796457053,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 9
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1801641053,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_gid",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1793951453,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-93467160-3",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1793865113,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641053.48025,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_R5XVB5PR3T",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425053.590165,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425053.590878,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_TMF1YGDHFL",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425053.598371,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "script.crazyegg.com",
+        "maxcdn.bootstrapcdn.com",
+        "stackpath.bootstrapcdn.com",
+        "googletagmanager.com",
+        "code.jquery.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "crm.zoho.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "script.crazyegg.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://uia.ac.cr",
+      "instante": "2026-11-05T07:51:11.847Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "crmcsr",
+          "domain": "crm.zoho.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "gclid",
+          "domain": "uia.ac.cr",
+          "path": "/",
+          "expires": 1796457087,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 9
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1801641088,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_gid",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1793951488,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-93467160-3",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1793865133,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641073.349897,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_CKFQVCG90D",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425088.142877,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_R5XVB5PR3T",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425088.1594,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_TMF1YGDHFL",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425088.162639,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".uia.ac.cr",
+          "path": "/",
+          "expires": 1828425088.175821,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "script.crazyegg.com",
+        "maxcdn.bootstrapcdn.com",
+        "stackpath.bootstrapcdn.com",
+        "googletagmanager.com",
+        "code.jquery.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "crm.zoho.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "script.crazyegg.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://uia.ac.cr",
+      "instante": "2026-11-05T07:51:37.103Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "crmcsr",
+          "domain": "crm.zoho.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "gclid",
+          "domain": "uia.ac.cr",
+          "expires": 1796457114,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 9
+        },
+        {
+          "name": "_fbp",
+          "domain": ".uia.ac.cr",
+          "expires": 1801641115,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801641098.7135,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_gid",
+          "domain": ".uia.ac.cr",
+          "expires": 1793951515,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-93467160-3",
+          "domain": ".uia.ac.cr",
+          "expires": 1793865158,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_CKFQVCG90D",
+          "domain": ".uia.ac.cr",
+          "expires": 1828425115.001509,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_R5XVB5PR3T",
+          "domain": ".uia.ac.cr",
+          "expires": 1828425115.020195,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_TMF1YGDHFL",
+          "domain": ".uia.ac.cr",
+          "expires": 1828425115.02382,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".uia.ac.cr",
+          "expires": 1828425115.0373,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "script.crazyegg.com",
+        "maxcdn.bootstrapcdn.com",
+        "stackpath.bootstrapcdn.com",
+        "googletagmanager.com",
+        "code.jquery.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "crm.zoho.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "script.crazyegg.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "crmcsr@crm.zoho.com",
+        "_ga_CKFQVCG90D@.uia.ac.cr",
+        "_fbp@.uia.ac.cr",
+        "_gid@.uia.ac.cr",
+        "_gat_UA-93467160-3@.uia.ac.cr",
+        "_ga_R5XVB5PR3T@.uia.ac.cr",
+        "_ga@.uia.ac.cr",
+        "_ga_TMF1YGDHFL@.uia.ac.cr",
+        "fr@.facebook.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 10,
+        "rastreadoresEnE0": 6
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "gclid",
+      "dominio": "uia.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "gclid",
+      "dominio": "uia.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "gclid",
+      "dominio": "uia.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "gclid",
+      "dominio": "uia.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "gclid",
+      "dominio": "uia.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "gclid",
+      "dominio": "uia.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 10,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 10,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.874Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

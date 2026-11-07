@@ -1,0 +1,1877 @@
+{
+  "sitio": "larepublica.net",
+  "url": "https://www.larepublica.net",
+  "auditadoEn": "2026-11-04T22:08:01.468Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.larepublica.net",
+      "instante": "2026-11-04T22:05:14.689Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1801605916,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_6B43DNPZZ2",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1828389916.247536,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1828389916.513639,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1793916316,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-2823537-1",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1793829976,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__gads",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1827525912,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1827525912,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1809381912,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828389917.29962,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "CMPS",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801605917.724707,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "DSID",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793833517.933777,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 7
+        },
+        {
+          "name": "CMID",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1825365918.001457,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "CMPRO",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801605918.001736,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801605918.019682,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801605918.020016,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 110
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801605918.020117,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "rmFont-https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+          "rmEx-script[src=\"https://www.rebelmouse.com/pharos/client/v1/mjs/web.mjs\"]",
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.gstatic.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "assets.rebelmouse.io",
+        "rebelmouse.com",
+        "assets.rbl.ms",
+        "pages-stats.rbl.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "cm.g.doubleclick.net",
+        "acfb766ddbeab2898cc831db6dde24c2.safeframe.googlesyndication.com",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "ep1.adtrafficquality.google",
+        "cdn.ampproject.org",
+        "tpc.googlesyndication.com",
+        "ep2.adtrafficquality.google",
+        "googleads.g.doubleclick.net",
+        "pagead2.googlesyndication.com",
+        "googleads4.g.doubleclick.net",
+        "s0.2mdn.net",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "acfb766ddbeab2898cc831db6dde24c2.safeframe.googlesyndication.com",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "tpc.googlesyndication.com",
+        "googleads.g.doubleclick.net",
+        "pagead2.googlesyndication.com",
+        "googleads4.g.doubleclick.net",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.larepublica.net",
+      "instante": "2026-11-04T22:05:35.988Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1801605937,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_6B43DNPZZ2",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1828389937.075429,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1828389937.374845,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1793916337,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-2823537-1",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1793829997,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__gads",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1827525933,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1827525933,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1809381933,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828389938.290419,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "DSID",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793833538.776788,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 7
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "rmFont-https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+          "rmEx-script[src=\"https://www.rebelmouse.com/pharos/client/v1/mjs/web.mjs\"]",
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.gstatic.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "assets.rebelmouse.io",
+        "rebelmouse.com",
+        "assets.rbl.ms",
+        "pages-stats.rbl.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "4d01d703c93b1c1f73a52bb3a6090b9a.safeframe.googlesyndication.com",
+        "ep1.adtrafficquality.google",
+        "cdn.ampproject.org",
+        "tpc.googlesyndication.com",
+        "ep2.adtrafficquality.google",
+        "googleads.g.doubleclick.net",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "4d01d703c93b1c1f73a52bb3a6090b9a.safeframe.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "googleads.g.doubleclick.net",
+        "pagead2.googlesyndication.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.larepublica.net",
+      "instante": "2026-11-04T22:06:03.115Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1801605964,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_6B43DNPZZ2",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1828389964.336135,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1828389964.646365,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1793916364,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-2823537-1",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1793830024,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__gads",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1827525961,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1827525961,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1809381961,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828389965.944536,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "rmFont-https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+          "rmEx-script[src=\"https://www.rebelmouse.com/pharos/client/v1/mjs/web.mjs\"]",
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.gstatic.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "assets.rebelmouse.io",
+        "rebelmouse.com",
+        "assets.rbl.ms",
+        "pages-stats.rbl.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "0a5a1af136bc83b4195472969c3eddc7.safeframe.googlesyndication.com",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "pagead2.googlesyndication.com",
+        "cdn.ampproject.org",
+        "fonts.googleapis.com",
+        "tpc.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "0a5a1af136bc83b4195472969c3eddc7.safeframe.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "tpc.googlesyndication.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.larepublica.net",
+      "instante": "2026-11-04T22:06:36.150Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1801605997,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_6B43DNPZZ2",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1828389997.332535,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1828389997.608069,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1793916397,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-2823537-1",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1793830057,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__gads",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1827525994,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1827525994,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1809381994,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828389998.29019,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "DSID",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793833599.458874,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 7
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "rmFont-https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+          "rmEx-script[src=\"https://www.rebelmouse.com/pharos/client/v1/mjs/web.mjs\"]",
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.gstatic.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "assets.rebelmouse.io",
+        "rebelmouse.com",
+        "assets.rbl.ms",
+        "pages-stats.rbl.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "af8c14267dd7963022165ad279fd59ca.safeframe.googlesyndication.com",
+        "ep1.adtrafficquality.google",
+        "pagead2.googlesyndication.com",
+        "cdn.ampproject.org",
+        "tpc.googlesyndication.com",
+        "ep2.adtrafficquality.google",
+        "googleads.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "af8c14267dd7963022165ad279fd59ca.safeframe.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.larepublica.net",
+      "instante": "2026-11-04T22:07:02.440Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1801606024,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_gid",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1793916443,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-2823537-1",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1793830083,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__gads",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1827526020,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1827526020,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1809382020,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828390025.015788,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "DSID",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793833626.077967,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 7
+        },
+        {
+          "name": "_ga_6B43DNPZZ2",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1828390043.397384,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".larepublica.net",
+          "path": "/",
+          "expires": 1828390043.403333,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "APC",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1809382045.076844,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 54
+        },
+        {
+          "name": "CMID",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1825366045.844103,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "CMPS",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801606045.116016,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "CMPRO",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801606045.844174,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801606045.310229,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801606045.310362,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 110
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801606045.310385,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "mc",
+          "domain": ".quantserve.com",
+          "path": "/",
+          "expires": 1827958045.441768,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 26
+        },
+        {
+          "name": "flashtalkingad1",
+          "domain": ".flashtalking.com",
+          "path": "/",
+          "expires": 1827994045.52186,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 21
+        },
+        {
+          "name": "sp",
+          "domain": ".quantserve.com",
+          "path": "/",
+          "expires": 1801606045.530441,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 16
+        },
+        {
+          "name": "V",
+          "domain": ".contextweb.com",
+          "path": "/",
+          "expires": 1824934045.545898,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 360,
+          "valorLongitud": 12
+        },
+        {
+          "name": "VP",
+          "domain": ".contextweb.com",
+          "path": "/",
+          "expires": 1824934045.545956,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 360,
+          "valorLongitud": 17
+        },
+        {
+          "name": "pb_rtb_ev",
+          "domain": ".contextweb.com",
+          "path": "/",
+          "expires": 1825366045.545989,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 40
+        },
+        {
+          "name": "pb_rtb_ev_part",
+          "domain": ".contextweb.com",
+          "path": "/",
+          "expires": 1825366045.54601,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 40
+        },
+        {
+          "name": "INGRESSCOOKIE",
+          "domain": "bh.contextweb.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "uid",
+          "domain": ".theagenticx.ai",
+          "path": "/",
+          "expires": 1796422045.575581,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "OAU",
+          "domain": ".rtbscale.com",
+          "path": "/",
+          "expires": 1825366045.577498,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 35
+        },
+        {
+          "name": "obuid",
+          "domain": ".outbrain.com",
+          "path": "/",
+          "expires": 1801606045.701769,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_D9J",
+          "domain": ".flashtalking.com",
+          "path": "/",
+          "expires": 1825366046.567395,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "rmFont-https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0",
+          "rmEx-script[src=\"https://www.rebelmouse.com/pharos/client/v1/mjs/web.mjs\"]",
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.gstatic.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "assets.rebelmouse.io",
+        "rebelmouse.com",
+        "assets.rbl.ms",
+        "pages-stats.rbl.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "5046875cf0a6474ad9fcb201c182e33d.safeframe.googlesyndication.com",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "pagead2.googlesyndication.com",
+        "cdn.ampproject.org",
+        "tpc.googlesyndication.com",
+        "fonts.googleapis.com",
+        "googleads.g.doubleclick.net",
+        "fdc7d9860d3d9bcad08467db210be2ca.safeframe.googlesyndication.com",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com",
+        "servedby.flashtalking.com",
+        "cms.quantserve.com",
+        "b1sync.outbrain.com",
+        "bh.contextweb.com",
+        "gtrace.mediago.io",
+        "gpm.servicesadmedia.com",
+        "t.rtbscale.com",
+        "sync.theagenticx.ai",
+        "ajs-assets.ftstatic.com",
+        "agen-assets.ftstatic.com",
+        "d9.flashtalking.com",
+        "js.ad-score.com",
+        "cdn.flashtalking.com",
+        "data.ad-score.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "5046875cf0a6474ad9fcb201c182e33d.safeframe.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "googleads.g.doubleclick.net",
+        "fdc7d9860d3d9bcad08467db210be2ca.safeframe.googlesyndication.com",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com",
+        "cms.quantserve.com",
+        "b1sync.outbrain.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.larepublica.net",
+      "instante": "2026-11-04T22:07:32.370Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".larepublica.net",
+          "expires": 1801606054,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_gid",
+          "domain": ".larepublica.net",
+          "expires": 1793916474,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-2823537-1",
+          "domain": ".larepublica.net",
+          "expires": 1793830113,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__gads",
+          "domain": ".larepublica.net",
+          "expires": 1827526050,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".larepublica.net",
+          "expires": 1827526050,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".larepublica.net",
+          "expires": 1809382050,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828390054.383924,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "DSID",
+          "domain": ".doubleclick.net",
+          "expires": 1793833655.320044,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 7
+        },
+        {
+          "name": "_ga_6B43DNPZZ2",
+          "domain": ".larepublica.net",
+          "expires": 1828390074.615175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".larepublica.net",
+          "expires": 1828390074.620173,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "APC",
+          "domain": ".doubleclick.net",
+          "expires": 1809382075.550626,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 54
+        },
+        {
+          "name": "CMPS",
+          "domain": ".casalemedia.com",
+          "expires": 1801606075.62736,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "tt_viewer",
+          "domain": ".teads.tv",
+          "expires": 1825279675.639401,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 364,
+          "valorLongitud": 36
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "expires": 1801606075.836577,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "expires": 1801606075.836719,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "CMID",
+          "domain": ".casalemedia.com",
+          "expires": 1825366076.013839,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "CMPRO",
+          "domain": ".casalemedia.com",
+          "expires": 1801606076.013918,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "i",
+          "domain": ".openx.net",
+          "expires": 1825366075.80042,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 47
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "expires": 1801606075.836689,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 110
+        },
+        {
+          "name": "UID",
+          "domain": "beacon.lynx.cognitivlabs.com",
+          "expires": 1825366076.052897,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "obuid",
+          "domain": ".outbrain.com",
+          "expires": 1801606076.088594,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "BSXUID",
+          "domain": ".bluevoox.com",
+          "expires": 1801606075.995448,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 16
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "expires": 1796422076.021094,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "uuid",
+          "domain": ".mathtag.com",
+          "expires": 1827785276.077104,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 393,
+          "valorLongitud": 36
+        },
+        {
+          "name": "mt_mop",
+          "domain": ".mathtag.com",
+          "expires": 1796422076.077149,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 12
+        },
+        {
+          "name": "tuuid",
+          "domain": ".mfadsrvr.com",
+          "expires": 1825366076.53889,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "c",
+          "domain": ".mfadsrvr.com",
+          "expires": 1825366076.088817,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "suid",
+          "domain": ".simpli.fi",
+          "expires": 1825452476.090119,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 366,
+          "valorLongitud": 32
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "expires": 1799014076.119016,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "tuuid",
+          "domain": ".360yield.com",
+          "expires": 1801606076.122101,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tuuid_lu",
+          "domain": ".360yield.com",
+          "expires": 1801606076.122152,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 10
+        },
+        {
+          "name": "flashtalkingad1",
+          "domain": ".flashtalking.com",
+          "expires": 1827994076.124662,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 21
+        },
+        {
+          "name": "viewer_token",
+          "domain": ".csync.loopme.me",
+          "expires": 1801606076.229278,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "g",
+          "domain": ".creativecdn.com",
+          "expires": 1825366076.284519,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 34
+        },
+        {
+          "name": "ts",
+          "domain": ".creativecdn.com",
+          "expires": 1825366076.284579,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "expires": 1799014076.581952,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "expires": 1799014076.582068,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tuuid_lu",
+          "domain": ".mfadsrvr.com",
+          "expires": 1825366076.539,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "ssh",
+          "domain": ".mfadsrvr.com",
+          "expires": 1825366076.539056,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 18
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "expires": 1799014076.582107,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "ss",
+          "domain": "beacon.lynx.cognitivlabs.com",
+          "expires": 1825366076.660062,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 132
+        },
+        {
+          "name": "_D9J",
+          "domain": ".flashtalking.com",
+          "expires": 1825366076.870556,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.gstatic.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "assets.rebelmouse.io",
+        "rebelmouse.com",
+        "assets.rbl.ms",
+        "pages-stats.rbl.ms",
+        "cm.g.doubleclick.net",
+        "70d9822570f60f495929bb85ef129a24.safeframe.googlesyndication.com",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "google.com",
+        "analytics.google.com",
+        "ep1.adtrafficquality.google",
+        "cdn.ampproject.org",
+        "tpc.googlesyndication.com",
+        "ep2.adtrafficquality.google",
+        "googleads.g.doubleclick.net",
+        "pagead2.googlesyndication.com",
+        "us-u.openx.net",
+        "sync.teads.tv",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com",
+        "servedby.flashtalking.com",
+        "sync-tm.everesttech.net",
+        "c1.adform.net",
+        "b1sync.outbrain.com",
+        "onetag-sys.com",
+        "match.360yield.com",
+        "rtb.mfadsrvr.com",
+        "beacon.lynx.cognitivlabs.com",
+        "um.simpli.fi",
+        "creativecdn.com",
+        "csync.loopme.me",
+        "sync.mathtag.com",
+        "gpm.servicesadmedia.com",
+        "cm.bluevoox.com",
+        "ajs-assets.ftstatic.com",
+        "pixel.tapad.com",
+        "agen-assets.ftstatic.com",
+        "d9.flashtalking.com",
+        "js.ad-score.com",
+        "cdn.flashtalking.com",
+        "data.ad-score.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "securepubads.g.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "70d9822570f60f495929bb85ef129a24.safeframe.googlesyndication.com",
+        "google-analytics.com",
+        "script.crazyegg.com",
+        "tpc.googlesyndication.com",
+        "googleads.g.doubleclick.net",
+        "pagead2.googlesyndication.com",
+        "us-u.openx.net",
+        "sync.teads.tv",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com",
+        "sync-tm.everesttech.net",
+        "c1.adform.net",
+        "b1sync.outbrain.com",
+        "onetag-sys.com",
+        "sync.mathtag.com",
+        "pixel.tapad.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_6B43DNPZZ2@.larepublica.net",
+        "_ga@.larepublica.net",
+        "_gid@.larepublica.net",
+        "_gat_UA-2823537-1@.larepublica.net",
+        "IDE@.doubleclick.net",
+        "CMPS@.casalemedia.com",
+        "DSID@.doubleclick.net",
+        "CMID@.casalemedia.com",
+        "CMPRO@.casalemedia.com",
+        "XANDR_PANID@.adnxs.com",
+        "anj@.adnxs.com",
+        "uuid2@.adnxs.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 16,
+        "rastreadoresEnE0": 14
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__gads",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__gpi",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__eoi",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gads",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gpi",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__eoi",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__gads",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__gpi",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__eoi",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__gads",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__gpi",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__eoi",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__gads",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__gpi",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__eoi",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__gads",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__gpi",
+      "dominio": ".larepublica.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__eoi",
+      "dominio": ".larepublica.net"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 10,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 20.7,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

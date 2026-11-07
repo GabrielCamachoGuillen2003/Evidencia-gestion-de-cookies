@@ -1,0 +1,2167 @@
+{
+  "sitio": "procomer.com",
+  "url": "https://www.procomer.com",
+  "auditadoEn": "2026-11-04T23:57:17.336Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.procomer.com",
+      "instante": "2026-11-04T23:54:44.872Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 631,
+          "w": 1366,
+          "h": 137
+        },
+        "cubrePantalla": false,
+        "texto": "Podemos utilizar cookies para el análisis de los datos de nuestros visitantes, para mejorar nuestro sitio web, mostrar contenido personalizado y brindarle una excelente experiencia en el sitio web. Para obtener más información sobre las cookies que utilizamos, abre los ajustes.\n\nAceptar\nRechazar"
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1064
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825372487.17842,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1793838287.178544,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.procomer.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1828396487.388026,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 22
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388487.616894,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388487.617026,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388487.617078,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388487.617116,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "player",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825372487,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "_ga_JKR8WWHTRJ",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1828396487.982733,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1828396487.983146,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801612488.805681,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825372488.805769,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793922888.260172,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793838288.260215,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1793838288.567578,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796428488.440671,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796428488.440701,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "_fbp",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1801612488,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825372488.683543,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801612488.938254,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.tailwindcss.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "player.vimeo.com",
+        "f.vimeocdn.com",
+        "youtube.com",
+        "vimeo.com",
+        "snap.licdn.com",
+        "p.teads.tv",
+        "connect.facebook.net",
+        "i.vimeocdn.com",
+        "vod-adaptive-ak.vimeocdn.com",
+        "arclight.vimeo.com",
+        "cm.teads.tv",
+        "px.ads.linkedin.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "t.teads.tv",
+        "linkedin.com",
+        "mpc-prod-24-s6uit34pua-uw.a.run.app",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "snap.licdn.com",
+        "p.teads.tv",
+        "connect.facebook.net",
+        "cm.teads.tv",
+        "px.ads.linkedin.com",
+        "stats.g.doubleclick.net",
+        "t.teads.tv",
+        "linkedin.com",
+        "facebook.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.procomer.com",
+      "instante": "2026-11-04T23:55:02.659Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "pulsado «aceptar»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 631,
+          "w": 1366,
+          "h": 137
+        },
+        "cubrePantalla": false,
+        "texto": "Podemos utilizar cookies para el análisis de los datos de nuestros visitantes, para mejorar nuestro sitio web, mostrar contenido personalizado y brindarle una excelente experiencia en el sitio web. Para obtener más información sobre las cookies que utilizamos, abre los ajustes.\n\nAceptar\nRechazar"
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1036
+        },
+        {
+          "name": "_dd_s",
+          "domain": "player.vimeo.com",
+          "path": "/",
+          "expires": 1793837404,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825372504.603446,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1793838304.603577,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1828396504.801648,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 22
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.procomer.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "player",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825372505,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388505.382911,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388505.383067,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388505.383104,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388505.383144,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801612506.180954,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825372506.181034,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793922905.622829,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793838305.622852,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796428505.771139,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796428505.771182,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "_ga",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1828396505.865247,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1793838321.520525,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825372506.055731,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "_fbp",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1801612520,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801612506.491963,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "moove_gdpr_popup",
+          "domain": "www.procomer.com",
+          "path": "/",
+          "expires": 1825372520,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 143
+        },
+        {
+          "name": "_ga_JKR8WWHTRJ",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1828396521.516534,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.tailwindcss.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "player.vimeo.com",
+        "f.vimeocdn.com",
+        "vimeo.com",
+        "i.vimeocdn.com",
+        "vod-adaptive-ak.vimeocdn.com",
+        "arclight.vimeo.com",
+        "youtube.com",
+        "snap.licdn.com",
+        "p.teads.tv",
+        "connect.facebook.net",
+        "px.ads.linkedin.com",
+        "cm.teads.tv",
+        "linkedin.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "t.teads.tv",
+        "mpc-prod-24-s6uit34pua-uw.a.run.app",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "snap.licdn.com",
+        "p.teads.tv",
+        "connect.facebook.net",
+        "px.ads.linkedin.com",
+        "cm.teads.tv",
+        "linkedin.com",
+        "stats.g.doubleclick.net",
+        "t.teads.tv",
+        "facebook.com"
+      ],
+      "controlUsado": "aceptar",
+      "interaccionLograda": true
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.procomer.com",
+      "instante": "2026-11-04T23:55:26.806Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "pulsado «rechazar»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 631,
+          "w": 1366,
+          "h": 137
+        },
+        "cubrePantalla": false,
+        "texto": "Podemos utilizar cookies para el análisis de los datos de nuestros visitantes, para mejorar nuestro sitio web, mostrar contenido personalizado y brindarle una excelente experiencia en el sitio web. Para obtener más información sobre las cookies que utilizamos, abre los ajustes.\n\nAceptar\nRechazar"
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1060
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825372528.683847,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1793838328.684044,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1828396529.017097,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 23
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.procomer.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "player",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825372529,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388529.606739,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388529.60684,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388529.606882,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388529.606913,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801612530.744005,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825372530.744114,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793922930.050478,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793838330.050514,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1828396530.103984,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796428530.285286,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796428530.285309,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1793838347.540973,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_fbp",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1801612546,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801612530.576664,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825372530.580058,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "moove_gdpr_popup",
+          "domain": "www.procomer.com",
+          "path": "/",
+          "expires": 1825372547,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 143
+        },
+        {
+          "name": "_ga_JKR8WWHTRJ",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1828396547.536289,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.tailwindcss.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "player.vimeo.com",
+        "f.vimeocdn.com",
+        "vimeo.com",
+        "i.vimeocdn.com",
+        "vod-adaptive-ak.vimeocdn.com",
+        "arclight.vimeo.com",
+        "youtube.com",
+        "snap.licdn.com",
+        "p.teads.tv",
+        "connect.facebook.net",
+        "px.ads.linkedin.com",
+        "cm.teads.tv",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "linkedin.com",
+        "t.teads.tv",
+        "mpc-prod-24-s6uit34pua-uw.a.run.app",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "snap.licdn.com",
+        "p.teads.tv",
+        "connect.facebook.net",
+        "px.ads.linkedin.com",
+        "cm.teads.tv",
+        "stats.g.doubleclick.net",
+        "linkedin.com",
+        "t.teads.tv",
+        "facebook.com"
+      ],
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "rechazar",
+      "interaccionLograda": true
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.procomer.com",
+      "instante": "2026-11-04T23:55:52.710Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "panel abierto; 0 casillas, 0 premarcadas",
+        "guardado con «guardar cambios»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 631,
+          "w": 1366,
+          "h": 137
+        },
+        "cubrePantalla": false,
+        "texto": "Podemos utilizar cookies para el análisis de los datos de nuestros visitantes, para mejorar nuestro sitio web, mostrar contenido personalizado y brindarle una excelente experiencia en el sitio web. Para obtener más información sobre las cookies que utilizamos, abre los ajustes.\n\nAceptar\nRechazar"
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1049
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825372554.596325,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1793838354.596454,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.procomer.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1828396555.046348,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 21
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388555.249879,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388555.250005,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388555.250048,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388555.250089,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "player",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825372555,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801612556.356453,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825372556.356527,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793922955.694906,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793838355.694934,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1828396555.762918,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796428555.947536,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796428555.947567,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1793838375.325191,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825372556.189494,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "_fbp",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1801612574,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801612556.704971,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "moove_gdpr_popup",
+          "domain": "www.procomer.com",
+          "path": "/",
+          "expires": 1825372574,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 143
+        },
+        {
+          "name": "_ga_JKR8WWHTRJ",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1828396575.320863,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.tailwindcss.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "player.vimeo.com",
+        "f.vimeocdn.com",
+        "youtube.com",
+        "vimeo.com",
+        "i.vimeocdn.com",
+        "vod-adaptive-ak.vimeocdn.com",
+        "arclight.vimeo.com",
+        "snap.licdn.com",
+        "p.teads.tv",
+        "connect.facebook.net",
+        "px.ads.linkedin.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "cm.teads.tv",
+        "linkedin.com",
+        "t.teads.tv",
+        "mpc-prod-24-s6uit34pua-uw.a.run.app",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "snap.licdn.com",
+        "p.teads.tv",
+        "connect.facebook.net",
+        "px.ads.linkedin.com",
+        "stats.g.doubleclick.net",
+        "cm.teads.tv",
+        "linkedin.com",
+        "t.teads.tv",
+        "facebook.com"
+      ],
+      "casillas": [],
+      "premarcadas": 0,
+      "interaccionLograda": true
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.procomer.com",
+      "instante": "2026-11-04T23:56:20.449Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 631,
+          "w": 1366,
+          "h": 137
+        },
+        "cubrePantalla": false,
+        "texto": "Podemos utilizar cookies para el análisis de los datos de nuestros visitantes, para mejorar nuestro sitio web, mostrar contenido personalizado y brindarle una excelente experiencia en el sitio web. Para obtener más información sobre las cookies que utilizamos, abre los ajustes.\n\nAceptar\nRechazar"
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1039
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.procomer.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825372582.602766,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1793838382.602895,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1828396582.842302,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388582.963099,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388582.963241,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388582.963279,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809388582.963315,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "player",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825372583,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "_ga",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1828396599.081568,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801612599.264154,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825372599.264223,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793922982.419184,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793838383.41921,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796428583.695207,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796428583.695229,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1793838399.258585,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_fbp",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1801612599,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825372583.941508,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801612584.120843,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_JKR8WWHTRJ",
+          "domain": ".procomer.com",
+          "path": "/",
+          "expires": 1828396599.081304,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.tailwindcss.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "player.vimeo.com",
+        "f.vimeocdn.com",
+        "youtube.com",
+        "snap.licdn.com",
+        "p.teads.tv",
+        "connect.facebook.net",
+        "vimeo.com",
+        "i.vimeocdn.com",
+        "vod-adaptive-ak.vimeocdn.com",
+        "arclight.vimeo.com",
+        "px.ads.linkedin.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "cm.teads.tv",
+        "linkedin.com",
+        "t.teads.tv",
+        "mpc-prod-24-s6uit34pua-uw.a.run.app",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "snap.licdn.com",
+        "p.teads.tv",
+        "connect.facebook.net",
+        "px.ads.linkedin.com",
+        "stats.g.doubleclick.net",
+        "cm.teads.tv",
+        "linkedin.com",
+        "t.teads.tv",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.procomer.com",
+      "instante": "2026-11-04T23:56:48.244Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — pulsado «rechazar»",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1052
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "expires": 1825372610.09635,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "expires": 1793838410.096474,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "expires": 1801612612.347445,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "expires": 1825372612.347556,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "expires": 1793923010.842255,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "expires": 1793838410.842281,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".procomer.com",
+          "expires": 1793838425.067106,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "expires": 1796428611.106435,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "expires": 1796428611.106458,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "_ga",
+          "domain": ".procomer.com",
+          "expires": 1828396611.136775,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "expires": 1825372612.220749,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.procomer.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "expires": 1828396612.830696,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 22
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809388612.860752,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809388612.860887,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809388612.860933,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809388612.860966,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "player",
+          "domain": ".vimeo.com",
+          "expires": 1825372613,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "_fbp",
+          "domain": ".procomer.com",
+          "expires": 1801612624,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801612614.18044,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "moove_gdpr_popup",
+          "domain": "www.procomer.com",
+          "expires": 1825372624,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 143
+        },
+        {
+          "name": "_ga_JKR8WWHTRJ",
+          "domain": ".procomer.com",
+          "expires": 1828396625.06326,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "static.cloudflareinsights.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ],
+      "bannerReaparece": false,
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "rechazar",
+      "interaccionLograda": true
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "__cf_ob@player.vimeo.com",
+        "vuid@.vimeo.com",
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "player@.vimeo.com",
+        "_ga_JKR8WWHTRJ@.procomer.com",
+        "_ga@.procomer.com",
+        "li_sugr@.linkedin.com",
+        "bcookie@.linkedin.com",
+        "lidc@.linkedin.com",
+        "UserMatchHistory@.linkedin.com",
+        "AnalyticsSyncHistory@.linkedin.com",
+        "_fbp@.procomer.com",
+        "bscookie@.www.linkedin.com",
+        "fr@.facebook.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V2",
+      "gravedad": "Crítica",
+      "nombre": "Cookies pese al rechazo explícito",
+      "evidencia": [
+        "__cf_ob@player.vimeo.com",
+        "vuid@.vimeo.com",
+        "player@.vimeo.com",
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "li_sugr@.linkedin.com",
+        "bcookie@.linkedin.com",
+        "lidc@.linkedin.com",
+        "_ga@.procomer.com",
+        "UserMatchHistory@.linkedin.com",
+        "AnalyticsSyncHistory@.linkedin.com",
+        "_fbp@.procomer.com",
+        "fr@.facebook.com",
+        "bscookie@.www.linkedin.com",
+        "moove_gdpr_popup@www.procomer.com",
+        "_ga_JKR8WWHTRJ@.procomer.com"
+      ],
+      "regla": "no_esenciales(E2) ∩ universo_ref ≠ ∅"
+    },
+    {
+      "id": "V4",
+      "gravedad": "Alta",
+      "nombre": "Aceptación implícita por navegación",
+      "evidencia": [
+        "__cf_ob@player.vimeo.com",
+        "vuid@.vimeo.com",
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "player@.vimeo.com",
+        "_ga@.procomer.com",
+        "li_sugr@.linkedin.com",
+        "bcookie@.linkedin.com",
+        "lidc@.linkedin.com",
+        "UserMatchHistory@.linkedin.com",
+        "AnalyticsSyncHistory@.linkedin.com",
+        "_fbp@.procomer.com",
+        "bscookie@.www.linkedin.com",
+        "fr@.facebook.com",
+        "_ga_JKR8WWHTRJ@.procomer.com"
+      ],
+      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+    },
+    {
+      "id": "V5",
+      "gravedad": "Media",
+      "nombre": "No persistencia de la decisión",
+      "evidencia": [
+        "__cf_ob@player.vimeo.com",
+        "li_sugr@.linkedin.com",
+        "bcookie@.linkedin.com",
+        "lidc@.linkedin.com",
+        "UserMatchHistory@.linkedin.com",
+        "AnalyticsSyncHistory@.linkedin.com",
+        "_ga@.procomer.com",
+        "bscookie@.www.linkedin.com",
+        "vuid@.vimeo.com",
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "player@.vimeo.com",
+        "_fbp@.procomer.com",
+        "fr@.facebook.com",
+        "moove_gdpr_popup@www.procomer.com",
+        "_ga_JKR8WWHTRJ@.procomer.com"
+      ],
+      "regla": "banner reaparece en E5 o se reinstalan cookies rechazadas"
+    },
+    {
+      "id": "V6",
+      "gravedad": "Media",
+      "nombre": "Revocación inoperante",
+      "evidencia": [
+        "__cf_ob@player.vimeo.com",
+        "li_sugr@.linkedin.com",
+        "bcookie@.linkedin.com",
+        "lidc@.linkedin.com",
+        "UserMatchHistory@.linkedin.com",
+        "AnalyticsSyncHistory@.linkedin.com",
+        "_ga@.procomer.com",
+        "bscookie@.www.linkedin.com",
+        "vuid@.vimeo.com",
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "player@.vimeo.com",
+        "_fbp@.procomer.com",
+        "fr@.facebook.com",
+        "moove_gdpr_popup@www.procomer.com",
+        "_ga_JKR8WWHTRJ@.procomer.com"
+      ],
+      "regla": "persisten cookies no esenciales sin control de revocación visible",
+      "requiereConfirmacionManual": true
+    }
+  ],
+  "violacionesNoEvaluables": [],
+  "revisionManualRequerida": [],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.procomer.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "tfpsi",
+      "dominio": ".procomer.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.procomer.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "tfpsi",
+      "dominio": ".procomer.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.procomer.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "tfpsi",
+      "dominio": ".procomer.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.procomer.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "tfpsi",
+      "dominio": ".procomer.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.procomer.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "tfpsi",
+      "dominio": ".procomer.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "tfpsi",
+      "dominio": ".procomer.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.procomer.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 4,
+    "cotaSuperior": 5,
+    "criticas": [
+      "V2"
+    ],
+    "universoReferencia": 25,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "proporcionIndeterminadas": 8.4,
+    "superaUmbralIndeterminadas": false,
+    "codificable": true
+  }
+}

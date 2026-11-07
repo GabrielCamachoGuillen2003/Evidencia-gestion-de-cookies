@@ -1,0 +1,801 @@
+{
+  "sitio": "munihojancha.go.cr",
+  "url": "https://munihojancha.go.cr",
+  "auditadoEn": "2026-11-05T06:27:19.832Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://munihojancha.go.cr",
+      "instante": "2026-11-05T06:25:05.451Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "munihojancha.go.cr",
+          "path": "/",
+          "expires": 1793867106.123241,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "munihojancha_session",
+          "domain": "munihojancha.go.cr",
+          "path": "/",
+          "expires": 1793867106.123325,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411907.236631,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411907.236853,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411907.236933,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411907.236981,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "translate.google.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://munihojancha.go.cr",
+      "instante": "2026-11-05T06:25:22.169Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "munihojancha.go.cr",
+          "path": "/",
+          "expires": 1793867122.798274,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "munihojancha_session",
+          "domain": "munihojancha.go.cr",
+          "path": "/",
+          "expires": 1793867122.798355,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411923.712458,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411923.712649,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411923.712702,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411923.712753,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "translate.google.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://munihojancha.go.cr",
+      "instante": "2026-11-05T06:25:42.662Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "munihojancha.go.cr",
+          "path": "/",
+          "expires": 1793867143.293019,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "munihojancha_session",
+          "domain": "munihojancha.go.cr",
+          "path": "/",
+          "expires": 1793867143.293091,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411943.994124,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411943.9943,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411943.994369,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411943.99442,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "translate.google.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://munihojancha.go.cr",
+      "instante": "2026-11-05T06:26:07.321Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "munihojancha.go.cr",
+          "path": "/",
+          "expires": 1793867167.922911,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "munihojancha_session",
+          "domain": "munihojancha.go.cr",
+          "path": "/",
+          "expires": 1793867167.92315,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411968.578884,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411968.579056,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411968.579122,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411968.579174,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "translate.google.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://munihojancha.go.cr",
+      "instante": "2026-11-05T06:26:27.725Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809412005.087271,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809412005.087318,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "munihojancha.go.cr",
+          "path": "/",
+          "expires": 1793867204.685647,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "munihojancha_session",
+          "domain": "munihojancha.go.cr",
+          "path": "/",
+          "expires": 1793867204.685777,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411989.087167,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809412005.087366,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "translate.google.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://munihojancha.go.cr",
+      "instante": "2026-11-05T06:26:54.004Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809412033.078163,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809412033.07821,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "munihojancha.go.cr",
+          "expires": 1793867232.697352,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "munihojancha_session",
+          "domain": "munihojancha.go.cr",
+          "expires": 1793867232.697497,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809412015.078061,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809412033.078258,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "translate.google.com",
+        "youtube.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 7,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "munihojancha_session",
+      "dominio": "munihojancha.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "munihojancha_session",
+      "dominio": "munihojancha.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "munihojancha_session",
+      "dominio": "munihojancha.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "munihojancha_session",
+      "dominio": "munihojancha.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "munihojancha_session",
+      "dominio": "munihojancha.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "munihojancha_session",
+      "dominio": "munihojancha.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 7,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 14.3,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.720Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

@@ -1,0 +1,3045 @@
+{
+  "sitio": "maxipali.co.cr",
+  "url": "https://www.maxipali.co.cr",
+  "auditadoEn": "2026-11-06T01:19:09.557Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.maxipali.co.cr",
+      "instante": "2026-11-06T01:15:50.171Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809479754.166787,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794013798,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1801703754,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929555,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1825463755,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794359752.304324,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794359239.4755,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 318
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929552.715263,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1825463752.715523,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929552.71484,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827623753.003789,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479755.881463,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "__gads",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623754,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623754,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479754,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828487754.449891,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479755.881559,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801703754.922121,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623755,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623755,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "RT",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794532555,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 103
+        },
+        {
+          "name": "ttcsid_CSN2VG3C77UAJKLLQP30",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623755,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623755,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1801703757,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 71
+        },
+        {
+          "name": "_ga",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1828487757.217178,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_8Z1P2XZYW8",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1828487757.223429,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "CrossSellingStore",
+          "lastExternalReferrerTime",
+          "orderQueue",
+          "analytics:session",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "orderform",
+          "tipoDeCambio_cache_v1"
+        ],
+        "sessionStorage": [
+          "rci_sponsored_event-type=viewHome&page-id=viewHome_API_desktop&criteo-partner-id=116138&retailer-visitor-id=c8c613440c8e49959f0eab7af88048bd&verbosity=full&seller=walmartcrbo733",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:44050",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:10909",
+          "tt_appInfo",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:110431",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:102927",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:55181",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:49905",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:6891",
+          "sp-variant",
+          "tt_sessionId",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:2021",
+          "tt_pixel_session_index",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:53918",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:65421",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:47503",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:58873"
+        ]
+      },
+      "terceros": [
+        "bodegacr.vtexassets.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "google.com",
+        "securepubads.g.doubleclick.net",
+        "io.vtex.com.br",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "activity-flow.vtex.com",
+        "connect.facebook.net",
+        "s.go-mpulse.net",
+        "gstatic.com",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "docs.google.com",
+        "sp.vtex.com",
+        "doc-0g-bk-sheets.googleusercontent.com",
+        "pagead2.googlesyndication.com",
+        "a4b035e65f64d6174234f9dacf5a530e.safeframe.googlesyndication.com",
+        "c.go-mpulse.net",
+        "tpc.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "analytics-ipv6.tiktokw.us",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "retailmedia-static.criteo.com",
+        "b.da1.us.criteo.com",
+        "ad.doubleclick.net",
+        "9535683.fls.doubleclick.net",
+        "8887862.fls.doubleclick.net",
+        "googleadservices.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "pagead2.googlesyndication.com",
+        "a4b035e65f64d6174234f9dacf5a530e.safeframe.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "facebook.com",
+        "retailmedia-static.criteo.com",
+        "b.da1.us.criteo.com",
+        "ad.doubleclick.net",
+        "9535683.fls.doubleclick.net",
+        "8887862.fls.doubleclick.net",
+        "googleadservices.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.maxipali.co.cr",
+      "instante": "2026-11-06T01:16:07.312Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809479770.960383,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794013798,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1801703771,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929572,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1825463772,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794359769.076658,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794359239.106398,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 318
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929569.486445,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1825463769.486686,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929569.486097,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827623769.668823,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479772.695638,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828487770.506944,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "__gads",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623771,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623771,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479771,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801703771.496486,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623772,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623772,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479772.695737,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1801703774,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1828487774.1256,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_8Z1P2XZYW8",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1828487774.131528,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623782,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_CSN2VG3C77UAJKLLQP30",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623782,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "CrossSellingStore",
+          "lastExternalReferrerTime",
+          "orderQueue",
+          "analytics:session",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "orderform",
+          "tipoDeCambio_cache_v1"
+        ],
+        "sessionStorage": [
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:44050",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:10909",
+          "tt_appInfo",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:110431",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:102927",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:55181",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:6891",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:49905",
+          "rci_sponsored_event-type=viewHome&page-id=viewHome_API_desktop&criteo-partner-id=116138&retailer-visitor-id=20debb5facb54589b2656bf2b0c4a00c&verbosity=full&seller=walmartcrbo733",
+          "sp-variant",
+          "tt_sessionId",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:2021",
+          "tt_pixel_session_index",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:53918",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:65421",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:47503",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:58873"
+        ]
+      },
+      "terceros": [
+        "bodegacr.vtexassets.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "google.com",
+        "securepubads.g.doubleclick.net",
+        "io.vtex.com.br",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "activity-flow.vtex.com",
+        "connect.facebook.net",
+        "s.go-mpulse.net",
+        "gstatic.com",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "docs.google.com",
+        "sp.vtex.com",
+        "doc-0g-bk-sheets.googleusercontent.com",
+        "3afb22b0bc261b09841144339e93ce57.safeframe.googlesyndication.com",
+        "c.go-mpulse.net",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "analytics-ipv6.tiktokw.us",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "acea4743.akstat.io",
+        "b.da1.us.criteo.com",
+        "retailmedia-static.criteo.com",
+        "ad.doubleclick.net",
+        "9535683.fls.doubleclick.net",
+        "googleadservices.com",
+        "8887862.fls.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "3afb22b0bc261b09841144339e93ce57.safeframe.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "facebook.com",
+        "b.da1.us.criteo.com",
+        "retailmedia-static.criteo.com",
+        "ad.doubleclick.net",
+        "9535683.fls.doubleclick.net",
+        "googleadservices.com",
+        "8887862.fls.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.maxipali.co.cr",
+      "instante": "2026-11-06T01:16:40.757Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809479804.713339,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794013885,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1801703805,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794359802.87209,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794359240.008754,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 318
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929603.198083,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1825463803.198315,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929606,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1825463806,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929603.197855,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827623803.542586,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479806.699057,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479806.699262,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828487804.569308,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "__gads",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623804,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623804,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479804,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801703805.590054,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623805,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623805,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "RT",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794532606,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 103
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1801703808,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 73
+        },
+        {
+          "name": "_ga",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1828487807.980456,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_8Z1P2XZYW8",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1828487807.989945,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623815,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_CSN2VG3C77UAJKLLQP30",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623815,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "CrossSellingStore",
+          "lastExternalReferrerTime",
+          "orderQueue",
+          "analytics:session",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "orderform",
+          "tipoDeCambio_cache_v1"
+        ],
+        "sessionStorage": [
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:44050",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:10909",
+          "tt_appInfo",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:110431",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:102927",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:55181",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:6891",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:49905",
+          "rci_sponsored_event-type=viewHome&page-id=viewHome_API_desktop&criteo-partner-id=116138&retailer-visitor-id=6c41a4db300b4b8897f9a30e6157b516&verbosity=full&seller=walmartcrbo733",
+          "sp-variant",
+          "tt_sessionId",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:2021",
+          "tt_pixel_session_index",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:53918",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:65421",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:47503",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:58873"
+        ]
+      },
+      "terceros": [
+        "bodegacr.vtexassets.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "google.com",
+        "securepubads.g.doubleclick.net",
+        "cdn.jsdelivr.net",
+        "io.vtex.com.br",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "activity-flow.vtex.com",
+        "s.go-mpulse.net",
+        "gstatic.com",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "docs.google.com",
+        "sp.vtex.com",
+        "doc-0g-bk-sheets.googleusercontent.com",
+        "5b3b2da1ecabcf0b3d9edd5e41522d21.safeframe.googlesyndication.com",
+        "c.go-mpulse.net",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "analytics-ipv6.tiktokw.us",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "retailmedia-static.criteo.com",
+        "b.da1.us.criteo.com",
+        "ad.doubleclick.net",
+        "8887862.fls.doubleclick.net",
+        "googleadservices.com",
+        "9535683.fls.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "5b3b2da1ecabcf0b3d9edd5e41522d21.safeframe.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "facebook.com",
+        "retailmedia-static.criteo.com",
+        "b.da1.us.criteo.com",
+        "ad.doubleclick.net",
+        "8887862.fls.doubleclick.net",
+        "googleadservices.com",
+        "9535683.fls.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.maxipali.co.cr",
+      "instante": "2026-11-06T01:17:25.369Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794013798,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1801703849,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929650,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1825463850,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794359846.91199,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929647.338112,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1825463847.33835,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929647.337839,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479850.827717,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827623847.71743,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794359840.964887,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 415
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479850.827846,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828487848.58328,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "__gads",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623849,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623849,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479849,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801703849.575863,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623850,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623850,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "RT",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794532650,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 103
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1801703852,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1828487851.988103,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_8Z1P2XZYW8",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1828487851.99716,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623860,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_CSN2VG3C77UAJKLLQP30",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623860,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "CrossSellingStore",
+          "lastExternalReferrerTime",
+          "orderQueue",
+          "analytics:session",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "orderform",
+          "tipoDeCambio_cache_v1"
+        ],
+        "sessionStorage": [
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:44050",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:10909",
+          "tt_appInfo",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:110431",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:102927",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:55181",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:49905",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:6891",
+          "sp-variant",
+          "rci_sponsored_event-type=viewHome&page-id=viewHome_API_desktop&criteo-partner-id=116138&retailer-visitor-id=7e431ec03be047fdba5888d0e67ee33c&verbosity=full&seller=walmartcrbo733",
+          "tt_sessionId",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:2021",
+          "tt_pixel_session_index",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:53918",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:65421",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:47503",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:58873"
+        ]
+      },
+      "terceros": [
+        "bodegacr.vtexassets.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "google.com",
+        "securepubads.g.doubleclick.net",
+        "io.vtex.com.br",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "activity-flow.vtex.com",
+        "connect.facebook.net",
+        "s.go-mpulse.net",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "gstatic.com",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "docs.google.com",
+        "sp.vtex.com",
+        "doc-0g-bk-sheets.googleusercontent.com",
+        "4f166ae272d33a636f8ccf2d24ef9b29.safeframe.googlesyndication.com",
+        "c.go-mpulse.net",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "analytics-ipv6.tiktokw.us",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "retailmedia-static.criteo.com",
+        "b.da1.us.criteo.com",
+        "ad.doubleclick.net",
+        "9535683.fls.doubleclick.net",
+        "googleadservices.com",
+        "8887862.fls.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "4f166ae272d33a636f8ccf2d24ef9b29.safeframe.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "facebook.com",
+        "retailmedia-static.criteo.com",
+        "b.da1.us.criteo.com",
+        "ad.doubleclick.net",
+        "9535683.fls.doubleclick.net",
+        "googleadservices.com",
+        "8887862.fls.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.maxipali.co.cr",
+      "instante": "2026-11-06T01:17:53.961Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809479892.24328,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794013885,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1801703893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929695,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1825463895,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929692.231054,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1825463892.231285,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1793929692.230811,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479894.052484,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827623892.170286,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "__gads",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623877,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623877,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479877,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1809479894.052585,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828487877.733345,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801703878.057911,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_ga",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1828487880.807329,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "RT",
+          "domain": ".www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794532691,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 96
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794359892.002288,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.maxipali.co.cr",
+          "path": "/",
+          "expires": 1794359892.002401,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 318
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809479892.196369,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809479892.196447,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809479891.458803,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809479893.458922,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623894,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "ttcsid_CSN2VG3C77UAJKLLQP30",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1827623894,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1801703881,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga_8Z1P2XZYW8",
+          "domain": ".maxipali.co.cr",
+          "path": "/",
+          "expires": 1828487895.827186,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "CrossSellingStore",
+          "lastExternalReferrerTime",
+          "orderQueue",
+          "analytics:session",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "orderform",
+          "tipoDeCambio_cache_v1"
+        ],
+        "sessionStorage": [
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:10375",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:44050",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:10909",
+          "tt_appInfo",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:102927",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:6891",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:49905",
+          "sp-variant",
+          "tt_sessionId",
+          "rci_sponsored_event-type=viewHome&page-id=viewHome_API_desktop&criteo-partner-id=116138&retailer-visitor-id=e99bbcfb6a6444f580918f6d364bfe5d&verbosity=full&seller=walmartcrbo733",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:94410",
+          "tt_pixel_session_index",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:576",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:2021",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:53918",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:65421",
+          "rci_products_/api/io/_v/api/intelligent-search/product_search?query=sku:47503"
+        ]
+      },
+      "terceros": [
+        "bodegacr.vtexassets.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "google.com",
+        "securepubads.g.doubleclick.net",
+        "cdn.jsdelivr.net",
+        "io.vtex.com.br",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "activity-flow.vtex.com",
+        "s.go-mpulse.net",
+        "gstatic.com",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "docs.google.com",
+        "sp.vtex.com",
+        "doc-0g-bk-sheets.googleusercontent.com",
+        "4c0aa3bdd4759a7f65dd32aa6b48d5cd.safeframe.googlesyndication.com",
+        "c.go-mpulse.net",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "analytics-ipv6.tiktokw.us",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "retailmedia-static.criteo.com",
+        "b.da1.us.criteo.com",
+        "ad.doubleclick.net",
+        "8887862.fls.doubleclick.net",
+        "googleadservices.com",
+        "9535683.fls.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com",
+        "youtube.com",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "yt3.ggpht.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "4c0aa3bdd4759a7f65dd32aa6b48d5cd.safeframe.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "facebook.com",
+        "retailmedia-static.criteo.com",
+        "b.da1.us.criteo.com",
+        "ad.doubleclick.net",
+        "8887862.fls.doubleclick.net",
+        "googleadservices.com",
+        "9535683.fls.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.maxipali.co.cr",
+      "instante": "2026-11-06T01:18:20.995Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809479943.989736,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.maxipali.co.cr",
+          "expires": 1794013798,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".maxipali.co.cr",
+          "expires": 1801703945,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".maxipali.co.cr",
+          "expires": 1793929745,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".maxipali.co.cr",
+          "expires": 1825463945,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".maxipali.co.cr",
+          "expires": 1793929742.771415,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".maxipali.co.cr",
+          "expires": 1825463942.771675,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".maxipali.co.cr",
+          "expires": 1793929742.77114,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "expires": 1827623942.708355,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.maxipali.co.cr",
+          "expires": 1809479945.071478,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.maxipali.co.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "__gads",
+          "domain": ".maxipali.co.cr",
+          "expires": 1827623905,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".maxipali.co.cr",
+          "expires": 1827623905,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".maxipali.co.cr",
+          "expires": 1809479905,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801703905.416191,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828487905.501844,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".maxipali.co.cr",
+          "expires": 1827623945,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".maxipali.co.cr",
+          "expires": 1827623945,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.maxipali.co.cr",
+          "expires": 1809479945.034825,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_ga",
+          "domain": ".maxipali.co.cr",
+          "expires": 1828487907.934666,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "RT",
+          "domain": ".www.maxipali.co.cr",
+          "expires": 1794532742,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 96
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.maxipali.co.cr",
+          "expires": 1794359942.741737,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.maxipali.co.cr",
+          "expires": 1794359840.491346,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 415
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".maxipali.co.cr",
+          "expires": 1827623945,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "ttcsid_CSN2VG3C77UAJKLLQP30",
+          "domain": ".maxipali.co.cr",
+          "expires": 1827623945,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".maxipali.co.cr",
+          "expires": 1801703908,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga_8Z1P2XZYW8",
+          "domain": ".maxipali.co.cr",
+          "expires": 1828487947.291824,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "bodegacr.vtexassets.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "google.com",
+        "securepubads.g.doubleclick.net",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "io.vtex.com.br",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "activity-flow.vtex.com",
+        "s.go-mpulse.net",
+        "gstatic.com",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "sp.vtex.com",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "consentcdn.cookiebot.com",
+        "113a41316972a545a81f445479990419.safeframe.googlesyndication.com",
+        "facebook.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "fonts.gstatic.com",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "b.da1.us.criteo.com",
+        "retailmedia-static.criteo.com",
+        "ad.doubleclick.net",
+        "8887862.fls.doubleclick.net",
+        "9535683.fls.doubleclick.net",
+        "googleadservices.com",
+        "analytics.google.com",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "consent.cookiebot.com",
+        "analytics.tiktok.com",
+        "consentcdn.cookiebot.com",
+        "113a41316972a545a81f445479990419.safeframe.googlesyndication.com",
+        "facebook.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "b.da1.us.criteo.com",
+        "retailmedia-static.criteo.com",
+        "ad.doubleclick.net",
+        "8887862.fls.doubleclick.net",
+        "9535683.fls.doubleclick.net",
+        "googleadservices.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com",
+        "_fbp@.maxipali.co.cr",
+        "_ttp@.tiktok.com",
+        "IDE@.doubleclick.net",
+        "fr@.facebook.com",
+        "_tt_enable_cookie@.maxipali.co.cr",
+        "_ttp@.maxipali.co.cr",
+        "_ga@.maxipali.co.cr",
+        "_ga_8Z1P2XZYW8@.maxipali.co.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 27,
+        "rastreadoresEnE0": 18
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vtex_session",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vtex_segment",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vtex-search-session",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sp-variant",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__gads",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__gpi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__eoi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "RT",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ttcsid_CSN2VG3C77UAJKLLQP30",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ttcsid",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vtex_session",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vtex_segment",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vtex-search-session",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sp-variant",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gads",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gpi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__eoi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ttcsid",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ttcsid_CSN2VG3C77UAJKLLQP30",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vtex_session",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vtex_segment",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vtex-search-session",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sp-variant",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__gads",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__gpi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__eoi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "RT",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ttcsid",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ttcsid_CSN2VG3C77UAJKLLQP30",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vtex_session",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vtex-search-session",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sp-variant",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vtex_segment",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__gads",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__gpi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__eoi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "RT",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ttcsid",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ttcsid_CSN2VG3C77UAJKLLQP30",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vtex-search-session",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sp-variant",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__gads",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__gpi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__eoi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "RT",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vtex_session",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vtex_segment",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ttcsid",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ttcsid_CSN2VG3C77UAJKLLQP30",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vtex-search-session",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sp-variant",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__gads",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__gpi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__eoi",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "RT",
+      "dominio": ".www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vtex_session",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vtex_segment",
+      "dominio": "www.maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ttcsid",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ttcsid_CSN2VG3C77UAJKLLQP30",
+      "dominio": ".maxipali.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".maxipali.co.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 26,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 64.8,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

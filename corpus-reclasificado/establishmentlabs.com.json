@@ -1,0 +1,833 @@
+{
+  "sitio": "establishmentlabs.com",
+  "url": "https://www.establishmentlabs.com",
+  "auditadoEn": "2026-11-06T04:31:58.766Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.establishmentlabs.com",
+      "instante": "2026-11-06T04:29:36.949Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"consent\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 645,
+          "w": 1366,
+          "h": 123
+        },
+        "cubrePantalla": false,
+        "texto": "We value your privacy\n\nWe use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.\n\nCUSTOMIZE\nREJECT ALL\nACCEPT ALL"
+      },
+      "cookies": [
+        {
+          "name": "lenix_first_visit",
+          "domain": "www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1796531378.290204,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 209
+        },
+        {
+          "name": "cwr_u",
+          "domain": ".www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1796531378,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1825475379,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 154
+        },
+        {
+          "name": "cwr_s",
+          "domain": ".www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1793941182,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 236
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "cwr_i",
+          "cwr_c",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "cdn-cookieyes.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "log.cookieyes.com",
+        "client.rum.us-east-1.amazonaws.com",
+        "fonts.gstatic.com",
+        "cognito-identity.eu-central-1.amazonaws.com",
+        "dataplane.rum.eu-central-1.amazonaws.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.establishmentlabs.com",
+      "instante": "2026-11-06T04:29:54.043Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "pulsado «accept all»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"consent\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 645,
+          "w": 1366,
+          "h": 123
+        },
+        "cubrePantalla": false,
+        "texto": "We value your privacy\n\nWe use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.\n\nCUSTOMIZE\nREJECT ALL\nACCEPT ALL"
+      },
+      "cookies": [
+        {
+          "name": "lenix_first_visit",
+          "domain": "www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1796531395.186152,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 209
+        },
+        {
+          "name": "cwr_u",
+          "domain": ".www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1796531395,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1825475411,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 163
+        },
+        {
+          "name": "_ga",
+          "domain": ".establishmentlabs.com",
+          "path": "/",
+          "expires": 1828499411.118817,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_1GQG8B21K4",
+          "domain": ".establishmentlabs.com",
+          "path": "/",
+          "expires": 1828499411.125174,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "cwr_s",
+          "domain": ".www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1793941211,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 236
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "cwr_i",
+          "cwr_c",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "cdn-cookieyes.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "log.cookieyes.com",
+        "client.rum.us-east-1.amazonaws.com",
+        "fonts.gstatic.com",
+        "cognito-identity.eu-central-1.amazonaws.com",
+        "dataplane.rum.eu-central-1.amazonaws.com",
+        "directory.cookieyes.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net"
+      ],
+      "controlUsado": "accept all",
+      "interaccionLograda": true
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.establishmentlabs.com",
+      "instante": "2026-11-06T04:30:17.285Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "pulsado «reject all»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"consent\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 645,
+          "w": 1366,
+          "h": 123
+        },
+        "cubrePantalla": false,
+        "texto": "We value your privacy\n\nWe use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.\n\nCUSTOMIZE\nREJECT ALL\nACCEPT ALL"
+      },
+      "cookies": [
+        {
+          "name": "lenix_first_visit",
+          "domain": "www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1796531418.493723,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 209
+        },
+        {
+          "name": "cwr_u",
+          "domain": ".www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1796531418,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1825475434,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 157
+        },
+        {
+          "name": "cwr_s",
+          "domain": ".www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1793941234,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 236
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "cwr_i",
+          "cwr_c",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "cdn-cookieyes.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "log.cookieyes.com",
+        "client.rum.us-east-1.amazonaws.com",
+        "fonts.gstatic.com",
+        "cognito-identity.eu-central-1.amazonaws.com",
+        "dataplane.rum.eu-central-1.amazonaws.com",
+        "directory.cookieyes.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ],
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "reject all",
+      "interaccionLograda": true
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.establishmentlabs.com",
+      "instante": "2026-11-06T04:30:40.655Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "panel abierto; 4 casillas, 0 premarcadas",
+        "guardado con «save my preferences»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"consent\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 645,
+          "w": 1366,
+          "h": 123
+        },
+        "cubrePantalla": false,
+        "texto": "We value your privacy\n\nWe use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.\n\nCUSTOMIZE\nREJECT ALL\nACCEPT ALL"
+      },
+      "cookies": [
+        {
+          "name": "lenix_first_visit",
+          "domain": "www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1796531441.947407,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 209
+        },
+        {
+          "name": "cwr_u",
+          "domain": ".www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1796531442,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cwr_s",
+          "domain": ".www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1793941257,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 236
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1825475460,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 158
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "cwr_i",
+          "cwr_c",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "cdn-cookieyes.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "log.cookieyes.com",
+        "client.rum.us-east-1.amazonaws.com",
+        "fonts.gstatic.com",
+        "cognito-identity.eu-central-1.amazonaws.com",
+        "dataplane.rum.eu-central-1.amazonaws.com",
+        "directory.cookieyes.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ],
+      "casillas": [
+        {
+          "id": "ckySwitchanalytics",
+          "marcada": false,
+          "deshabilitada": false
+        },
+        {
+          "id": "ckySwitchperformance",
+          "marcada": false,
+          "deshabilitada": false
+        },
+        {
+          "id": "ckySwitchadvertisement",
+          "marcada": false,
+          "deshabilitada": false
+        },
+        {
+          "id": "ckySwitchother",
+          "marcada": false,
+          "deshabilitada": false
+        }
+      ],
+      "premarcadas": 0,
+      "interaccionLograda": true
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.establishmentlabs.com",
+      "instante": "2026-11-06T04:31:07.192Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"consent\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 645,
+          "w": 1366,
+          "h": 123
+        },
+        "cubrePantalla": false,
+        "texto": "We value your privacy\n\nWe use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.\n\nCUSTOMIZE\nREJECT ALL\nACCEPT ALL"
+      },
+      "cookies": [
+        {
+          "name": "lenix_first_visit",
+          "domain": "www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1796531468.369047,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 209
+        },
+        {
+          "name": "cwr_u",
+          "domain": ".www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1796531484,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1825475484,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 154
+        },
+        {
+          "name": "cwr_s",
+          "domain": ".www.establishmentlabs.com",
+          "path": "/",
+          "expires": 1793941287,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 292
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "cwr_i",
+          "cwr_c",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "cdn-cookieyes.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "log.cookieyes.com",
+        "client.rum.us-east-1.amazonaws.com",
+        "fonts.gstatic.com",
+        "cognito-identity.eu-central-1.amazonaws.com",
+        "dataplane.rum.eu-central-1.amazonaws.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.establishmentlabs.com",
+      "instante": "2026-11-06T04:31:33.788Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — pulsado «reject all»",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "lenix_first_visit",
+          "domain": "www.establishmentlabs.com",
+          "expires": 1796531494.90045,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 209
+        },
+        {
+          "name": "cwr_u",
+          "domain": ".www.establishmentlabs.com",
+          "expires": 1796531511,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "www.establishmentlabs.com",
+          "expires": 1825475505,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 157
+        },
+        {
+          "name": "cwr_s",
+          "domain": ".www.establishmentlabs.com",
+          "expires": 1793941315,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 236
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdn-cookieyes.com",
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "log.cookieyes.com",
+        "client.rum.us-east-1.amazonaws.com",
+        "fonts.gstatic.com",
+        "dataplane.rum.eu-central-1.amazonaws.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ],
+      "bannerReaparece": false,
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "reject all",
+      "interaccionLograda": true
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "googletagmanager.com"
+      ],
+      "regla": "peticiones a dominios rastreadores en E0 sin cookie observable"
+    }
+  ],
+  "violacionesNoEvaluables": [],
+  "revisionManualRequerida": [],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "lenix_first_visit",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "cwr_u",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "cookieyes-consent",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "cwr_s",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "lenix_first_visit",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cwr_u",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cookieyes-consent",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cwr_s",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "lenix_first_visit",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cwr_u",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cookieyes-consent",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cwr_s",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "lenix_first_visit",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cwr_u",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cwr_s",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cookieyes-consent",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "lenix_first_visit",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cwr_u",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cookieyes-consent",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cwr_s",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "lenix_first_visit",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cwr_u",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cookieyes-consent",
+      "dominio": "www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cwr_s",
+      "dominio": ".www.establishmentlabs.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 6,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "proporcionIndeterminadas": 92.3,
+    "superaUmbralIndeterminadas": true,
+    "codificable": true
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.562Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

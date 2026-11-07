@@ -1,0 +1,2362 @@
+{
+  "sitio": "libreriainternacional.com",
+  "url": "https://www.libreriainternacional.com",
+  "auditadoEn": "2026-11-05T08:56:06.078Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.libreriainternacional.com",
+      "instante": "2026-11-05T08:50:31.355Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "path": "/",
+          "expires": 1793870432.216484,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793870432.852992,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "path": "/",
+          "expires": 1793870432.879894,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793870432.920357,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_hjSessionUser_6490296",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1825404633,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_6490296",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1793870433,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793870433.700011,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-sites.com",
+          "path": "/",
+          "expires": 1793870433.73478,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "path": "/",
+          "expires": 1793870433.895101,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793870434.159528,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1809420634,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "js.hs-scripts.com",
+        "cdnjs.cloudflare.com",
+        "maps.locationiq.com",
+        "rum.hlx.page",
+        "maps.google.com",
+        "static.hotjar.com",
+        "unpkg.com",
+        "js.hscollectedforms.net",
+        "js.hs-analytics.net",
+        "js.hs-banner.com",
+        "js.usemessages.com",
+        "js.hubspot.com",
+        "script.hotjar.com",
+        "maps.googleapis.com",
+        "api.hubspot.com",
+        "forms.hscollectedforms.net",
+        "cta-service-cms2.hubspot.com",
+        "vc.hotjar.io",
+        "perf-na1.hsforms.com",
+        "libreriainternacional-8559893.hs-sites.com",
+        "app.hubspot.com",
+        "forms.hsforms.com",
+        "static.hsappstatic.net",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com"
+      ],
+      "peticionesRastreo": [
+        "static.hotjar.com",
+        "js.hs-analytics.net",
+        "js.hubspot.com",
+        "script.hotjar.com",
+        "api.hubspot.com",
+        "cta-service-cms2.hubspot.com",
+        "app.hubspot.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.libreriainternacional.com",
+      "instante": "2026-11-05T08:50:47.656Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "path": "/",
+          "expires": 1793870448.255202,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793870448.709976,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793870448.750932,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "path": "/",
+          "expires": 1793870448.79752,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793870448.987387,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_hjSessionUser_6490296",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1825404649,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_6490296",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1793870449,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-sites.com",
+          "path": "/",
+          "expires": 1793870449.421472,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "path": "/",
+          "expires": 1793870449.522235,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793870450.093795,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1809420650,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "form_key",
+          "domain": "www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793955073,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 16
+        },
+        {
+          "name": "mage-cache-storage",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872274,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-storage-section-invalidation",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872274,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-sessid",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872274,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "mg",
+          "domain": ".adobedc.net",
+          "path": "/",
+          "expires": 1825404675.047755,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1801644675,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_0LXR756X42",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1828428675.688831,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1828428675.689418,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "mage-messages",
+          "domain": "www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872275,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793869575.879914,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "recently_viewed_product",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872274,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_viewed_product_previous",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872274,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872274,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product_previous",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872274,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "product_data_storage",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872274,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "__hstc",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1809420677,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 85
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1809420677,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1793870477,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mage-cache-storage",
+          "snowplowOutQueue_sp_post2.expires",
+          "product_data_storage",
+          "mgses.e932",
+          "recently_compared_product_previous",
+          "mgid.e932.expires",
+          "_gcl_ls",
+          "mgid.e932",
+          "mage-customer-login",
+          "recently_viewed_product",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "snowplowOutQueue_sp_post2",
+          "mage-cache-timeout",
+          "recently_compared_product",
+          "mgses.e932.expires"
+        ],
+        "sessionStorage": [
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "product_data_storage",
+          "recently_compared_product",
+          "recently_compared_product_previous"
+        ]
+      },
+      "terceros": [
+        "js.hs-scripts.com",
+        "cdnjs.cloudflare.com",
+        "maps.locationiq.com",
+        "rum.hlx.page",
+        "maps.google.com",
+        "static.hotjar.com",
+        "unpkg.com",
+        "js.hscollectedforms.net",
+        "js.hs-analytics.net",
+        "js.hs-banner.com",
+        "js.usemessages.com",
+        "js.hubspot.com",
+        "forms.hscollectedforms.net",
+        "forms.hsforms.com",
+        "api.hubspot.com",
+        "cta-service-cms2.hubspot.com",
+        "script.hotjar.com",
+        "maps.googleapis.com",
+        "perf-na1.hsforms.com",
+        "libreriainternacional-8559893.hs-sites.com",
+        "app.hubspot.com",
+        "static.hsappstatic.net",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "static.hubspot.com",
+        "acds-events.adobe.io",
+        "googletagmanager.com",
+        "commerce.adobedc.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "google.co.cr",
+        "track.hubspot.com"
+      ],
+      "peticionesRastreo": [
+        "static.hotjar.com",
+        "js.hs-analytics.net",
+        "js.hubspot.com",
+        "api.hubspot.com",
+        "cta-service-cms2.hubspot.com",
+        "script.hotjar.com",
+        "app.hubspot.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "static.hubspot.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "track.hubspot.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.libreriainternacional.com",
+      "instante": "2026-11-05T08:51:31.766Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "path": "/",
+          "expires": 1793870492.463078,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "path": "/",
+          "expires": 1793870492.66974,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793870492.693836,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793870492.698893,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793870493.215254,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_hjSessionUser_6490296",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1825404693,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_6490296",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1793870493,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-sites.com",
+          "path": "/",
+          "expires": 1793870493.557256,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "path": "/",
+          "expires": 1793870493.660275,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793870493.877204,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1809420694,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "form_key",
+          "domain": "www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793955116,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 16
+        },
+        {
+          "name": "mage-cache-storage",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872317,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-storage-section-invalidation",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872317,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-sessid",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872317,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "_ga_0LXR756X42",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1828428717.431712,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1828428717.432186,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "mg",
+          "domain": ".adobedc.net",
+          "path": "/",
+          "expires": 1825404717.876134,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1801644718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "mage-messages",
+          "domain": "www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872318,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793869618.637165,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "recently_viewed_product",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872317,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_viewed_product_previous",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872317,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872317,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product_previous",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872317,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "product_data_storage",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872317,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "__hstc",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1809420720,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 85
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1809420720,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1793870520,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mage-cache-storage",
+          "snowplowOutQueue_sp_post2.expires",
+          "product_data_storage",
+          "mgses.e932",
+          "recently_compared_product_previous",
+          "mgid.e932.expires",
+          "_gcl_ls",
+          "mgid.e932",
+          "mage-customer-login",
+          "recently_viewed_product",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "snowplowOutQueue_sp_post2",
+          "mage-cache-timeout",
+          "recently_compared_product",
+          "mgses.e932.expires"
+        ],
+        "sessionStorage": [
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "product_data_storage",
+          "recently_compared_product",
+          "recently_compared_product_previous"
+        ]
+      },
+      "terceros": [
+        "js.hs-scripts.com",
+        "cdnjs.cloudflare.com",
+        "maps.locationiq.com",
+        "rum.hlx.page",
+        "maps.google.com",
+        "static.hotjar.com",
+        "unpkg.com",
+        "js.hscollectedforms.net",
+        "js.hs-analytics.net",
+        "js.hs-banner.com",
+        "js.usemessages.com",
+        "js.hubspot.com",
+        "script.hotjar.com",
+        "forms.hscollectedforms.net",
+        "api.hubspot.com",
+        "forms.hsforms.com",
+        "cta-service-cms2.hubspot.com",
+        "maps.googleapis.com",
+        "perf-na1.hsforms.com",
+        "libreriainternacional-8559893.hs-sites.com",
+        "app.hubspot.com",
+        "static.hsappstatic.net",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "static.hubspot.com",
+        "acds-events.adobe.io",
+        "googletagmanager.com",
+        "commerce.adobedc.net",
+        "analytics.google.com",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "track.hubspot.com"
+      ],
+      "peticionesRastreo": [
+        "static.hotjar.com",
+        "js.hs-analytics.net",
+        "js.hubspot.com",
+        "script.hotjar.com",
+        "api.hubspot.com",
+        "cta-service-cms2.hubspot.com",
+        "app.hubspot.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "static.hubspot.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "track.hubspot.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.libreriainternacional.com",
+      "instante": "2026-11-05T08:53:17.395Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "path": "/",
+          "expires": 1793870598.748162,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793870598.807349,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793870598.820613,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "path": "/",
+          "expires": 1793870598.83399,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-sites.com",
+          "path": "/",
+          "expires": 1793870599.408177,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "path": "/",
+          "expires": 1793870599.490554,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_hjSessionUser_6490296",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1825404799,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_6490296",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1793870599,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793870599.566822,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793870600.069509,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1809420800,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "form_key",
+          "domain": "www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793955228,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 16
+        },
+        {
+          "name": "mage-cache-storage",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-storage-section-invalidation",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-sessid",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "_ga_0LXR756X42",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1828428829.360921,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1828428829.361444,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1801644829,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793869729.693909,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "mg",
+          "domain": ".adobedc.net",
+          "path": "/",
+          "expires": 1825404829.779917,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "mage-messages",
+          "domain": "www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872430,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "recently_viewed_product",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_viewed_product_previous",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product_previous",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "product_data_storage",
+          "domain": ".www.libreriainternacional.com",
+          "path": "/",
+          "expires": 1793872429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "__hstc",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1809420832,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 85
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1809420832,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1793870632,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mage-cache-storage",
+          "snowplowOutQueue_sp_post2.expires",
+          "product_data_storage",
+          "mgses.e932",
+          "recently_compared_product_previous",
+          "mgid.e932.expires",
+          "_gcl_ls",
+          "mgid.e932",
+          "mage-customer-login",
+          "recently_viewed_product",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "snowplowOutQueue_sp_post2",
+          "mage-cache-timeout",
+          "recently_compared_product",
+          "mgses.e932.expires"
+        ],
+        "sessionStorage": [
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "product_data_storage",
+          "recently_compared_product",
+          "recently_compared_product_previous"
+        ]
+      },
+      "terceros": [
+        "js.hs-scripts.com",
+        "cdnjs.cloudflare.com",
+        "maps.locationiq.com",
+        "rum.hlx.page",
+        "maps.google.com",
+        "static.hotjar.com",
+        "unpkg.com",
+        "js.hs-analytics.net",
+        "js.hs-banner.com",
+        "js.hubspot.com",
+        "js.hscollectedforms.net",
+        "js.usemessages.com",
+        "forms.hscollectedforms.net",
+        "cta-service-cms2.hubspot.com",
+        "api.hubspot.com",
+        "forms.hsforms.com",
+        "maps.googleapis.com",
+        "script.hotjar.com",
+        "perf-na1.hsforms.com",
+        "libreriainternacional-8559893.hs-sites.com",
+        "app.hubspot.com",
+        "static.hsappstatic.net",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "static.hubspot.com",
+        "acds-events.adobe.io",
+        "googletagmanager.com",
+        "commerce.adobedc.net",
+        "analytics.google.com",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "track.hubspot.com"
+      ],
+      "peticionesRastreo": [
+        "static.hotjar.com",
+        "js.hs-analytics.net",
+        "js.hubspot.com",
+        "cta-service-cms2.hubspot.com",
+        "api.hubspot.com",
+        "script.hotjar.com",
+        "app.hubspot.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "static.hubspot.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "track.hubspot.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.libreriainternacional.com",
+      "instante": "2026-11-05T08:53:56.074Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "path": "/",
+          "expires": 1793870636.717798,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793870637.130469,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "path": "/",
+          "expires": 1793870637.367524,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_hjSession_6490296",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1793870637,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793870637.830379,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-sites.com",
+          "path": "/",
+          "expires": 1793870637.898148,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793870637.960124,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "path": "/",
+          "expires": 1793870637.961108,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793870638.317755,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1809420853,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_hjSessionUser_6490296",
+          "domain": ".libreriainternacional.com",
+          "path": "/",
+          "expires": 1825404852,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "js.hs-scripts.com",
+        "cdnjs.cloudflare.com",
+        "maps.locationiq.com",
+        "rum.hlx.page",
+        "maps.google.com",
+        "static.hotjar.com",
+        "unpkg.com",
+        "js.hs-analytics.net",
+        "js.hs-banner.com",
+        "js.hubspot.com",
+        "js.hscollectedforms.net",
+        "js.usemessages.com",
+        "script.hotjar.com",
+        "forms.hscollectedforms.net",
+        "cta-service-cms2.hubspot.com",
+        "maps.googleapis.com",
+        "api.hubspot.com",
+        "vc.hotjar.io",
+        "forms.hsforms.com",
+        "perf-na1.hsforms.com",
+        "libreriainternacional-8559893.hs-sites.com",
+        "static.hsappstatic.net",
+        "app.hubspot.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com"
+      ],
+      "peticionesRastreo": [
+        "static.hotjar.com",
+        "js.hs-analytics.net",
+        "js.hubspot.com",
+        "script.hotjar.com",
+        "cta-service-cms2.hubspot.com",
+        "api.hubspot.com",
+        "app.hubspot.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.libreriainternacional.com",
+      "instante": "2026-11-05T08:54:21.890Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "expires": 1793870662.596272,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "expires": 1793870663.021222,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "expires": 1793870663.053855,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "expires": 1793870663.078601,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_hjSession_6490296",
+          "domain": ".libreriainternacional.com",
+          "expires": 1793870663,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-sites.com",
+          "expires": 1793870663.726963,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "expires": 1793870663.835951,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "expires": 1793870663.888123,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "expires": 1793870664.054838,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".libreriainternacional.com",
+          "expires": 1809420961,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "form_key",
+          "domain": "www.libreriainternacional.com",
+          "expires": 1793955293,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".libreriainternacional.com",
+          "expires": 1801644894,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga",
+          "domain": ".libreriainternacional.com",
+          "expires": 1828428961.094858,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "mage-cache-storage",
+          "domain": ".www.libreriainternacional.com",
+          "expires": 1793872494,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-storage-section-invalidation",
+          "domain": ".www.libreriainternacional.com",
+          "expires": 1793872494,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-sessid",
+          "domain": ".www.libreriainternacional.com",
+          "expires": 1793872559,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "mg",
+          "domain": ".adobedc.net",
+          "expires": 1825404961.238321,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "mage-messages",
+          "domain": "www.libreriainternacional.com",
+          "expires": 1793872560,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "recently_viewed_product",
+          "domain": ".www.libreriainternacional.com",
+          "expires": 1793872494,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_viewed_product_previous",
+          "domain": ".www.libreriainternacional.com",
+          "expires": 1793872494,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product",
+          "domain": ".www.libreriainternacional.com",
+          "expires": 1793872494,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product_previous",
+          "domain": ".www.libreriainternacional.com",
+          "expires": 1793872494,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "product_data_storage",
+          "domain": ".www.libreriainternacional.com",
+          "expires": 1793872494,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "__hstc",
+          "domain": ".libreriainternacional.com",
+          "expires": 1809420897,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 85
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".libreriainternacional.com",
+          "expires": 1809420897,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".libreriainternacional.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".libreriainternacional.com",
+          "expires": 1793870697,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_hjSessionUser_6490296",
+          "domain": ".libreriainternacional.com",
+          "expires": 1825404959,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_ga_0LXR756X42",
+          "domain": ".libreriainternacional.com",
+          "expires": 1828428961.094429,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828428961.231918,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "js.hs-scripts.com",
+        "cdnjs.cloudflare.com",
+        "maps.locationiq.com",
+        "static.hotjar.com",
+        "rum.hlx.page",
+        "unpkg.com",
+        "js.hscollectedforms.net",
+        "js.hs-analytics.net",
+        "js.hs-banner.com",
+        "js.usemessages.com",
+        "js.hubspot.com",
+        "script.hotjar.com",
+        "maps.google.com",
+        "forms.hscollectedforms.net",
+        "forms.hsforms.com",
+        "maps.googleapis.com",
+        "api.hubspot.com",
+        "cta-service-cms2.hubspot.com",
+        "acds-events.adobe.io",
+        "googletagmanager.com",
+        "app.hubspot.com",
+        "perf-na1.hsforms.com",
+        "libreriainternacional-8559893.hs-sites.com",
+        "static.hsappstatic.net",
+        "commerce.adobedc.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "exceptions.hubspot.com",
+        "google.co.cr",
+        "metrics-fe-na1.hubspot.com"
+      ],
+      "peticionesRastreo": [
+        "static.hotjar.com",
+        "js.hs-analytics.net",
+        "js.hubspot.com",
+        "script.hotjar.com",
+        "api.hubspot.com",
+        "cta-service-cms2.hubspot.com",
+        "googletagmanager.com",
+        "app.hubspot.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_hjSessionUser_6490296@.libreriainternacional.com",
+        "_hjSession_6490296@.libreriainternacional.com",
+        "messagesUtk@.libreriainternacional.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 11,
+        "rastreadoresEnE0": 9
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E1",
+      "cookie": "mage-cache-storage",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "mage-cache-storage-section-invalidation",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "mage-cache-sessid",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "mage-messages",
+      "dominio": "www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "recently_viewed_product",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "recently_viewed_product_previous",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "recently_compared_product",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "recently_compared_product_previous",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "product_data_storage",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "mage-cache-storage",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "mage-cache-storage-section-invalidation",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "mage-cache-sessid",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "mage-messages",
+      "dominio": "www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "recently_viewed_product",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "recently_viewed_product_previous",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "recently_compared_product",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "recently_compared_product_previous",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "product_data_storage",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "mage-cache-storage",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "mage-cache-storage-section-invalidation",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "mage-cache-sessid",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "mage-messages",
+      "dominio": "www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "recently_viewed_product",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "recently_viewed_product_previous",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "recently_compared_product",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "recently_compared_product_previous",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "product_data_storage",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "mage-cache-storage",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "mage-cache-storage-section-invalidation",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "mage-cache-sessid",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "mage-messages",
+      "dominio": "www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "recently_viewed_product",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "recently_viewed_product_previous",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "recently_compared_product",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "recently_compared_product_previous",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "product_data_storage",
+      "dominio": ".www.libreriainternacional.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 30,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 25.4,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.661Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

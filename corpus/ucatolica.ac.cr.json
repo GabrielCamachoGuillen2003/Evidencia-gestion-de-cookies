@@ -1,0 +1,1050 @@
+{
+  "sitio": "ucatolica.ac.cr",
+  "url": "https://www.ucatolica.ac.cr",
+  "auditadoEn": "2026-11-06T01:54:08.738Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.ucatolica.ac.cr",
+      "instante": "2026-11-06T01:51:36.285Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "dnn_IsMobile",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "language",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1799929897.008485,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 113
+        },
+        {
+          "name": "__RequestVerificationToken",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 71
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1801705897,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793930799.105205,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_4EQP7JGRG6",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1828489898.201817,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1828489898.202517,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1825465898.59444,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 430
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "google.co.cr",
+        "analytics.google.com",
+        "stats.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.ucatolica.ac.cr",
+      "instante": "2026-11-06T01:51:52.685Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "dnn_IsMobile",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "language",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1799929912.102821,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 113
+        },
+        {
+          "name": "__RequestVerificationToken",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 71
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1801705914,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793930814.373786,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_4EQP7JGRG6",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1828489914.514074,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1828489914.514759,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1825465914.847759,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 430
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "google.co.cr",
+        "analytics.google.com",
+        "stats.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.ucatolica.ac.cr",
+      "instante": "2026-11-06T01:52:16.387Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "dnn_IsMobile",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "language",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1799929936.773185,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 113
+        },
+        {
+          "name": "__RequestVerificationToken",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 71
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1801705937,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793930837.864195,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_4EQP7JGRG6",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1828489938.033196,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1828489938.033987,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1825465938.344161,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 430
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "google.co.cr",
+        "analytics.google.com",
+        "stats.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.ucatolica.ac.cr",
+      "instante": "2026-11-06T01:52:48.167Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "dnn_IsMobile",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "language",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1799929968.564599,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 113
+        },
+        {
+          "name": "__RequestVerificationToken",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 71
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1801705969,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793930869.712361,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_4EQP7JGRG6",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1828489969.873182,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1828489969.873847,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1825465970.257439,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 430
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "google.co.cr",
+        "analytics.google.com",
+        "stats.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.ucatolica.ac.cr",
+      "instante": "2026-11-06T01:53:10.788Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "dnn_IsMobile",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "language",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1799929990.208168,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 113
+        },
+        {
+          "name": "__RequestVerificationToken",
+          "domain": "www.ucatolica.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 71
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1801705992,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1828489992.439913,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1825465992.968441,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 430
+        },
+        {
+          "name": "_ga_4EQP7JGRG6",
+          "domain": ".ucatolica.ac.cr",
+          "path": "/",
+          "expires": 1828490006.625669,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828490006.793182,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.ucatolica.ac.cr",
+      "instante": "2026-11-06T01:53:35.844Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "dnn_IsMobile",
+          "domain": "www.ucatolica.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "language",
+          "domain": "www.ucatolica.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.ucatolica.ac.cr",
+          "expires": 1799930015.211281,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 113
+        },
+        {
+          "name": "__RequestVerificationToken",
+          "domain": "www.ucatolica.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 71
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ucatolica.ac.cr",
+          "expires": 1801706017,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga",
+          "domain": ".ucatolica.ac.cr",
+          "expires": 1828490017.680187,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".ucatolica.ac.cr",
+          "expires": 1825466018.031986,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 430
+        },
+        {
+          "name": "_ga_4EQP7JGRG6",
+          "domain": ".ucatolica.ac.cr",
+          "expires": 1828490041.710766,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828490041.855708,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "test_cookie@.doubleclick.net",
+        "_ga_4EQP7JGRG6@.ucatolica.ac.cr",
+        "_ga@.ucatolica.ac.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 9,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "dnn_IsMobile",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "language",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__RequestVerificationToken",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "dnn_IsMobile",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "language",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__RequestVerificationToken",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "dnn_IsMobile",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "language",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__RequestVerificationToken",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "dnn_IsMobile",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "language",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__RequestVerificationToken",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "dnn_IsMobile",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "language",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__RequestVerificationToken",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "dnn_IsMobile",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "language",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__RequestVerificationToken",
+      "dominio": "www.ucatolica.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".ucatolica.ac.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 9,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 55.6,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

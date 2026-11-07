@@ -1,0 +1,409 @@
+{
+  "sitio": "coopebanpo.fi.cr",
+  "url": "https://www.coopebanpo.fi.cr",
+  "auditadoEn": "2026-11-06T04:10:12.829Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.coopebanpo.fi.cr",
+      "instante": "2026-11-06T04:06:45.002Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_NK446SHC2J",
+          "domain": ".coopebanpo.fi.cr",
+          "path": "/",
+          "expires": 1828498006.468211,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopebanpo.fi.cr",
+          "path": "/",
+          "expires": 1828498006.468727,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.coopebanpo.fi.cr",
+      "instante": "2026-11-06T04:07:02.437Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_NK446SHC2J",
+          "domain": ".coopebanpo.fi.cr",
+          "path": "/",
+          "expires": 1828498025.297263,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopebanpo.fi.cr",
+          "path": "/",
+          "expires": 1828498025.298005,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.coopebanpo.fi.cr",
+      "instante": "2026-11-06T04:07:29.394Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_NK446SHC2J",
+          "domain": ".coopebanpo.fi.cr",
+          "path": "/",
+          "expires": 1828498050.795773,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopebanpo.fi.cr",
+          "path": "/",
+          "expires": 1828498050.796299,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.coopebanpo.fi.cr",
+      "instante": "2026-11-06T04:08:21.851Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_NK446SHC2J",
+          "domain": ".coopebanpo.fi.cr",
+          "path": "/",
+          "expires": 1828498103.047363,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopebanpo.fi.cr",
+          "path": "/",
+          "expires": 1828498103.048049,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.coopebanpo.fi.cr",
+      "instante": "2026-11-06T04:08:45.379Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".coopebanpo.fi.cr",
+          "path": "/",
+          "expires": 1828498126.756312,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_NK446SHC2J",
+          "domain": ".coopebanpo.fi.cr",
+          "path": "/",
+          "expires": 1828498169.23183,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.coopebanpo.fi.cr",
+      "instante": "2026-11-06T04:09:38.227Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".coopebanpo.fi.cr",
+          "expires": 1828498179.668166,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_NK446SHC2J",
+          "domain": ".coopebanpo.fi.cr",
+          "expires": 1828498205.777372,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_NK446SHC2J@.coopebanpo.fi.cr",
+        "_ga@.coopebanpo.fi.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 2,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 2,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

@@ -1,0 +1,1048 @@
+{
+  "sitio": "belen.go.cr",
+  "url": "https://www.belen.go.cr",
+  "auditadoEn": "2026-11-05T00:38:47.231Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.belen.go.cr",
+      "instante": "2026-11-05T00:36:29.668Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "path": "/PortalBelen-TemaPrincipal02-theme/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809390992.061554,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1828398990.034863,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1828398990.034891,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 5
+        },
+        {
+          "name": "cookiesession1",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1825375628.034914,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "LFR_SESSION_STATE_20158",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_ga_8KM95MPLW8",
+          "domain": ".belen.go.cr",
+          "path": "/",
+          "expires": 1828398991.358441,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".belen.go.cr",
+          "path": "/",
+          "expires": 1828398991.358943,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "google.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "w3schools.com",
+        "gstatic.com",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "google-analytics.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "facebook.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.belen.go.cr",
+      "instante": "2026-11-05T00:36:45.942Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "path": "/PortalBelen-TemaPrincipal02-theme/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809391010.425475,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1828399006.173111,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1828399006.173147,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 5
+        },
+        {
+          "name": "cookiesession1",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1825375644.17317,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "LFR_SESSION_STATE_20158",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_ga_8KM95MPLW8",
+          "domain": ".belen.go.cr",
+          "path": "/",
+          "expires": 1828399007.447792,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".belen.go.cr",
+          "path": "/",
+          "expires": 1828399007.448379,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "google.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "w3schools.com",
+        "gstatic.com",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "google-analytics.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "facebook.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.belen.go.cr",
+      "instante": "2026-11-05T00:37:07.233Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "path": "/PortalBelen-TemaPrincipal02-theme/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809391029.518988,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1828399027.472112,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1828399027.472146,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 5
+        },
+        {
+          "name": "cookiesession1",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1825375665.472168,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "LFR_SESSION_STATE_20158",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_ga_8KM95MPLW8",
+          "domain": ".belen.go.cr",
+          "path": "/",
+          "expires": 1828399028.721872,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".belen.go.cr",
+          "path": "/",
+          "expires": 1828399028.722659,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "google.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "w3schools.com",
+        "gstatic.com",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "google-analytics.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "facebook.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.belen.go.cr",
+      "instante": "2026-11-05T00:37:33.686Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "path": "/PortalBelen-TemaPrincipal02-theme/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809391055.931954,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1828399053.90783,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1828399053.907887,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 5
+        },
+        {
+          "name": "cookiesession1",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1825375691.907934,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "LFR_SESSION_STATE_20158",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_ga_8KM95MPLW8",
+          "domain": ".belen.go.cr",
+          "path": "/",
+          "expires": 1828399055.324881,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".belen.go.cr",
+          "path": "/",
+          "expires": 1828399055.32544,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "google.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "w3schools.com",
+        "gstatic.com",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "google-analytics.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "facebook.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.belen.go.cr",
+      "instante": "2026-11-05T00:37:54.507Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "path": "/PortalBelen-TemaPrincipal02-theme/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809391091.093107,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1828399074.758762,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1828399074.758789,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 5
+        },
+        {
+          "name": "cookiesession1",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": 1825375711.758862,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga",
+          "domain": ".belen.go.cr",
+          "path": "/",
+          "expires": 1828399076.070175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_8KM95MPLW8",
+          "domain": ".belen.go.cr",
+          "path": "/",
+          "expires": 1828399090.218294,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "LFR_SESSION_STATE_20158",
+          "domain": "www.belen.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "google.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "w3schools.com",
+        "gstatic.com",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "google-analytics.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "facebook.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.belen.go.cr",
+      "instante": "2026-11-05T00:38:19.595Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809391120.969829,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.belen.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.belen.go.cr",
+          "expires": 1828399099.83853,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.belen.go.cr",
+          "expires": 1828399099.838658,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 5
+        },
+        {
+          "name": "cookiesession1",
+          "domain": "www.belen.go.cr",
+          "expires": 1825375737.838763,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga",
+          "domain": ".belen.go.cr",
+          "expires": 1828399101.171189,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_8KM95MPLW8",
+          "domain": ".belen.go.cr",
+          "expires": 1828399120.167764,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "LFR_SESSION_STATE_20158",
+          "domain": "www.belen.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "google.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "w3schools.com",
+        "gstatic.com",
+        "facebook.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "google-analytics.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "facebook.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com",
+        "_ga_8KM95MPLW8@.belen.go.cr",
+        "_ga@.belen.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 9,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "cookiesession1",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "LFR_SESSION_STATE_20158",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cookiesession1",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "LFR_SESSION_STATE_20158",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cookiesession1",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "LFR_SESSION_STATE_20158",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cookiesession1",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "LFR_SESSION_STATE_20158",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cookiesession1",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "LFR_SESSION_STATE_20158",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cookiesession1",
+      "dominio": "www.belen.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "LFR_SESSION_STATE_20158",
+      "dominio": "www.belen.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 9,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 44.4,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

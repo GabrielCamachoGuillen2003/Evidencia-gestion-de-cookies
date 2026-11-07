@@ -1,0 +1,602 @@
+{
+  "sitio": "conare.ac.cr",
+  "url": "https://www.conare.ac.cr",
+  "auditadoEn": "2026-11-06T04:04:50.632Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.conare.ac.cr",
+      "instante": "2026-11-06T04:02:00.894Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809489726.491349,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_ga_TGM3FQFRLR",
+          "domain": ".conare.ac.cr",
+          "path": "/",
+          "expires": 1828497724.748441,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".conare.ac.cr",
+          "path": "/",
+          "expires": 1828497724.748949,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "seguimiento.conare.ac.cr",
+          "path": "/",
+          "expires": 1793958524.820237,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "upload-file-629_count_files",
+          "dnd_wpcf7_session_id",
+          "_grecaptcha",
+          "dnd_cf7_token_6910ce5b-ba26-434b-bf63-983552e67c57"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.conare.ac.cr",
+      "instante": "2026-11-06T04:02:20.185Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809489745.297058,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_ga_TGM3FQFRLR",
+          "domain": ".conare.ac.cr",
+          "path": "/",
+          "expires": 1828497743.512362,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".conare.ac.cr",
+          "path": "/",
+          "expires": 1828497743.512943,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "seguimiento.conare.ac.cr",
+          "path": "/",
+          "expires": 1793958543.57793,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "upload-file-629_count_files",
+          "dnd_wpcf7_session_id",
+          "dnd_cf7_token_6260acd7-1213-4ea5-b80a-a89198d30cc4",
+          "_grecaptcha"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.conare.ac.cr",
+      "instante": "2026-11-06T04:02:46.119Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809489771.573392,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_ga_TGM3FQFRLR",
+          "domain": ".conare.ac.cr",
+          "path": "/",
+          "expires": 1828497769.610466,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".conare.ac.cr",
+          "path": "/",
+          "expires": 1828497769.611706,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "seguimiento.conare.ac.cr",
+          "path": "/",
+          "expires": 1793958569.693706,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "upload-file-629_count_files",
+          "dnd_cf7_token_dcb1ec70-16d8-4bd9-80df-f554177eadd8",
+          "dnd_wpcf7_session_id",
+          "_grecaptcha"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.conare.ac.cr",
+      "instante": "2026-11-06T04:03:18.875Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809489803.961432,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "seguimiento.conare.ac.cr",
+          "path": "/",
+          "expires": 1793958602.290575,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_TGM3FQFRLR",
+          "domain": ".conare.ac.cr",
+          "path": "/",
+          "expires": 1828497802.357305,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".conare.ac.cr",
+          "path": "/",
+          "expires": 1828497802.357887,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "upload-file-629_count_files",
+          "dnd_wpcf7_session_id",
+          "_grecaptcha",
+          "dnd_cf7_token_f7724893-6591-4195-8d02-7abe163ff79e"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.conare.ac.cr",
+      "instante": "2026-11-06T04:03:43.495Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809489845.549238,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "seguimiento.conare.ac.cr",
+          "path": "/",
+          "expires": 1793958626.76495,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga",
+          "domain": ".conare.ac.cr",
+          "path": "/",
+          "expires": 1828497826.796756,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_TGM3FQFRLR",
+          "domain": ".conare.ac.cr",
+          "path": "/",
+          "expires": 1828497844.469286,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "upload-file-629_count_files",
+          "dnd_wpcf7_session_id",
+          "dnd_cf7_token_46d95d28-0187-4d9e-bb9d-10a19e709cfb",
+          "_grecaptcha"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.conare.ac.cr",
+      "instante": "2026-11-06T04:04:13.965Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809489884.28536,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_ga",
+          "domain": ".conare.ac.cr",
+          "expires": 1828497857.326816,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "seguimiento.conare.ac.cr",
+          "expires": 1793958657.393951,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_TGM3FQFRLR",
+          "domain": ".conare.ac.cr",
+          "expires": 1828497883.258037,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com",
+        "_ga_TGM3FQFRLR@.conare.ac.cr",
+        "_ga@.conare.ac.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 4,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 4,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.476Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

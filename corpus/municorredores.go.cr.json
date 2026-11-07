@@ -1,0 +1,449 @@
+{
+  "sitio": "municorredores.go.cr",
+  "url": "https://www.municorredores.go.cr",
+  "auditadoEn": "2026-11-05T09:06:16.909Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.municorredores.go.cr",
+      "instante": "2026-11-05T09:04:14.071Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809421460.7644,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "X_CACHE_KEY",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": 1793955856.753326,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 32
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sb-updates",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": 1825426382.753416,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "bp_ut_session",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": 1828429458.279087,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 153
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": [
+          "wp-api-schema-modelhttps://www.municorredores.go.cr/wp-json/wp/v2/"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.municorredores.go.cr",
+      "instante": "2026-11-05T09:04:30.125Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809421473.954703,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "X_CACHE_KEY",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": 1793955870.394491,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 32
+        },
+        {
+          "name": "bp_ut_session",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": 1828429471.182132,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 153
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sb-updates",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": 1825426398.868625,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "srs_unique_visitor",
+          "domain": ".www.municorredores.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": [
+          "wp-api-schema-modelhttps://www.municorredores.go.cr/wp-json/wp/v2/"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.municorredores.go.cr",
+      "instante": "2026-11-05T09:04:46.398Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "X_CACHE_KEY",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": 1793955888.989778,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 32
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sb-updates",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": 1825426414.990045,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "bp_ut_session",
+          "domain": "www.municorredores.go.cr",
+          "path": "/",
+          "expires": 1828429489.866318,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 153
+        },
+        {
+          "name": "srs_unique_visitor",
+          "domain": ".www.municorredores.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "wp-api-schema-modelhttps://www.municorredores.go.cr/wp-json/wp/v2/"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.municorredores.go.cr",
+      "instante": "2026-11-05T09:05:07.368Z",
+      "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.municorredores.go.cr/",
+      "bitacora": [
+        "primer intento fallido (page.goto: net::ERR_NETWORK_CHANGED at https://www.municorredores.go.cr/); reintento con ritmo reducido"
+      ],
+      "banner": null,
+      "cookies": [],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": []
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.municorredores.go.cr",
+      "instante": "2026-11-05T09:05:34.646Z",
+      "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.municorredores.go.cr/",
+      "bitacora": [
+        "primer intento fallido (page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.municorredores.go.cr/); reintento con ritmo reducido"
+      ],
+      "banner": null,
+      "cookies": [],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.municorredores.go.cr",
+      "instante": "2026-11-05T09:05:57.448Z",
+      "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.municorredores.go.cr/",
+      "bitacora": [],
+      "banner": null,
+      "cookies": [],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": [],
+      "bannerReaparece": null
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 5,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "X_CACHE_KEY",
+      "dominio": "www.municorredores.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sb-updates",
+      "dominio": "www.municorredores.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "bp_ut_session",
+      "dominio": "www.municorredores.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "X_CACHE_KEY",
+      "dominio": "www.municorredores.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "bp_ut_session",
+      "dominio": "www.municorredores.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sb-updates",
+      "dominio": "www.municorredores.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "srs_unique_visitor",
+      "dominio": ".www.municorredores.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "X_CACHE_KEY",
+      "dominio": "www.municorredores.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sb-updates",
+      "dominio": "www.municorredores.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "bp_ut_session",
+      "dominio": "www.municorredores.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "srs_unique_visitor",
+      "dominio": ".www.municorredores.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 6,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 68.8,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

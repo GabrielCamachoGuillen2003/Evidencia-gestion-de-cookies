@@ -1,0 +1,523 @@
+{
+  "sitio": "mag.go.cr",
+  "url": "https://www.mag.go.cr",
+  "auditadoEn": "2026-11-04T22:52:18.101Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.mag.go.cr",
+      "instante": "2026-11-04T22:49:49.954Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809384594.692045,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".mag.go.cr",
+          "path": "/",
+          "expires": 1825368593.069207,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mag.go.cr",
+          "path": "/",
+          "expires": 1793834393.069316,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "_grecaptcha",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "cdn.userway.org",
+        "mag.soltig.net",
+        "gstatic.com",
+        "api.userway.org",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.mag.go.cr",
+      "instante": "2026-11-04T22:50:08.195Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809384612.759632,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".mag.go.cr",
+          "path": "/",
+          "expires": 1825368611.086071,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mag.go.cr",
+          "path": "/",
+          "expires": 1793834411.086145,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "_grecaptcha",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "cdn.userway.org",
+        "mag.soltig.net",
+        "gstatic.com",
+        "api.userway.org",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.mag.go.cr",
+      "instante": "2026-11-04T22:50:30.939Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809384635.88131,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".mag.go.cr",
+          "path": "/",
+          "expires": 1825368634.153706,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mag.go.cr",
+          "path": "/",
+          "expires": 1793834434.153782,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "_grecaptcha",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "cdn.userway.org",
+        "mag.soltig.net",
+        "gstatic.com",
+        "api.userway.org",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.mag.go.cr",
+      "instante": "2026-11-04T22:50:58.712Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809384663.061294,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".mag.go.cr",
+          "path": "/",
+          "expires": 1825368661.554863,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mag.go.cr",
+          "path": "/",
+          "expires": 1793834461.554941,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "_grecaptcha",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "cdn.userway.org",
+        "mag.soltig.net",
+        "gstatic.com",
+        "api.userway.org",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.mag.go.cr",
+      "instante": "2026-11-04T22:51:20.740Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809384699.987554,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".mag.go.cr",
+          "path": "/",
+          "expires": 1825368683.477646,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mag.go.cr",
+          "path": "/",
+          "expires": 1793834483.477711,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "_grecaptcha",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "cdn.userway.org",
+        "mag.soltig.net",
+        "gstatic.com",
+        "api.userway.org",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.mag.go.cr",
+      "instante": "2026-11-04T22:51:48.450Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809384731.902651,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".mag.go.cr",
+          "expires": 1825368711.149791,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mag.go.cr",
+          "expires": 1793834511.149937,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "mag.soltig.net",
+        "cdn.userway.org",
+        "google.com",
+        "gstatic.com",
+        "static.cloudflareinsights.com",
+        "api.userway.org",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 3,
+        "rastreadoresEnE0": 1
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 3,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

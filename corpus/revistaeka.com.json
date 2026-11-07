@@ -1,0 +1,1062 @@
+{
+  "sitio": "revistaeka.com",
+  "url": "https://www.revistaeka.com",
+  "auditadoEn": "2026-11-06T01:36:55.062Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.revistaeka.com",
+      "instante": "2026-11-06T01:35:19.057Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "traffic_target",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015319.486107,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "caf_ipaddr",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015319.486174,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 14
+        },
+        {
+          "name": "country",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015319.486202,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "lander_type",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015319.486229,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 7
+        },
+        {
+          "name": "_tccl_visitor",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1825464920,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_tccl_visit",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1793930720,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_scc_session",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1793930119,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "pvisitor",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1825464920,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "web-api.aws.parking.godaddy.com",
+          "path": "/",
+          "expires": 1794533721.070327,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "img1.wsimg.com",
+        "web-api.aws.parking.godaddy.com",
+        "csp.secureserver.net",
+        "widget.trustpilot.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.revistaeka.com",
+      "instante": "2026-11-06T01:35:34.559Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "traffic_target",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015334.902045,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "caf_ipaddr",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015334.902114,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 14
+        },
+        {
+          "name": "country",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015334.902141,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "lander_type",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015334.902168,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 7
+        },
+        {
+          "name": "_tccl_visitor",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1825464935,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_tccl_visit",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1793930735,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_scc_session",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1793930135,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "pvisitor",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1825464935,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "web-api.aws.parking.godaddy.com",
+          "path": "/",
+          "expires": 1794533735.092885,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "img1.wsimg.com",
+        "web-api.aws.parking.godaddy.com",
+        "csp.secureserver.net",
+        "widget.trustpilot.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.revistaeka.com",
+      "instante": "2026-11-06T01:35:50.105Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "traffic_target",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015350.477391,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "caf_ipaddr",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015350.477479,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 14
+        },
+        {
+          "name": "country",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015350.477506,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "lander_type",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015350.477532,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 7
+        },
+        {
+          "name": "_tccl_visitor",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1825464951,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_tccl_visit",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1793930751,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_scc_session",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1793930150,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "pvisitor",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1825464951,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "web-api.aws.parking.godaddy.com",
+          "path": "/",
+          "expires": 1794533751.149548,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "img1.wsimg.com",
+        "web-api.aws.parking.godaddy.com",
+        "csp.secureserver.net",
+        "widget.trustpilot.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.revistaeka.com",
+      "instante": "2026-11-06T01:36:05.812Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "traffic_target",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015366.131441,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "caf_ipaddr",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015366.131707,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 14
+        },
+        {
+          "name": "country",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015366.131835,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "lander_type",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015366.131955,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 7
+        },
+        {
+          "name": "_tccl_visitor",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1825464966,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_tccl_visit",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1793930766,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_scc_session",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1793930166,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "pvisitor",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1825464966,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "web-api.aws.parking.godaddy.com",
+          "path": "/",
+          "expires": 1794533767.492714,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "img1.wsimg.com",
+        "web-api.aws.parking.godaddy.com",
+        "csp.secureserver.net",
+        "widget.trustpilot.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.revistaeka.com",
+      "instante": "2026-11-06T01:36:21.323Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento sin tocar el banner; sin enlaces internos navegables"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "traffic_target",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015381.675825,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "caf_ipaddr",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015381.675903,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 14
+        },
+        {
+          "name": "country",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015381.675937,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "lander_type",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1794015381.675969,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 7
+        },
+        {
+          "name": "_tccl_visitor",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1825464982,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_tccl_visit",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1793930782,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_scc_session",
+          "domain": ".revistaeka.com",
+          "path": "/",
+          "expires": 1793930182,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "pvisitor",
+          "domain": "www.revistaeka.com",
+          "path": "/",
+          "expires": 1825464982,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "web-api.aws.parking.godaddy.com",
+          "path": "/",
+          "expires": 1794533782.126056,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "img1.wsimg.com",
+        "web-api.aws.parking.godaddy.com",
+        "csp.secureserver.net",
+        "widget.trustpilot.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.revistaeka.com",
+      "instante": "2026-11-06T01:36:38.227Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "traffic_target",
+          "domain": "www.revistaeka.com",
+          "expires": 1794015398.570434,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "caf_ipaddr",
+          "domain": "www.revistaeka.com",
+          "expires": 1794015398.570502,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 14
+        },
+        {
+          "name": "country",
+          "domain": "www.revistaeka.com",
+          "expires": 1794015398.570528,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "lander_type",
+          "domain": "www.revistaeka.com",
+          "expires": 1794015398.570553,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 7
+        },
+        {
+          "name": "_tccl_visitor",
+          "domain": ".revistaeka.com",
+          "expires": 1825465008,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_tccl_visit",
+          "domain": ".revistaeka.com",
+          "expires": 1793930808,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "pvisitor",
+          "domain": "www.revistaeka.com",
+          "expires": 1825465008,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "web-api.aws.parking.godaddy.com",
+          "expires": 1794533799.89811,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        },
+        {
+          "name": "_scc_session",
+          "domain": ".revistaeka.com",
+          "expires": 1793930208,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "img1.wsimg.com",
+        "web-api.aws.parking.godaddy.com",
+        "widget.trustpilot.com",
+        "csp.secureserver.net"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 9,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "traffic_target",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "caf_ipaddr",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "country",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "lander_type",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_tccl_visitor",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_tccl_visit",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_scc_session",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "pvisitor",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "traffic_target",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "caf_ipaddr",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "country",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "lander_type",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_tccl_visitor",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_tccl_visit",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_scc_session",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pvisitor",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "traffic_target",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "caf_ipaddr",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "country",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "lander_type",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_tccl_visitor",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_tccl_visit",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_scc_session",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "pvisitor",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "traffic_target",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "caf_ipaddr",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "country",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "lander_type",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_tccl_visitor",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_tccl_visit",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_scc_session",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "pvisitor",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "traffic_target",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "caf_ipaddr",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "country",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "lander_type",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_tccl_visitor",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_tccl_visit",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_scc_session",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "pvisitor",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "traffic_target",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "caf_ipaddr",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "country",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "lander_type",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_tccl_visitor",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_tccl_visit",
+      "dominio": ".revistaeka.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "pvisitor",
+      "dominio": "www.revistaeka.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_scc_session",
+      "dominio": ".revistaeka.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 9,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 88.9,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

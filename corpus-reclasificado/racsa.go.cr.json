@@ -1,0 +1,740 @@
+{
+  "sitio": "racsa.go.cr",
+  "url": "https://www.racsa.go.cr",
+  "auditadoEn": "2026-11-04T23:50:21.829Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.racsa.go.cr",
+      "instante": "2026-11-04T23:47:46.933Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "TS01d9da5b",
+          "domain": ".www.racsa.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793837868.024331,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "TSf5eca90d029",
+          "domain": "www.racsa.go.cr",
+          "path": "/",
+          "expires": 1793836098.141832,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 96
+        },
+        {
+          "name": "TS28878c4e027",
+          "domain": "www.racsa.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.elementor.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.racsa.go.cr",
+      "instante": "2026-11-04T23:48:03.443Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "TS01d9da5b",
+          "domain": ".www.racsa.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793837883.624459,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "TSf5eca90d029",
+          "domain": "www.racsa.go.cr",
+          "path": "/",
+          "expires": 1793836114.060561,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 96
+        },
+        {
+          "name": "TS28878c4e027",
+          "domain": "www.racsa.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.elementor.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.racsa.go.cr",
+      "instante": "2026-11-04T23:48:27.773Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "TS01d9da5b",
+          "domain": ".www.racsa.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793837907.976013,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "TSf5eca90d029",
+          "domain": "www.racsa.go.cr",
+          "path": "/",
+          "expires": 1793836138.405733,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 96
+        },
+        {
+          "name": "TS28878c4e027",
+          "domain": "www.racsa.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.elementor.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.racsa.go.cr",
+      "instante": "2026-11-04T23:49:00.409Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "TS01d9da5b",
+          "domain": ".www.racsa.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793837940.57898,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "TSf5eca90d029",
+          "domain": "www.racsa.go.cr",
+          "path": "/",
+          "expires": 1793836171.013692,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 96
+        },
+        {
+          "name": "TS28878c4e027",
+          "domain": "www.racsa.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.elementor.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.racsa.go.cr",
+      "instante": "2026-11-04T23:49:23.292Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "TS01d9da5b",
+          "domain": ".www.racsa.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793837963.4954,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".racsa.go.cr",
+          "path": "/",
+          "expires": 1801612177,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga",
+          "domain": ".racsa.go.cr",
+          "path": "/",
+          "expires": 1828396177.820595,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793837078.303143,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "TSf5eca90d029",
+          "domain": "www.racsa.go.cr",
+          "path": "/",
+          "expires": 1793836208.53934,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 96
+        },
+        {
+          "name": "TS28878c4e027",
+          "domain": "www.racsa.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801612178.727417,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_fbp",
+          "domain": ".racsa.go.cr",
+          "path": "/",
+          "expires": 1801612179,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_ga_KNTQRHWF5W",
+          "domain": ".racsa.go.cr",
+          "path": "/",
+          "expires": 1828396179.217252,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_Z6DDXPB2ZJ",
+          "domain": ".racsa.go.cr",
+          "path": "/",
+          "expires": 1828396179.221522,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "ea11y-global-state",
+          "elementor",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.elementor.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "facebook.com",
+        "capi-automation.s3.us-east-2.amazonaws.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.racsa.go.cr",
+      "instante": "2026-11-04T23:49:48.588Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "TS01d9da5b",
+          "domain": ".www.racsa.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "expires": 1793837988.760993,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "TS28878c4e027",
+          "domain": "www.racsa.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.elementor.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 4,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "TS01d9da5b",
+      "dominio": ".www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TSf5eca90d029",
+      "dominio": "www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TS28878c4e027",
+      "dominio": "www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TS01d9da5b",
+      "dominio": ".www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TSf5eca90d029",
+      "dominio": "www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TS28878c4e027",
+      "dominio": "www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TS01d9da5b",
+      "dominio": ".www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TSf5eca90d029",
+      "dominio": "www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TS28878c4e027",
+      "dominio": "www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TS01d9da5b",
+      "dominio": ".www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TSf5eca90d029",
+      "dominio": "www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TS28878c4e027",
+      "dominio": "www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TS01d9da5b",
+      "dominio": ".www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TSf5eca90d029",
+      "dominio": "www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TS28878c4e027",
+      "dominio": "www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "TS01d9da5b",
+      "dominio": ".www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "TS28878c4e027",
+      "dominio": "www.racsa.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 4,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 56.7,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.796Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

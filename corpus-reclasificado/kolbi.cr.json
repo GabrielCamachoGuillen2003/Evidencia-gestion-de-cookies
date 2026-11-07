@@ -1,0 +1,1463 @@
+{
+  "sitio": "kolbi.cr",
+  "url": "https://www.kolbi.cr",
+  "auditadoEn": "2026-11-05T01:52:56.628Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.kolbi.cr",
+      "instante": "2026-11-05T01:50:07.472Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.kolbi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827539408.654189,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825379408.662821,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539408,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539408,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_clck",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1825379409,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_clsk",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1793929809,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827539412.595176,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794448212.595238,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827539412.595261,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827539412.687284,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794448212.687338,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793844012.687367,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539418,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_D8K2T93C77UDLID6C5I0",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539418,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cse.google.com",
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "code.jquery.com",
+        "scripts.clarity.ms",
+        "google.com",
+        "analytics-ipv6.tiktokw.us",
+        "b.clarity.ms",
+        "clients1.google.com",
+        "c.clarity.ms",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "c.bing.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "scripts.clarity.ms",
+        "b.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com",
+        "pagead2.googlesyndication.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.kolbi.cr",
+      "instante": "2026-11-05T01:50:24.153Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.kolbi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827539426.759036,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825379426.83776,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539427,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539427,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_clck",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1825379427,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_clsk",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1793929828,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827539431.115435,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794448231.115513,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827539431.11554,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827539430.225301,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794448230.22541,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793844030.225465,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539437,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_D8K2T93C77UDLID6C5I0",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539437,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cse.google.com",
+        "code.jquery.com",
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "google.com",
+        "scripts.clarity.ms",
+        "analytics-ipv6.tiktokw.us",
+        "b.clarity.ms",
+        "clients1.google.com",
+        "c.clarity.ms",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "c.bing.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "scripts.clarity.ms",
+        "b.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.kolbi.cr",
+      "instante": "2026-11-05T01:50:52.006Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.kolbi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827539453.103486,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825379453.230714,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539453,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539453,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_clck",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1825379453,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_clsk",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1793929854,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827539458.365789,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794448258.365862,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827539458.365889,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827539458.479909,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794448258.479965,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793844058.479994,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539463,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_D8K2T93C77UDLID6C5I0",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539463,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cse.google.com",
+        "code.jquery.com",
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "google.com",
+        "scripts.clarity.ms",
+        "analytics-ipv6.tiktokw.us",
+        "clients1.google.com",
+        "a.clarity.ms",
+        "c.clarity.ms",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "pagead2.googlesyndication.com",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "scripts.clarity.ms",
+        "a.clarity.ms",
+        "c.clarity.ms",
+        "pagead2.googlesyndication.com",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.kolbi.cr",
+      "instante": "2026-11-05T01:51:26.988Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.kolbi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827539488.033087,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825379488.067189,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539488,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539488,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_clck",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1825379488,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_clsk",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1793929889,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827539491.580044,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794448291.580109,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827539491.580135,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827539490.684249,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794448290.684382,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793844090.68445,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539498,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_D8K2T93C77UDLID6C5I0",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539498,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cse.google.com",
+        "code.jquery.com",
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "google.com",
+        "scripts.clarity.ms",
+        "analytics-ipv6.tiktokw.us",
+        "clients1.google.com",
+        "t.clarity.ms",
+        "c.clarity.ms",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "c.bing.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "scripts.clarity.ms",
+        "t.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.kolbi.cr",
+      "instante": "2026-11-05T01:51:51.342Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.kolbi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827539529.509695,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825379513.676577,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539529,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539529,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_clck",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1825379514,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827539517.115455,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794448317.115518,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827539517.115544,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827539517.210518,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794448317.210558,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793844117.21061,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539529,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 91
+        },
+        {
+          "name": "ttcsid_D8K2T93C77UDLID6C5I0",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1827539529,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_clsk",
+          "domain": ".kolbi.cr",
+          "path": "/",
+          "expires": 1793929929,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cse.google.com",
+        "code.jquery.com",
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "google.com",
+        "scripts.clarity.ms",
+        "analytics-ipv6.tiktokw.us",
+        "clients1.google.com",
+        "k.clarity.ms",
+        "c.clarity.ms",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "c.bing.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "scripts.clarity.ms",
+        "k.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com",
+        "pagead2.googlesyndication.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.kolbi.cr",
+      "instante": "2026-11-05T01:52:19.003Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.kolbi.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "expires": 1825379540.13666,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "expires": 1827539569.270936,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_clck",
+          "domain": ".kolbi.cr",
+          "expires": 1825379540,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".kolbi.cr",
+          "expires": 1827539569,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".kolbi.cr",
+          "expires": 1827539569,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "expires": 1827539543.015039,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "expires": 1794448343.015262,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "expires": 1827539543.015396,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "expires": 1827539542.106965,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "expires": 1794448342.107007,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "expires": 1793844142.107028,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".kolbi.cr",
+          "expires": 1827539569,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "ttcsid_D8K2T93C77UDLID6C5I0",
+          "domain": ".kolbi.cr",
+          "expires": 1827539569,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_clsk",
+          "domain": ".kolbi.cr",
+          "expires": 1793929969,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cse.google.com",
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "google.com",
+        "scripts.clarity.ms",
+        "g.clarity.ms",
+        "code.jquery.com",
+        "clients1.google.com",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "clarity.ms",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "scripts.clarity.ms",
+        "g.clarity.ms",
+        "pagead2.googlesyndication.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ttp@.tiktok.com",
+        "CLID@www.clarity.ms",
+        "_tt_enable_cookie@.kolbi.cr",
+        "_ttp@.kolbi.cr",
+        "_clck@.kolbi.cr",
+        "_clsk@.kolbi.cr",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms",
+        "ttcsid@.kolbi.cr",
+        "ttcsid_D8K2T93C77UDLID6C5I0@.kolbi.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 16,
+        "rastreadoresEnE0": 8
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 16,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.621Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

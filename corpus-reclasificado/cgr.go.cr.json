@@ -1,0 +1,673 @@
+{
+  "sitio": "cgr.go.cr",
+  "url": "https://www.cgr.go.cr",
+  "auditadoEn": "2026-11-05T00:16:34.560Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.cgr.go.cr",
+      "instante": "2026-11-05T00:14:05.122Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "path": "/",
+          "expires": 1825373646.063659,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_K7VSZ0BB7K",
+          "domain": ".cgr.go.cr",
+          "path": "/",
+          "expires": 1828397647.215343,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga",
+          "domain": ".cgr.go.cr",
+          "path": "/",
+          "expires": 1828397647.215931,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "lz_userid",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "path": "/",
+          "expires": 1802477647.750747,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 100,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "cdn.userway.org",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.cgr.go.cr",
+      "instante": "2026-11-05T00:14:22.419Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "path": "/",
+          "expires": 1825373663.115755,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_K7VSZ0BB7K",
+          "domain": ".cgr.go.cr",
+          "path": "/",
+          "expires": 1828397664.42029,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".cgr.go.cr",
+          "path": "/",
+          "expires": 1828397664.421054,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "lz_userid",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "path": "/",
+          "expires": 1802477664.923624,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 100,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "cdn.userway.org",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.cgr.go.cr",
+      "instante": "2026-11-05T00:14:45.615Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "path": "/",
+          "expires": 1825373686.309896,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_K7VSZ0BB7K",
+          "domain": ".cgr.go.cr",
+          "path": "/",
+          "expires": 1828397687.594663,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga",
+          "domain": ".cgr.go.cr",
+          "path": "/",
+          "expires": 1828397687.59519,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "lz_userid",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "path": "/",
+          "expires": 1802477688.140783,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 100,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "cdn.userway.org",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.cgr.go.cr",
+      "instante": "2026-11-05T00:15:15.014Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "path": "/",
+          "expires": 1825373715.845347,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_K7VSZ0BB7K",
+          "domain": ".cgr.go.cr",
+          "path": "/",
+          "expires": 1828397717.115684,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".cgr.go.cr",
+          "path": "/",
+          "expires": 1828397717.116452,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "lz_userid",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "path": "/",
+          "expires": 1802477717.485598,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 100,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "cdn.userway.org",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.cgr.go.cr",
+      "instante": "2026-11-05T00:15:37.363Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "path": "/",
+          "expires": 1825373738.027584,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga",
+          "domain": ".cgr.go.cr",
+          "path": "/",
+          "expires": 1828397739.34815,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "lz_userid",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "path": "/",
+          "expires": 1802477739.696273,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 100,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_K7VSZ0BB7K",
+          "domain": ".cgr.go.cr",
+          "path": "/",
+          "expires": 1828397755.002948,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "cdn.userway.org",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.cgr.go.cr",
+      "instante": "2026-11-05T00:16:04.103Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "expires": 1825373764.793805,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga",
+          "domain": ".cgr.go.cr",
+          "expires": 1828397766.021286,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "lz_userid",
+          "domain": "cgrwebchat2.cgr.go.cr",
+          "expires": 1802477766.469046,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 100,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_K7VSZ0BB7K",
+          "domain": ".cgr.go.cr",
+          "expires": 1828397787.375942,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "cdn.userway.org",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_K7VSZ0BB7K@.cgr.go.cr",
+        "_ga@.cgr.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 4,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "cookiesession1",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "lz_userid",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cookiesession1",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "lz_userid",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cookiesession1",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "lz_userid",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cookiesession1",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "lz_userid",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cookiesession1",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "lz_userid",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cookiesession1",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "lz_userid",
+      "dominio": "cgrwebchat2.cgr.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 4,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 50,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.451Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

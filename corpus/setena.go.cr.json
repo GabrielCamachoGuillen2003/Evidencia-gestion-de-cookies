@@ -1,0 +1,512 @@
+{
+  "sitio": "setena.go.cr",
+  "url": "https://www.setena.go.cr",
+  "auditadoEn": "2026-11-06T05:05:07.375Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.setena.go.cr",
+      "instante": "2026-11-06T05:03:02.752Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.setena.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_88HF18Z96K",
+          "domain": ".setena.go.cr",
+          "path": "/",
+          "expires": 1828501384.280423,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".setena.go.cr",
+          "path": "/",
+          "expires": 1828501384.281135,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "jStorage"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "maps.google.com",
+        "googletagmanager.com",
+        "img.icons8.com",
+        "connect.facebook.net",
+        "cdnjs.cloudflare.com",
+        "ajax.googleapis.com",
+        "brm.io",
+        "kit.fontawesome.com",
+        "maps.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.setena.go.cr",
+      "instante": "2026-11-06T05:03:19.807Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.setena.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_88HF18Z96K",
+          "domain": ".setena.go.cr",
+          "path": "/",
+          "expires": 1828501401.189784,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".setena.go.cr",
+          "path": "/",
+          "expires": 1828501401.190756,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "jStorage"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "maps.google.com",
+        "googletagmanager.com",
+        "img.icons8.com",
+        "connect.facebook.net",
+        "cdnjs.cloudflare.com",
+        "ajax.googleapis.com",
+        "brm.io",
+        "kit.fontawesome.com",
+        "maps.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.setena.go.cr",
+      "instante": "2026-11-06T05:03:38.797Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.setena.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_88HF18Z96K",
+          "domain": ".setena.go.cr",
+          "path": "/",
+          "expires": 1828501420.063512,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".setena.go.cr",
+          "path": "/",
+          "expires": 1828501420.064389,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "jStorage"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "maps.google.com",
+        "googletagmanager.com",
+        "img.icons8.com",
+        "connect.facebook.net",
+        "cdnjs.cloudflare.com",
+        "ajax.googleapis.com",
+        "brm.io",
+        "kit.fontawesome.com",
+        "maps.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.setena.go.cr",
+      "instante": "2026-11-06T05:04:00.000Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.setena.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_88HF18Z96K",
+          "domain": ".setena.go.cr",
+          "path": "/",
+          "expires": 1828501441.352628,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".setena.go.cr",
+          "path": "/",
+          "expires": 1828501441.353077,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "jStorage"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "maps.google.com",
+        "googletagmanager.com",
+        "img.icons8.com",
+        "connect.facebook.net",
+        "cdnjs.cloudflare.com",
+        "ajax.googleapis.com",
+        "brm.io",
+        "kit.fontawesome.com",
+        "maps.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.setena.go.cr",
+      "instante": "2026-11-06T05:04:18.638Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.setena.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga",
+          "domain": ".setena.go.cr",
+          "path": "/",
+          "expires": 1828501459.907467,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_88HF18Z96K",
+          "domain": ".setena.go.cr",
+          "path": "/",
+          "expires": 1828501475.140488,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "jStorage"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "maps.google.com",
+        "googletagmanager.com",
+        "img.icons8.com",
+        "connect.facebook.net",
+        "cdnjs.cloudflare.com",
+        "ajax.googleapis.com",
+        "brm.io",
+        "kit.fontawesome.com",
+        "maps.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.setena.go.cr",
+      "instante": "2026-11-06T05:04:44.420Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.setena.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga",
+          "domain": ".setena.go.cr",
+          "expires": 1828501485.90084,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_88HF18Z96K",
+          "domain": ".setena.go.cr",
+          "expires": 1828501500.313474,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "maps.google.com",
+        "googletagmanager.com",
+        "img.icons8.com",
+        "connect.facebook.net",
+        "cdnjs.cloudflare.com",
+        "ajax.googleapis.com",
+        "brm.io",
+        "kit.fontawesome.com",
+        "maps.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_88HF18Z96K@.setena.go.cr",
+        "_ga@.setena.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 3,
+        "rastreadoresEnE0": 3
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 3,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

@@ -1,0 +1,864 @@
+{
+  "sitio": "mopt.go.cr",
+  "url": "https://www.mopt.go.cr",
+  "auditadoEn": "2026-11-04T23:06:52.613Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.mopt.go.cr",
+      "instante": "2026-11-04T23:04:43.789Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558284.474962,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558284.475204,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558284.475319,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558284.475419,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558284.475513,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_ga_07477VW4KC",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1828393486.21214,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1828393486.212978,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "analytics.google.com",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.mopt.go.cr",
+      "instante": "2026-11-04T23:05:02.015Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558302.593535,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558302.593787,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558302.593924,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558302.594081,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558302.594276,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_ga_07477VW4KC",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1828393504.14526,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1828393504.14579,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "analytics.google.com",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.mopt.go.cr",
+      "instante": "2026-11-04T23:05:21.356Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558322.236187,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558322.236257,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558322.236285,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558322.236308,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558322.236331,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_ga_07477VW4KC",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1828393523.939626,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1828393523.940225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "analytics.google.com",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.mopt.go.cr",
+      "instante": "2026-11-04T23:05:43.371Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558344.224056,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558344.224174,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558344.224227,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558344.224249,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558344.224285,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_ga_07477VW4KC",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1828393545.931215,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1828393545.931731,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "analytics.google.com",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.mopt.go.cr",
+      "instante": "2026-11-04T23:06:02.568Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558363.562448,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558363.562511,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558363.562534,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "_ga",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1828393565.584096,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzmc",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558380.390884,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1809558380.391384,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_ga_07477VW4KC",
+          "domain": ".mopt.go.cr",
+          "path": "/",
+          "expires": 1828393580.481862,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "analytics.google.com",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.mopt.go.cr",
+      "instante": "2026-11-04T23:06:29.676Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": ".mopt.go.cr",
+          "expires": 1809558390.540323,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": ".mopt.go.cr",
+          "expires": 1809558390.540397,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": ".mopt.go.cr",
+          "expires": 1809558390.540423,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": ".mopt.go.cr",
+          "expires": 1809558390.54045,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": ".mopt.go.cr",
+          "expires": 1809558390.540473,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_ga",
+          "domain": ".mopt.go.cr",
+          "expires": 1828393592.274405,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_07477VW4KC",
+          "domain": ".mopt.go.cr",
+          "expires": 1828393605.63242,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_07477VW4KC@.mopt.go.cr",
+        "_ga@.mopt.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 7,
+        "rastreadoresEnE0": 1
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__uzma",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmb",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzme",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmc",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmd",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzma",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmb",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzme",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmc",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmd",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzma",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmb",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzme",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmc",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmd",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzma",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmb",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzme",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmc",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmd",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzma",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmb",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzme",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmc",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmd",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzma",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmb",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzme",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmc",
+      "dominio": ".mopt.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmd",
+      "dominio": ".mopt.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 7,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 71.4,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

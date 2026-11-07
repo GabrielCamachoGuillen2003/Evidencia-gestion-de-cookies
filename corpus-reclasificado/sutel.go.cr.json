@@ -1,0 +1,512 @@
+{
+  "sitio": "sutel.go.cr",
+  "url": "https://www.sutel.go.cr",
+  "auditadoEn": "2026-11-04T23:53:09.635Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.sutel.go.cr",
+      "instante": "2026-11-04T23:50:59.559Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_XPN49FE24Q",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396260.704193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396260.704907,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_98Y5ZWJ3H2",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396260.950478,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "layout"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "xmv3.grupoalegacr.com",
+        "static.addtoany.com",
+        "fonts.gstatic.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.sutel.go.cr",
+      "instante": "2026-11-04T23:51:15.709Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_XPN49FE24Q",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396276.656101,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396276.656742,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_98Y5ZWJ3H2",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396276.945726,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "layout"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "xmv3.grupoalegacr.com",
+        "static.addtoany.com",
+        "fonts.gstatic.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.sutel.go.cr",
+      "instante": "2026-11-04T23:51:35.736Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_XPN49FE24Q",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396296.806636,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396296.807293,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_98Y5ZWJ3H2",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396296.874531,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "layout"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "xmv3.grupoalegacr.com",
+        "static.addtoany.com",
+        "fonts.gstatic.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.sutel.go.cr",
+      "instante": "2026-11-04T23:51:59.912Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_XPN49FE24Q",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396320.78499,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396320.785488,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_98Y5ZWJ3H2",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396321.020534,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "layout"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "xmv3.grupoalegacr.com",
+        "static.addtoany.com",
+        "fonts.gstatic.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.sutel.go.cr",
+      "instante": "2026-11-04T23:52:19.252Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396340.364703,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_XPN49FE24Q",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396355.250657,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_98Y5ZWJ3H2",
+          "domain": ".sutel.go.cr",
+          "path": "/",
+          "expires": 1828396355.270161,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "layout"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "xmv3.grupoalegacr.com",
+        "static.addtoany.com",
+        "fonts.gstatic.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.sutel.go.cr",
+      "instante": "2026-11-04T23:52:44.525Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".sutel.go.cr",
+          "expires": 1828396365.657329,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_XPN49FE24Q",
+          "domain": ".sutel.go.cr",
+          "expires": 1828396382.461577,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_98Y5ZWJ3H2",
+          "domain": ".sutel.go.cr",
+          "expires": 1828396382.478526,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "fonts.gstatic.com",
+        "xmv3.grupoalegacr.com",
+        "static.addtoany.com",
+        "fonts.googleapis.com",
+        "seal.atlas.globalsign.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_XPN49FE24Q@.sutel.go.cr",
+        "_ga@.sutel.go.cr",
+        "_ga_98Y5ZWJ3H2@.sutel.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 3,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 3,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.839Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

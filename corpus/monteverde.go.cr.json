@@ -1,0 +1,934 @@
+{
+  "sitio": "monteverde.go.cr",
+  "url": "https://monteverde.go.cr",
+  "auditadoEn": "2026-11-05T06:00:05.488Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://monteverde.go.cr",
+      "instante": "2026-11-05T05:57:28.408Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "d9b15ed29cd7ba892b38508e830f9314",
+          "domain": "monteverde.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "monteverde.go.cr",
+          "path": "/",
+          "expires": 1793901449.808519,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410250.18852,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410250.188622,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410250.188664,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410250.188695,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809669450.560813,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "live.staticflickr.com",
+        "embedr.flickr.com",
+        "youtube.com",
+        "calendar.google.com",
+        "fonts.gstatic.com",
+        "apis.google.com",
+        "gstatic.com",
+        "widgets.flickr.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "clients6.google.com",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://monteverde.go.cr",
+      "instante": "2026-11-05T05:57:50.266Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "d9b15ed29cd7ba892b38508e830f9314",
+          "domain": "monteverde.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "monteverde.go.cr",
+          "path": "/",
+          "expires": 1793901471.746575,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410271.054303,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410272.054398,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410272.054439,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410272.054499,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809669472.951533,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "live.staticflickr.com",
+        "embedr.flickr.com",
+        "fonts.googleapis.com",
+        "youtube.com",
+        "calendar.google.com",
+        "fonts.gstatic.com",
+        "apis.google.com",
+        "gstatic.com",
+        "widgets.flickr.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "clients6.google.com",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://monteverde.go.cr",
+      "instante": "2026-11-05T05:58:15.026Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "d9b15ed29cd7ba892b38508e830f9314",
+          "domain": "monteverde.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "monteverde.go.cr",
+          "path": "/",
+          "expires": 1793901496.372385,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410296.751844,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410296.751941,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410296.752005,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410296.752035,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809669496.92083,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "live.staticflickr.com",
+        "embedr.flickr.com",
+        "youtube.com",
+        "calendar.google.com",
+        "fonts.gstatic.com",
+        "widgets.flickr.com",
+        "apis.google.com",
+        "gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "clients6.google.com",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://monteverde.go.cr",
+      "instante": "2026-11-05T05:58:42.455Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "d9b15ed29cd7ba892b38508e830f9314",
+          "domain": "monteverde.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "monteverde.go.cr",
+          "path": "/",
+          "expires": 1793901523.768846,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410324.454716,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410324.454813,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410324.454853,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410324.454885,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809669524.05981,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 307
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "live.staticflickr.com",
+        "embedr.flickr.com",
+        "youtube.com",
+        "calendar.google.com",
+        "widgets.flickr.com",
+        "fonts.gstatic.com",
+        "apis.google.com",
+        "gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "clients6.google.com",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://monteverde.go.cr",
+      "instante": "2026-11-05T05:59:06.793Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "d9b15ed29cd7ba892b38508e830f9314",
+          "domain": "monteverde.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "monteverde.go.cr",
+          "path": "/",
+          "expires": 1793901548.182357,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410370.27921,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410370.279335,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809669548.413097,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 307
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410348.278844,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809410370.279046,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "live.staticflickr.com",
+        "embedr.flickr.com",
+        "youtube.com",
+        "calendar.google.com",
+        "fonts.gstatic.com",
+        "apis.google.com",
+        "gstatic.com",
+        "widgets.flickr.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "m.youtube.com",
+        "jnn-pa.googleapis.com",
+        "clients6.google.com",
+        "play.google.com",
+        "yt3.ggpht.com",
+        "combo.staticflickr.com"
+      ],
+      "peticionesRastreo": [
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://monteverde.go.cr",
+      "instante": "2026-11-05T05:59:39.257Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "d9b15ed29cd7ba892b38508e830f9314",
+          "domain": "monteverde.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "monteverde.go.cr",
+          "expires": 1793901582.294021,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809410398.594407,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809410398.594807,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "expires": 1809669582.31906,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809410382.59354,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809410398.594028,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "live.staticflickr.com",
+        "embedr.flickr.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "calendar.google.com",
+        "widgets.flickr.com",
+        "apis.google.com",
+        "gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "clients6.google.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "NID@.google.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 8,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "d9b15ed29cd7ba892b38508e830f9314",
+      "dominio": "monteverde.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sppb_user_timezone",
+      "dominio": "monteverde.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "d9b15ed29cd7ba892b38508e830f9314",
+      "dominio": "monteverde.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sppb_user_timezone",
+      "dominio": "monteverde.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "d9b15ed29cd7ba892b38508e830f9314",
+      "dominio": "monteverde.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sppb_user_timezone",
+      "dominio": "monteverde.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "d9b15ed29cd7ba892b38508e830f9314",
+      "dominio": "monteverde.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sppb_user_timezone",
+      "dominio": "monteverde.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "d9b15ed29cd7ba892b38508e830f9314",
+      "dominio": "monteverde.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sppb_user_timezone",
+      "dominio": "monteverde.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "d9b15ed29cd7ba892b38508e830f9314",
+      "dominio": "monteverde.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sppb_user_timezone",
+      "dominio": "monteverde.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 8,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 25,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

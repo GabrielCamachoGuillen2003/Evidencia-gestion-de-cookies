@@ -1,0 +1,1005 @@
+{
+  "sitio": "santaana.go.cr",
+  "url": "https://www.santaana.go.cr",
+  "auditadoEn": "2026-11-05T09:22:51.814Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.santaana.go.cr",
+      "instante": "2026-11-05T09:19:29.959Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_0STJSEZNRB",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1828430371.721533,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1828430371.722117,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793872172.524148,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422373.584527,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422373.58458,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1825406372.956405,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422372.584411,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422373.584632,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_webpushr",
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "_webpushrSessionLog",
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "cdn.elementor.com",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "cdn.webpushr.com",
+        "youtube.com",
+        "bot.webpushr.com",
+        "analytics.webpushr.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.santaana.go.cr",
+      "instante": "2026-11-05T09:19:47.883Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793872189.157648,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422390.387778,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422390.387897,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1825406389.79892,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "_ga_0STJSEZNRB",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1828430389.799893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1828430389.800427,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422389.387393,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422390.387617,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_webpushr",
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "_webpushrSessionLog",
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "cdn.elementor.com",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "cdn.webpushr.com",
+        "youtube.com",
+        "google-analytics.com",
+        "bot.webpushr.com",
+        "analytics.webpushr.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.santaana.go.cr",
+      "instante": "2026-11-05T09:20:19.180Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793872220.64667,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422421.894178,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422421.89424,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1825406421.303411,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "_ga_0STJSEZNRB",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1828430421.368992,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1828430421.36946,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422421.894044,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422421.894289,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_webpushr",
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "_webpushrSessionLog",
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "cdn.elementor.com",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "cdn.webpushr.com",
+        "youtube.com",
+        "google-analytics.com",
+        "bot.webpushr.com",
+        "analytics.webpushr.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.santaana.go.cr",
+      "instante": "2026-11-05T09:21:05.154Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793872266.401663,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422467.671387,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422467.671435,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1825406467.052182,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "_ga_0STJSEZNRB",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1828430467.130587,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1828430467.131187,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422466.671133,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422467.671308,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_webpushr",
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "_webpushrSessionLog",
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "cdn.elementor.com",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "cdn.webpushr.com",
+        "youtube.com",
+        "google-analytics.com",
+        "bot.webpushr.com",
+        "analytics.webpushr.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.santaana.go.cr",
+      "instante": "2026-11-05T09:21:34.288Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1828430495.918439,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793872296.306013,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1825406496.798268,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422514.258322,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422514.258398,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422496.40201,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809422497.402362,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "_ga_0STJSEZNRB",
+          "domain": ".santaana.go.cr",
+          "path": "/",
+          "expires": 1828430512.988468,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_webpushr",
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "_webpushrSessionLog",
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "cdn.elementor.com",
+        "static.cloudflareinsights.com",
+        "cdn.webpushr.com",
+        "youtube.com",
+        "bot.webpushr.com",
+        "analytics.webpushr.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "maps.gstatic.com",
+        "maps.googleapis.com",
+        "connect.facebook.net",
+        "facebook.com",
+        "yt3.ggpht.com",
+        "gstatic.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "static.cloudflareinsights.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "connect.facebook.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.santaana.go.cr",
+      "instante": "2026-11-05T09:22:02.738Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "expires": 1793872324.015154,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809422565.37589,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809422565.375982,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".santaana.go.cr",
+          "expires": 1825406524.735815,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "_ga",
+          "domain": ".santaana.go.cr",
+          "expires": 1828430524.816745,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809422524.355246,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809422525.355541,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_ga_0STJSEZNRB",
+          "domain": ".santaana.go.cr",
+          "expires": 1828430564.322135,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "cdn.elementor.com",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "cdn.webpushr.com",
+        "youtube.com",
+        "bot.webpushr.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_0STJSEZNRB@.santaana.go.cr",
+        "_ga@.santaana.go.cr",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-YNID@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 9,
+        "rastreadoresEnE0": 5
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 9,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.812Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

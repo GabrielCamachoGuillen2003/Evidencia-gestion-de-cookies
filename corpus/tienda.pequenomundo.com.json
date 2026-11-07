@@ -1,0 +1,712 @@
+{
+  "sitio": "tienda.pequenomundo.com",
+  "url": "https://tienda.pequenomundo.com",
+  "auditadoEn": "2026-11-06T00:46:18.906Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://tienda.pequenomundo.com",
+      "instante": "2026-11-06T00:43:48.261Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 4077
+        },
+        "cubrePantalla": true,
+        "texto": "¿Necesitas una cotización para tu negocio? ¡HAGA CLIC AQUÍ!\n Iniciar Sesión Servicio Al Cliente Localizador De Tiendas\nHola\n\nVer Cuenta\n\nHola\n\nIniciar sesión / Registrarse\n\nCarrito\n0\nCarrito de compras\nCATEGORÍAS\nNavidad\n \nJuguetes\n \nElectrodomésticos\n \nEstantes\n \nDecoración\nNuevos ingresos\nNUEVO\nIsla para cocina mdf 75x50x92cm\nRating:\n0%\n₡45 000,00\nAGREGAR AL CARRITO\nNUEVO\nHielera agarradera Igloo 26lt\nRating:\n0%\n₡19 500,00\nAGREGAR AL CARRITO\nNUEVO\nSet comedor paul madera y mdf 80x72cm\nRating:\n0%\n₡65 000,00\nAGREGAR AL CARRITO\nNUEVO\nAlcancía león cerámica 13.1x13.1x17.1cm\nRating:\n0%\n₡2 800,00\n"
+      },
+      "cookies": [
+        {
+          "name": "cf_clearance",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1825461829.786474,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "_hjSessionUser_3922929",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1825461830,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_3922929",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1793927630,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_ga",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1828485830.238952,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_CHNHC509E3",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1828485830.251851,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 52
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "3958ee0d-7c72-4e7f-8201-2aefcec381ce_isWidgetOpened"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "static.cloudflareinsights.com",
+        "livechat.infobip.com",
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "api.infobip.com",
+        "script.hotjar.com",
+        "vc.hotjar.io",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "api2.infobip.net",
+        "d1ygi81q02zqx0.cloudfront.net"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "script.hotjar.com",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://tienda.pequenomundo.com",
+      "instante": "2026-11-06T00:44:04.617Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 4077
+        },
+        "cubrePantalla": true,
+        "texto": "¿Necesitas una cotización para tu negocio? ¡HAGA CLIC AQUÍ!\n Iniciar Sesión Servicio Al Cliente Localizador De Tiendas\nHola\n\nVer Cuenta\n\nHola\n\nIniciar sesión / Registrarse\n\nCarrito\n0\nCarrito de compras\nCATEGORÍAS\nNavidad\n \nJuguetes\n \nElectrodomésticos\n \nEstantes\n \nDecoración\nNuevos ingresos\nNUEVO\nIsla para cocina mdf 75x50x92cm\nRating:\n0%\n₡45 000,00\nAGREGAR AL CARRITO\nNUEVO\nHielera agarradera Igloo 26lt\nRating:\n0%\n₡19 500,00\nAGREGAR AL CARRITO\nNUEVO\nSet comedor paul madera y mdf 80x72cm\nRating:\n0%\n₡65 000,00\nAGREGAR AL CARRITO\nNUEVO\nAlcancía león cerámica 13.1x13.1x17.1cm\nRating:\n0%\n₡2 800,00\n"
+      },
+      "cookies": [
+        {
+          "name": "cf_clearance",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1825461845.579061,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "_hjSessionUser_3922929",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1825461846,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_3922929",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1793927646,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_ga",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1828485846.169818,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_CHNHC509E3",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1828485846.181571,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "3958ee0d-7c72-4e7f-8201-2aefcec381ce_isWidgetOpened"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "static.cloudflareinsights.com",
+        "livechat.infobip.com",
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "api.infobip.com",
+        "script.hotjar.com",
+        "vc.hotjar.io",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "api2.infobip.net",
+        "d1ygi81q02zqx0.cloudfront.net"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "script.hotjar.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://tienda.pequenomundo.com",
+      "instante": "2026-11-06T00:44:28.282Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 4077
+        },
+        "cubrePantalla": true,
+        "texto": "¿Necesitas una cotización para tu negocio? ¡HAGA CLIC AQUÍ!\n Iniciar Sesión Servicio Al Cliente Localizador De Tiendas\nHola\n\nVer Cuenta\n\nHola\n\nIniciar sesión / Registrarse\n\nCarrito\n0\nCarrito de compras\nCATEGORÍAS\nNavidad\n \nJuguetes\n \nElectrodomésticos\n \nEstantes\n \nDecoración\nNuevos ingresos\nNUEVO\nIsla para cocina mdf 75x50x92cm\nRating:\n0%\n₡45 000,00\nAGREGAR AL CARRITO\nNUEVO\nHielera agarradera Igloo 26lt\nRating:\n0%\n₡19 500,00\nAGREGAR AL CARRITO\nNUEVO\nSet comedor paul madera y mdf 80x72cm\nRating:\n0%\n₡65 000,00\nAGREGAR AL CARRITO\nNUEVO\nAlcancía león cerámica 13.1x13.1x17.1cm\nRating:\n0%\n₡2 800,00\n"
+      },
+      "cookies": [
+        {
+          "name": "cf_clearance",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1825461869.435889,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "_hjSessionUser_3922929",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1825461869,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_3922929",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1793927669,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_ga",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1828485869.968632,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_CHNHC509E3",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1828485869.980702,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "3958ee0d-7c72-4e7f-8201-2aefcec381ce_isWidgetOpened"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "static.cloudflareinsights.com",
+        "livechat.infobip.com",
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "script.hotjar.com",
+        "api.infobip.com",
+        "vc.hotjar.io",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "api2.infobip.net",
+        "d1ygi81q02zqx0.cloudfront.net"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "script.hotjar.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://tienda.pequenomundo.com",
+      "instante": "2026-11-06T00:44:59.495Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 4077
+        },
+        "cubrePantalla": true,
+        "texto": "¿Necesitas una cotización para tu negocio? ¡HAGA CLIC AQUÍ!\n Iniciar Sesión Servicio Al Cliente Localizador De Tiendas\nHola\n\nVer Cuenta\n\nHola\n\nIniciar sesión / Registrarse\n\nCarrito\n0\nCarrito de compras\nCATEGORÍAS\nNavidad\n \nJuguetes\n \nElectrodomésticos\n \nEstantes\n \nDecoración\nNuevos ingresos\nNUEVO\nIsla para cocina mdf 75x50x92cm\nRating:\n0%\n₡45 000,00\nAGREGAR AL CARRITO\nNUEVO\nHielera agarradera Igloo 26lt\nRating:\n0%\n₡19 500,00\nAGREGAR AL CARRITO\nNUEVO\nSet comedor paul madera y mdf 80x72cm\nRating:\n0%\n₡65 000,00\nAGREGAR AL CARRITO\nNUEVO\nAlcancía león cerámica 13.1x13.1x17.1cm\nRating:\n0%\n₡2 800,00\n"
+      },
+      "cookies": [
+        {
+          "name": "cf_clearance",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1825461900.456284,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "_hjSessionUser_3922929",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1825461900,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_3922929",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1793927700,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_ga",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1828485901.109293,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_CHNHC509E3",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1828485901.122277,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "3958ee0d-7c72-4e7f-8201-2aefcec381ce_isWidgetOpened"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "static.cloudflareinsights.com",
+        "livechat.infobip.com",
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "api.infobip.com",
+        "script.hotjar.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "api2.infobip.net",
+        "d1ygi81q02zqx0.cloudfront.net"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "script.hotjar.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://tienda.pequenomundo.com",
+      "instante": "2026-11-06T00:45:21.951Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 4077
+        },
+        "cubrePantalla": true,
+        "texto": "¿Necesitas una cotización para tu negocio? ¡HAGA CLIC AQUÍ!\n Iniciar Sesión Servicio Al Cliente Localizador De Tiendas\nHola\n\nVer Cuenta\n\nHola\n\nIniciar sesión / Registrarse\n\nCarrito\n0\nCarrito de compras\nCATEGORÍAS\nNavidad\n \nJuguetes\n \nElectrodomésticos\n \nEstantes\n \nDecoración\nNuevos ingresos\nNUEVO\nIsla para cocina mdf 75x50x92cm\nRating:\n0%\n₡45 000,00\nAGREGAR AL CARRITO\nNUEVO\nHielera agarradera Igloo 26lt\nRating:\n0%\n₡19 500,00\nAGREGAR AL CARRITO\nNUEVO\nSet comedor paul madera y mdf 80x72cm\nRating:\n0%\n₡65 000,00\nAGREGAR AL CARRITO\nNUEVO\nAlcancía león cerámica 13.1x13.1x17.1cm\nRating:\n0%\n₡2 800,00\n"
+      },
+      "cookies": [
+        {
+          "name": "cf_clearance",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1825461923.00819,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "_hjSessionUser_3922929",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1825461923,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_3922929",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1793927723,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_ga",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1828485923.59515,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_CHNHC509E3",
+          "domain": ".pequenomundo.com",
+          "path": "/",
+          "expires": 1828485937.421902,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "3958ee0d-7c72-4e7f-8201-2aefcec381ce_isWidgetOpened"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "static.cloudflareinsights.com",
+        "livechat.infobip.com",
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "script.hotjar.com",
+        "api.infobip.com",
+        "vc.hotjar.io",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "api2.infobip.net",
+        "d1ygi81q02zqx0.cloudfront.net",
+        "engagement.infobip.com",
+        "challenges.cloudflare.com",
+        "brunhild.challenges.cloudflare.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "script.hotjar.com",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://tienda.pequenomundo.com",
+      "instante": "2026-11-06T00:45:46.530Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cf_clearance",
+          "domain": ".pequenomundo.com",
+          "expires": 1825461947.567837,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "_hjSessionUser_3922929",
+          "domain": ".pequenomundo.com",
+          "expires": 1825461947,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_3922929",
+          "domain": ".pequenomundo.com",
+          "expires": 1793927747,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_ga",
+          "domain": ".pequenomundo.com",
+          "expires": 1828485948.153906,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_CHNHC509E3",
+          "domain": ".pequenomundo.com",
+          "expires": 1828485969.768754,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "challenges.cloudflare.com",
+        "brunhild.challenges.cloudflare.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_hjSessionUser_3922929@.pequenomundo.com",
+        "_hjSession_3922929@.pequenomundo.com",
+        "_ga@.pequenomundo.com",
+        "_ga_CHNHC509E3@.pequenomundo.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V4",
+      "gravedad": "Alta",
+      "nombre": "Aceptación implícita por navegación",
+      "evidencia": [
+        "_hjSessionUser_3922929@.pequenomundo.com",
+        "_hjSession_3922929@.pequenomundo.com",
+        "_ga@.pequenomundo.com",
+        "_ga_CHNHC509E3@.pequenomundo.com"
+      ],
+      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 2,
+    "cotaSuperior": 2,
+    "criticas": [],
+    "universoReferencia": 5,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

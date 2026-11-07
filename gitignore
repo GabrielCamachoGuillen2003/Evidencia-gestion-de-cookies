@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Navegadores de Playwright: se instalan con `npx playwright install chromium`
+.cache/
+ms-playwright/
+
+# Carpetas de trabajo que se regeneran con los programas del repositorio.
+# El corpus NO se ignora: es la evidencia y tiene que estar publicado.
+clasificado/
+corpus-descartados/
+*-descartados.txt
+reintentar.txt
+revisar-en-chrome.txt
+submuestra-pendientes.txt
+
+# Respaldos automáticos
+confirmaciones-respaldo.json
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store

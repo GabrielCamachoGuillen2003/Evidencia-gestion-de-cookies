@@ -1,0 +1,1784 @@
+{
+  "sitio": "automercado.cr",
+  "url": "https://www.automercado.cr",
+  "auditadoEn": "2026-11-04T22:29:43.819Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.automercado.cr",
+      "instante": "2026-11-04T22:27:22.191Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "fs_lua",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833052,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 15
+        },
+        {
+          "name": "fs_uid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1825367253,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 119
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1801607253,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_gid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793917653,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-140651665-1",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793831313,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828391254.167121,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391254.365651,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_HBN2EQH21Q",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391254.370991,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 52
+        },
+        {
+          "name": "_ga_M0LVEB4204",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391254.374585,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "cusid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833054,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "cuvon",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833054,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_fbp",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1801607254,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "BVBRANDID",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1825367254,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "BVBRANDSID",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833054,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801607254.923358,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "previousUrl",
+          "global_singular_id",
+          "auto-volumen",
+          "mix-match",
+          "cart-guest",
+          "_gcl_ls",
+          "categories-submenu",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_instance_id",
+          "bogo",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_session_id",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_last_event_timestamp",
+          "lastExternalReferrerTime",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_web_url",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_did_send_event.__PAGE_VISIT__",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_did_visit_site",
+          "_fs_lua",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_first_page_visit_occurred",
+          "lastExternalReferrer",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_touchpoint_timestamp",
+          "_fs_uid"
+        ],
+        "sessionStorage": [
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_api_queue",
+          "_fs_tab_id"
+        ]
+      },
+      "terceros": [
+        "ik.imagekit.io",
+        "topsortassets.com",
+        "automercado.azure-api.net",
+        "firebase.googleapis.com",
+        "firestore.googleapis.com",
+        "edge.fullstory.com",
+        "firebaseinstallations.googleapis.com",
+        "maps.googleapis.com",
+        "googletagmanager.com",
+        "rs.fullstory.com",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "analytics.clickdimensions.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "apps.bazaarvoice.com",
+        "googleads.g.doubleclick.net",
+        "cms-production.azurewebsites.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "fh-118116076e9a4c2a96a99fbb70bea2a0.ecs.us-west-2.on.aws",
+        "facebook.com",
+        "sdk-api-v1.singular.net",
+        "network-a.bazaarvoice.com",
+        "ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws"
+      ],
+      "peticionesRastreo": [
+        "edge.fullstory.com",
+        "googletagmanager.com",
+        "rs.fullstory.com",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "facebook.com",
+        "sdk-api-v1.singular.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.automercado.cr",
+      "instante": "2026-11-04T22:27:40.320Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "fs_lua",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833068,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 15
+        },
+        {
+          "name": "fs_uid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1825367270,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 119
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1801607269,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_gid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793917669,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-140651665-1",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793831329,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "BVBRANDID",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1825367269,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "BVBRANDSID",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833069,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cusid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833069,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "cuvon",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833069,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828391270.300011,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391270.354864,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_HBN2EQH21Q",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391270.360396,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga_M0LVEB4204",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391270.364301,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1801607270,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801607270.70436,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "previousUrl",
+          "global_singular_id",
+          "auto-volumen",
+          "mix-match",
+          "cart-guest",
+          "_gcl_ls",
+          "categories-submenu",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_instance_id",
+          "bogo",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_session_id",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_last_event_timestamp",
+          "lastExternalReferrerTime",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_web_url",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_did_send_event.__PAGE_VISIT__",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_did_visit_site",
+          "_fs_lua",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_first_page_visit_occurred",
+          "lastExternalReferrer",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_touchpoint_timestamp",
+          "_fs_uid"
+        ],
+        "sessionStorage": [
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_api_queue",
+          "_fs_tab_id"
+        ]
+      },
+      "terceros": [
+        "topsortassets.com",
+        "automercado.azure-api.net",
+        "firebase.googleapis.com",
+        "firestore.googleapis.com",
+        "edge.fullstory.com",
+        "firebaseinstallations.googleapis.com",
+        "maps.googleapis.com",
+        "googletagmanager.com",
+        "rs.fullstory.com",
+        "ik.imagekit.io",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "analytics.clickdimensions.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "apps.bazaarvoice.com",
+        "cms-production.azurewebsites.net",
+        "network-a.bazaarvoice.com",
+        "sdk-api-v1.singular.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "fh-118116076e9a4c2a96a99fbb70bea2a0.ecs.us-west-2.on.aws",
+        "facebook.com",
+        "ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws"
+      ],
+      "peticionesRastreo": [
+        "edge.fullstory.com",
+        "googletagmanager.com",
+        "rs.fullstory.com",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "sdk-api-v1.singular.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.automercado.cr",
+      "instante": "2026-11-04T22:28:01.086Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "fs_lua",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833092,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 15
+        },
+        {
+          "name": "fs_uid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1825367294,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 119
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1801607293,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_gid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793917693,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-140651665-1",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793831353,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828391293.726411,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391293.909961,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_HBN2EQH21Q",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391293.916006,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga_M0LVEB4204",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391293.919834,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "cusid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833094,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "cuvon",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833094,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_fbp",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1801607294,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "BVBRANDID",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1825367294,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "BVBRANDSID",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833094,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801607294.441183,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "previousUrl",
+          "global_singular_id",
+          "auto-volumen",
+          "mix-match",
+          "cart-guest",
+          "_gcl_ls",
+          "categories-submenu",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_instance_id",
+          "bogo",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_session_id",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_last_event_timestamp",
+          "lastExternalReferrerTime",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_web_url",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_did_send_event.__PAGE_VISIT__",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_did_visit_site",
+          "_fs_lua",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_first_page_visit_occurred",
+          "lastExternalReferrer",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_touchpoint_timestamp",
+          "_fs_uid"
+        ],
+        "sessionStorage": [
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_api_queue",
+          "_fs_tab_id"
+        ]
+      },
+      "terceros": [
+        "ik.imagekit.io",
+        "topsortassets.com",
+        "automercado.azure-api.net",
+        "firebase.googleapis.com",
+        "firestore.googleapis.com",
+        "edge.fullstory.com",
+        "firebaseinstallations.googleapis.com",
+        "maps.googleapis.com",
+        "googletagmanager.com",
+        "rs.fullstory.com",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "analytics.clickdimensions.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "apps.bazaarvoice.com",
+        "googleads.g.doubleclick.net",
+        "cms-production.azurewebsites.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "fh-118116076e9a4c2a96a99fbb70bea2a0.ecs.us-west-2.on.aws",
+        "facebook.com",
+        "sdk-api-v1.singular.net",
+        "ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws",
+        "network-a.bazaarvoice.com"
+      ],
+      "peticionesRastreo": [
+        "edge.fullstory.com",
+        "googletagmanager.com",
+        "rs.fullstory.com",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "facebook.com",
+        "sdk-api-v1.singular.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.automercado.cr",
+      "instante": "2026-11-04T22:28:29.275Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "fs_lua",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833115,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 15
+        },
+        {
+          "name": "fs_uid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1825367317,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 119
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1801607316,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_gid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793917716,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-140651665-1",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793831376,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "BVBRANDID",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1825367316,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "BVBRANDSID",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833116,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cusid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833116,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "cuvon",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833116,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828391317.457656,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391317.761709,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_HBN2EQH21Q",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391317.769692,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga_M0LVEB4204",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391317.773547,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1801607317,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801607318.151699,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "previousUrl",
+          "global_singular_id",
+          "auto-volumen",
+          "mix-match",
+          "cart-guest",
+          "_gcl_ls",
+          "categories-submenu",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_instance_id",
+          "bogo",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_session_id",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_last_event_timestamp",
+          "lastExternalReferrerTime",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_web_url",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_did_send_event.__PAGE_VISIT__",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_did_visit_site",
+          "_fs_lua",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_first_page_visit_occurred",
+          "lastExternalReferrer",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_touchpoint_timestamp",
+          "_fs_uid"
+        ],
+        "sessionStorage": [
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_api_queue",
+          "_fs_tab_id"
+        ]
+      },
+      "terceros": [
+        "ik.imagekit.io",
+        "topsortassets.com",
+        "automercado.azure-api.net",
+        "firebase.googleapis.com",
+        "firestore.googleapis.com",
+        "edge.fullstory.com",
+        "firebaseinstallations.googleapis.com",
+        "maps.googleapis.com",
+        "googletagmanager.com",
+        "rs.fullstory.com",
+        "apps.bazaarvoice.com",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "analytics.clickdimensions.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "cms-production.azurewebsites.net",
+        "network-a.bazaarvoice.com",
+        "sdk-api-v1.singular.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "fh-118116076e9a4c2a96a99fbb70bea2a0.ecs.us-west-2.on.aws",
+        "facebook.com",
+        "ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws"
+      ],
+      "peticionesRastreo": [
+        "edge.fullstory.com",
+        "googletagmanager.com",
+        "rs.fullstory.com",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "sdk-api-v1.singular.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.automercado.cr",
+      "instante": "2026-11-04T22:28:47.479Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1801607334,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_gid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793917744,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-140651665-1",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793831394,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "BVBRANDID",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1825367334,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "BVBRANDSID",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833134,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cusid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833143,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828391335.182771,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_fbp",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1801607344,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 34
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801607335.744449,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "cuvon",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833143,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "fs_lua",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1793833143,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 15
+        },
+        {
+          "name": "fs_uid",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1825367337,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 119
+        },
+        {
+          "name": "_ga_HBN2EQH21Q",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391344.664116,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga_M0LVEB4204",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391344.667973,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".automercado.cr",
+          "path": "/",
+          "expires": 1828391344.695559,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "previousUrl",
+          "global_singular_id",
+          "auto-volumen",
+          "mix-match",
+          "cart-guest",
+          "_gcl_ls",
+          "categories-submenu",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_instance_id",
+          "bogo",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_session_id",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_last_event_timestamp",
+          "lastExternalReferrerTime",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_web_url",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_did_send_event.__PAGE_VISIT__",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_did_visit_site",
+          "_fs_lua",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_first_page_visit_occurred",
+          "lastExternalReferrer",
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_touchpoint_timestamp",
+          "_fs_uid"
+        ],
+        "sessionStorage": [
+          "7edc1622244e6ee9ec9a6ef6499cb7c1ceb4444fca7ee5d3aac011b9406ca50d_cr.automercado_singular_api_queue",
+          "_fs_tab_id"
+        ]
+      },
+      "terceros": [
+        "ik.imagekit.io",
+        "topsortassets.com",
+        "automercado.azure-api.net",
+        "firebase.googleapis.com",
+        "firestore.googleapis.com",
+        "edge.fullstory.com",
+        "firebaseinstallations.googleapis.com",
+        "maps.googleapis.com",
+        "googletagmanager.com",
+        "rs.fullstory.com",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "analytics.clickdimensions.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "apps.bazaarvoice.com",
+        "cms-production.azurewebsites.net",
+        "network-a.bazaarvoice.com",
+        "sdk-api-v1.singular.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "fh-118116076e9a4c2a96a99fbb70bea2a0.ecs.us-west-2.on.aws",
+        "facebook.com",
+        "ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws"
+      ],
+      "peticionesRastreo": [
+        "edge.fullstory.com",
+        "googletagmanager.com",
+        "rs.fullstory.com",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "sdk-api-v1.singular.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.automercado.cr",
+      "instante": "2026-11-04T22:29:11.909Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".automercado.cr",
+          "expires": 1801607360,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_gid",
+          "domain": ".automercado.cr",
+          "expires": 1793917778,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-140651665-1",
+          "domain": ".automercado.cr",
+          "expires": 1793831420,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "bv_metrics",
+          "domain": "automercado.cr",
+          "expires": 1793838573,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828391361.185249,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "BVBRANDID",
+          "domain": ".automercado.cr",
+          "expires": 1825367361,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "BVBRANDSID",
+          "domain": ".automercado.cr",
+          "expires": 1793833161,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cusid",
+          "domain": ".automercado.cr",
+          "expires": 1793833177,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_fbp",
+          "domain": ".automercado.cr",
+          "expires": 1801607378,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801607362.112794,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "cuvon",
+          "domain": ".automercado.cr",
+          "expires": 1793833177,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "fs_lua",
+          "domain": ".automercado.cr",
+          "expires": 1793833177,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 15
+        },
+        {
+          "name": "fs_uid",
+          "domain": ".automercado.cr",
+          "expires": 1825367362,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 119
+        },
+        {
+          "name": "_ga_HBN2EQH21Q",
+          "domain": ".automercado.cr",
+          "expires": 1828391378.670061,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga_M0LVEB4204",
+          "domain": ".automercado.cr",
+          "expires": 1828391378.673825,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".automercado.cr",
+          "expires": 1828391378.699628,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "ik.imagekit.io",
+        "topsortassets.com",
+        "automercado.azure-api.net",
+        "firebase.googleapis.com",
+        "firestore.googleapis.com",
+        "edge.fullstory.com",
+        "googletagmanager.com",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "analytics.clickdimensions.com",
+        "google.com",
+        "rs.fullstory.com",
+        "googleads.g.doubleclick.net",
+        "maps.googleapis.com",
+        "cms-production.azurewebsites.net",
+        "apps.bazaarvoice.com",
+        "analytics.google.com",
+        "google.co.cr",
+        "sdk-api-v1.singular.net",
+        "fh-118116076e9a4c2a96a99fbb70bea2a0.ecs.us-west-2.on.aws",
+        "facebook.com",
+        "network-a.bazaarvoice.com",
+        "ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws"
+      ],
+      "peticionesRastreo": [
+        "edge.fullstory.com",
+        "googletagmanager.com",
+        "web-sdk-cdn.singular.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "rs.fullstory.com",
+        "googleads.g.doubleclick.net",
+        "sdk-api-v1.singular.net",
+        "facebook.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_gid@.automercado.cr",
+        "_gat_UA-140651665-1@.automercado.cr",
+        "IDE@.doubleclick.net",
+        "_ga@.automercado.cr",
+        "_ga_HBN2EQH21Q@.automercado.cr",
+        "_ga_M0LVEB4204@.automercado.cr",
+        "_fbp@.automercado.cr",
+        "fr@.facebook.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 15,
+        "rastreadoresEnE0": 11
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "fs_lua",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "fs_uid",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "cusid",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "cuvon",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "BVBRANDID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "BVBRANDSID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "fs_lua",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "fs_uid",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "BVBRANDID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "BVBRANDSID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cusid",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cuvon",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "fs_lua",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "fs_uid",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cusid",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cuvon",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "BVBRANDID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "BVBRANDSID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "fs_lua",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "fs_uid",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "BVBRANDID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "BVBRANDSID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cusid",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cuvon",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "BVBRANDID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "BVBRANDSID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cusid",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cuvon",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "fs_lua",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "fs_uid",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "bv_metrics",
+      "dominio": "automercado.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "BVBRANDID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "BVBRANDSID",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cusid",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cuvon",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "fs_lua",
+      "dominio": ".automercado.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "fs_uid",
+      "dominio": ".automercado.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 15,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 47.3,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

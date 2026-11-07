@@ -1,0 +1,820 @@
+{
+  "sitio": "munialajuela.go.cr",
+  "url": "https://www.munialajuela.go.cr",
+  "auditadoEn": "2026-11-05T00:23:06.950Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.munialajuela.go.cr",
+      "instante": "2026-11-05T00:21:05.472Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([class*=\"close\" i][class*=\"ad\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 779
+        },
+        {
+          "name": "MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 184
+        },
+        {
+          "name": "HASH_MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1825374067.072004,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 646
+        },
+        {
+          "name": "_ga_9H49G2QHFB",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1828398067.493422,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1828398067.49402,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "_cfPre_tabId"
+        ]
+      },
+      "terceros": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "console.chathub.ai",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.munialajuela.go.cr",
+      "instante": "2026-11-05T00:21:16.923Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([class*=\"close\" i][class*=\"ad\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1079
+        },
+        {
+          "name": "MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 190
+        },
+        {
+          "name": "HASH_MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1825374078.232865,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 646
+        },
+        {
+          "name": "_ga_9H49G2QHFB",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1828398078.688108,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1828398078.688707,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "_cfPre_tabId"
+        ]
+      },
+      "terceros": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "console.chathub.ai",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.munialajuela.go.cr",
+      "instante": "2026-11-05T00:21:34.305Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([class*=\"close\" i][class*=\"ad\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1051
+        },
+        {
+          "name": "MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 184
+        },
+        {
+          "name": "HASH_MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1825374095.797759,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 646
+        },
+        {
+          "name": "_ga_9H49G2QHFB",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1828398096.23874,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1828398096.239531,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "_cfPre_tabId"
+        ]
+      },
+      "terceros": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "console.chathub.ai",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.munialajuela.go.cr",
+      "instante": "2026-11-05T00:21:58.488Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([class*=\"close\" i][class*=\"ad\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1066
+        },
+        {
+          "name": "MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 182
+        },
+        {
+          "name": "HASH_MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1825374120.090074,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 646
+        },
+        {
+          "name": "_ga_9H49G2QHFB",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1828398120.629259,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1828398120.629789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "_cfPre_tabId"
+        ]
+      },
+      "terceros": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "console.chathub.ai",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.munialajuela.go.cr",
+      "instante": "2026-11-05T00:22:15.488Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([class*=\"close\" i][class*=\"ad\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 770
+        },
+        {
+          "name": "MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 184
+        },
+        {
+          "name": "HASH_MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "_ga",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1828398137.599541,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_9H49G2QHFB",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1828398147.021283,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".munialajuela.go.cr",
+          "path": "/",
+          "expires": 1825374147.02236,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 646
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "_cfPre_tabId"
+        ]
+      },
+      "terceros": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "console.chathub.ai",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.munialajuela.go.cr",
+      "instante": "2026-11-05T00:22:36.097Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.munialajuela.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 755
+        },
+        {
+          "name": "MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 186
+        },
+        {
+          "name": "HASH_MuniAlajuela",
+          "domain": "www.munialajuela.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "_ga",
+          "domain": ".munialajuela.go.cr",
+          "expires": 1828398157.822071,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".munialajuela.go.cr",
+          "expires": 1825374180.079501,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 646
+        },
+        {
+          "name": "_ga_9H49G2QHFB",
+          "domain": ".munialajuela.go.cr",
+          "expires": 1828398180.080456,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "console.chathub.ai",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_9H49G2QHFB@.munialajuela.go.cr",
+        "_ga@.munialajuela.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 6,
+        "rastreadoresEnE0": 3
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__cf_ob",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "HASH_MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__cf_ob",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "HASH_MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__cf_ob",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "HASH_MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__cf_ob",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "HASH_MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__cf_ob",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "HASH_MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__cf_ob",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "HASH_MuniAlajuela",
+      "dominio": "www.munialajuela.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 6,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 50,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.707Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

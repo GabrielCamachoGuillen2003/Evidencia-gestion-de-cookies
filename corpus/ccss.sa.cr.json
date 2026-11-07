@@ -1,0 +1,662 @@
+{
+  "sitio": "ccss.sa.cr",
+  "url": "https://www.ccss.sa.cr",
+  "auditadoEn": "2026-11-04T21:25:07.250Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.ccss.sa.cr",
+      "instante": "2026-11-04T21:22:39.443Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "www.ccss.sa.cr",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "TS012cdcb9",
+          "domain": ".www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 202
+        },
+        {
+          "name": "TS76ee4a1a027",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ccss_metrica_token"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.ccss.sa.cr",
+      "instante": "2026-11-04T21:22:55.816Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "www.ccss.sa.cr",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "TS012cdcb9",
+          "domain": ".www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 202
+        },
+        {
+          "name": "TS76ee4a1a027",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ccss_metrica_token"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.ccss.sa.cr",
+      "instante": "2026-11-04T21:23:18.697Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 105
+        },
+        {
+          "name": "www.ccss.sa.cr",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "TS012cdcb9",
+          "domain": ".www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 202
+        },
+        {
+          "name": "TS76ee4a1a027",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ccss_metrica_token"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.ccss.sa.cr",
+      "instante": "2026-11-04T21:23:49.787Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 105
+        },
+        {
+          "name": "www.ccss.sa.cr",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "TS012cdcb9",
+          "domain": ".www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 202
+        },
+        {
+          "name": "TS76ee4a1a027",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ccss_metrica_token"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.ccss.sa.cr",
+      "instante": "2026-11-04T21:24:11.235Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 105
+        },
+        {
+          "name": "www.ccss.sa.cr",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "TS012cdcb9",
+          "domain": ".www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 202
+        },
+        {
+          "name": "TS76ee4a1a027",
+          "domain": "www.ccss.sa.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ccss_metrica_token"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.ccss.sa.cr",
+      "instante": "2026-11-04T21:24:36.222Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "www.ccss.sa.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".ccss.sa.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "www.ccss.sa.cr",
+          "domain": "www.ccss.sa.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "TS012cdcb9",
+          "domain": ".www.ccss.sa.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 202
+        },
+        {
+          "name": "TS76ee4a1a027",
+          "domain": "www.ccss.sa.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 5,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "dtCookie",
+      "dominio": ".ccss.sa.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "www.ccss.sa.cr",
+      "dominio": "www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TS012cdcb9",
+      "dominio": ".www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TS76ee4a1a027",
+      "dominio": "www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "dtCookie",
+      "dominio": ".ccss.sa.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "www.ccss.sa.cr",
+      "dominio": "www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TS012cdcb9",
+      "dominio": ".www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TS76ee4a1a027",
+      "dominio": "www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "dtCookie",
+      "dominio": ".ccss.sa.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "www.ccss.sa.cr",
+      "dominio": "www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TS012cdcb9",
+      "dominio": ".www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TS76ee4a1a027",
+      "dominio": "www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "dtCookie",
+      "dominio": ".ccss.sa.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "www.ccss.sa.cr",
+      "dominio": "www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TS012cdcb9",
+      "dominio": ".www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TS76ee4a1a027",
+      "dominio": "www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "dtCookie",
+      "dominio": ".ccss.sa.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "www.ccss.sa.cr",
+      "dominio": "www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TS012cdcb9",
+      "dominio": ".www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TS76ee4a1a027",
+      "dominio": "www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "dtCookie",
+      "dominio": ".ccss.sa.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "www.ccss.sa.cr",
+      "dominio": "www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "TS012cdcb9",
+      "dominio": ".www.ccss.sa.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "TS76ee4a1a027",
+      "dominio": "www.ccss.sa.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 5,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 80,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

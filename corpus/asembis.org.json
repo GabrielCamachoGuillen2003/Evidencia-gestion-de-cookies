@@ -1,0 +1,851 @@
+{
+  "sitio": "asembis.org",
+  "url": "https://www.asembis.org",
+  "auditadoEn": "2026-11-06T00:57:34.657Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.asembis.org",
+      "instante": "2026-11-06T00:55:20.189Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809478523.092083,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "cookiesession1",
+          "domain": "www.asembis.org",
+          "path": "/",
+          "expires": 1825462520.738711,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "path": "/",
+          "expires": 1793928321.083694,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1828486521.682705,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1801702521,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_8D3NTEZ0HC",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1828486521.708687,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927423.459592,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "widgets.leadconnectorhq.com",
+        "cdnjs.cloudflare.com",
+        "gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "fonts.gstatic.com",
+        "services.leadconnectorhq.com",
+        "maxcdn.bootstrapcdn.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.asembis.org",
+      "instante": "2026-11-06T00:55:37.909Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "www.asembis.org",
+          "path": "/",
+          "expires": 1825462539.297496,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "path": "/",
+          "expires": 1793928338.501335,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1828486538.951965,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1801702538,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_8D3NTEZ0HC",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1828486538.982706,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927439.208532,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "widgets.leadconnectorhq.com",
+        "cdnjs.cloudflare.com",
+        "gstatic.com",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "services.leadconnectorhq.com",
+        "maxcdn.bootstrapcdn.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.asembis.org",
+      "instante": "2026-11-06T00:55:57.964Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809478559.354383,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "cookiesession1",
+          "domain": "www.asembis.org",
+          "path": "/",
+          "expires": 1825462558.278145,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "path": "/",
+          "expires": 1793928358.495188,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1828486558.833056,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1801702558,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_8D3NTEZ0HC",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1828486558.864691,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927459.08255,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "widgets.leadconnectorhq.com",
+        "cdnjs.cloudflare.com",
+        "gstatic.com",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "services.leadconnectorhq.com",
+        "maxcdn.bootstrapcdn.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.asembis.org",
+      "instante": "2026-11-06T00:56:20.355Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809478582.063656,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "cookiesession1",
+          "domain": "www.asembis.org",
+          "path": "/",
+          "expires": 1825462580.798547,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "path": "/",
+          "expires": 1793928381.012222,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1828486581.386536,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1801702581,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_8D3NTEZ0HC",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1828486581.41241,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927481.734387,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "widgets.leadconnectorhq.com",
+        "cdnjs.cloudflare.com",
+        "gstatic.com",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "services.leadconnectorhq.com",
+        "maxcdn.bootstrapcdn.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.asembis.org",
+      "instante": "2026-11-06T00:56:39.762Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "www.asembis.org",
+          "path": "/",
+          "expires": 1825462600.111189,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "path": "/",
+          "expires": 1793928400.339414,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1828486616.946127,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1801702601,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_8D3NTEZ0HC",
+          "domain": ".asembis.org",
+          "path": "/",
+          "expires": 1828486616.962356,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828486617.135571,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "widgets.leadconnectorhq.com",
+        "cdnjs.cloudflare.com",
+        "gstatic.com",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "services.leadconnectorhq.com",
+        "maxcdn.bootstrapcdn.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.asembis.org",
+      "instante": "2026-11-06T00:57:06.197Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809478647.73208,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "cookiesession1",
+          "domain": "www.asembis.org",
+          "expires": 1825462627.530487,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "expires": 1793928426.729862,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga",
+          "domain": ".asembis.org",
+          "expires": 1828486647.458412,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".asembis.org",
+          "expires": 1801702627,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_8D3NTEZ0HC",
+          "domain": ".asembis.org",
+          "expires": 1828486647.473072,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828486647.689383,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "widgets.leadconnectorhq.com",
+        "cdnjs.cloudflare.com",
+        "gstatic.com",
+        "googleads.g.doubleclick.net",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "services.leadconnectorhq.com",
+        "google.co.cr",
+        "maxcdn.bootstrapcdn.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com",
+        "_ga@.asembis.org",
+        "_ga_8D3NTEZ0HC@.asembis.org",
+        "test_cookie@.doubleclick.net"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 7,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "cookiesession1",
+      "dominio": "www.asembis.org"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".asembis.org"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cookiesession1",
+      "dominio": "www.asembis.org"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".asembis.org"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cookiesession1",
+      "dominio": "www.asembis.org"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".asembis.org"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cookiesession1",
+      "dominio": "www.asembis.org"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".asembis.org"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cookiesession1",
+      "dominio": "www.asembis.org"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".asembis.org"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cookiesession1",
+      "dominio": "www.asembis.org"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".asembis.org"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 6,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 30,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

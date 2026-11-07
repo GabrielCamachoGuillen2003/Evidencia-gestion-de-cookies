@@ -1,0 +1,597 @@
+{
+  "sitio": "mtss.go.cr",
+  "url": "https://www.mtss.go.cr",
+  "auditadoEn": "2026-11-04T23:13:00.182Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.mtss.go.cr",
+      "instante": "2026-11-04T23:10:43.793Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cf_clearance",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1825369844.425541,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1793835644.425612,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_5SLQYDGBV1",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393844.838551,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393844.839181,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_W725Y9BQDF",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393844.846219,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.gstatic.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.mtss.go.cr",
+      "instante": "2026-11-04T23:10:59.568Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cf_clearance",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1825369860.852323,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1793835660.852422,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_5SLQYDGBV1",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393861.296853,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393861.297422,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_W725Y9BQDF",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393861.302855,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.gstatic.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.mtss.go.cr",
+      "instante": "2026-11-04T23:11:21.413Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cf_clearance",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1825369881.865865,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1793835681.865941,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_5SLQYDGBV1",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393882.260398,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393882.260945,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_W725Y9BQDF",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393882.266976,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.gstatic.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.mtss.go.cr",
+      "instante": "2026-11-04T23:11:47.717Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cf_clearance",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1825369908.174707,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1793835708.174815,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_5SLQYDGBV1",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393908.541233,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393908.541795,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_W725Y9BQDF",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393908.547977,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.gstatic.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.mtss.go.cr",
+      "instante": "2026-11-04T23:12:08.151Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393929.065295,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1825369943.425748,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1793835743.425874,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_5SLQYDGBV1",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393943.722754,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_W725Y9BQDF",
+          "domain": ".mtss.go.cr",
+          "path": "/",
+          "expires": 1828393943.727027,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.gstatic.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.mtss.go.cr",
+      "instante": "2026-11-04T23:12:32.469Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".mtss.go.cr",
+          "expires": 1828393953.372856,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".mtss.go.cr",
+          "expires": 1825369973.260966,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".mtss.go.cr",
+          "expires": 1793835773.261084,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_5SLQYDGBV1",
+          "domain": ".mtss.go.cr",
+          "expires": 1828393973.557617,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_W725Y9BQDF",
+          "domain": ".mtss.go.cr",
+          "expires": 1828393973.56138,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.gstatic.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_5SLQYDGBV1@.mtss.go.cr",
+        "_ga@.mtss.go.cr",
+        "_ga_W725Y9BQDF@.mtss.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 5,
+        "rastreadoresEnE0": 3
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 5,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

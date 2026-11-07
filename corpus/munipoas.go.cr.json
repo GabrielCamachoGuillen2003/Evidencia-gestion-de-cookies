@@ -1,0 +1,419 @@
+{
+  "sitio": "munipoas.go.cr",
+  "url": "https://munipoas.go.cr",
+  "auditadoEn": "2026-11-05T06:46:28.793Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://munipoas.go.cr",
+      "instante": "2026-11-05T06:43:30.850Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "559eec937f2ff1efbc8d04f5e92d0c98",
+          "domain": "munipoas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "munipoas.go.cr",
+          "path": "/",
+          "expires": 1793904212.897301,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://munipoas.go.cr",
+      "instante": "2026-11-05T06:43:53.425Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "559eec937f2ff1efbc8d04f5e92d0c98",
+          "domain": "munipoas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "munipoas.go.cr",
+          "path": "/",
+          "expires": 1793904234.804235,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://munipoas.go.cr",
+      "instante": "2026-11-05T06:44:21.190Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "559eec937f2ff1efbc8d04f5e92d0c98",
+          "domain": "munipoas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "munipoas.go.cr",
+          "path": "/",
+          "expires": 1793904263.579748,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://munipoas.go.cr",
+      "instante": "2026-11-05T06:44:56.137Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "559eec937f2ff1efbc8d04f5e92d0c98",
+          "domain": "munipoas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "munipoas.go.cr",
+          "path": "/",
+          "expires": 1793904297.555354,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://munipoas.go.cr",
+      "instante": "2026-11-05T06:45:23.051Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "559eec937f2ff1efbc8d04f5e92d0c98",
+          "domain": "munipoas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "munipoas.go.cr",
+          "path": "/",
+          "expires": 1793904325.174281,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://munipoas.go.cr",
+      "instante": "2026-11-05T06:45:56.084Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "559eec937f2ff1efbc8d04f5e92d0c98",
+          "domain": "munipoas.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "munipoas.go.cr",
+          "expires": 1793904357.539241,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 2,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "559eec937f2ff1efbc8d04f5e92d0c98",
+      "dominio": "munipoas.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sppb_user_timezone",
+      "dominio": "munipoas.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "559eec937f2ff1efbc8d04f5e92d0c98",
+      "dominio": "munipoas.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sppb_user_timezone",
+      "dominio": "munipoas.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "559eec937f2ff1efbc8d04f5e92d0c98",
+      "dominio": "munipoas.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sppb_user_timezone",
+      "dominio": "munipoas.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "559eec937f2ff1efbc8d04f5e92d0c98",
+      "dominio": "munipoas.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sppb_user_timezone",
+      "dominio": "munipoas.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "559eec937f2ff1efbc8d04f5e92d0c98",
+      "dominio": "munipoas.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sppb_user_timezone",
+      "dominio": "munipoas.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "559eec937f2ff1efbc8d04f5e92d0c98",
+      "dominio": "munipoas.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sppb_user_timezone",
+      "dominio": "munipoas.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 2,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 100,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

@@ -1,0 +1,1284 @@
+{
+  "sitio": "meic.go.cr",
+  "url": "https://www.meic.go.cr",
+  "auditadoEn": "2026-11-04T23:03:31.070Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.meic.go.cr",
+      "instante": "2026-11-04T23:01:21.138Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "emqa_anonymous",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": 1828393282.066939,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 43
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "f5avraaaaaaaaaaaaaaaa_session_",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 128
+        },
+        {
+          "name": "TS00000000076",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 528
+        },
+        {
+          "name": "_ga_FKDT4FB22J",
+          "domain": ".meic.go.cr",
+          "path": "/",
+          "expires": 1828393284.537012,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".meic.go.cr",
+          "path": "/",
+          "expires": 1828393284.537799,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "TS016663fa",
+          "domain": ".www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 266
+        },
+        {
+          "name": "TSb2d031e2029",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": 1793833314.975544,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 96
+        },
+        {
+          "name": "TSPD_101_DID",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 224
+        },
+        {
+          "name": "TSb2d031e2077",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 176
+        },
+        {
+          "name": "TSPD_101",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 160
+        },
+        {
+          "name": "TS40a39dcb027",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "TS00000000076",
+          "TSPD_74",
+          "sonido"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "code.responsivevoice.org",
+        "googletagmanager.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "neodgnejhhhlcdoglifbmioajmagpeci",
+        "nconiknmmhhhffhmbknbplalknajiaef",
+        "rumola",
+        "bjjgbdlbgjeoankjijbmheneoekbghcg",
+        "jnhgnonknehpejjnehehllkliplmbmhn",
+        "nndknepjnldbdbepjfgmncbggmopgden",
+        "gpolcofcjjiooogejfbaamdgmgfehgff",
+        "cplklnmnlbnpmjogncfgfijoopmnlemp",
+        "djflhoibgkdhkhhcedjiklpkjnoahfmg",
+        "iebpjdmgckacbodjpijphcplhebcmeop",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.meic.go.cr",
+      "instante": "2026-11-04T23:01:35.678Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809385298.372746,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "emqa_anonymous",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": 1828393296.427554,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 43
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "f5avraaaaaaaaaaaaaaaa_session_",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 128
+        },
+        {
+          "name": "_ga_FKDT4FB22J",
+          "domain": ".meic.go.cr",
+          "path": "/",
+          "expires": 1828393298.112089,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".meic.go.cr",
+          "path": "/",
+          "expires": 1828393298.112654,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "TS00000000076",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 528
+        },
+        {
+          "name": "TS016663fa",
+          "domain": ".www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 266
+        },
+        {
+          "name": "TSb2d031e2029",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": 1793833329.30796,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 96
+        },
+        {
+          "name": "TSPD_101_DID",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 224
+        },
+        {
+          "name": "TSb2d031e2077",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 176
+        },
+        {
+          "name": "TSPD_101",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 160
+        },
+        {
+          "name": "TS40a39dcb027",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "TS00000000076",
+          "TSPD_74",
+          "sonido"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "code.responsivevoice.org",
+        "googletagmanager.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "neodgnejhhhlcdoglifbmioajmagpeci",
+        "nconiknmmhhhffhmbknbplalknajiaef",
+        "rumola",
+        "bjjgbdlbgjeoankjijbmheneoekbghcg",
+        "jnhgnonknehpejjnehehllkliplmbmhn",
+        "nndknepjnldbdbepjfgmncbggmopgden",
+        "gpolcofcjjiooogejfbaamdgmgfehgff",
+        "cplklnmnlbnpmjogncfgfijoopmnlemp",
+        "djflhoibgkdhkhhcedjiklpkjnoahfmg",
+        "iebpjdmgckacbodjpijphcplhebcmeop"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.meic.go.cr",
+      "instante": "2026-11-04T23:01:58.597Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "emqa_anonymous",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": 1828393319.333493,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 43
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "f5avraaaaaaaaaaaaaaaa_session_",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 128
+        },
+        {
+          "name": "_ga_FKDT4FB22J",
+          "domain": ".meic.go.cr",
+          "path": "/",
+          "expires": 1828393321.11251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".meic.go.cr",
+          "path": "/",
+          "expires": 1828393321.113655,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "TS00000000076",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 528
+        },
+        {
+          "name": "TS016663fa",
+          "domain": ".www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 266
+        },
+        {
+          "name": "TSb2d031e2029",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": 1793833352.181221,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 96
+        },
+        {
+          "name": "TSPD_101_DID",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 224
+        },
+        {
+          "name": "TSb2d031e2077",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 176
+        },
+        {
+          "name": "TSPD_101",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 160
+        },
+        {
+          "name": "TS40a39dcb027",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "TS00000000076",
+          "TSPD_74",
+          "sonido"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "code.responsivevoice.org",
+        "googletagmanager.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "neodgnejhhhlcdoglifbmioajmagpeci",
+        "nconiknmmhhhffhmbknbplalknajiaef",
+        "rumola",
+        "bjjgbdlbgjeoankjijbmheneoekbghcg",
+        "jnhgnonknehpejjnehehllkliplmbmhn",
+        "nndknepjnldbdbepjfgmncbggmopgden",
+        "gpolcofcjjiooogejfbaamdgmgfehgff",
+        "cplklnmnlbnpmjogncfgfijoopmnlemp",
+        "djflhoibgkdhkhhcedjiklpkjnoahfmg",
+        "iebpjdmgckacbodjpijphcplhebcmeop"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.meic.go.cr",
+      "instante": "2026-11-04T23:02:29.818Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "emqa_anonymous",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": 1828393350.963931,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 43
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "f5avraaaaaaaaaaaaaaaa_session_",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 128
+        },
+        {
+          "name": "_ga_FKDT4FB22J",
+          "domain": ".meic.go.cr",
+          "path": "/",
+          "expires": 1828393352.829416,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".meic.go.cr",
+          "path": "/",
+          "expires": 1828393352.830087,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "TS00000000076",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 528
+        },
+        {
+          "name": "TS016663fa",
+          "domain": ".www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 266
+        },
+        {
+          "name": "TSb2d031e2029",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": 1793833383.859065,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 96
+        },
+        {
+          "name": "TSPD_101_DID",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 224
+        },
+        {
+          "name": "TSb2d031e2077",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 176
+        },
+        {
+          "name": "TSPD_101",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 160
+        },
+        {
+          "name": "TS40a39dcb027",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "TS00000000076",
+          "TSPD_74",
+          "sonido"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "code.responsivevoice.org",
+        "googletagmanager.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "neodgnejhhhlcdoglifbmioajmagpeci",
+        "nconiknmmhhhffhmbknbplalknajiaef",
+        "rumola",
+        "bjjgbdlbgjeoankjijbmheneoekbghcg",
+        "jnhgnonknehpejjnehehllkliplmbmhn",
+        "nndknepjnldbdbepjfgmncbggmopgden",
+        "gpolcofcjjiooogejfbaamdgmgfehgff",
+        "cplklnmnlbnpmjogncfgfijoopmnlemp",
+        "djflhoibgkdhkhhcedjiklpkjnoahfmg",
+        "iebpjdmgckacbodjpijphcplhebcmeop"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.meic.go.cr",
+      "instante": "2026-11-04T23:02:52.044Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "emqa_anonymous",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": 1828393372.724734,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 43
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "f5avraaaaaaaaaaaaaaaa_session_",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 128
+        },
+        {
+          "name": "TS016663fa",
+          "domain": ".www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 234
+        },
+        {
+          "name": "TS00000000076",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 528
+        },
+        {
+          "name": "_ga",
+          "domain": ".meic.go.cr",
+          "path": "/",
+          "expires": 1828393375.072224,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "TSb2d031e2029",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": 1793833405.465476,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 96
+        },
+        {
+          "name": "TSPD_101_DID",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 224
+        },
+        {
+          "name": "TSPD_101",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 160
+        },
+        {
+          "name": "TS40a39dcb027",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        },
+        {
+          "name": "_ga_FKDT4FB22J",
+          "domain": ".meic.go.cr",
+          "path": "/",
+          "expires": 1828393385.582031,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "TSb2d031e2077",
+          "domain": "www.meic.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 176
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "TS00000000076",
+          "TSPD_74",
+          "sonido"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "code.responsivevoice.org",
+        "googletagmanager.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "neodgnejhhhlcdoglifbmioajmagpeci",
+        "nconiknmmhhhffhmbknbplalknajiaef",
+        "rumola",
+        "bjjgbdlbgjeoankjijbmheneoekbghcg",
+        "jnhgnonknehpejjnehehllkliplmbmhn",
+        "nndknepjnldbdbepjfgmncbggmopgden",
+        "gpolcofcjjiooogejfbaamdgmgfehgff",
+        "cplklnmnlbnpmjogncfgfijoopmnlemp",
+        "djflhoibgkdhkhhcedjiklpkjnoahfmg",
+        "iebpjdmgckacbodjpijphcplhebcmeop",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.meic.go.cr",
+      "instante": "2026-11-04T23:03:14.703Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "f5avraaaaaaaaaaaaaaaa_session_",
+          "domain": "www.meic.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 128
+        },
+        {
+          "name": "TS40a39dcb027",
+          "domain": "www.meic.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 192
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_FKDT4FB22J@.meic.go.cr",
+        "_ga@.meic.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 12,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "emqa_anonymous",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TS00000000076",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TS016663fa",
+      "dominio": ".www.meic.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TSb2d031e2029",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TSPD_101_DID",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TSb2d031e2077",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TSPD_101",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TS40a39dcb027",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "emqa_anonymous",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TS00000000076",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TS016663fa",
+      "dominio": ".www.meic.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TSb2d031e2029",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TSPD_101_DID",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TSb2d031e2077",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TSPD_101",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TS40a39dcb027",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "emqa_anonymous",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TS00000000076",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TS016663fa",
+      "dominio": ".www.meic.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TSb2d031e2029",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TSPD_101_DID",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TSb2d031e2077",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TSPD_101",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TS40a39dcb027",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "emqa_anonymous",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TS00000000076",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TS016663fa",
+      "dominio": ".www.meic.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TSb2d031e2029",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TSPD_101_DID",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TSb2d031e2077",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TSPD_101",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TS40a39dcb027",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "emqa_anonymous",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TS016663fa",
+      "dominio": ".www.meic.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TS00000000076",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TSb2d031e2029",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TSPD_101_DID",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TSPD_101",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TS40a39dcb027",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TSb2d031e2077",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
+      "dominio": "www.meic.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "TS40a39dcb027",
+      "dominio": "www.meic.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 13,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 74.6,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

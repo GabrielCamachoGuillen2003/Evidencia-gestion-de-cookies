@@ -1,0 +1,931 @@
+{
+  "sitio": "medicos.cr",
+  "url": "https://www.medicos.cr",
+  "auditadoEn": "2026-11-05T08:57:49.385Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.medicos.cr",
+      "instante": "2026-11-05T08:56:06.138Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420968.938536,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420968.938702,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420968.938752,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420968.938803,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_pk_id.5.7cec",
+          "domain": "medicos.cr",
+          "path": "/",
+          "expires": 1827824169,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 393,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_pk_ses.5.7cec",
+          "domain": "medicos.cr",
+          "path": "/",
+          "expires": 1793870769,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793870769.365317,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".medicos.cr",
+          "path": "/",
+          "expires": 1825404969.778167,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 428
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "wpem_layout_cleanup_done",
+          "ea11y-global-state"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "sp-ao.shortpixel.ai",
+        "cdn.elementor.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "widget.gspeech.io"
+      ],
+      "peticionesRastreo": [
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.medicos.cr",
+      "instante": "2026-11-05T08:56:19.604Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793870780.798773,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420981.104683,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420981.10488,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420981.104971,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420981.105029,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_pk_id.5.7cec",
+          "domain": "medicos.cr",
+          "path": "/",
+          "expires": 1827824181,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 393,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_pk_ses.5.7cec",
+          "domain": "medicos.cr",
+          "path": "/",
+          "expires": 1793870781,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".medicos.cr",
+          "path": "/",
+          "expires": 1825404981.304868,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 428
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "wpem_layout_cleanup_done",
+          "ea11y-global-state"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "sp-ao.shortpixel.ai",
+        "cdn.elementor.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "widget.gspeech.io",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.medicos.cr",
+      "instante": "2026-11-05T08:56:34.153Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793870795.224957,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420995.498128,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420995.498422,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420995.498549,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809420995.498682,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_pk_id.5.7cec",
+          "domain": "medicos.cr",
+          "path": "/",
+          "expires": 1827824196,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 393,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_pk_ses.5.7cec",
+          "domain": "medicos.cr",
+          "path": "/",
+          "expires": 1793870795,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".medicos.cr",
+          "path": "/",
+          "expires": 1825404995.740395,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 428
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "wpem_layout_cleanup_done",
+          "ea11y-global-state"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "sp-ao.shortpixel.ai",
+        "cdn.elementor.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "widget.gspeech.io",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.medicos.cr",
+      "instante": "2026-11-05T08:56:51.586Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793870812.555435,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809421012.835053,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809421012.835308,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809421012.835382,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809421012.835434,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "_pk_id.5.7cec",
+          "domain": "medicos.cr",
+          "path": "/",
+          "expires": 1827824213,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 393,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_pk_ses.5.7cec",
+          "domain": "medicos.cr",
+          "path": "/",
+          "expires": 1793870812,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".medicos.cr",
+          "path": "/",
+          "expires": 1825405013.047905,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 428
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "wpem_layout_cleanup_done",
+          "ea11y-global-state"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "sp-ao.shortpixel.ai",
+        "cdn.elementor.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "widget.gspeech.io",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.medicos.cr",
+      "instante": "2026-11-05T08:57:05.531Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793870826.663185,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809421026.942784,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809421026.942947,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809421026.943056,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809421026.943123,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_pk_id.5.7cec",
+          "domain": "medicos.cr",
+          "path": "/",
+          "expires": 1827824227,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 393,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_pk_ses.5.7cec",
+          "domain": "medicos.cr",
+          "path": "/",
+          "expires": 1793870826,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".medicos.cr",
+          "path": "/",
+          "expires": 1825405027.149227,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 428
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "wpem_layout_cleanup_done",
+          "ea11y-global-state"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "sp-ao.shortpixel.ai",
+        "cdn.elementor.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "widget.gspeech.io",
+        "jnn-pa.googleapis.com",
+        "yt3.ggpht.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.medicos.cr",
+      "instante": "2026-11-05T08:57:25.810Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "expires": 1793870846.864689,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809421047.139602,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809421047.139772,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809421047.139822,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809421047.139874,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "_pk_id.5.7cec",
+          "domain": "medicos.cr",
+          "expires": 1827824247,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 393,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_pk_ses.5.7cec",
+          "domain": "medicos.cr",
+          "expires": 1793870847,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".medicos.cr",
+          "expires": 1825405047.38871,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 428
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "_pk_id.5.7cec@medicos.cr",
+        "_pk_ses.5.7cec@medicos.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 9,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 9,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.672Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

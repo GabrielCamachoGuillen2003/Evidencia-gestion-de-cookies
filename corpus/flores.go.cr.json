@@ -1,0 +1,468 @@
+{
+  "sitio": "flores.go.cr",
+  "url": "https://flores.go.cr",
+  "auditadoEn": "2026-11-05T05:41:08.841Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://flores.go.cr",
+      "instante": "2026-11-05T05:38:54.127Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 31,
+          "y": 474,
+          "w": 310,
+          "h": 132
+        },
+        "cubrePantalla": false,
+        "texto": "Las cookies nos ayudan a mejorar tu experiencia, ofrecer contenido personalizado y analizar el tráfico. Puedes elegir qué cookies permitir haciendo clic en Personalizar. Haz clic en Aceptar todo para consentir o en Rechazar todo para rechazar las cookies no esenciales."
+      },
+      "cookies": [
+        {
+          "name": "uc_session",
+          "domain": ".dropboxusercontent.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "dl.dropbox.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "dl.dropboxusercontent.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://flores.go.cr",
+      "instante": "2026-11-05T05:39:10.696Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "pulsado «aceptar todo»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 31,
+          "y": 474,
+          "w": 310,
+          "h": 132
+        },
+        "cubrePantalla": false,
+        "texto": "Las cookies nos ayudan a mejorar tu experiencia, ofrecer contenido personalizado y analizar el tráfico. Puedes elegir qué cookies permitir haciendo clic en Personalizar. Haz clic en Aceptar todo para consentir o en Rechazar todo para rechazar las cookies no esenciales."
+      },
+      "cookies": [
+        {
+          "name": "uc_session",
+          "domain": ".dropboxusercontent.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "cookieadmin_consent",
+          "domain": "flores.go.cr",
+          "path": "/",
+          "expires": 1825393165,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 17
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "dl.dropbox.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "dl.dropboxusercontent.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "controlUsado": "aceptar todo",
+      "interaccionLograda": true
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://flores.go.cr",
+      "instante": "2026-11-05T05:39:32.223Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "pulsado «rechazar todo»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 31,
+          "y": 474,
+          "w": 310,
+          "h": 132
+        },
+        "cubrePantalla": false,
+        "texto": "Las cookies nos ayudan a mejorar tu experiencia, ofrecer contenido personalizado y analizar el tráfico. Puedes elegir qué cookies permitir haciendo clic en Personalizar. Haz clic en Aceptar todo para consentir o en Rechazar todo para rechazar las cookies no esenciales."
+      },
+      "cookies": [
+        {
+          "name": "uc_session",
+          "domain": ".dropboxusercontent.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "cookieadmin_consent",
+          "domain": "flores.go.cr",
+          "path": "/",
+          "expires": 1825393188,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 17
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "dl.dropbox.com",
+        "google.com",
+        "dl.dropboxusercontent.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "rechazar todo",
+      "interaccionLograda": true
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://flores.go.cr",
+      "instante": "2026-11-05T05:39:55.321Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "panel abierto; 3 casillas, 0 premarcadas",
+        "guardado con «guardar las preferencias»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 31,
+          "y": 474,
+          "w": 310,
+          "h": 132
+        },
+        "cubrePantalla": false,
+        "texto": "Las cookies nos ayudan a mejorar tu experiencia, ofrecer contenido personalizado y analizar el tráfico. Puedes elegir qué cookies permitir haciendo clic en Personalizar. Haz clic en Aceptar todo para consentir o en Rechazar todo para rechazar las cookies no esenciales."
+      },
+      "cookies": [
+        {
+          "name": "uc_session",
+          "domain": ".dropboxusercontent.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "cookieadmin_consent",
+          "domain": "flores.go.cr",
+          "path": "/",
+          "expires": 1825393213,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 17
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "dl.dropbox.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "dl.dropboxusercontent.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "casillas": [
+        {
+          "id": "cookieadmin-functional",
+          "marcada": false,
+          "deshabilitada": false
+        },
+        {
+          "id": "cookieadmin-analytics",
+          "marcada": false,
+          "deshabilitada": false
+        },
+        {
+          "id": "cookieadmin-marketing",
+          "marcada": false,
+          "deshabilitada": false
+        }
+      ],
+      "premarcadas": 0,
+      "interaccionLograda": true
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://flores.go.cr",
+      "instante": "2026-11-05T05:40:20.367Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 31,
+          "y": 474,
+          "w": 310,
+          "h": 132
+        },
+        "cubrePantalla": false,
+        "texto": "Las cookies nos ayudan a mejorar tu experiencia, ofrecer contenido personalizado y analizar el tráfico. Puedes elegir qué cookies permitir haciendo clic en Personalizar. Haz clic en Aceptar todo para consentir o en Rechazar todo para rechazar las cookies no esenciales."
+      },
+      "cookies": [
+        {
+          "name": "uc_session",
+          "domain": ".dropboxusercontent.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "dl.dropbox.com",
+        "google.com",
+        "dl.dropboxusercontent.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://flores.go.cr",
+      "instante": "2026-11-05T05:40:46.400Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — pulsado «rechazar todo»",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809409261.946753,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "uc_session",
+          "domain": ".dropboxusercontent.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "cookieadmin_consent",
+          "domain": "flores.go.cr",
+          "expires": 1825393255,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 17
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "dl.dropbox.com",
+        "google.com",
+        "gstatic.com",
+        "dl.dropboxusercontent.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "rechazar todo",
+      "interaccionLograda": true
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "uc_session@.dropboxusercontent.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V2",
+      "gravedad": "Crítica",
+      "nombre": "Cookies pese al rechazo explícito",
+      "evidencia": [
+        "uc_session@.dropboxusercontent.com",
+        "cookieadmin_consent@flores.go.cr"
+      ],
+      "regla": "no_esenciales(E2) ∩ universo_ref ≠ ∅"
+    },
+    {
+      "id": "V3",
+      "gravedad": "Crítica",
+      "nombre": "Incumplimiento de la selección granular",
+      "evidencia": [
+        "uc_session@.dropboxusercontent.com",
+        "cookieadmin_consent@flores.go.cr"
+      ],
+      "regla": "cookies no esenciales tras selección granular",
+      "requiereConfirmacionManual": true
+    },
+    {
+      "id": "V4",
+      "gravedad": "Alta",
+      "nombre": "Aceptación implícita por navegación",
+      "evidencia": [
+        "uc_session@.dropboxusercontent.com"
+      ],
+      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+    },
+    {
+      "id": "V5",
+      "gravedad": "Media",
+      "nombre": "No persistencia de la decisión",
+      "evidencia": [
+        "uc_session@.dropboxusercontent.com",
+        "cookieadmin_consent@flores.go.cr"
+      ],
+      "regla": "banner reaparece en E5 o se reinstalan cookies rechazadas"
+    },
+    {
+      "id": "V6",
+      "gravedad": "Media",
+      "nombre": "Revocación inoperante",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com",
+        "uc_session@.dropboxusercontent.com",
+        "cookieadmin_consent@flores.go.cr"
+      ],
+      "regla": "persisten cookies no esenciales sin control de revocación visible",
+      "requiereConfirmacionManual": true
+    }
+  ],
+  "violacionesNoEvaluables": [],
+  "revisionManualRequerida": [],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 4,
+    "cotaSuperior": 6,
+    "criticas": [
+      "V2",
+      "V3"
+    ],
+    "universoReferencia": 2,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": true
+  }
+}

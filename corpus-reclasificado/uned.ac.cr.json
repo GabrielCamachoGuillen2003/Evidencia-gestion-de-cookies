@@ -1,0 +1,2102 @@
+{
+  "sitio": "uned.ac.cr",
+  "url": "https://www.uned.ac.cr",
+  "auditadoEn": "2026-11-05T00:44:02.170Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.uned.ac.cr",
+      "instante": "2026-11-05T00:42:16.751Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564137.754427,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564137.754524,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564137.754554,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564137.754579,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564137.754605,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564137.754631,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".uned.ac.cr",
+          "path": "/",
+          "expires": 1809564137.754659,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "rdwr_s_29637ee7dd61bb8afa2c564536357c14",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809391339,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809391342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809391342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809391342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809391342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809391342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809391342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809391342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".uned.ac.cr",
+          "path": "/",
+          "expires": 1809391342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "_ga_N0YGG7VVYP",
+          "domain": ".uned.ac.cr",
+          "path": "/",
+          "expires": 1828399342.487314,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".uned.ac.cr",
+          "path": "/",
+          "expires": 1828399342.487952,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "radAgSig",
+          "uw-uid",
+          "radRandom",
+          "uw-icon-locales",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "stackpath.bootstrapcdn.com",
+        "use.fontawesome.com",
+        "cdnjs.cloudflare.com",
+        "fonts.googleapis.com",
+        "code.jquery.com",
+        "googletagmanager.com",
+        "cdn.userway.org",
+        "bit.ly",
+        "fonts.gstatic.com",
+        "static.soulmachines.com",
+        "google-analytics.com",
+        "api.userway.org",
+        "media0.giphy.com",
+        "cdn77.api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.uned.ac.cr",
+      "instante": "2026-11-05T00:42:37.679Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564158.206473,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564158.206579,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564158.206605,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564158.206642,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564158.206663,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564158.206685,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".uned.ac.cr",
+          "path": "/",
+          "expires": 1809564158.206708,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391358.65511,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391358.655273,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391358.655383,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391358.655482,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793841158.83046,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391359,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391359,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391359,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391359,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391359,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391359,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm7dca0",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839490,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft7dca0",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839490,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl7dca0",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839490,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "a06237c7d063.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "cas.avalon.perfdrive.com",
+        "b21b38732523.w.hcaptcha.com",
+        "api.hcaptcha.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.uned.ac.cr",
+      "instante": "2026-11-05T00:42:54.109Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564174.699562,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564174.699659,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564174.699722,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564174.699765,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564174.699788,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564174.699846,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".uned.ac.cr",
+          "path": "/",
+          "expires": 1809564174.6999,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391375.05417,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391375.054244,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391375.054311,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391375.054371,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793841175.143226,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391375,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391376,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391376,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391376,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391376,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391376,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm16259",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839507,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft16259",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839507,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl16259",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839507,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "7020ee747136.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "c7cd3652b8ce.w.hcaptcha.com",
+        "api.hcaptcha.com",
+        "cas.avalon.perfdrive.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.uned.ac.cr",
+      "instante": "2026-11-05T00:43:10.455Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564190.915661,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564190.915723,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564190.915748,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564190.915768,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564190.915787,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564190.915809,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".uned.ac.cr",
+          "path": "/",
+          "expires": 1809564190.915831,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391391.266189,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391391.26622,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391391.266247,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391391.266274,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793841191.348671,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391391,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391392,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391392,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391392,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391392,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391392,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfmc286c",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839523,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbftc286c",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839523,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfclc286c",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839523,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "a4b71e609420.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "b3bf516f41c0.w.hcaptcha.com",
+        "api.hcaptcha.com",
+        "cas.avalon.perfdrive.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.uned.ac.cr",
+      "instante": "2026-11-05T00:43:26.651Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento sin tocar el banner; sin enlaces internos navegables"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564207.118998,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564207.119099,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564207.119148,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564207.119188,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564207.119228,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.uned.ac.cr",
+          "path": "/",
+          "expires": 1809564207.119289,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".uned.ac.cr",
+          "path": "/",
+          "expires": 1809564207.119357,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391407.515221,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391407.515296,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391407.515377,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809391407.515438,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793841207.598706,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391407,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391408,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391408,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391408,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391408,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809391408,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm269ff",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839541,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft269ff",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839541,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl269ff",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793839541,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "5a32d9ca6860.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "892b4dbd8849.w.hcaptcha.com",
+        "api.hcaptcha.com",
+        "cas.avalon.perfdrive.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.uned.ac.cr",
+      "instante": "2026-11-05T00:43:44.373Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.uned.ac.cr",
+          "expires": 1809564224.819051,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.uned.ac.cr",
+          "expires": 1809564224.819118,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.uned.ac.cr",
+          "expires": 1809564224.819144,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809391435.098915,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809391435.099312,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "expires": 1793841225.228528,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "expires": 1809391435,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "expires": 1809391435,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809391435,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809391435,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm5d50a",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793839551,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft5d50a",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793839551,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl5d50a",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793839551,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.uned.ac.cr",
+          "expires": 1809564234.631021,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.uned.ac.cr",
+          "expires": 1809564234.6311,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.uned.ac.cr",
+          "expires": 1809564234.631138,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 83
+        },
+        {
+          "name": "uzmx",
+          "domain": ".uned.ac.cr",
+          "expires": 1809564234.631189,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809391435.099525,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809391435.099743,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809391435,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809391435,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfmdc43b",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793839561,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbftdc43b",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793839561,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcldc43b",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793839561,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "cas.avalon.perfdrive.com",
+        "373dc2613103.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "9ecd86e28d67.w.hcaptcha.com",
+        "api.hcaptcha.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_N0YGG7VVYP@.uned.ac.cr",
+        "_ga@.uned.ac.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 19,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__uzma",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmb",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzme",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmc",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmd",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmf",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "uzmx",
+      "dominio": ".uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "rdwr_s_29637ee7dd61bb8afa2c564536357c14",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__ssds",
+      "dominio": ".www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmaj0",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmbj0",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmcj0",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmdj0",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmlj0",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmfj0",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "uzmxj",
+      "dominio": ".uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzma",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmb",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzme",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmc",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmd",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmf",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "uzmx",
+      "dominio": ".uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzma",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmb",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzme",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmc",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmd",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmf",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "uzmx",
+      "dominio": ".uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzma",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmb",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzme",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmc",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmd",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmf",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "uzmx",
+      "dominio": ".uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzma",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmb",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzme",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmc",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmd",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmf",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "uzmx",
+      "dominio": ".uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzma",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmb",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzme",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmc",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmd",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmf",
+      "dominio": "www.uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "uzmx",
+      "dominio": ".uned.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 22,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 39.4,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.883Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

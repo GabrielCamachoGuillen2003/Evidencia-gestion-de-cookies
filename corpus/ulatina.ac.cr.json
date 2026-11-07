@@ -1,0 +1,1308 @@
+{
+  "sitio": "ulatina.ac.cr",
+  "url": "https://www.ulatina.ac.cr",
+  "auditadoEn": "2026-11-05T01:43:42.747Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.ulatina.ac.cr",
+      "instante": "2026-11-05T01:41:41.303Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "www.ulatina.ac.cr",
+          "path": "/",
+          "expires": 1825378902.504458,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1801618913,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827538913.591234,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_ga_DNVYGPRPJ7",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1828402913.596577,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1828402913.597221,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793843813.730213,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538913,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538913,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_fbp",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1801618913,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538914,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 81
+        },
+        {
+          "name": "ttcsid_D47021BC77UCC4233PP0",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538914,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801618914.180321,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "tt_sessionId"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "analytics-ipv6.tiktokw.us",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.ulatina.ac.cr",
+      "instante": "2026-11-05T01:41:57.186Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "www.ulatina.ac.cr",
+          "path": "/",
+          "expires": 1825378918.306148,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1801618928,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827538928.884478,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_ga_DNVYGPRPJ7",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1828402928.936744,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1828402928.937444,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793843829.018828,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538929,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538929,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_fbp",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1801618929,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538929,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 81
+        },
+        {
+          "name": "ttcsid_D47021BC77UCC4233PP0",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538929,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801618929.62113,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "tt_sessionId"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "analytics-ipv6.tiktokw.us",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.ulatina.ac.cr",
+      "instante": "2026-11-05T01:42:15.857Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "www.ulatina.ac.cr",
+          "path": "/",
+          "expires": 1825378936.97321,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1801618947,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827538947.837845,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_ga_DNVYGPRPJ7",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1828402947.891659,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1828402947.892384,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793843848.04074,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538948,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538948,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_fbp",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1801618948,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538948,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 81
+        },
+        {
+          "name": "ttcsid_D47021BC77UCC4233PP0",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538948,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801618948.448266,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "tt_sessionId"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "analytics-ipv6.tiktokw.us",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.ulatina.ac.cr",
+      "instante": "2026-11-05T01:42:37.345Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "www.ulatina.ac.cr",
+          "path": "/",
+          "expires": 1825378958.46324,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1801618969,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827538970.119552,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_ga_DNVYGPRPJ7",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1828402970.177023,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1828402970.177676,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793843870.193831,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538970,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538970,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_fbp",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1801618970,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801618970.670253,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538970,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 81
+        },
+        {
+          "name": "ttcsid_D47021BC77UCC4233PP0",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538970,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "tt_sessionId"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "analytics-ipv6.tiktokw.us",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.ulatina.ac.cr",
+      "instante": "2026-11-05T01:42:55.540Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "www.ulatina.ac.cr",
+          "path": "/",
+          "expires": 1825378976.688522,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1801618987,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827538987.575616,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_ga",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1828402987.717529,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793843887.832034,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538987,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538987,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_fbp",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1801618988,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "ttcsid_D47021BC77UCC4233PP0",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538988,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801618988.24323,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1827538989,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 87
+        },
+        {
+          "name": "_ga_DNVYGPRPJ7",
+          "domain": ".ulatina.ac.cr",
+          "path": "/",
+          "expires": 1828402990.806095,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".my.matterport.com",
+          "path": "/",
+          "expires": 1793844791.049278,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 197
+        },
+        {
+          "name": "cookiesession1",
+          "domain": "forms.ulatina.ac.cr",
+          "path": "/",
+          "expires": 1825378991.116263,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "tt_sessionId"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "analytics-ipv6.tiktokw.us",
+        "facebook.com",
+        "my.matterport.com",
+        "static.matterport.com",
+        "events.matterport.com",
+        "cdn-2.matterport.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.ulatina.ac.cr",
+      "instante": "2026-11-05T01:43:20.052Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cookiesession1",
+          "domain": "www.ulatina.ac.cr",
+          "expires": 1825379001.162877,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".ulatina.ac.cr",
+          "expires": 1801619011,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "expires": 1827539011.569497,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_ga",
+          "domain": ".ulatina.ac.cr",
+          "expires": 1828403011.679151,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "expires": 1793843911.753899,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".ulatina.ac.cr",
+          "expires": 1827539011,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".ulatina.ac.cr",
+          "expires": 1827539011,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_fbp",
+          "domain": ".ulatina.ac.cr",
+          "expires": 1801619011,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".ulatina.ac.cr",
+          "expires": 1827539012,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 81
+        },
+        {
+          "name": "ttcsid_D47021BC77UCC4233PP0",
+          "domain": ".ulatina.ac.cr",
+          "expires": 1827539012,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801619012.263109,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_DNVYGPRPJ7",
+          "domain": ".ulatina.ac.cr",
+          "expires": 1828403013.52985,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ttp@.tiktok.com",
+        "_ga_DNVYGPRPJ7@.ulatina.ac.cr",
+        "_ga@.ulatina.ac.cr",
+        "test_cookie@.doubleclick.net",
+        "_tt_enable_cookie@.ulatina.ac.cr",
+        "_ttp@.ulatina.ac.cr",
+        "_fbp@.ulatina.ac.cr",
+        "fr@.facebook.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 12,
+        "rastreadoresEnE0": 7
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "cookiesession1",
+      "dominio": "www.ulatina.ac.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ttcsid",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ttcsid_D47021BC77UCC4233PP0",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cookiesession1",
+      "dominio": "www.ulatina.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ttcsid",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ttcsid_D47021BC77UCC4233PP0",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cookiesession1",
+      "dominio": "www.ulatina.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ttcsid",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ttcsid_D47021BC77UCC4233PP0",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cookiesession1",
+      "dominio": "www.ulatina.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ttcsid",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ttcsid_D47021BC77UCC4233PP0",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cookiesession1",
+      "dominio": "www.ulatina.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ttcsid_D47021BC77UCC4233PP0",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ttcsid",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cookiesession1",
+      "dominio": "forms.ulatina.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cookiesession1",
+      "dominio": "www.ulatina.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ttcsid",
+      "dominio": ".ulatina.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ttcsid_D47021BC77UCC4233PP0",
+      "dominio": ".ulatina.ac.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 12,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 33.8,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

@@ -1,0 +1,743 @@
+{
+  "sitio": "autopitscr.com",
+  "url": "https://autopitscr.com",
+  "auditadoEn": "2026-11-06T00:26:06.536Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://autopitscr.com",
+      "instante": "2026-11-06T00:23:48.088Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1801700632,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_ZT9JM30V6N",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1828484632.484259,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1828484632.484612,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793925533.135139,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "autopitscr.com",
+          "path": "/",
+          "expires": 1825460640,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 148
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "secure.gravatar.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://autopitscr.com",
+      "instante": "2026-11-06T00:24:03.102Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1801700647,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_ZT9JM30V6N",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1828484646.858054,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 52
+        },
+        {
+          "name": "_ga",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1828484646.858426,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793925547.559654,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "autopitscr.com",
+          "path": "/",
+          "expires": 1825460654,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 148
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "secure.gravatar.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://autopitscr.com",
+      "instante": "2026-11-06T00:24:23.070Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1801700667,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_ZT9JM30V6N",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1828484666.729126,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 52
+        },
+        {
+          "name": "_ga",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1828484666.729537,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793925567.965015,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "autopitscr.com",
+          "path": "/",
+          "expires": 1825460674,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 148
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "secure.gravatar.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://autopitscr.com",
+      "instante": "2026-11-06T00:24:48.665Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1801700695,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_ZT9JM30V6N",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1828484694.827364,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1828484694.828646,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793925595.414755,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "autopitscr.com",
+          "path": "/",
+          "expires": 1825460702,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 148
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "secure.gravatar.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://autopitscr.com",
+      "instante": "2026-11-06T00:25:10.264Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1801700714,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1828484726.481837,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "autopitscr.com",
+          "path": "/",
+          "expires": 1825460721,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_ga_ZT9JM30V6N",
+          "domain": ".autopitscr.com",
+          "path": "/",
+          "expires": 1828484726.481413,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828484726.685801,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "secure.gravatar.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://autopitscr.com",
+      "instante": "2026-11-06T00:25:35.587Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — pulsado «rechazar»",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".autopitscr.com",
+          "expires": 1801700739,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga",
+          "domain": ".autopitscr.com",
+          "expires": 1828484759.590238,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "cookieyes-consent",
+          "domain": "autopitscr.com",
+          "expires": 1825460750,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_ga_ZT9JM30V6N",
+          "domain": ".autopitscr.com",
+          "expires": 1828484759.589971,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828484759.778429,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "secure.gravatar.com",
+        "google.com",
+        "analytics.google.com",
+        "googleads.g.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "rechazar",
+      "interaccionLograda": true
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_ZT9JM30V6N@.autopitscr.com",
+        "_ga@.autopitscr.com",
+        "test_cookie@.doubleclick.net"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V5",
+      "gravedad": "Media",
+      "nombre": "No persistencia de la decisión",
+      "evidencia": [
+        "_ga@.autopitscr.com",
+        "_ga_ZT9JM30V6N@.autopitscr.com"
+      ],
+      "regla": "banner reaparece en E5 o se reinstalan cookies rechazadas"
+    },
+    {
+      "id": "V6",
+      "gravedad": "Media",
+      "nombre": "Revocación inoperante",
+      "evidencia": [
+        "_ga@.autopitscr.com",
+        "_ga_ZT9JM30V6N@.autopitscr.com",
+        "IDE@.doubleclick.net"
+      ],
+      "regla": "persisten cookies no esenciales sin control de revocación visible",
+      "requiereConfirmacionManual": true
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 5,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".autopitscr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "cookieyes-consent",
+      "dominio": "autopitscr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".autopitscr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cookieyes-consent",
+      "dominio": "autopitscr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".autopitscr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cookieyes-consent",
+      "dominio": "autopitscr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".autopitscr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cookieyes-consent",
+      "dominio": "autopitscr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".autopitscr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cookieyes-consent",
+      "dominio": "autopitscr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".autopitscr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cookieyes-consent",
+      "dominio": "autopitscr.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 2,
+    "cotaSuperior": 3,
+    "criticas": [],
+    "universoReferencia": 5,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 40,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

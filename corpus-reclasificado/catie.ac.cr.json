@@ -1,0 +1,2143 @@
+{
+  "sitio": "catie.ac.cr",
+  "url": "https://www.catie.ac.cr",
+  "auditadoEn": "2026-11-06T03:48:44.699Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.catie.ac.cr",
+      "instante": "2026-11-06T03:46:45.738Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([class*=\"close\" i][class*=\"ad\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "lp_session_guest",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1794023207.43171,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 15
+        },
+        {
+          "name": "pmpro_visit",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793938608.223219,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "cookielawinfo-checkbox-necessary",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472809,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 3
+        },
+        {
+          "name": "cookielawinfo-checkbox-functional",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472815,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-performance",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472815,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-analytics",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472815,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-advertisement",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472815,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-others",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472815,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": 1825472809.640342,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488810.584531,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488810.584609,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488809.584379,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488810.584661,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "CookieLawInfoConsent",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472815,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 152
+        },
+        {
+          "name": "viewed_cookie_policy",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472815,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": 1793938616,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "os_feature_flags",
+          "elementor",
+          "os_pageViews",
+          "userConsent"
+        ],
+        "sessionStorage": [
+          "elementor",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "youtube.com",
+        "onesignal.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "onesignal.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.catie.ac.cr",
+      "instante": "2026-11-06T03:46:59.510Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([class*=\"close\" i][class*=\"ad\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "lp_session_guest",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1794023220.748142,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 15
+        },
+        {
+          "name": "pmpro_visit",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793938621.268654,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "cookielawinfo-checkbox-necessary",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472821,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 3
+        },
+        {
+          "name": "cookielawinfo-checkbox-functional",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472828,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-performance",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472828,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-analytics",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472828,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-advertisement",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472828,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-others",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472828,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": 1825472821.876916,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488830.599952,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488830.600019,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488821.827128,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488822.827262,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "CookieLawInfoConsent",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472828,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 152
+        },
+        {
+          "name": "viewed_cookie_policy",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472828,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": 1793938629,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "os_feature_flags",
+          "elementor",
+          "os_pageViews",
+          "userConsent"
+        ],
+        "sessionStorage": [
+          "elementor",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "youtube.com",
+        "onesignal.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "onesignal.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.catie.ac.cr",
+      "instante": "2026-11-06T03:47:17.168Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([class*=\"close\" i][class*=\"ad\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "lp_session_guest",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1794023238.396416,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 15
+        },
+        {
+          "name": "pmpro_visit",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793938638.924398,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "cookielawinfo-checkbox-necessary",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472839,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 3
+        },
+        {
+          "name": "cookielawinfo-checkbox-functional",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472845,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-performance",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472845,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-analytics",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472845,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-advertisement",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472845,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-others",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472845,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": 1825472839.557714,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488848.239225,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488848.239296,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488839.712197,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488840.712321,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "CookieLawInfoConsent",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472845,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 152
+        },
+        {
+          "name": "viewed_cookie_policy",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472845,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": 1793938647,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "os_feature_flags",
+          "elementor",
+          "os_pageViews",
+          "userConsent"
+        ],
+        "sessionStorage": [
+          "elementor",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "onesignal.com",
+        "youtube.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "onesignal.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.catie.ac.cr",
+      "instante": "2026-11-06T03:47:38.148Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([class*=\"close\" i][class*=\"ad\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "lp_session_guest",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1794023259.398348,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 15
+        },
+        {
+          "name": "pmpro_visit",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793938660.019704,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "cookielawinfo-checkbox-necessary",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472860,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 3
+        },
+        {
+          "name": "cookielawinfo-checkbox-functional",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472867,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-performance",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472867,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-analytics",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472867,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-advertisement",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472867,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-others",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472867,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": 1825472860.63748,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488861.73189,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488861.73194,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488860.73173,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488861.731824,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "CookieLawInfoConsent",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472867,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 152
+        },
+        {
+          "name": "viewed_cookie_policy",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472867,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": 1793938668,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "os_feature_flags",
+          "elementor",
+          "os_pageViews",
+          "userConsent"
+        ],
+        "sessionStorage": [
+          "elementor",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "youtube.com",
+        "onesignal.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "onesignal.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.catie.ac.cr",
+      "instante": "2026-11-06T03:47:54.542Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([class*=\"close\" i][class*=\"ad\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "lp_session_guest",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1794023275.773578,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 15
+        },
+        {
+          "name": "pmpro_visit",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793938676.316668,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "cookielawinfo-checkbox-necessary",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472876,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 3
+        },
+        {
+          "name": "cookielawinfo-checkbox-functional",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472883,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-performance",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472883,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-analytics",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472883,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-advertisement",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472883,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-others",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472883,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": 1825472876.955486,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488885.559205,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488885.559272,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488877.879314,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809488877.879559,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "CookieLawInfoConsent",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472883,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 152
+        },
+        {
+          "name": "viewed_cookie_policy",
+          "domain": "www.catie.ac.cr",
+          "path": "/",
+          "expires": 1825472883,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".catie.ac.cr",
+          "path": "/",
+          "expires": 1793938684,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "os_feature_flags",
+          "elementor",
+          "os_pageViews",
+          "userConsent"
+        ],
+        "sessionStorage": [
+          "elementor",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "youtube.com",
+        "onesignal.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "onesignal.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.catie.ac.cr",
+      "instante": "2026-11-06T03:48:17.619Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — pulsado «rechazar»",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "lp_session_guest",
+          "domain": "www.catie.ac.cr",
+          "expires": 1794023298.854145,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 15
+        },
+        {
+          "name": "pmpro_visit",
+          "domain": "www.catie.ac.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "expires": 1793938699.430568,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".catie.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".catie.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".catie.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".catie.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".catie.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".catie.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "cookielawinfo-checkbox-necessary",
+          "domain": "www.catie.ac.cr",
+          "expires": 1825472899,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 3
+        },
+        {
+          "name": "cookielawinfo-checkbox-functional",
+          "domain": "www.catie.ac.cr",
+          "expires": 1825472909,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-performance",
+          "domain": "www.catie.ac.cr",
+          "expires": 1825472909,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-analytics",
+          "domain": "www.catie.ac.cr",
+          "expires": 1825472909,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-advertisement",
+          "domain": "www.catie.ac.cr",
+          "expires": 1825472909,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cookielawinfo-checkbox-others",
+          "domain": "www.catie.ac.cr",
+          "expires": 1825472909,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".catie.ac.cr",
+          "expires": 1825472900.023528,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809488918.533384,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809488918.533458,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809488900.971638,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809488900.971732,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "CookieLawInfoConsent",
+          "domain": "www.catie.ac.cr",
+          "expires": 1825472909,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 152
+        },
+        {
+          "name": "viewed_cookie_policy",
+          "domain": "www.catie.ac.cr",
+          "expires": 1825472909,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".catie.ac.cr",
+          "expires": 1793938717,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "static.cloudflareinsights.com",
+        "cdn.onesignal.com",
+        "youtube.com",
+        "api.onesignal.com",
+        "onesignal.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "onesignal.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "rechazar",
+      "interaccionLograda": true
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "sbjs_migrations@.catie.ac.cr",
+        "sbjs_current_add@.catie.ac.cr",
+        "sbjs_first_add@.catie.ac.cr",
+        "sbjs_current@.catie.ac.cr",
+        "sbjs_first@.catie.ac.cr",
+        "sbjs_udata@.catie.ac.cr",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-YNID@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "sbjs_session@.catie.ac.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V5",
+      "gravedad": "Media",
+      "nombre": "No persistencia de la decisión",
+      "evidencia": [
+        "sbjs_migrations@.catie.ac.cr",
+        "sbjs_current_add@.catie.ac.cr",
+        "sbjs_first_add@.catie.ac.cr",
+        "sbjs_current@.catie.ac.cr",
+        "sbjs_first@.catie.ac.cr",
+        "sbjs_udata@.catie.ac.cr",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-YNID@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "sbjs_session@.catie.ac.cr"
+      ],
+      "regla": "banner reaparece en E5 o se reinstalan cookies rechazadas"
+    },
+    {
+      "id": "V6",
+      "gravedad": "Media",
+      "nombre": "Revocación inoperante",
+      "evidencia": [
+        "sbjs_migrations@.catie.ac.cr",
+        "sbjs_current_add@.catie.ac.cr",
+        "sbjs_first_add@.catie.ac.cr",
+        "sbjs_current@.catie.ac.cr",
+        "sbjs_first@.catie.ac.cr",
+        "sbjs_udata@.catie.ac.cr",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-YNID@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "sbjs_session@.catie.ac.cr"
+      ],
+      "regla": "persisten cookies no esenciales sin control de revocación visible",
+      "requiereConfirmacionManual": true
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 24,
+        "rastreadoresEnE0": 7
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "lp_session_guest",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "pmpro_visit",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "viewed_cookie_policy",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "lp_session_guest",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pmpro_visit",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "viewed_cookie_policy",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "lp_session_guest",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "pmpro_visit",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "viewed_cookie_policy",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "lp_session_guest",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "pmpro_visit",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "viewed_cookie_policy",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "lp_session_guest",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "pmpro_visit",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "viewed_cookie_policy",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "lp_session_guest",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "pmpro_visit",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "viewed_cookie_policy",
+      "dominio": "www.catie.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 2,
+    "cotaSuperior": 3,
+    "criticas": [],
+    "universoReferencia": 24,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 12.5,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.440Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

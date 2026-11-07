@@ -1,0 +1,1107 @@
+{
+  "sitio": "crowe.cr",
+  "url": "https://www.crowe.cr",
+  "auditadoEn": "2026-11-05T08:26:06.514Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.crowe.cr",
+      "instante": "2026-11-05T08:24:16.202Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 16,
+          "y": 3506,
+          "w": 231,
+          "h": 68
+        },
+        "cubrePantalla": false,
+        "texto": "Preferencias sobre cookies"
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.cr",
+          "path": "/",
+          "expires": 1793868856.749725,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.com",
+          "path": "/",
+          "expires": 1793868858.930773,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "qb7uh4_TAsessionID",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": 1793868859,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "qb7uh4_notice_behavior",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419059.982211,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419059.982329,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419059.982357,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419059.982389,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "crowe.com",
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.crowe.cr",
+      "instante": "2026-11-05T08:24:29.924Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 16,
+          "y": 3506,
+          "w": 231,
+          "h": 68
+        },
+        "cubrePantalla": false,
+        "texto": "Preferencias sobre cookies"
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.cr",
+          "path": "/",
+          "expires": 1793868869.986134,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.com",
+          "path": "/",
+          "expires": 1793868870.066818,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "qb7uh4_TAsessionID",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": 1793868870,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "qb7uh4_notice_behavior",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419070.646455,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419070.646816,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419070.646865,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419070.646899,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "crowe.com",
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.crowe.cr",
+      "instante": "2026-11-05T08:24:44.510Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "sin rechazo en primera capa; abierto «preferencias sobre cookies»",
+        "pulsado «rechazar todo»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 16,
+          "y": 3506,
+          "w": 231,
+          "h": 68
+        },
+        "cubrePantalla": false,
+        "texto": "Preferencias sobre cookies"
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.cr",
+          "path": "/",
+          "expires": 1793868884.581791,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.com",
+          "path": "/",
+          "expires": 1793868884.674292,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "qb7uh4_TAsessionID",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": 1793868885,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "qb7uh4_notice_behavior",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419085.256906,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419085.257017,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419085.25706,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419085.257091,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "qb7uh4_notice_preferences",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": 1827995101,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 2
+        },
+        {
+          "name": "qb7uh4_notice_gdpr_prefs",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": 1827995101,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 2
+        },
+        {
+          "name": "qb7uh4_TAconsentID",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": 1827995101,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 36
+        },
+        {
+          "name": "qb7uh4_cmapi_gtm_bl",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": 1827995101,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 66
+        },
+        {
+          "name": "qb7uh4_cmapi_cookie_privacy",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": 1827995101,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 17
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "truste.cookie.qb7uh4_cmapi_gtm_bl",
+          "truste.cookie.qb7uh4_cmapi_cookie_privacy",
+          "truste.cookie.qb7uh4_notice_gdpr_prefs",
+          "truste.cookie.qb7uh4_notice_preferences",
+          "truste.cookie.qb7uh4_TAconsentID",
+          "qb7uh4_optout_domains"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "crowe.com",
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "rechazoEnPrimeraCapa": false,
+      "controlUsado": "rechazar todo",
+      "interaccionLograda": true
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.crowe.cr",
+      "instante": "2026-11-05T08:25:08.085Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "panel abierto; 0 casillas, 0 premarcadas",
+        "sin botón de guardar — manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 16,
+          "y": 3506,
+          "w": 231,
+          "h": 68
+        },
+        "cubrePantalla": false,
+        "texto": "Preferencias sobre cookies"
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.cr",
+          "path": "/",
+          "expires": 1793868908.156216,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.com",
+          "path": "/",
+          "expires": 1793868908.448978,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "qb7uh4_TAsessionID",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": 1793868909,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "qb7uh4_notice_behavior",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419109.186862,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419109.18701,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419109.18705,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419109.187085,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "crowe.com",
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "casillas": [],
+      "premarcadas": 0,
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.crowe.cr",
+      "instante": "2026-11-05T08:25:24.551Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 16,
+          "y": 3506,
+          "w": 231,
+          "h": 68
+        },
+        "cubrePantalla": false,
+        "texto": "Preferencias sobre cookies"
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.cr",
+          "path": "/",
+          "expires": 1793868924.621306,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.com",
+          "path": "/",
+          "expires": 1793868924.708343,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "qb7uh4_TAsessionID",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": 1793868925,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419125.325753,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419125.325897,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419125.325936,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809419125.325982,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "qb7uh4_notice_behavior",
+          "domain": ".crowe.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 10
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "crowe.com",
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com",
+        "tdp.trustarc.com"
+      ],
+      "peticionesRastreo": [
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "tdp.trustarc.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.crowe.cr",
+      "instante": "2026-11-05T08:25:45.407Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — pulsado «rechazar todas»",
+        "acto 2 — revisita: el banner REAPARECE (indicio de que la decisión no persistió)"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 16,
+          "y": 3506,
+          "w": 231,
+          "h": 68
+        },
+        "cubrePantalla": false,
+        "texto": "Preferencias sobre cookies"
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.cr",
+          "expires": 1793868945.478236,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.crowe.com",
+          "expires": 1793868945.797494,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "qb7uh4_TAsessionID",
+          "domain": ".crowe.com",
+          "expires": 1793868946,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809419159.59288,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809419159.593004,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "qb7uh4_notice_preferences",
+          "domain": ".crowe.com",
+          "expires": 1827995153,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 2
+        },
+        {
+          "name": "qb7uh4_notice_gdpr_prefs",
+          "domain": ".crowe.com",
+          "expires": 1827995153,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 2
+        },
+        {
+          "name": "qb7uh4_TAconsentID",
+          "domain": ".crowe.com",
+          "expires": 1827995153,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 36
+        },
+        {
+          "name": "qb7uh4_cmapi_gtm_bl",
+          "domain": ".crowe.com",
+          "expires": 1827995153,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 66
+        },
+        {
+          "name": "qb7uh4_cmapi_cookie_privacy",
+          "domain": ".crowe.com",
+          "expires": 1827995153,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 17
+        },
+        {
+          "name": "qb7uh4_notice_behavior",
+          "domain": ".crowe.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809419146.592593,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809419159.593134,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "crowe.com",
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "consent.trustarc.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "bannerReaparece": true,
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "rechazar todas",
+      "interaccionLograda": true
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "qb7uh4_TAsessionID@.crowe.com",
+        "qb7uh4_notice_behavior@.crowe.com",
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V4",
+      "gravedad": "Alta",
+      "nombre": "Aceptación implícita por navegación",
+      "evidencia": [
+        "qb7uh4_TAsessionID@.crowe.com",
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "qb7uh4_notice_behavior@.crowe.com"
+      ],
+      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+    },
+    {
+      "id": "V5",
+      "gravedad": "Media",
+      "nombre": "No persistencia de la decisión",
+      "evidencia": [
+        "el banner reaparece en la revisita",
+        "qb7uh4_TAsessionID@.crowe.com",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "qb7uh4_notice_behavior@.crowe.com",
+        "__Secure-YNID@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com"
+      ],
+      "regla": "banner reaparece en E5 o se reinstalan cookies rechazadas"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 3,
+    "cotaSuperior": 3,
+    "criticas": [],
+    "universoReferencia": 9,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [
+      "E2"
+    ],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

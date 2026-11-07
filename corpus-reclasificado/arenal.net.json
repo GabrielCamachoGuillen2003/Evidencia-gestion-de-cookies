@@ -1,0 +1,630 @@
+{
+  "sitio": "arenal.net",
+  "url": "https://www.arenal.net",
+  "auditadoEn": "2026-11-05T07:59:12.202Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.arenal.net",
+      "instante": "2026-11-05T07:57:00.769Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_HEN24E2ZHF",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1828425421.793884,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1828425421.794315,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1825401422,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 274
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog"
+        ],
+        "sessionStorage": [
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_window_id",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_session_registered_properties",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_primary_window_exists"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "us-assets.i.posthog.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "us.i.posthog.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.arenal.net",
+      "instante": "2026-11-05T07:57:16.662Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_HEN24E2ZHF",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1828425437.466453,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1828425437.467121,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1825401437,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 274
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog"
+        ],
+        "sessionStorage": [
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_window_id",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_session_registered_properties",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_primary_window_exists"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "us-assets.i.posthog.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "us.i.posthog.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.arenal.net",
+      "instante": "2026-11-05T07:57:37.072Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_HEN24E2ZHF",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1828425457.84866,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1828425457.84969,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1825401458,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 274
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog"
+        ],
+        "sessionStorage": [
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_window_id",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_session_registered_properties",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_primary_window_exists"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "us-assets.i.posthog.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "us.i.posthog.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.arenal.net",
+      "instante": "2026-11-05T07:58:02.016Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_HEN24E2ZHF",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1828425482.82792,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1828425482.828335,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1825401483,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 274
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog"
+        ],
+        "sessionStorage": [
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_window_id",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_session_registered_properties",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_primary_window_exists"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "us-assets.i.posthog.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "us.i.posthog.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.arenal.net",
+      "instante": "2026-11-05T07:58:21.741Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1828425517.258506,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_HEN24E2ZHF",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1828425517.258244,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+          "domain": ".arenal.net",
+          "path": "/",
+          "expires": 1825401517,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 274
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809417517.78038,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809417517.780485,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809417517.780512,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809417517.780543,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog"
+        ],
+        "sessionStorage": [
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_window_id",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_session_registered_properties",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+          "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_primary_window_exists"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "us-assets.i.posthog.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "us.i.posthog.com",
+        "anywhere.com",
+        "i.ytimg.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "rr1---sn-j5caxupj5-nt9l.googlevideo.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.arenal.net",
+      "instante": "2026-11-05T07:58:46.348Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".arenal.net",
+          "expires": 1828425545.210957,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_HEN24E2ZHF",
+          "domain": ".arenal.net",
+          "expires": 1828425545.210587,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+          "domain": ".arenal.net",
+          "expires": 1825401545,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 274
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "us-assets.i.posthog.com",
+        "us.i.posthog.com",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_HEN24E2ZHF@.arenal.net",
+        "_ga@.arenal.net"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 3,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+      "dominio": ".arenal.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+      "dominio": ".arenal.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+      "dominio": ".arenal.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+      "dominio": ".arenal.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+      "dominio": ".arenal.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ph_phc_fedReoXIowW2HYH1eMfjqrExuGqC7WdBLLm6NFx6CF_posthog",
+      "dominio": ".arenal.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 3,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 26.1,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.399Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

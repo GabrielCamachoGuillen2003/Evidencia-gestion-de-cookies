@@ -1,0 +1,2315 @@
+{
+  "sitio": "tigo.cr",
+  "url": "https://www.tigo.cr",
+  "auditadoEn": "2026-11-06T01:46:41.773Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.tigo.cr",
+      "instante": "2026-11-06T01:43:57.024Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809481439.186771,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".www.tigo.cr",
+          "path": "/",
+          "expires": 1825465438.229006,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.tigo.cr",
+          "path": "/",
+          "expires": 1793931238.229089,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1801705438,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_0WNQKZKF5Q",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1828489438.605273,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825465438.65291,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ga",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1828489438.88631,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1794015838,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-27828589-9",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1793929498,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_twpid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1827625448.90519,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 34
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".tigocloud.net",
+          "path": "/",
+          "expires": 1793931239.017492,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_clck",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1825465439,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "personalization_id",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1828489439.125879,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 29
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1793931239.12595,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "muc_ads",
+          "domain": ".t.co",
+          "path": "/",
+          "expires": 1828489439.25284,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1801705439,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801705439.635667,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1794015839,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827625441.439138,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794534241.439225,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827625441.439256,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827625441.535099,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794534241.535139,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793930041.535157,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_twsid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1827625448.90237,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 39
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "__mpq_24b066f14f077b22bca6edb703c4ac05_ev",
+          "mp_24b066f14f077b22bca6edb703c4ac05_mixpanel",
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "mp_gen_new_tab_id_mixpanel_24b066f14f077b22bca6edb703c4ac05",
+          "sessionParams",
+          "mp_tab_id_mixpanel_24b066f14f077b22bca6edb703c4ac05",
+          "analytics:previous-segment",
+          "elastic_apm_config",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "securepubads.g.doubleclick.net",
+        "discovery-content-cr.tigocloud.net",
+        "observability-apm-prd-toc.tigocloud.net",
+        "fonts.gstatic.com",
+        "cdn.smooch.io",
+        "googletagmanager.com",
+        "google.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "static.ads-twitter.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "scripts.clarity.ms",
+        "t.co",
+        "analytics.twitter.com",
+        "s.clarity.ms",
+        "facebook.com",
+        "pagead2.googlesyndication.com",
+        "c.clarity.ms",
+        "c.bing.com",
+        "analytics.tigocloud.net"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "scripts.clarity.ms",
+        "t.co",
+        "analytics.twitter.com",
+        "s.clarity.ms",
+        "facebook.com",
+        "pagead2.googlesyndication.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.tigo.cr",
+      "instante": "2026-11-06T01:44:18.298Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".tigocloud.net",
+          "path": "/",
+          "expires": 1793931258.695275,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".www.tigo.cr",
+          "path": "/",
+          "expires": 1825465459.586492,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.tigo.cr",
+          "path": "/",
+          "expires": 1793931259.5866,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1801705459,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_0WNQKZKF5Q",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1828489459.917821,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_twpid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1827625469.973842,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 35
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825465460.005427,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "personalization_id",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1828489460.130618,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 29
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1793931260.130677,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1828489460.136589,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1794015860,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-27828589-9",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1793929520,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "muc_ads",
+          "domain": ".t.co",
+          "path": "/",
+          "expires": 1828489460.261749,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1801705460,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_clck",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1825465460,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801705460.673489,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1794015861,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827625462.640755,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794534262.64084,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827625462.640889,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827625461.75815,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794534261.758222,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793930061.75826,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_twsid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1827625469.97299,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 39
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "__mpq_24b066f14f077b22bca6edb703c4ac05_ev",
+          "mp_24b066f14f077b22bca6edb703c4ac05_mixpanel",
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "mp_gen_new_tab_id_mixpanel_24b066f14f077b22bca6edb703c4ac05",
+          "sessionParams",
+          "mp_tab_id_mixpanel_24b066f14f077b22bca6edb703c4ac05",
+          "analytics:previous-segment",
+          "elastic_apm_config",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "securepubads.g.doubleclick.net",
+        "discovery-content-cr.tigocloud.net",
+        "observability-apm-prd-toc.tigocloud.net",
+        "fonts.gstatic.com",
+        "cdn.smooch.io",
+        "googletagmanager.com",
+        "google.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "static.ads-twitter.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "t.co",
+        "analytics.twitter.com",
+        "scripts.clarity.ms",
+        "facebook.com",
+        "g.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com",
+        "analytics.tigocloud.net"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "t.co",
+        "analytics.twitter.com",
+        "scripts.clarity.ms",
+        "facebook.com",
+        "g.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.tigo.cr",
+      "instante": "2026-11-06T01:44:45.011Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".tigocloud.net",
+          "path": "/",
+          "expires": 1793931285.366261,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".www.tigo.cr",
+          "path": "/",
+          "expires": 1825465486.225311,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.tigo.cr",
+          "path": "/",
+          "expires": 1793931286.225394,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 197
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1801705486,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_0WNQKZKF5Q",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1828489486.525617,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_twpid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1827625496.687452,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 35
+        },
+        {
+          "name": "_ga",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1828489486.699159,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1794015886,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-27828589-9",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1793929546,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825465486.790213,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "personalization_id",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1828489486.902117,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 29
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1793931286.902191,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "muc_ads",
+          "domain": ".t.co",
+          "path": "/",
+          "expires": 1828489487.020212,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1801705487,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 35
+        },
+        {
+          "name": "_clck",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1825465487,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801705487.491997,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1794015887,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827625488.434402,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794534288.434462,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827625488.434533,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827625488.525217,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794534288.525349,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793930088.525417,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_twsid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1827625496.68678,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 39
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "__mpq_24b066f14f077b22bca6edb703c4ac05_ev",
+          "mp_24b066f14f077b22bca6edb703c4ac05_mixpanel",
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "mp_gen_new_tab_id_mixpanel_24b066f14f077b22bca6edb703c4ac05",
+          "sessionParams",
+          "mp_tab_id_mixpanel_24b066f14f077b22bca6edb703c4ac05",
+          "analytics:previous-segment",
+          "elastic_apm_config",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "securepubads.g.doubleclick.net",
+        "discovery-content-cr.tigocloud.net",
+        "observability-apm-prd-toc.tigocloud.net",
+        "fonts.gstatic.com",
+        "cdn.smooch.io",
+        "googletagmanager.com",
+        "google.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "static.ads-twitter.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "t.co",
+        "analytics.twitter.com",
+        "scripts.clarity.ms",
+        "facebook.com",
+        "a.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com",
+        "analytics.tigocloud.net"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "t.co",
+        "analytics.twitter.com",
+        "scripts.clarity.ms",
+        "facebook.com",
+        "a.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.tigo.cr",
+      "instante": "2026-11-06T01:45:17.273Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809481519.511894,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".tigocloud.net",
+          "path": "/",
+          "expires": 1793931317.758188,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".www.tigo.cr",
+          "path": "/",
+          "expires": 1825465518.686772,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.tigo.cr",
+          "path": "/",
+          "expires": 1793931318.686881,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 197
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1801705518,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_twpid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1827625529.054627,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 35
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825465519.080727,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "personalization_id",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1828489519.209701,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 29
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1793931319.209766,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_0WNQKZKF5Q",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1828489519.281247,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1828489519.299917,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1794015919,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-27828589-9",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1793929579,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "muc_ads",
+          "domain": ".t.co",
+          "path": "/",
+          "expires": 1828489519.339072,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_clck",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1825465519,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1801705519,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 35
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801705519.831639,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1794015920,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827625521.539011,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794534321.539243,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827625521.539365,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827625520.631293,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794534320.631333,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793930120.631352,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_twsid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1827625529.053723,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 39
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "__mpq_24b066f14f077b22bca6edb703c4ac05_ev",
+          "mp_24b066f14f077b22bca6edb703c4ac05_mixpanel",
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "mp_gen_new_tab_id_mixpanel_24b066f14f077b22bca6edb703c4ac05",
+          "sessionParams",
+          "mp_tab_id_mixpanel_24b066f14f077b22bca6edb703c4ac05",
+          "analytics:previous-segment",
+          "elastic_apm_config",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "securepubads.g.doubleclick.net",
+        "discovery-content-cr.tigocloud.net",
+        "observability-apm-prd-toc.tigocloud.net",
+        "fonts.gstatic.com",
+        "cdn.smooch.io",
+        "googletagmanager.com",
+        "google.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "static.ads-twitter.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "t.co",
+        "analytics.twitter.com",
+        "scripts.clarity.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "o.clarity.ms",
+        "facebook.com",
+        "c.clarity.ms",
+        "c.bing.com",
+        "analytics.tigocloud.net"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "t.co",
+        "analytics.twitter.com",
+        "scripts.clarity.ms",
+        "stats.g.doubleclick.net",
+        "o.clarity.ms",
+        "facebook.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.tigo.cr",
+      "instante": "2026-11-06T01:45:43.213Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809481545.38123,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".tigocloud.net",
+          "path": "/",
+          "expires": 1793931343.525912,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1801705545,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_twpid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1827625563.839577,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 35
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825465544.962938,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1794015964,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-27828589-9",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1793929605,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "personalization_id",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1828489545.102303,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 29
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1793931345.102363,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "muc_ads",
+          "domain": ".t.co",
+          "path": "/",
+          "expires": 1828489545.234493,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_clck",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1825465545,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1801705564,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801705545.920363,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827625547.412535,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794534347.412784,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827625547.412907,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827625546.509243,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794534346.509366,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793930146.509418,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "guest_id_marketing",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1828489563.942494,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 23
+        },
+        {
+          "name": "guest_id_ads",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1828489563.94258,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 23
+        },
+        {
+          "name": "guest_id",
+          "domain": ".twitter.com",
+          "path": "/",
+          "expires": 1828489563.942604,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 23
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".www.tigo.cr",
+          "path": "/",
+          "expires": 1825465564.214033,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.tigo.cr",
+          "path": "/",
+          "expires": 1793931364.214174,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_0WNQKZKF5Q",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1828489564.254093,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1828489564.271418,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_twsid",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1827625564.328684,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 39
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tigo.cr",
+          "path": "/",
+          "expires": 1794015964,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "__mpq_24b066f14f077b22bca6edb703c4ac05_ev",
+          "mp_24b066f14f077b22bca6edb703c4ac05_mixpanel",
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "mp_gen_new_tab_id_mixpanel_24b066f14f077b22bca6edb703c4ac05",
+          "sessionParams",
+          "mp_tab_id_mixpanel_24b066f14f077b22bca6edb703c4ac05",
+          "analytics:previous-segment",
+          "elastic_apm_config",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "securepubads.g.doubleclick.net",
+        "discovery-content-cr.tigocloud.net",
+        "observability-apm-prd-toc.tigocloud.net",
+        "fonts.gstatic.com",
+        "cdn.smooch.io",
+        "googletagmanager.com",
+        "google.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "static.ads-twitter.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "pagead2.googlesyndication.com",
+        "t.co",
+        "analytics.twitter.com",
+        "scripts.clarity.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "h.clarity.ms",
+        "facebook.com",
+        "c.clarity.ms",
+        "c.bing.com",
+        "analytics.tigocloud.net"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "pagead2.googlesyndication.com",
+        "t.co",
+        "analytics.twitter.com",
+        "scripts.clarity.ms",
+        "stats.g.doubleclick.net",
+        "h.clarity.ms",
+        "facebook.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.tigo.cr",
+      "instante": "2026-11-06T01:46:13.235Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".tigocloud.net",
+          "expires": 1793931373.708748,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".www.tigo.cr",
+          "expires": 1825465574.619414,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.tigo.cr",
+          "expires": 1793931374.6195,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tigo.cr",
+          "expires": 1801705574,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_twpid",
+          "domain": ".tigo.cr",
+          "expires": 1827625592.673397,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 35
+        },
+        {
+          "name": "_ga",
+          "domain": ".tigo.cr",
+          "expires": 1828489575.147476,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".tigo.cr",
+          "expires": 1794015975,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-27828589-9",
+          "domain": ".tigo.cr",
+          "expires": 1793929635,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "personalization_id",
+          "domain": ".twitter.com",
+          "expires": 1828489575.313044,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 29
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".twitter.com",
+          "expires": 1793931375.31312,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "expires": 1825465575.338949,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "muc_ads",
+          "domain": ".t.co",
+          "expires": 1828489575.419904,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tigo.cr",
+          "expires": 1801705575,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_clck",
+          "domain": ".tigo.cr",
+          "expires": 1825465575,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801705575.852976,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "expires": 1827625576.458355,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "expires": 1794534376.458417,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "expires": 1827625576.458442,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tigo.cr",
+          "expires": 1794015976,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "expires": 1827625576.557557,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "expires": 1794534376.557645,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "expires": 1793930176.557666,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_0WNQKZKF5Q",
+          "domain": ".tigo.cr",
+          "expires": 1828489592.670228,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 52
+        },
+        {
+          "name": "_twsid",
+          "domain": ".tigo.cr",
+          "expires": 1827625592.672674,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 390,
+          "valorLongitud": 39
+        },
+        {
+          "name": "guest_id_marketing",
+          "domain": ".twitter.com",
+          "expires": 1828489592.782446,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 23
+        },
+        {
+          "name": "guest_id_ads",
+          "domain": ".twitter.com",
+          "expires": 1828489592.782626,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 23
+        },
+        {
+          "name": "guest_id",
+          "domain": ".twitter.com",
+          "expires": 1828489592.782721,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 23
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com",
+        "_ga_0WNQKZKF5Q@.tigo.cr",
+        "CLID@www.clarity.ms",
+        "_ga@.tigo.cr",
+        "_gid@.tigo.cr",
+        "_gat_UA-27828589-9@.tigo.cr",
+        "_clck@.tigo.cr",
+        "personalization_id@.twitter.com",
+        "muc_ads@.t.co",
+        "_fbp@.tigo.cr",
+        "fr@.facebook.com",
+        "_clsk@.tigo.cr",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 26,
+        "rastreadoresEnE0": 15
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_twpid",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_twsid",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_twpid",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_twsid",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_twpid",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_twsid",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_twpid",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_twsid",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_twpid",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_twsid",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_twpid",
+      "dominio": ".tigo.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_twsid",
+      "dominio": ".tigo.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 25,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 11.3,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

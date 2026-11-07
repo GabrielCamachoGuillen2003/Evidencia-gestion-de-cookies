@@ -1,0 +1,938 @@
+{
+  "sitio": "muniguatuso.go.cr",
+  "url": "https://muniguatuso.go.cr",
+  "auditadoEn": "2026-11-05T06:25:05.393Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://muniguatuso.go.cr",
+      "instante": "2026-11-05T06:21:11.672Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "234491a07ac692e46494e5d56973fdfd",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": 1793902874.119952,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411674.735609,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411674.735735,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411674.735782,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411674.735844,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "ssupp_185c328503119718e7ba59bb005c373aa4930745"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "connect.facebook.net",
+        "smartsuppchat.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "bootstrap.smartsuppchat.com",
+        "facebook.com",
+        "widget-v3.smartsuppcdn.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://muniguatuso.go.cr",
+      "instante": "2026-11-05T06:21:32.894Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "234491a07ac692e46494e5d56973fdfd",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": 1793902894.869551,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411695.255682,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411695.255893,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411695.255942,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411695.255994,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "ssupp_185c328503119718e7ba59bb005c373aa4930745"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "connect.facebook.net",
+        "smartsuppchat.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "bootstrap.smartsuppchat.com",
+        "facebook.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "widget-v3.smartsuppcdn.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://muniguatuso.go.cr",
+      "instante": "2026-11-05T06:21:59.651Z",
+      "error": null,
+      "bitacora": [
+        "primer intento fallido (page.goto: Timeout 45000ms exceeded.); reintento con ritmo reducido",
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "234491a07ac692e46494e5d56973fdfd",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": 1793902971.782732,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411772.471593,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411772.471778,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411772.471828,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411772.47188,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "nrid",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": 1828419790.30605,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 16
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "ssupp_185c328503119718e7ba59bb005c373aa4930745"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "connect.facebook.net",
+        "smartsuppchat.com",
+        "fonts.gstatic.com",
+        "youtube.com",
+        "bootstrap.smartsuppchat.com",
+        "widget-v3.smartsuppcdn.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "facebook.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "facebook.com"
+      ],
+      "reintentado": true,
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://muniguatuso.go.cr",
+      "instante": "2026-11-05T06:23:37.799Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "234491a07ac692e46494e5d56973fdfd",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": 1793903020.51202,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411820.948219,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411820.948383,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411820.948431,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411820.94848,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "nrid",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": 1828419831.116789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 16
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "ssupp_185c328503119718e7ba59bb005c373aa4930745"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "connect.facebook.net",
+        "smartsuppchat.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "bootstrap.smartsuppchat.com",
+        "facebook.com",
+        "widget-v3.smartsuppcdn.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://muniguatuso.go.cr",
+      "instante": "2026-11-05T06:24:04.090Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "234491a07ac692e46494e5d56973fdfd",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": 1793903045.734957,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411863.159239,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411863.159287,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "nrid",
+          "domain": "muniguatuso.go.cr",
+          "path": "/",
+          "expires": 1828419851.2824,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 16
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411846.15903,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809411863.159157,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "ssupp_185c328503119718e7ba59bb005c373aa4930745"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "connect.facebook.net",
+        "smartsuppchat.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "bootstrap.smartsuppchat.com",
+        "widget-v3.smartsuppcdn.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "facebook.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "video.fsjo12-1.fna.fbcdn.net",
+        "yt3.ggpht.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://muniguatuso.go.cr",
+      "instante": "2026-11-05T06:24:32.262Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "234491a07ac692e46494e5d56973fdfd",
+          "domain": "muniguatuso.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "muniguatuso.go.cr",
+          "expires": 1793903073.878008,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809411898.554976,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809411898.555027,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809411874.554852,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809411898.555077,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "connect.facebook.net",
+        "fonts.gstatic.com",
+        "smartsuppchat.com",
+        "youtube.com",
+        "bootstrap.smartsuppchat.com",
+        "widget-v3.smartsuppcdn.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 7,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "234491a07ac692e46494e5d56973fdfd",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sppb_user_timezone",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "234491a07ac692e46494e5d56973fdfd",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sppb_user_timezone",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "234491a07ac692e46494e5d56973fdfd",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sppb_user_timezone",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "nrid",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "234491a07ac692e46494e5d56973fdfd",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sppb_user_timezone",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "nrid",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "234491a07ac692e46494e5d56973fdfd",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sppb_user_timezone",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "nrid",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "234491a07ac692e46494e5d56973fdfd",
+      "dominio": "muniguatuso.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sppb_user_timezone",
+      "dominio": "muniguatuso.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 7,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 33.3,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

@@ -1,0 +1,1763 @@
+{
+  "sitio": "pricesmart.com",
+  "url": "https://www.pricesmart.com",
+  "auditadoEn": "2026-11-05T01:08:41.637Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.pricesmart.com",
+      "instante": "2026-11-05T01:06:26.419Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1793842587.128654,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vsf-locale",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 5
+        },
+        {
+          "name": "vsf-currency",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 3
+        },
+        {
+          "name": "vsf-country",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vsf-store",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1825376787,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vsf-channel",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400789.256579,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_W77R5TY7EF",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400789.339998,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_br_uid_2",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400789.361327,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 60
+        },
+        {
+          "name": "_hjSessionUser_1381407",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1825376789,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_1381407",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1793842589,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828400789.77331,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_fbp",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616789.850848,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "_gtmeec",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616789.850951,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 90,
+          "valorLongitud": 6
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "path": "/",
+          "expires": 1801616790.8131,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 227
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "NRBA_SESSION",
+          "botmaker_auth_JVMYLJNDPH"
+        ],
+        "sessionStorage": [
+          "ga_attribution"
+        ]
+      },
+      "terceros": [
+        "pricesmart.bloomreach.io",
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "go.botmaker.com",
+        "cdns.brsrvr.com",
+        "static.botmaker.com",
+        "d31f1ehqijlcua.cloudfront.net",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "script.hotjar.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "p.brsrvr.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "storage.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.pricesmart.com",
+      "instante": "2026-11-05T01:06:38.190Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1793842598.388982,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vsf-locale",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 5
+        },
+        {
+          "name": "vsf-currency",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 3
+        },
+        {
+          "name": "vsf-country",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vsf-store",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1825376799,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vsf-channel",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400800.700912,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616800,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_W77R5TY7EF",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400800.792394,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_br_uid_2",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400800.825019,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 60
+        },
+        {
+          "name": "_hjSessionUser_1381407",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1825376800,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_1381407",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1793842600,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828400801.225543,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_fbp",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616801.321199,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "_gtmeec",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616801.321256,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 90,
+          "valorLongitud": 6
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "path": "/",
+          "expires": 1801616801.949292,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 227
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "NRBA_SESSION",
+          "botmaker_auth_JVMYLJNDPH"
+        ],
+        "sessionStorage": [
+          "ga_attribution"
+        ]
+      },
+      "terceros": [
+        "pricesmart.bloomreach.io",
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "go.botmaker.com",
+        "static.botmaker.com",
+        "d31f1ehqijlcua.cloudfront.net",
+        "cdns.brsrvr.com",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "script.hotjar.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "p.brsrvr.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "storage.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.pricesmart.com",
+      "instante": "2026-11-05T01:06:56.090Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1793842616.553877,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vsf-locale",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 5
+        },
+        {
+          "name": "vsf-currency",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 3
+        },
+        {
+          "name": "vsf-country",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vsf-store",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1825376817,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vsf-channel",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400818.873685,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616818,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_W77R5TY7EF",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400818.978472,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_hjSessionUser_1381407",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1825376819,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_1381407",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1793842619,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_br_uid_2",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400819.038092,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 60
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828400819.348625,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_fbp",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616819.573692,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "_gtmeec",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616819.573765,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 90,
+          "valorLongitud": 6
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "path": "/",
+          "expires": 1801616820.263471,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 227
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "NRBA_SESSION",
+          "botmaker_auth_JVMYLJNDPH"
+        ],
+        "sessionStorage": [
+          "ga_attribution"
+        ]
+      },
+      "terceros": [
+        "pricesmart.bloomreach.io",
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "go.botmaker.com",
+        "d31f1ehqijlcua.cloudfront.net",
+        "static.botmaker.com",
+        "cdns.brsrvr.com",
+        "script.hotjar.com",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "p.brsrvr.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "storage.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.pricesmart.com",
+      "instante": "2026-11-05T01:07:22.538Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1793842642.718195,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vsf-locale",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 5
+        },
+        {
+          "name": "vsf-currency",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 3
+        },
+        {
+          "name": "vsf-country",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vsf-store",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1825376843,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vsf-channel",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400845.067139,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616845,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_W77R5TY7EF",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400845.160094,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_hjSessionUser_1381407",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1825376845,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_1381407",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1793842645,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_br_uid_2",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400845.224428,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 60
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828400845.548039,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_fbp",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616845.576379,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "_gtmeec",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616845.576526,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 90,
+          "valorLongitud": 6
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "path": "/",
+          "expires": 1801616846.803331,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 227
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "NRBA_SESSION",
+          "botmaker_auth_JVMYLJNDPH"
+        ],
+        "sessionStorage": [
+          "ga_attribution"
+        ]
+      },
+      "terceros": [
+        "pricesmart.bloomreach.io",
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "go.botmaker.com",
+        "static.botmaker.com",
+        "d31f1ehqijlcua.cloudfront.net",
+        "cdns.brsrvr.com",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "script.hotjar.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "p.brsrvr.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "storage.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.pricesmart.com",
+      "instante": "2026-11-05T01:07:39.781Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1793842660.872587,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vsf-currency",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 3
+        },
+        {
+          "name": "vsf-store",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1825376880,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vsf-channel",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400880.548534,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616863,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_br_uid_2",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400863.116134,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 60
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828400863.449348,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_hjSession_1381407",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1793842663,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_fbp",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616881.543116,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "_gtmeec",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1801616881.543215,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 90,
+          "valorLongitud": 6
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "path": "/",
+          "expires": 1801616864.460756,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 227
+        },
+        {
+          "name": "vsf-locale",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 5
+        },
+        {
+          "name": "vsf-country",
+          "domain": "www.pricesmart.com",
+          "path": "/",
+          "expires": 1825376880,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_ga_W77R5TY7EF",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1828400881.348897,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_hjSessionUser_1381407",
+          "domain": ".pricesmart.com",
+          "path": "/",
+          "expires": 1825376881,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "NRBA_SESSION",
+          "botmaker_auth_JVMYLJNDPH"
+        ],
+        "sessionStorage": [
+          "ga_attribution"
+        ]
+      },
+      "terceros": [
+        "pricesmart.bloomreach.io",
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "go.botmaker.com",
+        "cdns.brsrvr.com",
+        "static.botmaker.com",
+        "d31f1ehqijlcua.cloudfront.net",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "script.hotjar.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "p.brsrvr.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "storage.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.pricesmart.com",
+      "instante": "2026-11-05T01:08:10.437Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".pricesmart.com",
+          "expires": 1793842690.613376,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vsf-locale",
+          "domain": "www.pricesmart.com",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 5
+        },
+        {
+          "name": "vsf-currency",
+          "domain": "www.pricesmart.com",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 3
+        },
+        {
+          "name": "vsf-country",
+          "domain": "www.pricesmart.com",
+          "expires": 1824862872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 359,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vsf-store",
+          "domain": "www.pricesmart.com",
+          "expires": 1825376914,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "vsf-channel",
+          "domain": "www.pricesmart.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".pricesmart.com",
+          "expires": 1828400915.903856,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".pricesmart.com",
+          "expires": 1801616893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 23
+        },
+        {
+          "name": "_hjSession_1381407",
+          "domain": ".pricesmart.com",
+          "expires": 1793842693,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828400893.405891,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_fbp",
+          "domain": ".pricesmart.com",
+          "expires": 1801616916.21342,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "_gtmeec",
+          "domain": ".pricesmart.com",
+          "expires": 1801616916.213515,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 90,
+          "valorLongitud": 6
+        },
+        {
+          "name": "_ga_W77R5TY7EF",
+          "domain": ".pricesmart.com",
+          "expires": 1828400915.993215,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_br_uid_2",
+          "domain": ".pricesmart.com",
+          "expires": 1828400916.020754,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 60
+        },
+        {
+          "name": "_hjSessionUser_1381407",
+          "domain": ".pricesmart.com",
+          "expires": 1825376916,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "expires": 1801616916.356991,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 227
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "pricesmart.bloomreach.io",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "go.botmaker.com",
+        "static.botmaker.com",
+        "d31f1ehqijlcua.cloudfront.net",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "cdns.brsrvr.com",
+        "script.hotjar.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "analytics.google.com",
+        "p.brsrvr.com",
+        "google.co.cr",
+        "storage.googleapis.com",
+        "fonts.gstatic.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "googleads.g.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga@.pricesmart.com",
+        "_gcl_au@.pricesmart.com",
+        "_ga_W77R5TY7EF@.pricesmart.com",
+        "_hjSessionUser_1381407@.pricesmart.com",
+        "_hjSession_1381407@.pricesmart.com",
+        "IDE@.doubleclick.net",
+        "_fbp@.pricesmart.com",
+        "_gtmeec@.pricesmart.com",
+        "botmaker_auth@.botmaker.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 16,
+        "rastreadoresEnE0": 9
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "vsf-locale",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vsf-currency",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vsf-country",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vsf-store",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vsf-channel",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_br_uid_2",
+      "dominio": ".pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vsf-locale",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vsf-currency",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vsf-country",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vsf-store",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vsf-channel",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_br_uid_2",
+      "dominio": ".pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vsf-locale",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vsf-currency",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vsf-country",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vsf-store",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vsf-channel",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_br_uid_2",
+      "dominio": ".pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vsf-locale",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vsf-currency",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vsf-country",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vsf-store",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vsf-channel",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_br_uid_2",
+      "dominio": ".pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vsf-currency",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vsf-store",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vsf-channel",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_br_uid_2",
+      "dominio": ".pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vsf-locale",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vsf-country",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vsf-locale",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vsf-currency",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vsf-country",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vsf-store",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vsf-channel",
+      "dominio": "www.pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_br_uid_2",
+      "dominio": ".pricesmart.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 16,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 37.5,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.784Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

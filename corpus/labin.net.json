@@ -1,0 +1,1978 @@
+{
+  "sitio": "labin.net",
+  "url": "https://labin.net",
+  "auditadoEn": "2026-11-05T05:49:41.163Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://labin.net",
+      "instante": "2026-11-05T05:45:53.962Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1031
+        },
+        {
+          "name": "_ga",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1828417558.517592,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "shop_display",
+          "domain": "labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1793859358,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409560.863407,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409560.863492,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409560.863171,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409560.863318,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825393561.480427,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1793859361.480519,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1828417563.272858,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 22
+        },
+        {
+          "name": "_ga_BHN9L6PK50",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1828417569.060587,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor",
+          "labin_chatConversations",
+          "labin_chatLastConvoId",
+          "labin_chatHelloSent"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "djqmugiewpnuffqvqxhd.supabase.co",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "player.vimeo.com",
+        "youtube.com",
+        "vimeo.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "f.vimeocdn.com",
+        "rr2---sn-j5caxupj5-nwvl.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com",
+        "i.vimeocdn.com",
+        "vod-adaptive-ak.vimeocdn.com",
+        "arclight.vimeo.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://labin.net",
+      "instante": "2026-11-05T05:46:19.700Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "pulsado «aceptar»"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1036
+        },
+        {
+          "name": "_ga",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1828417587.546268,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "shop_display",
+          "domain": "labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1793859395,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409598.329573,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409598.32962,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409597.329234,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409598.329412,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825393598.494674,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1793859398.494765,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1828417599.16785,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 22
+        },
+        {
+          "name": "_ga_BHN9L6PK50",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1828417615.885276,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "labin_chatPrivacyAccepted",
+          "elementor",
+          "labin_chatConversations",
+          "labin_chatLastConvoId",
+          "labin_chatHelloSent"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "djqmugiewpnuffqvqxhd.supabase.co",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "player.vimeo.com",
+        "youtube.com",
+        "vimeo.com",
+        "f.vimeocdn.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "rr2---sn-j5caxupj5-nwvl.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com",
+        "i.vimeocdn.com",
+        "vod-adaptive-ak.vimeocdn.com",
+        "arclight.vimeo.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "controlUsado": "aceptar",
+      "interaccionLograda": true
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://labin.net",
+      "instante": "2026-11-05T05:47:01.683Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1045
+        },
+        {
+          "name": "_ga",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1828417627.220146,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "shop_display",
+          "domain": "labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1793859433,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409635.590792,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409635.590956,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409634.59043,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409635.591122,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825393635.748012,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1793859435.748103,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1828417636.361066,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 22
+        },
+        {
+          "name": "_ga_BHN9L6PK50",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1828417653.888342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor",
+          "labin_chatConversations",
+          "labin_chatLastConvoId",
+          "labin_chatHelloSent"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "djqmugiewpnuffqvqxhd.supabase.co",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "player.vimeo.com",
+        "youtube.com",
+        "vimeo.com",
+        "f.vimeocdn.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "rr2---sn-j5caxupj5-nwvl.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.vimeocdn.com",
+        "vod-adaptive-ak.vimeocdn.com",
+        "arclight.vimeo.com",
+        "i.ytimg.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://labin.net",
+      "instante": "2026-11-05T05:47:42.588Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1046
+        },
+        {
+          "name": "_ga",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1828417667.176921,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "shop_display",
+          "domain": "labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1793859468,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409670.645349,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409670.6454,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409669.645235,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409670.645474,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825393670.859771,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1793859470.85986,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1828417671.452706,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 23
+        },
+        {
+          "name": "_ga_BHN9L6PK50",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1828417688.261537,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor",
+          "labin_chatConversations",
+          "labin_chatLastConvoId",
+          "labin_chatHelloSent"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "djqmugiewpnuffqvqxhd.supabase.co",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "player.vimeo.com",
+        "youtube.com",
+        "vimeo.com",
+        "f.vimeocdn.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "rr2---sn-j5caxupj5-nwvl.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.vimeocdn.com",
+        "vod-adaptive-ak.vimeocdn.com",
+        "arclight.vimeo.com",
+        "i.ytimg.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://labin.net",
+      "instante": "2026-11-05T05:48:12.847Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 825
+        },
+        {
+          "name": "_ga",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1828417735.162825,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "shop_display",
+          "domain": "labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "labin.net",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409735.629941,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409735.630029,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409713.301069,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409714.301242,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1828417714.848319,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 22
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1793859535,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1825393736.127664,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "path": "/",
+          "expires": 1793859536.127779,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_BHN9L6PK50",
+          "domain": ".labin.net",
+          "path": "/",
+          "expires": 1828417736.365874,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor",
+          "labin_chatConversations",
+          "labin_chatLastConvoId",
+          "labin_chatHelloSent"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "djqmugiewpnuffqvqxhd.supabase.co",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "player.vimeo.com",
+        "youtube.com",
+        "vimeo.com",
+        "f.vimeocdn.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "rr2---sn-j5caxupj5-nwvl.googlevideo.com",
+        "i.vimeocdn.com",
+        "vod-adaptive-ak.vimeocdn.com",
+        "arclight.vimeo.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com",
+        "challenges.cloudflare.com",
+        "brunhild.challenges.cloudflare.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://labin.net",
+      "instante": "2026-11-05T05:49:04.247Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "player.vimeo.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 811
+        },
+        {
+          "name": "_ga",
+          "domain": ".labin.net",
+          "expires": 1828417774.265795,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "shop_display",
+          "domain": "labin.net",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".labin.net",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".labin.net",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".labin.net",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 94
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".labin.net",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".labin.net",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".labin.net",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "labin.net",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809409774.730579,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809409774.730656,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809409755.268937,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809409756.269043,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "vuid",
+          "domain": ".vimeo.com",
+          "expires": 1828417757.187726,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 22
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".labin.net",
+          "expires": 1793859574,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".vimeo.com",
+          "expires": 1825393775.257306,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".vimeo.com",
+          "expires": 1793859575.257432,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_BHN9L6PK50",
+          "domain": ".labin.net",
+          "expires": 1828417775.711117,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "djqmugiewpnuffqvqxhd.supabase.co",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "player.vimeo.com",
+        "youtube.com",
+        "vimeo.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "challenges.cloudflare.com",
+        "jnn-pa.googleapis.com",
+        "rr2---sn-j5caxupj5-nwvl.googlevideo.com",
+        "google-analytics.com",
+        "brunhild.challenges.cloudflare.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "__cf_ob@player.vimeo.com",
+        "_ga@.labin.net",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-YNID@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "vuid@.vimeo.com",
+        "_ga_BHN9L6PK50@.labin.net"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró rechazar en E2, de modo que no hubo decisión que respetar"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 20,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "shop_display",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_migrations",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_current_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_first_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_current",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_first",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_udata",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_session",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "shop_display",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_migrations",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_current_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_first_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_current",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_first",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_udata",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_session",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "shop_display",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_migrations",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_current_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_first_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_current",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_first",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_udata",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_session",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "shop_display",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_migrations",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_current_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_first_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_current",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_first",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_udata",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_session",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "shop_display",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_migrations",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_current_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_first_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_current",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_first",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_udata",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_session",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "shop_display",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_migrations",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_current_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_first_add",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_current",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_first",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_udata",
+      "dominio": ".labin.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "labin.net"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_session",
+      "dominio": ".labin.net"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 20,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [
+      "E1"
+    ],
+    "proporcionIndeterminadas": 45,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

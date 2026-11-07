@@ -1,0 +1,781 @@
+{
+  "sitio": "periodicomensaje.com",
+  "url": "https://www.periodicomensaje.com",
+  "auditadoEn": "2026-11-06T01:33:27.910Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.periodicomensaje.com",
+      "instante": "2026-11-06T01:31:02.664Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "e1a31afe4ac843057583cf24e1d4aa67",
+          "domain": "www.periodicomensaje.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1828488664.157698,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1794015064,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1793928724,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_TDYDKX568D",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1828488664.781591,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793929564.905623,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "google.com"
+      ],
+      "peticionesRastreo": [
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.periodicomensaje.com",
+      "instante": "2026-11-06T01:31:19.199Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "e1a31afe4ac843057583cf24e1d4aa67",
+          "domain": "www.periodicomensaje.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1828488680.6002,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1794015080,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1793928740,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_TDYDKX568D",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1828488681.180996,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793929581.31273,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "google.com"
+      ],
+      "peticionesRastreo": [
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.periodicomensaje.com",
+      "instante": "2026-11-06T01:31:41.646Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "e1a31afe4ac843057583cf24e1d4aa67",
+          "domain": "www.periodicomensaje.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1828488703.215761,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1794015103,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_gat",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1793928763,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_TDYDKX568D",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1828488703.782953,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793929603.901639,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "google.com"
+      ],
+      "peticionesRastreo": [
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.periodicomensaje.com",
+      "instante": "2026-11-06T01:32:09.841Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "e1a31afe4ac843057583cf24e1d4aa67",
+          "domain": "www.periodicomensaje.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1828488731.595226,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1794015131,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1793928791,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_TDYDKX568D",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1828488732.249033,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793929632.321045,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "google.com"
+      ],
+      "peticionesRastreo": [
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.periodicomensaje.com",
+      "instante": "2026-11-06T01:32:31.560Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "e1a31afe4ac843057583cf24e1d4aa67",
+          "domain": "www.periodicomensaje.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1828488769.04546,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1794015169,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1793928813,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_TDYDKX568D",
+          "domain": ".www.periodicomensaje.com",
+          "path": "/",
+          "expires": 1828488769.142301,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828488769.290672,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "google.com"
+      ],
+      "peticionesRastreo": [
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.periodicomensaje.com",
+      "instante": "2026-11-06T01:32:58.243Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "e1a31afe4ac843057583cf24e1d4aa67",
+          "domain": "www.periodicomensaje.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga",
+          "domain": ".www.periodicomensaje.com",
+          "expires": 1828488800.910642,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".www.periodicomensaje.com",
+          "expires": 1794015200,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".www.periodicomensaje.com",
+          "expires": 1793928839,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_TDYDKX568D",
+          "domain": ".www.periodicomensaje.com",
+          "expires": 1828488801.022668,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828488801.183108,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "googletagmanager.com",
+        "analytics.google.com",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "google.com"
+      ],
+      "peticionesRastreo": [
+        "pagead2.googlesyndication.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "googletagmanager.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga@.www.periodicomensaje.com",
+        "_gid@.www.periodicomensaje.com",
+        "_gat@.www.periodicomensaje.com",
+        "_ga_TDYDKX568D@.www.periodicomensaje.com",
+        "test_cookie@.doubleclick.net"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 6,
+        "rastreadoresEnE0": 5
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "e1a31afe4ac843057583cf24e1d4aa67",
+      "dominio": "www.periodicomensaje.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "e1a31afe4ac843057583cf24e1d4aa67",
+      "dominio": "www.periodicomensaje.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "e1a31afe4ac843057583cf24e1d4aa67",
+      "dominio": "www.periodicomensaje.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "e1a31afe4ac843057583cf24e1d4aa67",
+      "dominio": "www.periodicomensaje.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "e1a31afe4ac843057583cf24e1d4aa67",
+      "dominio": "www.periodicomensaje.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "e1a31afe4ac843057583cf24e1d4aa67",
+      "dominio": "www.periodicomensaje.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 6,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 16.7,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.779Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

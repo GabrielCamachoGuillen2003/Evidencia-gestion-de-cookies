@@ -1,0 +1,848 @@
+{
+  "sitio": "micitt.go.cr",
+  "url": "https://www.micitt.go.cr",
+  "auditadoEn": "2026-11-06T04:50:51.735Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.micitt.go.cr",
+      "instante": "2026-11-06T04:48:04.631Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1793942285.389176,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500486.184422,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_27MN7QNRH3",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500486.204247,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1801716486,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_DSDEW57P5S",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500486.523264,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793941386.74091,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-tunings",
+          "closeAudio",
+          "i18next_res_es-translation",
+          "openAudio",
+          "_gcl_ls",
+          "uw-uid",
+          "widgetSettings",
+          "uw-tunings-checksum"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "cdnjs.cloudflare.com",
+        "assistant.ai-kuanta.com",
+        "cdn.userway.org",
+        "skynettechnologies.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "fonts.gstatic.com",
+        "agents-production-media.sfo3.cdn.digitaloceanspaces.com",
+        "api.userway.org",
+        "freeada.skynettechnologies.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.micitt.go.cr",
+      "instante": "2026-11-06T04:48:22.557Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1793942303.045665,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500503.612955,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_27MN7QNRH3",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500503.631277,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1801716503,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_DSDEW57P5S",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500503.986677,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793941407.620571,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-tunings",
+          "closeAudio",
+          "openAudio",
+          "i18next_res_es-translation",
+          "_gcl_ls",
+          "uw-uid",
+          "widgetSettings",
+          "uw-tunings-checksum"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "cdnjs.cloudflare.com",
+        "assistant.ai-kuanta.com",
+        "cdn.userway.org",
+        "skynettechnologies.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "fonts.gstatic.com",
+        "api.userway.org",
+        "agents-production-media.sfo3.cdn.digitaloceanspaces.com",
+        "freeada.skynettechnologies.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.micitt.go.cr",
+      "instante": "2026-11-06T04:48:49.337Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1793942329.543905,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500530.090569,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_27MN7QNRH3",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500530.108558,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1801716530,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_DSDEW57P5S",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500530.418414,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793941439.907357,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-tunings",
+          "closeAudio",
+          "i18next_res_es-translation",
+          "openAudio",
+          "_gcl_ls",
+          "uw-uid",
+          "widgetSettings",
+          "uw-tunings-checksum"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "cdnjs.cloudflare.com",
+        "assistant.ai-kuanta.com",
+        "cdn.userway.org",
+        "skynettechnologies.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "fonts.gstatic.com",
+        "api.userway.org",
+        "agents-production-media.sfo3.cdn.digitaloceanspaces.com",
+        "freeada.skynettechnologies.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.micitt.go.cr",
+      "instante": "2026-11-06T04:49:21.915Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1793942362.446024,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500562.970127,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_27MN7QNRH3",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500562.989084,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1801716563,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_DSDEW57P5S",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500563.285908,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793941463.522778,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-tunings",
+          "closeAudio",
+          "i18next_res_es-translation",
+          "openAudio",
+          "_gcl_ls",
+          "uw-uid",
+          "widgetSettings",
+          "uw-tunings-checksum"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "cdnjs.cloudflare.com",
+        "assistant.ai-kuanta.com",
+        "cdn.userway.org",
+        "skynettechnologies.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "fonts.gstatic.com",
+        "agents-production-media.sfo3.cdn.digitaloceanspaces.com",
+        "api.userway.org",
+        "freeada.skynettechnologies.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.micitt.go.cr",
+      "instante": "2026-11-06T04:49:46.432Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1793942386.646072,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_27MN7QNRH3",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500614.590959,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500614.591553,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_DSDEW57P5S",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1828500615.040097,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".micitt.go.cr",
+          "path": "/",
+          "expires": 1801716615,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793941515.283861,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-tunings",
+          "closeAudio",
+          "openAudio",
+          "i18next_res_es-translation",
+          "_gcl_ls",
+          "uw-uid",
+          "widgetSettings",
+          "uw-tunings-checksum"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "cdnjs.cloudflare.com",
+        "assistant.ai-kuanta.com",
+        "cdn.userway.org",
+        "skynettechnologies.com",
+        "static.cloudflareinsights.com",
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "fonts.gstatic.com",
+        "api.userway.org",
+        "agents-production-media.sfo3.cdn.digitaloceanspaces.com",
+        "freeada.skynettechnologies.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.micitt.go.cr",
+      "instante": "2026-11-06T04:50:23.293Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".micitt.go.cr",
+          "expires": 1793942423.771126,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".micitt.go.cr",
+          "expires": 1828500628.74961,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".micitt.go.cr",
+          "expires": 1801716629,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_27MN7QNRH3",
+          "domain": ".micitt.go.cr",
+          "expires": 1828500644.700592,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_DSDEW57P5S",
+          "domain": ".micitt.go.cr",
+          "expires": 1828500644.747859,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828500644.911201,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "cdnjs.cloudflare.com",
+        "assistant.ai-kuanta.com",
+        "cdn.userway.org",
+        "skynettechnologies.com",
+        "static.cloudflareinsights.com",
+        "fonts.googleapis.com",
+        "cdn.gtranslate.net",
+        "fonts.gstatic.com",
+        "agents-production-media.sfo3.cdn.digitaloceanspaces.com",
+        "analytics.google.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "api.userway.org",
+        "google.co.cr",
+        "freeada.skynettechnologies.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "googleads.g.doubleclick.net",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga@.micitt.go.cr",
+        "_ga_27MN7QNRH3@.micitt.go.cr",
+        "_ga_DSDEW57P5S@.micitt.go.cr",
+        "test_cookie@.doubleclick.net"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 6,
+        "rastreadoresEnE0": 6
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".micitt.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".micitt.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".micitt.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".micitt.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".micitt.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".micitt.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 6,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 16.7,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

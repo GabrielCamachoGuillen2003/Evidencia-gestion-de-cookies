@@ -1,0 +1,951 @@
+{
+  "sitio": "fifco.com",
+  "url": "https://www.fifco.com",
+  "auditadoEn": "2026-11-05T02:03:17.003Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.fifco.com",
+      "instante": "2026-11-05T02:00:28.264Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.fifco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1825380031.044384,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1793845831.044498,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1801620031,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_TWG511M25N",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1828404031.488642,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1828404031.489187,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_fbp",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1801620032,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801620032.350156,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "_gcl_ls",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.fifco.com",
+      "instante": "2026-11-05T02:00:46.077Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.fifco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1825380052.29958,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1793845852.29966,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1801620052,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_TWG511M25N",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1828404052.423487,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1828404052.424294,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_fbp",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1801620052,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801620053.043192,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "_gcl_ls",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.fifco.com",
+      "instante": "2026-11-05T02:01:11.080Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.fifco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1825380085.948307,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1793845885.948407,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1801620086,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_TWG511M25N",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1828404086.330811,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1828404086.33122,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_fbp",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1801620086,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801620087.063283,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "_gcl_ls",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.fifco.com",
+      "instante": "2026-11-05T02:01:48.426Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.fifco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1825380110.420075,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1793845910.420166,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1801620110,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_TWG511M25N",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1828404110.902715,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1828404110.903137,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_fbp",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1801620111,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801620111.332269,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "_gcl_ls",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.fifco.com",
+      "instante": "2026-11-05T02:02:08.592Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.fifco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1825380130.535179,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1793845930.535282,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1801620131,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1828404160.677445,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_fbp",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1801620160,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801620131.448714,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_TWG511M25N",
+          "domain": ".fifco.com",
+          "path": "/",
+          "expires": 1828404160.676993,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "_gcl_ls",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.fifco.com",
+      "instante": "2026-11-05T02:02:50.185Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.fifco.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".fifco.com",
+          "expires": 1825380172.325999,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".fifco.com",
+          "expires": 1793845972.326083,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fifco.com",
+          "expires": 1801620173,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga",
+          "domain": ".fifco.com",
+          "expires": 1828404189.880214,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_fbp",
+          "domain": ".fifco.com",
+          "expires": 1801620189,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801620173.429976,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_TWG511M25N",
+          "domain": ".fifco.com",
+          "expires": 1828404189.879884,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "facebook.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "facebook.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_TWG511M25N@.fifco.com",
+        "_ga@.fifco.com",
+        "_fbp@.fifco.com",
+        "fr@.facebook.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 8,
+        "rastreadoresEnE0": 5
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.fifco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".fifco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.fifco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".fifco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.fifco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".fifco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.fifco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".fifco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.fifco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".fifco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.fifco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".fifco.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 8,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 25,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

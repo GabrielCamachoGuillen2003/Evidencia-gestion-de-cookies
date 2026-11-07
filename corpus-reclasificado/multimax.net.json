@@ -1,0 +1,1584 @@
+{
+  "sitio": "multimax.net",
+  "url": "https://www.multimax.net",
+  "auditadoEn": "2026-11-06T01:25:18.366Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.multimax.net",
+      "instante": "2026-11-06T01:20:46.142Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "localization",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464046.853029,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464046.853127,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464046.853153,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464046.853176,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "path": "/",
+          "expires": 1825464048.898912,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 168
+        },
+        {
+          "name": "_ga_N2LSETQKNP",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488048.901205,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488049.0303,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_121N61CG01",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488049.065377,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1801704049,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793928949.379513,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_fbp",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1801704049,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_rsession",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1793929849,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_ruid",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1828488049.548933,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 66
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801704049.811783,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mailchimp-pixel:context",
+          "WIZY_WIDGET_SECTION_tienda-multimax.myshopify.com",
+          "lastExternalReferrerTime",
+          "intuit_pixel_sdk_user_data",
+          "signInWithShop:cartSyncTransferAttemptedAt",
+          "shopify:webmcp_adapter_loaded",
+          "_gcl_ls",
+          "_ruid",
+          "lastExternalReferrer",
+          "_rsession"
+        ],
+        "sessionStorage": [
+          "consentHeader",
+          "intuit_pixel_sdk_session_data",
+          "wpm-ri-922567c5-5d88-4bc0-9d71-e867ce22468e-1793928047-z",
+          "__shopify_agent_context_events",
+          "_shs_state"
+        ]
+      },
+      "terceros": [
+        "ajax.googleapis.com",
+        "googletagmanager.com",
+        "cdn.shopify.com",
+        "cdn.rebuyengine.com",
+        "cdn.boostcommerce.io",
+        "otlp-http-production.shopifysvc.com",
+        "connect.facebook.net",
+        "shop.app",
+        "api.wizybot.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "merchant-center-analytics.goog",
+        "fonts.googleapis.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "google.co.cr",
+        "s3-tjlabs-wizybot-widget-images-prod.s3.amazonaws.com",
+        "cached.rebuyengine.com",
+        "rebuyengine.com",
+        "facebook.com",
+        "geo.rebuyengine.com",
+        "chimpstatic.com",
+        "mcjs.prd.a.intuit.com",
+        "extensions.shopifycdn.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "facebook.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.multimax.net",
+      "instante": "2026-11-06T01:21:05.904Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "localization",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464066.515995,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464066.516059,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464066.516089,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464066.516115,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "path": "/",
+          "expires": 1825464068.376668,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 166
+        },
+        {
+          "name": "_ga_N2LSETQKNP",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488068.471522,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488068.620158,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_121N61CG01",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488068.657284,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1801704068,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 71
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793928968.868452,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_fbp",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1801704069,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_rsession",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1793929869,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_ruid",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1828488069.085275,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 66
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801704069.236099,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mailchimp-pixel:context",
+          "WIZY_WIDGET_SECTION_tienda-multimax.myshopify.com",
+          "lastExternalReferrerTime",
+          "intuit_pixel_sdk_user_data",
+          "WIDGET:-TWCudDwau/themes/default/search__0__liquid",
+          "WIDGET:-TWCudDwau/collection-header/main__0__liquid",
+          "signInWithShop:cartSyncTransferAttemptedAt",
+          "shopify:webmcp_adapter_loaded",
+          "WIDGET:-TWCudDwau/themes/default/main__0__liquid",
+          "_gcl_ls",
+          "_ruid",
+          "lastExternalReferrer",
+          "_rsession"
+        ],
+        "sessionStorage": [
+          "consentHeader",
+          "intuit_pixel_sdk_session_data",
+          "__shopify_agent_context_events",
+          "_shs_state",
+          "wpm-ri-6243f750-d964-44ed-9ccb-7e8041096cb3-1793928066-z"
+        ]
+      },
+      "terceros": [
+        "ajax.googleapis.com",
+        "cdn.shopify.com",
+        "cdn.rebuyengine.com",
+        "googletagmanager.com",
+        "cdn.boostcommerce.io",
+        "otlp-http-production.shopifysvc.com",
+        "connect.facebook.net",
+        "api.wizybot.com",
+        "shop.app",
+        "fonts.googleapis.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "merchant-center-analytics.goog",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "google.co.cr",
+        "s3-tjlabs-wizybot-widget-images-prod.s3.amazonaws.com",
+        "facebook.com",
+        "cached.rebuyengine.com",
+        "rebuyengine.com",
+        "geo.rebuyengine.com",
+        "chimpstatic.com",
+        "mcjs.prd.a.intuit.com",
+        "extensions.shopifycdn.com",
+        "services.mybcapps.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.multimax.net",
+      "instante": "2026-11-06T01:21:51.769Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "localization",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464111.967673,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464111.96774,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464111.967772,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464111.967798,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "path": "/",
+          "expires": 1825464113.752743,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 168
+        },
+        {
+          "name": "_ga_N2LSETQKNP",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488113.906397,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488114.050409,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_121N61CG01",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488114.085544,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1801704114,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793929014.320239,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_fbp",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1801704114,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 35
+        },
+        {
+          "name": "_rsession",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1793929914,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_ruid",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1828488114.445256,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 66
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801704114.667103,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mailchimp-pixel:context",
+          "WIZY_WIDGET_SECTION_tienda-multimax.myshopify.com",
+          "lastExternalReferrerTime",
+          "intuit_pixel_sdk_user_data",
+          "WIDGET:-TWCudDwau/themes/default/search__0__liquid",
+          "WIDGET:-TWCudDwau/collection-header/main__0__liquid",
+          "lastExternalReferrer",
+          "shopify:webmcp_adapter_loaded",
+          "WIDGET:-TWCudDwau/themes/default/main__0__liquid",
+          "_gcl_ls",
+          "_ruid",
+          "_rsession",
+          "signInWithShop:cartSyncNextRecognitionAt"
+        ],
+        "sessionStorage": [
+          "consentHeader",
+          "intuit_pixel_sdk_session_data",
+          "__shopify_agent_context_events",
+          "_shs_state",
+          "wpm-ri-0df7d0b9-bf96-46c3-9e6b-f9d787318708-1793928112-z"
+        ]
+      },
+      "terceros": [
+        "ajax.googleapis.com",
+        "cdn.shopify.com",
+        "cdn.rebuyengine.com",
+        "googletagmanager.com",
+        "cdn.boostcommerce.io",
+        "otlp-http-production.shopifysvc.com",
+        "connect.facebook.net",
+        "api.wizybot.com",
+        "shop.app",
+        "fonts.googleapis.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "merchant-center-analytics.goog",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "google.co.cr",
+        "cached.rebuyengine.com",
+        "rebuyengine.com",
+        "facebook.com",
+        "geo.rebuyengine.com",
+        "s3-tjlabs-wizybot-widget-images-prod.s3.amazonaws.com",
+        "chimpstatic.com",
+        "mcjs.prd.a.intuit.com",
+        "extensions.shopifycdn.com",
+        "services.mybcapps.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.multimax.net",
+      "instante": "2026-11-06T01:23:00.495Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "localization",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464180.701404,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464180.701471,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464180.701522,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464180.701556,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "path": "/",
+          "expires": 1825464182.624056,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 168
+        },
+        {
+          "name": "_ga_N2LSETQKNP",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488182.635397,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488182.726548,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_121N61CG01",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488182.762269,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1801704183,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 71
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793929083.094606,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_fbp",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1801704183,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_rsession",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1793929983,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_ruid",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1828488183.263285,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 66
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801704183.506814,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mailchimp-pixel:context",
+          "WIZY_WIDGET_SECTION_tienda-multimax.myshopify.com",
+          "lastExternalReferrerTime",
+          "intuit_pixel_sdk_user_data",
+          "WIDGET:-TWCudDwau/themes/default/search__0__liquid",
+          "WIDGET:-TWCudDwau/collection-header/main__0__liquid",
+          "signInWithShop:cartSyncTransferAttemptedAt",
+          "shopify:webmcp_adapter_loaded",
+          "WIDGET:-TWCudDwau/themes/default/main__0__liquid",
+          "_gcl_ls",
+          "_ruid",
+          "lastExternalReferrer",
+          "_rsession"
+        ],
+        "sessionStorage": [
+          "consentHeader",
+          "intuit_pixel_sdk_session_data",
+          "wpm-ri-35805b76-bee0-4d88-80db-c7acee29a961-1793928181-z",
+          "__shopify_agent_context_events",
+          "_shs_state"
+        ]
+      },
+      "terceros": [
+        "ajax.googleapis.com",
+        "cdn.shopify.com",
+        "cdn.rebuyengine.com",
+        "googletagmanager.com",
+        "cdn.boostcommerce.io",
+        "otlp-http-production.shopifysvc.com",
+        "connect.facebook.net",
+        "api.wizybot.com",
+        "shop.app",
+        "fonts.googleapis.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "merchant-center-analytics.goog",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "google.co.cr",
+        "s3-tjlabs-wizybot-widget-images-prod.s3.amazonaws.com",
+        "cached.rebuyengine.com",
+        "rebuyengine.com",
+        "facebook.com",
+        "geo.rebuyengine.com",
+        "chimpstatic.com",
+        "mcjs.prd.a.intuit.com",
+        "extensions.shopifycdn.com",
+        "services.mybcapps.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.multimax.net",
+      "instante": "2026-11-06T01:23:41.011Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "localization",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464239.602115,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464221.215743,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464221.215771,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1825464221.215794,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "path": "/",
+          "expires": 1825464223.060226,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 168
+        },
+        {
+          "name": "_ga",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488240.771881,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_rsession",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1793930041,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_ruid",
+          "domain": "www.multimax.net",
+          "path": "/",
+          "expires": 1828488241.015183,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_fbp",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1801704240,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801704224.054684,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_121N61CG01",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488240.654858,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1801704223,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828488240.769733,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga_N2LSETQKNP",
+          "domain": ".multimax.net",
+          "path": "/",
+          "expires": 1828488240.771482,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mailchimp-pixel:context",
+          "WIZY_WIDGET_SECTION_tienda-multimax.myshopify.com",
+          "lastExternalReferrerTime",
+          "intuit_pixel_sdk_user_data",
+          "signInWithShop:cartSyncTransferAttemptedAt",
+          "shopify:webmcp_adapter_loaded",
+          "_gcl_ls",
+          "_ruid",
+          "lastExternalReferrer",
+          "_rsession"
+        ],
+        "sessionStorage": [
+          "wpm-ri-c50f3479-2abd-4a14-a672-da0f171bd845-1793928240-z",
+          "consentHeader",
+          "intuit_pixel_sdk_session_data",
+          "__shopify_agent_context_events",
+          "wpm-ri-63d7d3b2-1bef-4482-8025-c363997f859a-1793928222-z",
+          "_shs_state"
+        ]
+      },
+      "terceros": [
+        "ajax.googleapis.com",
+        "cdn.shopify.com",
+        "cdn.rebuyengine.com",
+        "googletagmanager.com",
+        "cdn.boostcommerce.io",
+        "otlp-http-production.shopifysvc.com",
+        "connect.facebook.net",
+        "api.wizybot.com",
+        "shop.app",
+        "fonts.googleapis.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "merchant-center-analytics.goog",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "google.co.cr",
+        "s3-tjlabs-wizybot-widget-images-prod.s3.amazonaws.com",
+        "cached.rebuyengine.com",
+        "rebuyengine.com",
+        "geo.rebuyengine.com",
+        "facebook.com",
+        "chimpstatic.com",
+        "mcjs.prd.a.intuit.com",
+        "extensions.shopifycdn.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.multimax.net",
+      "instante": "2026-11-06T01:24:09.157Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "localization",
+          "domain": "www.multimax.net",
+          "expires": 1825464310.992671,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.multimax.net",
+          "expires": 1825464249.684359,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.multimax.net",
+          "expires": 1825464249.68439,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.multimax.net",
+          "expires": 1825464249.684418,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "expires": 1825464251.543346,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 168
+        },
+        {
+          "name": "_ga",
+          "domain": ".multimax.net",
+          "expires": 1828488312.060636,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_fbp",
+          "domain": ".multimax.net",
+          "expires": 1801704312,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_rsession",
+          "domain": "www.multimax.net",
+          "expires": 1793930112,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_ruid",
+          "domain": "www.multimax.net",
+          "expires": 1828488312.305066,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 66
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801704252.464592,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_121N61CG01",
+          "domain": ".multimax.net",
+          "expires": 1828488312.022707,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".multimax.net",
+          "expires": 1801704251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 73
+        },
+        {
+          "name": "_ga_N2LSETQKNP",
+          "domain": ".multimax.net",
+          "expires": 1828488312.060295,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828488312.209568,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "ajax.googleapis.com",
+        "cdn.shopify.com",
+        "cdn.rebuyengine.com",
+        "googletagmanager.com",
+        "cdn.boostcommerce.io",
+        "otlp-http-production.shopifysvc.com",
+        "connect.facebook.net",
+        "api.wizybot.com",
+        "chimpstatic.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "google.co.cr",
+        "s3-tjlabs-wizybot-widget-images-prod.s3.amazonaws.com",
+        "facebook.com",
+        "cached.rebuyengine.com",
+        "rebuyengine.com",
+        "mcjs.prd.a.intuit.com",
+        "extensions.shopifycdn.com",
+        "merchant-center-analytics.goog"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "facebook.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_shopify_essential@www.multimax.net",
+        "_shopify_analytics@www.multimax.net",
+        "_shopify_marketing@www.multimax.net",
+        "_shop_app_essential@.shop.app",
+        "_ga_N2LSETQKNP@.multimax.net",
+        "_ga@.multimax.net",
+        "_ga_121N61CG01@.multimax.net",
+        "_gcl_au@.multimax.net",
+        "test_cookie@.doubleclick.net",
+        "_fbp@.multimax.net",
+        "fr@.facebook.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 14,
+        "rastreadoresEnE0": 7
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "localization",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_rsession",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_ruid",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "localization",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_rsession",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_ruid",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "localization",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_rsession",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_ruid",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "localization",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_rsession",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_ruid",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "localization",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_rsession",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_ruid",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "localization",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_rsession",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_ruid",
+      "dominio": "www.multimax.net",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 14,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 21.4,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.704Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

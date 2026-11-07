@@ -1,0 +1,786 @@
+{
+  "sitio": "incofer.go.cr",
+  "url": "https://www.incofer.go.cr",
+  "auditadoEn": "2026-11-05T08:41:55.548Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.incofer.go.cr",
+      "instante": "2026-11-05T08:39:23.323Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_YKQHQ36N3M",
+          "domain": ".incofer.go.cr",
+          "path": "/",
+          "expires": 1828427965.613245,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".incofer.go.cr",
+          "path": "/",
+          "expires": 1828427965.613752,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793869765.883728,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "WPCP_UUID",
+          "domain": "www.incofer.go.cr",
+          "path": "/",
+          "expires": 1794472765,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 7,
+          "valorLongitud": 36
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809679165.685482,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "code.responsivevoice.org",
+        "cdn.elementor.com",
+        "drive.google.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com",
+        "gstatic.com",
+        "fonts.googleapis.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "fonts.gstatic.com",
+        "ogads-pa.clients6.google.com",
+        "youtube.googleapis.com",
+        "play.google.com",
+        "apis.google.com",
+        "ssl.gstatic.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.incofer.go.cr",
+      "instante": "2026-11-05T08:39:41.322Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793869782.010094,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_YKQHQ36N3M",
+          "domain": ".incofer.go.cr",
+          "path": "/",
+          "expires": 1828427983.430806,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".incofer.go.cr",
+          "path": "/",
+          "expires": 1828427983.43136,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "WPCP_UUID",
+          "domain": "www.incofer.go.cr",
+          "path": "/",
+          "expires": 1794472784,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 7,
+          "valorLongitud": 36
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809679183.619124,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "code.responsivevoice.org",
+        "cdn.elementor.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "drive.google.com",
+        "gstatic.com",
+        "fonts.googleapis.com",
+        "facebook.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "fonts.gstatic.com",
+        "ogads-pa.clients6.google.com",
+        "youtube.googleapis.com",
+        "play.google.com",
+        "apis.google.com",
+        "ssl.gstatic.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.incofer.go.cr",
+      "instante": "2026-11-05T08:40:04.521Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793869806.184568,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_YKQHQ36N3M",
+          "domain": ".incofer.go.cr",
+          "path": "/",
+          "expires": 1828428006.673702,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".incofer.go.cr",
+          "path": "/",
+          "expires": 1828428006.674285,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "WPCP_UUID",
+          "domain": "www.incofer.go.cr",
+          "path": "/",
+          "expires": 1794472807,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 7,
+          "valorLongitud": 36
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809679208.000388,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 307
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "code.responsivevoice.org",
+        "cdn.elementor.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "drive.google.com",
+        "gstatic.com",
+        "fonts.googleapis.com",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "ogads-pa.clients6.google.com",
+        "youtube.googleapis.com",
+        "play.google.com",
+        "apis.google.com",
+        "ssl.gstatic.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.incofer.go.cr",
+      "instante": "2026-11-05T08:40:32.947Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793869834.573767,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_YKQHQ36N3M",
+          "domain": ".incofer.go.cr",
+          "path": "/",
+          "expires": 1828428035.00376,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".incofer.go.cr",
+          "path": "/",
+          "expires": 1828428035.00441,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "WPCP_UUID",
+          "domain": "www.incofer.go.cr",
+          "path": "/",
+          "expires": 1794472835,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 7,
+          "valorLongitud": 36
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809679235.228536,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "code.responsivevoice.org",
+        "cdn.elementor.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "drive.google.com",
+        "gstatic.com",
+        "fonts.googleapis.com",
+        "facebook.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "fonts.gstatic.com",
+        "ogads-pa.clients6.google.com",
+        "youtube.googleapis.com",
+        "play.google.com",
+        "apis.google.com",
+        "ssl.gstatic.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.incofer.go.cr",
+      "instante": "2026-11-05T08:40:55.597Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "path": "/",
+          "expires": 1793869857.352511,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".incofer.go.cr",
+          "path": "/",
+          "expires": 1828428057.811724,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "WPCP_UUID",
+          "domain": "www.incofer.go.cr",
+          "path": "/",
+          "expires": 1794472858,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 7,
+          "valorLongitud": 36
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809679258.937481,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        },
+        {
+          "name": "_ga_YKQHQ36N3M",
+          "domain": ".incofer.go.cr",
+          "path": "/",
+          "expires": 1828428075.059971,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ea11y-global-state",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "ea11y-session-state",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "code.responsivevoice.org",
+        "cdn.elementor.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "drive.google.com",
+        "gstatic.com",
+        "fonts.googleapis.com",
+        "facebook.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "fonts.gstatic.com",
+        "ogads-pa.clients6.google.com",
+        "youtube.googleapis.com",
+        "play.google.com",
+        "apis.google.com",
+        "ssl.gstatic.com",
+        "video.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.incofer.go.cr",
+      "instante": "2026-11-05T08:41:24.546Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".elementor.com",
+          "expires": 1793869886.274028,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".incofer.go.cr",
+          "expires": 1828428086.647961,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "WPCP_UUID",
+          "domain": "www.incofer.go.cr",
+          "expires": 1794472888,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 7,
+          "valorLongitud": 36
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "expires": 1809679287.732771,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 307
+        },
+        {
+          "name": "_ga_YKQHQ36N3M",
+          "domain": ".incofer.go.cr",
+          "expires": 1828428108.359578,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "code.responsivevoice.org",
+        "cdn.elementor.com",
+        "drive.google.com",
+        "facebook.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net",
+        "gstatic.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "video.fsjo12-1.fna.fbcdn.net",
+        "youtube.googleapis.com",
+        "play.google.com",
+        "ogads-pa.clients6.google.com",
+        "apis.google.com",
+        "ssl.gstatic.com",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "facebook.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_YKQHQ36N3M@.incofer.go.cr",
+        "_ga@.incofer.go.cr",
+        "NID@.google.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 5,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "WPCP_UUID",
+      "dominio": "www.incofer.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "WPCP_UUID",
+      "dominio": "www.incofer.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "WPCP_UUID",
+      "dominio": "www.incofer.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "WPCP_UUID",
+      "dominio": "www.incofer.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "WPCP_UUID",
+      "dominio": "www.incofer.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "WPCP_UUID",
+      "dominio": "www.incofer.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 5,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 20,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.612Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

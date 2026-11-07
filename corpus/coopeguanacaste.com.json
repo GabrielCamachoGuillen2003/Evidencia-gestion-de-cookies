@@ -1,0 +1,1129 @@
+{
+  "sitio": "coopeguanacaste.com",
+  "url": "https://coopeguanacaste.com",
+  "auditadoEn": "2026-11-06T00:28:50.178Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://coopeguanacaste.com",
+      "instante": "2026-11-06T00:26:06.592Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476767.997846,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476767.998027,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476767.998083,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476767.998165,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1801700768,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_X9VMGDDZ45",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484768.174138,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484768.345432,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_TF6LL3PM0H",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484768.344621,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793925668.367856,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "cdn.lordicon.com",
+        "code.jquery.com",
+        "cdnjs.cloudflare.com",
+        "static.cloudflareinsights.com",
+        "localhost",
+        "fonts.gstatic.com",
+        "assets10.lottiefiles.com",
+        "assets7.lottiefiles.com",
+        "assets3.lottiefiles.com",
+        "assets1.lottiefiles.com",
+        "youtube.com",
+        "go.botmaker.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleadservices.com",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleadservices.com",
+        "static.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://coopeguanacaste.com",
+      "instante": "2026-11-06T00:26:23.294Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476784.488158,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476784.488288,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476784.488317,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476784.488349,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_ga_TF6LL3PM0H",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484784.651539,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484785.053372,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1801700785,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_X9VMGDDZ45",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484785.052954,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793925686.404882,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "cdn.lordicon.com",
+        "localhost",
+        "fonts.gstatic.com",
+        "code.jquery.com",
+        "cdnjs.cloudflare.com",
+        "static.cloudflareinsights.com",
+        "assets10.lottiefiles.com",
+        "assets7.lottiefiles.com",
+        "assets3.lottiefiles.com",
+        "assets1.lottiefiles.com",
+        "youtube.com",
+        "go.botmaker.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleadservices.com",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "googleadservices.com",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://coopeguanacaste.com",
+      "instante": "2026-11-06T00:26:49.212Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476810.424171,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476810.42434,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476810.424415,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476810.424476,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_TF6LL3PM0H",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484810.513451,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484810.616961,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1801700811,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_X9VMGDDZ45",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484810.616437,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793925711.087763,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "cdn.lordicon.com",
+        "code.jquery.com",
+        "cdnjs.cloudflare.com",
+        "static.cloudflareinsights.com",
+        "localhost",
+        "fonts.gstatic.com",
+        "assets10.lottiefiles.com",
+        "assets7.lottiefiles.com",
+        "assets3.lottiefiles.com",
+        "assets1.lottiefiles.com",
+        "youtube.com",
+        "go.botmaker.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "google.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "googleadservices.com",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "googleadservices.com",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://coopeguanacaste.com",
+      "instante": "2026-11-06T00:27:24.573Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476845.882501,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476845.882611,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476845.882639,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476845.882671,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1801700846,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_X9VMGDDZ45",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484846.185863,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484846.375565,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_TF6LL3PM0H",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484846.37436,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793925746.512125,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "cdn.lordicon.com",
+        "code.jquery.com",
+        "cdnjs.cloudflare.com",
+        "static.cloudflareinsights.com",
+        "localhost",
+        "fonts.gstatic.com",
+        "assets10.lottiefiles.com",
+        "assets7.lottiefiles.com",
+        "assets3.lottiefiles.com",
+        "assets1.lottiefiles.com",
+        "youtube.com",
+        "go.botmaker.com",
+        "google.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "googleadservices.com",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "googleadservices.com",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://coopeguanacaste.com",
+      "instante": "2026-11-06T00:27:48.906Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476869.998194,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476869.998317,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476869.99835,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809476869.9984,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1801700870,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484886.255298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_X9VMGDDZ45",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484886.162401,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_TF6LL3PM0H",
+          "domain": ".coopeguanacaste.com",
+          "path": "/",
+          "expires": 1828484886.255022,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828484886.286781,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "cdn.lordicon.com",
+        "code.jquery.com",
+        "cdnjs.cloudflare.com",
+        "static.cloudflareinsights.com",
+        "localhost",
+        "fonts.gstatic.com",
+        "assets10.lottiefiles.com",
+        "assets7.lottiefiles.com",
+        "assets3.lottiefiles.com",
+        "assets1.lottiefiles.com",
+        "youtube.com",
+        "go.botmaker.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleadservices.com",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "yt3.ggpht.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleadservices.com",
+        "static.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://coopeguanacaste.com",
+      "instante": "2026-11-06T00:28:15.600Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809476923.256905,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809476923.256956,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopeguanacaste.com",
+          "expires": 1801700897,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeguanacaste.com",
+          "expires": 1828484923.722251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_X9VMGDDZ45",
+          "domain": ".coopeguanacaste.com",
+          "expires": 1828484923.221336,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809476896.256715,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809476923.256839,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828484923.342119,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga_TF6LL3PM0H",
+          "domain": ".coopeguanacaste.com",
+          "expires": 1828484923.72193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "unpkg.com",
+        "cdn.jsdelivr.net",
+        "use.fontawesome.com",
+        "googletagmanager.com",
+        "cdn.lordicon.com",
+        "code.jquery.com",
+        "cdnjs.cloudflare.com",
+        "static.cloudflareinsights.com",
+        "assets10.lottiefiles.com",
+        "assets7.lottiefiles.com",
+        "assets3.lottiefiles.com",
+        "assets1.lottiefiles.com",
+        "fonts.gstatic.com",
+        "localhost",
+        "youtube.com",
+        "go.botmaker.com",
+        "google.com",
+        "analytics.google.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "googleadservices.com",
+        "google.co.cr",
+        "jnn-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "googleadservices.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "_ga_X9VMGDDZ45@.coopeguanacaste.com",
+        "_ga@.coopeguanacaste.com",
+        "_ga_TF6LL3PM0H@.coopeguanacaste.com",
+        "test_cookie@.doubleclick.net"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 10,
+        "rastreadoresEnE0": 7
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".coopeguanacaste.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".coopeguanacaste.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".coopeguanacaste.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".coopeguanacaste.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".coopeguanacaste.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".coopeguanacaste.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 10,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 10,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

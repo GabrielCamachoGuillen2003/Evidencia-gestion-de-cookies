@@ -1,0 +1,48 @@
+# Lote 4 depurado — 40 sitios
+#
+# De los 53 que respondieron se excluyeron: un duplicado ya auditado, seis
+# matrices o cadenas extranjeras (Sección 1.5), un medio regional no
+# costarricense, dos que responden 404 sin página y uno alojado en Google
+# Sites que queda a criterio del investigador.
+# Ninguno cuenta como pérdida muestral.
+
+https://aliss.cr
+https://autopitscr.com
+https://coopeguanacaste.com
+https://cronicasdelsur.com
+https://farmacialista.com
+https://fischelenlinea.com
+https://hospitalcima.com
+https://marcomunozcavallini.com
+https://republicamedia.com
+https://sysde.com
+https://tienda.pequenomundo.com
+https://ucenfotec.ac.cr
+https://uisil.ac.cr
+https://ulicori.ac.cr
+https://vozdeguanacaste.com
+https://www.asembis.org
+https://www.capris.cr
+https://www.construplaza.com
+https://www.ferreteriabrenes.com
+https://www.flysansa.com
+https://www.imagenesmedicasdrchavarriaestrada.com
+https://www.jasec.go.cr
+https://www.lacostacr.com
+https://www.maxipali.co.cr
+https://www.medismart.cr
+https://www.multimax.net
+https://www.noticiasrepretel.com
+https://www.officedepot.co.cr
+https://www.opticasmunkel.com
+https://www.periodicomensaje.com
+https://www.radioreloj.co.cr
+https://www.revistaeka.com
+https://www.selvaverde.com
+https://www.swisstravelcr.com
+https://www.teleticaradio.com
+https://www.tigo.cr
+https://www.uaca.ac.cr
+https://www.ubl.ac.cr
+https://www.ucatolica.ac.cr
+https://www.ucem.ac.cr

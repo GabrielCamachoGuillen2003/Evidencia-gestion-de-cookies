@@ -1,0 +1,1750 @@
+{
+  "sitio": "bancobct.com",
+  "url": "https://www.bancobct.com",
+  "auditadoEn": "2026-11-05T08:05:29.674Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.bancobct.com",
+      "instante": "2026-11-05T08:03:10.042Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1801641792,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 38
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.bancobct.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS019164a4",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825401792.338429,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1801641793,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_clck",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1825401792,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641793.146684,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_C412385YJD",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1828425793.272858,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1828425793.273315,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_clsk",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1793952193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866693.417525,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827561795.365671,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794470595.36573,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827561795.365755,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827561794.473903,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794470594.473943,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793866394.473962,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_cacheSendConn",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "code.jquery.com",
+        "googletagmanager.com",
+        "clarity.ms",
+        "apps.usw2.pure.cloud",
+        "connect.facebook.net",
+        "sage-crumble-d13d8c.netlify.app",
+        "scripts.clarity.ms",
+        "api-cdn.usw2.pure.cloud",
+        "bbcthxqc.staticmon.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "js-agent.newrelic.com",
+        "mpc2-prod-26-is5qnl632q-uc.a.run.app",
+        "facebook.com",
+        "u.clarity.ms",
+        "bam.nr-data.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "scripts.clarity.ms",
+        "ad.doubleclick.net",
+        "js-agent.newrelic.com",
+        "facebook.com",
+        "u.clarity.ms",
+        "bam.nr-data.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.bancobct.com",
+      "instante": "2026-11-05T08:03:27.748Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1801641810,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.bancobct.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS019164a4",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825401809.899974,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1801641810,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641810.300948,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clck",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1825401810,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_ga_C412385YJD",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1828425810.622604,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1828425810.623098,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866710.815795,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_clsk",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1793952210,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827561811.901978,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794470611.902211,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827561811.902332,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827561812.019874,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794470612.019913,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793866412.019954,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_cacheSendConn",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "code.jquery.com",
+        "clarity.ms",
+        "apps.usw2.pure.cloud",
+        "connect.facebook.net",
+        "sage-crumble-d13d8c.netlify.app",
+        "scripts.clarity.ms",
+        "api-cdn.usw2.pure.cloud",
+        "google.com",
+        "ad.doubleclick.net",
+        "bbcthxqc.staticmon.com",
+        "mpc2-prod-26-is5qnl632q-uc.a.run.app",
+        "facebook.com",
+        "js-agent.newrelic.com",
+        "googleads.g.doubleclick.net",
+        "u.clarity.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "bam.nr-data.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "scripts.clarity.ms",
+        "ad.doubleclick.net",
+        "facebook.com",
+        "js-agent.newrelic.com",
+        "googleads.g.doubleclick.net",
+        "u.clarity.ms",
+        "stats.g.doubleclick.net",
+        "bam.nr-data.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.bancobct.com",
+      "instante": "2026-11-05T08:03:49.336Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1801641832,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.bancobct.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS019164a4",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825401831.544211,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1801641832,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_clck",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1825401831,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_C412385YJD",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1828425832.113498,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1828425832.113988,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866732.142501,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641832.410175,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1793952232,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827561833.545145,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794470633.545208,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827561833.545233,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827561833.646869,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794470633.646934,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793866433.646968,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "_gcl_ls",
+          "_cacheSendConn"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "code.jquery.com",
+        "googletagmanager.com",
+        "clarity.ms",
+        "apps.usw2.pure.cloud",
+        "connect.facebook.net",
+        "sage-crumble-d13d8c.netlify.app",
+        "bbcthxqc.staticmon.com",
+        "scripts.clarity.ms",
+        "google.com",
+        "ad.doubleclick.net",
+        "api-cdn.usw2.pure.cloud",
+        "googleads.g.doubleclick.net",
+        "js-agent.newrelic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "k.clarity.ms",
+        "mpc2-prod-26-is5qnl632q-uc.a.run.app",
+        "facebook.com",
+        "bam.nr-data.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "scripts.clarity.ms",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "js-agent.newrelic.com",
+        "stats.g.doubleclick.net",
+        "k.clarity.ms",
+        "facebook.com",
+        "bam.nr-data.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.bancobct.com",
+      "instante": "2026-11-05T08:04:14.623Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1801641857,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 38
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.bancobct.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS019164a4",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825401856.734827,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1801641857,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_clck",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1825401857,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866757.362018,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_C412385YJD",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1828425857.438094,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1828425857.438704,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641857.501107,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1793952257,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827561858.5068,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794470658.50686,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827561858.506885,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827561858.676148,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794470658.676186,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793866458.676205,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_cacheSendConn",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "code.jquery.com",
+        "googletagmanager.com",
+        "clarity.ms",
+        "apps.usw2.pure.cloud",
+        "connect.facebook.net",
+        "sage-crumble-d13d8c.netlify.app",
+        "scripts.clarity.ms",
+        "bbcthxqc.staticmon.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "api-cdn.usw2.pure.cloud",
+        "googleads.g.doubleclick.net",
+        "mpc2-prod-26-is5qnl632q-uc.a.run.app",
+        "facebook.com",
+        "i.clarity.ms",
+        "js-agent.newrelic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "bam.nr-data.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "scripts.clarity.ms",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "facebook.com",
+        "i.clarity.ms",
+        "js-agent.newrelic.com",
+        "stats.g.doubleclick.net",
+        "bam.nr-data.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.bancobct.com",
+      "instante": "2026-11-05T08:04:35.404Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1801641893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 38
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.bancobct.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS019164a4",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825401877.40128,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1801641878,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_clck",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1825401877,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641877.906469,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1828425893.758366,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827561880.39899,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794470680.399124,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827561880.39915,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827561879.509523,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794470679.509561,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793866479.50958,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_C412385YJD",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1828425893.757953,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828425893.894338,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clsk",
+          "domain": ".bancobct.com",
+          "path": "/",
+          "expires": 1793952294,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_cacheSendConn",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "code.jquery.com",
+        "googletagmanager.com",
+        "clarity.ms",
+        "apps.usw2.pure.cloud",
+        "connect.facebook.net",
+        "sage-crumble-d13d8c.netlify.app",
+        "scripts.clarity.ms",
+        "api-cdn.usw2.pure.cloud",
+        "google.com",
+        "ad.doubleclick.net",
+        "mpc2-prod-26-is5qnl632q-uc.a.run.app",
+        "facebook.com",
+        "bbcthxqc.staticmon.com",
+        "js-agent.newrelic.com",
+        "a.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "bam.nr-data.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "scripts.clarity.ms",
+        "ad.doubleclick.net",
+        "facebook.com",
+        "js-agent.newrelic.com",
+        "a.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "bam.nr-data.net",
+        "stats.g.doubleclick.net",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.bancobct.com",
+      "instante": "2026-11-05T08:05:02.824Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".bancobct.com",
+          "expires": 1801641922,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 38
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.bancobct.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS019164a4",
+          "domain": ".bancobct.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "expires": 1825401904.941151,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".bancobct.com",
+          "expires": 1825401905,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801641905.386552,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga",
+          "domain": ".bancobct.com",
+          "expires": 1828425922.878995,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "expires": 1827561906.944244,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "expires": 1794470706.944387,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "expires": 1827561906.944456,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "expires": 1827561906.052053,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "expires": 1794470706.052092,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "expires": 1793866506.052112,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".bancobct.com",
+          "expires": 1801641905,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 88
+        },
+        {
+          "name": "_ga_C412385YJD",
+          "domain": ".bancobct.com",
+          "expires": 1828425922.878431,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828425923.012191,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clsk",
+          "domain": ".bancobct.com",
+          "expires": 1793952323,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "code.jquery.com",
+        "googletagmanager.com",
+        "clarity.ms",
+        "apps.usw2.pure.cloud",
+        "connect.facebook.net",
+        "sage-crumble-d13d8c.netlify.app",
+        "google.com",
+        "api-cdn.usw2.pure.cloud",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "mpc2-prod-26-is5qnl632q-uc.a.run.app",
+        "facebook.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "google.co.cr",
+        "s.clarity.ms",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "facebook.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "s.clarity.ms"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_fbp@.bancobct.com",
+        "CLID@www.clarity.ms",
+        "_clck@.bancobct.com",
+        "fr@.facebook.com",
+        "_ga_C412385YJD@.bancobct.com",
+        "_ga@.bancobct.com",
+        "_clsk@.bancobct.com",
+        "test_cookie@.doubleclick.net",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 18,
+        "rastreadoresEnE0": 13
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.bancobct.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TS019164a4",
+      "dominio": ".bancobct.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".bancobct.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.bancobct.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TS019164a4",
+      "dominio": ".bancobct.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".bancobct.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.bancobct.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TS019164a4",
+      "dominio": ".bancobct.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".bancobct.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.bancobct.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TS019164a4",
+      "dominio": ".bancobct.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".bancobct.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.bancobct.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TS019164a4",
+      "dominio": ".bancobct.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".bancobct.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.bancobct.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "TS019164a4",
+      "dominio": ".bancobct.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".bancobct.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 18,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 16.7,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

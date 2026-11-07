@@ -1,0 +1,869 @@
+{
+  "sitio": "aeris.cr",
+  "url": "https://www.aeris.cr",
+  "auditadoEn": "2026-11-05T02:09:05.449Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.aeris.cr",
+      "instante": "2026-11-05T02:07:22.780Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"consent\" i]",
+        "geometria": {
+          "x": 1113,
+          "y": 753,
+          "w": 213,
+          "h": 50
+        },
+        "cubrePantalla": false,
+        "texto": "Gestionar consentimiento"
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809396446.162015,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1793930844.292717,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cmplz_banner-status",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380450,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 9
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "gstatic.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.aeris.cr",
+      "instante": "2026-11-05T02:07:33.847Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"consent\" i]",
+        "geometria": {
+          "x": 1113,
+          "y": 753,
+          "w": 213,
+          "h": 50
+        },
+        "cubrePantalla": false,
+        "texto": "Gestionar consentimiento"
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809396457.291594,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1793930855.328377,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cmplz_banner-status",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380461,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 9
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "gstatic.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.aeris.cr",
+      "instante": "2026-11-05T02:07:46.682Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "sin rechazo en primera capa; abierto «gestionar consentimiento»",
+        "pulsado «rechazar»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"consent\" i]",
+        "geometria": {
+          "x": 1113,
+          "y": 753,
+          "w": 213,
+          "h": 50
+        },
+        "cubrePantalla": false,
+        "texto": "Gestionar consentimiento"
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809396469.586086,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1793930867.932281,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cmplz_banner-status",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380482,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cmplz_policy_id",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380482,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cmplz_marketing",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380482,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "cmplz_statistics",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380482,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "cmplz_preferences",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380482,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "cmplz_functional",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380482,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "cmplz_consented_services",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380482,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 0
+        },
+        {
+          "name": "wpgmza-api-consent-given",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380482,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "gstatic.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "rechazoEnPrimeraCapa": false,
+      "controlUsado": "rechazar",
+      "interaccionLograda": true
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.aeris.cr",
+      "instante": "2026-11-05T02:08:08.482Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "panel abierto; 0 casillas, 0 premarcadas",
+        "sin botón de guardar — manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"consent\" i]",
+        "geometria": {
+          "x": 1113,
+          "y": 753,
+          "w": 213,
+          "h": 50
+        },
+        "cubrePantalla": false,
+        "texto": "Gestionar consentimiento"
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809396491.664431,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1793930889.83254,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cmplz_banner-status",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380497,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "gstatic.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "casillas": [],
+      "premarcadas": 0,
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.aeris.cr",
+      "instante": "2026-11-05T02:08:23.416Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"consent\" i]",
+        "geometria": {
+          "x": 1113,
+          "y": 753,
+          "w": 213,
+          "h": 50
+        },
+        "cubrePantalla": false,
+        "texto": "Gestionar consentimiento"
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809396514.732293,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1793930914.020414,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cmplz_banner-status",
+          "domain": "www.aeris.cr",
+          "path": "/",
+          "expires": 1825380511,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 9
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_grecaptcha"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "gstatic.com",
+        "csp.withgoogle.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.aeris.cr",
+      "instante": "2026-11-05T02:08:43.107Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — pulsado «rechazar»",
+        "acto 2 — revisita: el banner REAPARECE (indicio de que la decisión no persistió)"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"consent\" i]",
+        "geometria": {
+          "x": 1113,
+          "y": 753,
+          "w": 213,
+          "h": 50
+        },
+        "cubrePantalla": false,
+        "texto": "Gestionar consentimiento"
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809396539.284953,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.aeris.cr",
+          "expires": 1793930938.50515,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cmplz_banner-status",
+          "domain": "www.aeris.cr",
+          "expires": 1825380532,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cmplz_policy_id",
+          "domain": "www.aeris.cr",
+          "expires": 1825380532,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cmplz_marketing",
+          "domain": "www.aeris.cr",
+          "expires": 1825380532,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "cmplz_statistics",
+          "domain": "www.aeris.cr",
+          "expires": 1825380532,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "cmplz_preferences",
+          "domain": "www.aeris.cr",
+          "expires": 1825380532,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "cmplz_functional",
+          "domain": "www.aeris.cr",
+          "expires": 1825380532,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "cmplz_consented_services",
+          "domain": "www.aeris.cr",
+          "expires": 1825380532,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 0
+        },
+        {
+          "name": "wpgmza-api-consent-given",
+          "domain": "www.aeris.cr",
+          "expires": 1825380532,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "google.com",
+        "gstatic.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": true,
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "rechazar",
+      "interaccionLograda": true
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V4",
+      "gravedad": "Alta",
+      "nombre": "Aceptación implícita por navegación",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com"
+      ],
+      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+    },
+    {
+      "id": "V5",
+      "gravedad": "Media",
+      "nombre": "No persistencia de la decisión",
+      "evidencia": [
+        "el banner reaparece en la revisita",
+        "_GRECAPTCHA@www.google.com"
+      ],
+      "regla": "banner reaparece en E5 o se reinstalan cookies rechazadas"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "cmplz_banner-status",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cmplz_banner-status",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cmplz_banner-status",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cmplz_policy_id",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cmplz_marketing",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cmplz_statistics",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cmplz_preferences",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cmplz_functional",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cmplz_consented_services",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "wpgmza-api-consent-given",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cmplz_banner-status",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cmplz_banner-status",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cmplz_banner-status",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cmplz_policy_id",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cmplz_marketing",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cmplz_statistics",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cmplz_preferences",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cmplz_functional",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cmplz_consented_services",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "wpgmza-api-consent-given",
+      "dominio": "www.aeris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 3,
+    "cotaSuperior": 3,
+    "criticas": [],
+    "universoReferencia": 3,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [
+      "E2"
+    ],
+    "proporcionIndeterminadas": 81.3,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.387Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

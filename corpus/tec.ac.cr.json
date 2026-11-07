@@ -1,0 +1,2201 @@
+{
+  "sitio": "tec.ac.cr",
+  "url": "https://www.tec.ac.cr",
+  "auditadoEn": "2026-11-04T21:51:53.263Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.tec.ac.cr",
+      "instante": "2026-11-04T21:49:38.272Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 4997
+        },
+        "cubrePantalla": true,
+        "texto": "TOP BAR MENU\nAdministrativos/as\nAcadémicos/as\nEstudiantes\n  \nMAIN NAVIGATION\nEL TEC\nADMISIÓN\nOFERTA ACADÉMICA\nINVESTIGACIÓN Y EXTENSIÓN\nTRANSPARENCIA\nVIDA EN EL TEC\nHome - Costa Rica Institute of Technology\nProtejamos el futuro de Costa Rica\n\nInformémonos de qué está pasando con el financiamiento de la educación pública en Costa Rica. Una serie de proyectos y mociones buscan desfinanciar las sedes regionales y afectar severamente el funcionamiento de las universidades públicas.\n\nVer más\nVer video\nDesplace hacia abajo\nAdmisión 2026-2027\nNOTICIAS\n16 mil personas hicieron el examen de admisión al"
+      },
+      "cookies": [
+        {
+          "name": "AlteonP",
+          "domain": "www.tec.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809380979.026536,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809380979.027033,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809380979.027093,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809380979.027136,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1801604979,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825364979.62538,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828388980.408361,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga_3Q85BEH84B",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828388980.441324,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828388980.442012,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_3L6DEX518L",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828388980.450418,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1801604980,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_clck",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1825364980,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801604980.809015,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1793915381,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827524982.709058,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794433782.709145,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827524982.70917,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827524981.828266,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794433781.828389,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793829581.828441,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "youtube.com",
+        "static.addtoany.com",
+        "fonts.gstatic.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "i.ytimg.com",
+        "yt3.ggpht.com",
+        "gstatic.com",
+        "scripts.clarity.ms",
+        "jnn-pa.googleapis.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com",
+        "t.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "scripts.clarity.ms",
+        "stats.g.doubleclick.net",
+        "facebook.com",
+        "t.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.tec.ac.cr",
+      "instante": "2026-11-04T21:49:54.364Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "pulsado «aceptar»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 4997
+        },
+        "cubrePantalla": true,
+        "texto": "TOP BAR MENU\nAdministrativos/as\nAcadémicos/as\nEstudiantes\n  \nMAIN NAVIGATION\nEL TEC\nADMISIÓN\nOFERTA ACADÉMICA\nINVESTIGACIÓN Y EXTENSIÓN\nTRANSPARENCIA\nVIDA EN EL TEC\nHome - Costa Rica Institute of Technology\nProtejamos el futuro de Costa Rica\n\nInformémonos de qué está pasando con el financiamiento de la educación pública en Costa Rica. Una serie de proyectos y mociones buscan desfinanciar las sedes regionales y afectar severamente el funcionamiento de las universidades públicas.\n\nVer más\nVer video\nDesplace hacia abajo\nAdmisión 2026-2027\nNOTICIAS\n16 mil personas hicieron el examen de admisión al"
+      },
+      "cookies": [
+        {
+          "name": "AlteonP",
+          "domain": "www.tec.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809380994.95402,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809380994.954121,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809380994.954163,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809380994.954193,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1801604995,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825364995.640313,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ga_3Q85BEH84B",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828388996.035179,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828388996.035885,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_3L6DEX518L",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828388996.04347,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1801604996,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828388996.439122,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clck",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1825364996,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801604996.544711,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1793915397,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827524998.488832,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794433798.488891,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827524998.488914,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827524997.583898,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794433797.583936,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793829597.583955,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cookie-agreed-version",
+          "domain": "www.tec.ac.cr",
+          "path": "/",
+          "expires": 1802469010,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 100,
+          "valorLongitud": 5
+        },
+        {
+          "name": "cookie-agreed",
+          "domain": "www.tec.ac.cr",
+          "path": "/",
+          "expires": 1802469010,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 100,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "youtube.com",
+        "static.addtoany.com",
+        "fonts.gstatic.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "i.ytimg.com",
+        "yt3.ggpht.com",
+        "gstatic.com",
+        "scripts.clarity.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "jnn-pa.googleapis.com",
+        "facebook.com",
+        "n.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "scripts.clarity.ms",
+        "stats.g.doubleclick.net",
+        "facebook.com",
+        "n.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "controlUsado": "aceptar",
+      "interaccionLograda": true
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.tec.ac.cr",
+      "instante": "2026-11-04T21:50:16.926Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "pulsado «rechazar»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 4997
+        },
+        "cubrePantalla": true,
+        "texto": "TOP BAR MENU\nAdministrativos/as\nAcadémicos/as\nEstudiantes\n  \nMAIN NAVIGATION\nEL TEC\nADMISIÓN\nOFERTA ACADÉMICA\nINVESTIGACIÓN Y EXTENSIÓN\nTRANSPARENCIA\nVIDA EN EL TEC\nHome - Costa Rica Institute of Technology\nProtejamos el futuro de Costa Rica\n\nInformémonos de qué está pasando con el financiamiento de la educación pública en Costa Rica. Una serie de proyectos y mociones buscan desfinanciar las sedes regionales y afectar severamente el funcionamiento de las universidades públicas.\n\nVer más\nVer video\nDesplace hacia abajo\nAdmisión 2026-2027\nNOTICIAS\n16 mil personas hicieron el examen de admisión al"
+      },
+      "cookies": [
+        {
+          "name": "AlteonP",
+          "domain": "www.tec.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381016.516872,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381017.516959,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381017.516999,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381017.51703,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1801605017,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825365018.131967,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ga_3Q85BEH84B",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828389018.304066,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828389018.304728,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_3L6DEX518L",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828389018.311987,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_clck",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1825365018,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828389018.899309,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1801605019,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801605019.249478,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1793915419,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827525020.022456,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794433820.022518,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827525020.022542,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827525020.131876,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794433820.131934,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793829620.131988,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cookie-agreed",
+          "domain": "www.tec.ac.cr",
+          "path": "/",
+          "expires": 1802469035,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 100,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "youtube.com",
+        "static.addtoany.com",
+        "fonts.gstatic.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "scripts.clarity.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "i.ytimg.com",
+        "yt3.ggpht.com",
+        "gstatic.com",
+        "jnn-pa.googleapis.com",
+        "u.clarity.ms",
+        "facebook.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "scripts.clarity.ms",
+        "stats.g.doubleclick.net",
+        "u.clarity.ms",
+        "facebook.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "rechazar",
+      "interaccionLograda": true
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.tec.ac.cr",
+      "instante": "2026-11-04T21:50:41.230Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 4997
+        },
+        "cubrePantalla": true,
+        "texto": "TOP BAR MENU\nAdministrativos/as\nAcadémicos/as\nEstudiantes\n  \nMAIN NAVIGATION\nEL TEC\nADMISIÓN\nOFERTA ACADÉMICA\nINVESTIGACIÓN Y EXTENSIÓN\nTRANSPARENCIA\nVIDA EN EL TEC\nHome - Costa Rica Institute of Technology\nProtejamos el futuro de Costa Rica\n\nInformémonos de qué está pasando con el financiamiento de la educación pública en Costa Rica. Una serie de proyectos y mociones buscan desfinanciar las sedes regionales y afectar severamente el funcionamiento de las universidades públicas.\n\nVer más\nVer video\nDesplace hacia abajo\nAdmisión 2026-2027\nNOTICIAS\n16 mil personas hicieron el examen de admisión al"
+      },
+      "cookies": [
+        {
+          "name": "AlteonP",
+          "domain": "www.tec.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381041.780889,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381041.780989,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381041.781031,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381041.781062,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1801605042,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825365042.42821,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ga_3Q85BEH84B",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828389043.130534,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828389043.131143,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_3L6DEX518L",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828389043.138197,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1801605043,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_clck",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1825365043,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801605043.445497,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828389043.468301,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1793915443,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827525044.415813,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794433844.415875,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827525044.415899,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827525044.533552,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794433844.533675,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793829644.533735,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "youtube.com",
+        "static.addtoany.com",
+        "fonts.gstatic.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "i.ytimg.com",
+        "yt3.ggpht.com",
+        "gstatic.com",
+        "scripts.clarity.ms",
+        "jnn-pa.googleapis.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com",
+        "h.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "scripts.clarity.ms",
+        "stats.g.doubleclick.net",
+        "facebook.com",
+        "h.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.tec.ac.cr",
+      "instante": "2026-11-04T21:51:01.947Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 4997
+        },
+        "cubrePantalla": true,
+        "texto": "TOP BAR MENU\nAdministrativos/as\nAcadémicos/as\nEstudiantes\n  \nMAIN NAVIGATION\nEL TEC\nADMISIÓN\nOFERTA ACADÉMICA\nINVESTIGACIÓN Y EXTENSIÓN\nTRANSPARENCIA\nVIDA EN EL TEC\nHome - Costa Rica Institute of Technology\nProtejamos el futuro de Costa Rica\n\nInformémonos de qué está pasando con el financiamiento de la educación pública en Costa Rica. Una serie de proyectos y mociones buscan desfinanciar las sedes regionales y afectar severamente el funcionamiento de las universidades públicas.\n\nVer más\nVer video\nDesplace hacia abajo\nAdmisión 2026-2027\nNOTICIAS\n16 mil personas hicieron el examen de admisión al"
+      },
+      "cookies": [
+        {
+          "name": "AlteonP",
+          "domain": "www.tec.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381077.635135,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381077.635185,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1801605062,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825365063.192998,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ga",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828389063.612454,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_clck",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1825365063,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828389063.884819,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1801605077,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801605064.365063,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827525066.109069,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794433866.109129,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827525066.109155,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827525065.230173,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794433865.230242,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793829665.230277,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_3Q85BEH84B",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828389077.579147,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_3L6DEX518L",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1828389077.583473,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381062.634947,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809381077.635066,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tec.ac.cr",
+          "path": "/",
+          "expires": 1793915478,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "youtube.com",
+        "static.addtoany.com",
+        "fonts.gstatic.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "scripts.clarity.ms",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "i.ytimg.com",
+        "yt3.ggpht.com",
+        "gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "jnn-pa.googleapis.com",
+        "p.clarity.ms",
+        "facebook.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "scripts.clarity.ms",
+        "stats.g.doubleclick.net",
+        "p.clarity.ms",
+        "facebook.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.tec.ac.cr",
+      "instante": "2026-11-04T21:51:27.360Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — pulsado «rechazar»",
+        "acto 2 — revisita: el banner REAPARECE (indicio de que la decisión no persistió)"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 4997
+        },
+        "cubrePantalla": true,
+        "texto": "TOP BAR MENU\nAdministrativos/as\nAcadémicos/as\nEstudiantes\n  \nMAIN NAVIGATION\nEL TEC\nADMISIÓN\nOFERTA ACADÉMICA\nINVESTIGACIÓN Y EXTENSIÓN\nTRANSPARENCIA\nVIDA EN EL TEC\nHome - Costa Rica Institute of Technology\nProtejamos el futuro de Costa Rica\n\nInformémonos de qué está pasando con el financiamiento de la educación pública en Costa Rica. Una serie de proyectos y mociones buscan desfinanciar las sedes regionales y afectar severamente el funcionamiento de las universidades públicas.\n\nVer más\nVer video\nDesplace hacia abajo\nAdmisión 2026-2027\nNOTICIAS\n16 mil personas hicieron el examen de admisión al"
+      },
+      "cookies": [
+        {
+          "name": "AlteonP",
+          "domain": "www.tec.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809381105.912681,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809381105.91273,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".tec.ac.cr",
+          "expires": 1801605088,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "expires": 1825365088.58065,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828389089.236753,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga",
+          "domain": ".tec.ac.cr",
+          "expires": 1828389089.284072,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_fbp",
+          "domain": ".tec.ac.cr",
+          "expires": 1801605105,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_clck",
+          "domain": ".tec.ac.cr",
+          "expires": 1825365089,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801605089.562786,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "expires": 1827525091.455443,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "expires": 1794433891.455537,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "expires": 1827525091.455562,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "expires": 1827525090.570288,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "expires": 1794433890.570333,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "expires": 1793829690.570354,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cookie-agreed",
+          "domain": "www.tec.ac.cr",
+          "expires": 1802469099,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 100,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_3Q85BEH84B",
+          "domain": ".tec.ac.cr",
+          "expires": 1828389105.817935,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_3L6DEX518L",
+          "domain": ".tec.ac.cr",
+          "expires": 1828389105.821796,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809381087.912549,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809381105.912782,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "_clsk",
+          "domain": ".tec.ac.cr",
+          "expires": 1793915506,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "google.com",
+        "youtube.com",
+        "static.addtoany.com",
+        "googleads.g.doubleclick.net",
+        "facebook.com",
+        "google.co.cr",
+        "fonts.gstatic.com",
+        "static.doubleclick.net",
+        "scripts.clarity.ms",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "i.ytimg.com",
+        "yt3.ggpht.com",
+        "a.clarity.ms",
+        "jnn-pa.googleapis.com",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "connect.facebook.net",
+        "googleads.g.doubleclick.net",
+        "facebook.com",
+        "static.doubleclick.net",
+        "scripts.clarity.ms",
+        "a.clarity.ms"
+      ],
+      "bannerReaparece": true,
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "rechazar",
+      "interaccionLograda": true
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "CLID@www.clarity.ms",
+        "IDE@.doubleclick.net",
+        "_ga_3Q85BEH84B@.tec.ac.cr",
+        "_ga@.tec.ac.cr",
+        "_ga_3L6DEX518L@.tec.ac.cr",
+        "_fbp@.tec.ac.cr",
+        "_clck@.tec.ac.cr",
+        "fr@.facebook.com",
+        "_clsk@.tec.ac.cr",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V2",
+      "gravedad": "Crítica",
+      "nombre": "Cookies pese al rechazo explícito",
+      "evidencia": [
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "CLID@www.clarity.ms",
+        "_ga_3Q85BEH84B@.tec.ac.cr",
+        "_ga@.tec.ac.cr",
+        "_ga_3L6DEX518L@.tec.ac.cr",
+        "_clck@.tec.ac.cr",
+        "IDE@.doubleclick.net",
+        "_fbp@.tec.ac.cr",
+        "fr@.facebook.com",
+        "_clsk@.tec.ac.cr",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms",
+        "cookie-agreed@www.tec.ac.cr"
+      ],
+      "regla": "no_esenciales(E2) ∩ universo_ref ≠ ∅"
+    },
+    {
+      "id": "V4",
+      "gravedad": "Alta",
+      "nombre": "Aceptación implícita por navegación",
+      "evidencia": [
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "CLID@www.clarity.ms",
+        "_ga@.tec.ac.cr",
+        "_clck@.tec.ac.cr",
+        "IDE@.doubleclick.net",
+        "_fbp@.tec.ac.cr",
+        "fr@.facebook.com",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms",
+        "_ga_3Q85BEH84B@.tec.ac.cr",
+        "_ga_3L6DEX518L@.tec.ac.cr",
+        "__Secure-YNID@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "_clsk@.tec.ac.cr"
+      ],
+      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+    },
+    {
+      "id": "V5",
+      "gravedad": "Media",
+      "nombre": "No persistencia de la decisión",
+      "evidencia": [
+        "el banner reaparece en la revisita",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "CLID@www.clarity.ms",
+        "IDE@.doubleclick.net",
+        "_ga@.tec.ac.cr",
+        "_fbp@.tec.ac.cr",
+        "_clck@.tec.ac.cr",
+        "fr@.facebook.com",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms",
+        "cookie-agreed@www.tec.ac.cr",
+        "_ga_3Q85BEH84B@.tec.ac.cr",
+        "_ga_3L6DEX518L@.tec.ac.cr",
+        "__Secure-YNID@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "_clsk@.tec.ac.cr"
+      ],
+      "regla": "banner reaparece en E5 o se reinstalan cookies rechazadas"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "AlteonP",
+      "dominio": "www.tec.ac.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".tec.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "AlteonP",
+      "dominio": "www.tec.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".tec.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "AlteonP",
+      "dominio": "www.tec.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".tec.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "AlteonP",
+      "dominio": "www.tec.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".tec.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "AlteonP",
+      "dominio": "www.tec.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".tec.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "AlteonP",
+      "dominio": "www.tec.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".tec.ac.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 4,
+    "cotaSuperior": 4,
+    "criticas": [
+      "V2"
+    ],
+    "universoReferencia": 25,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [
+      "E1",
+      "E2"
+    ],
+    "proporcionIndeterminadas": 8.5,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

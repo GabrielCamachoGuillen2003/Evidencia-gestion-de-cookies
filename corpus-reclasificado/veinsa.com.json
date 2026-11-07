@@ -1,0 +1,2775 @@
+{
+  "sitio": "veinsa.com",
+  "url": "https://veinsa.com",
+  "auditadoEn": "2026-11-05T07:54:41.406Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://veinsa.com",
+      "instante": "2026-11-05T07:52:01.878Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1801641124,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793866924,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "_ga_MWYNY13HY9",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425124.494486,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425124.495116,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "path": "/",
+          "expires": 1793866924.580252,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825401124.588772,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "tk_or",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425124.759665,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_r3d",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1794124324,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 3,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_lr",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1825401124,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866024.815883,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793866925.076187,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "tk_ai",
+          "domain": "veinsa.com",
+          "path": "/",
+          "expires": 1825401125,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_clck",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1825401125,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793866925.565073,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793866925.568051,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_clsk",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793951525,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__hstc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1809417126,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 85
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1809417126,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793866926,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793866926.532079,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827561128.218958,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794469928.219019,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827561128.219043,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827561127.338449,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794469927.338494,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793865727.338515,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "stats.wp.com",
+        "js.hs-scripts.com",
+        "google.com",
+        "googletagmanager.com",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "gstatic.com",
+        "js.hscollectedforms.net",
+        "js.hs-analytics.net",
+        "js.hs-banner.com",
+        "scripts.clarity.ms",
+        "pixel.wp.com",
+        "google.co.cr",
+        "forms.hscollectedforms.net",
+        "forms.hsforms.com",
+        "s.clarity.ms",
+        "fonts.gstatic.com",
+        "c.clarity.ms",
+        "track.hubspot.com",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "js.hs-analytics.net",
+        "scripts.clarity.ms",
+        "s.clarity.ms",
+        "c.clarity.ms",
+        "track.hubspot.com",
+        "c.bing.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://veinsa.com",
+      "instante": "2026-11-05T07:52:20.118Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "path": "/",
+          "expires": 1793866941.98954,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793866942.091816,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793866942.112414,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1801641143,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793866942,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793866942.759957,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_MWYNY13HY9",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425142.796808,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425142.797331,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825401142.883044,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "tk_or",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425142.954702,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_r3d",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1794124342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 3,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_lr",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1825401142,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866044.05581,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_clck",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1825401143,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "tk_ai",
+          "domain": "veinsa.com",
+          "path": "/",
+          "expires": 1825401143,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_clsk",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793951543,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__hstc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1809417144,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 85
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1809417144,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793866944,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793866944.642723,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827561146.414212,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794469946.414291,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827561146.414316,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827561145.536184,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794469945.536249,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793865745.536282,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "stats.wp.com",
+        "js.hs-scripts.com",
+        "google.com",
+        "googletagmanager.com",
+        "js.hscollectedforms.net",
+        "js.hs-analytics.net",
+        "js.hs-banner.com",
+        "forms.hscollectedforms.net",
+        "forms.hsforms.com",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "gstatic.com",
+        "scripts.clarity.ms",
+        "pixel.wp.com",
+        "google.co.cr",
+        "q.clarity.ms",
+        "fonts.gstatic.com",
+        "track.hubspot.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "js.hs-analytics.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "scripts.clarity.ms",
+        "q.clarity.ms",
+        "track.hubspot.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://veinsa.com",
+      "instante": "2026-11-05T07:52:45.299Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "path": "/",
+          "expires": 1793866967.374871,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793866967.486951,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793866967.489753,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1801641168,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793866967,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793866967.92986,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga_MWYNY13HY9",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425168.058035,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425168.058673,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "tk_or",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425168.19438,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_r3d",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1794124368,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 3,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_lr",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1825401168,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825401168.204138,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866068.300642,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_clck",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1825401168,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "tk_ai",
+          "domain": "veinsa.com",
+          "path": "/",
+          "expires": 1825401168,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_clsk",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793951569,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__hstc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1809417169,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 85
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1809417169,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793866969,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793866969.813059,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827561170.427118,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794469970.427198,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827561170.427231,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827561170.543088,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794469970.543128,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793865770.543147,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "stats.wp.com",
+        "js.hs-scripts.com",
+        "google.com",
+        "googletagmanager.com",
+        "js.hscollectedforms.net",
+        "js.hs-analytics.net",
+        "js.hs-banner.com",
+        "forms.hscollectedforms.net",
+        "forms.hsforms.com",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "gstatic.com",
+        "scripts.clarity.ms",
+        "pixel.wp.com",
+        "google.co.cr",
+        "p.clarity.ms",
+        "fonts.gstatic.com",
+        "track.hubspot.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "js.hs-analytics.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "scripts.clarity.ms",
+        "p.clarity.ms",
+        "track.hubspot.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://veinsa.com",
+      "instante": "2026-11-05T07:53:17.178Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "path": "/",
+          "expires": 1793866998.970534,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793866999.081758,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793866999.092671,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1801641199,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793866999,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793866999.490352,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga_MWYNY13HY9",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425199.606787,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425199.607298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825401199.724584,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "tk_or",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425199.828141,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_r3d",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1794124399,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 3,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_lr",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1825401199,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866099.86139,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_clck",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1825401200,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "tk_ai",
+          "domain": "veinsa.com",
+          "path": "/",
+          "expires": 1825401200,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_clsk",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793951600,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__hstc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1809417201,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 85
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1809417201,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793867001,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793867001.425033,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827561201.987593,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794470001.987675,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827561201.987711,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827561202.096832,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794470002.096891,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793865802.096919,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "stats.wp.com",
+        "js.hs-scripts.com",
+        "google.com",
+        "googletagmanager.com",
+        "js.hscollectedforms.net",
+        "js.hs-analytics.net",
+        "js.hs-banner.com",
+        "forms.hscollectedforms.net",
+        "forms.hsforms.com",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "gstatic.com",
+        "scripts.clarity.ms",
+        "pixel.wp.com",
+        "google.co.cr",
+        "j.clarity.ms",
+        "fonts.gstatic.com",
+        "track.hubspot.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "js.hs-analytics.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "scripts.clarity.ms",
+        "j.clarity.ms",
+        "track.hubspot.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://veinsa.com",
+      "instante": "2026-11-05T07:53:40.976Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809417239.917742,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "path": "/",
+          "expires": 1793867023.110994,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793867023.194436,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793867023.198421,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1801641223,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793867023.604379,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425239.544551,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "tk_or",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425239.301494,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_r3d",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1794124439,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 3,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_lr",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1825401239,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825401223.780683,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "tk_ai",
+          "domain": "veinsa.com",
+          "path": "/",
+          "expires": 1825401224,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_clck",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1825401224,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__hstc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1809417240,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 85
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1809417240,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793867025.554582,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827561225.892425,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794470025.892489,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827561225.892513,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827561226.00413,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794470026.00417,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793865826.004189,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793867039,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "_ga_MWYNY13HY9",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1828425239.544017,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828425239.716542,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clsk",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793951639,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 54
+        },
+        {
+          "name": "__hssc",
+          "domain": ".veinsa.com",
+          "path": "/",
+          "expires": 1793867040,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "stats.wp.com",
+        "js.hs-scripts.com",
+        "google.com",
+        "googletagmanager.com",
+        "js.hs-banner.com",
+        "js.hscollectedforms.net",
+        "js.hs-analytics.net",
+        "forms.hscollectedforms.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "forms.hsforms.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "pixel.wp.com",
+        "scripts.clarity.ms",
+        "n.clarity.ms",
+        "google.co.cr",
+        "fonts.gstatic.com",
+        "track.hubspot.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "js.hs-analytics.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "scripts.clarity.ms",
+        "n.clarity.ms",
+        "track.hubspot.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://veinsa.com",
+      "instante": "2026-11-05T07:54:08.505Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-scripts.com",
+          "expires": 1793867050.359358,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "expires": 1793867050.470627,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "expires": 1793867050.488738,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".veinsa.com",
+          "expires": 1801641251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".veinsa.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".veinsa.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".veinsa.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 95
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".veinsa.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".veinsa.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".veinsa.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "expires": 1793867050.898308,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".veinsa.com",
+          "expires": 1828425274.612103,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "expires": 1825401251.214849,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "tk_or",
+          "domain": ".veinsa.com",
+          "expires": 1828425274.372081,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_r3d",
+          "domain": ".veinsa.com",
+          "expires": 1794124474,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 3,
+          "valorLongitud": 6
+        },
+        {
+          "name": "tk_lr",
+          "domain": ".veinsa.com",
+          "expires": 1825401274,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 6
+        },
+        {
+          "name": "_clck",
+          "domain": ".veinsa.com",
+          "expires": 1825401251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "tk_ai",
+          "domain": "veinsa.com",
+          "expires": 1825401251,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "__hstc",
+          "domain": ".veinsa.com",
+          "expires": 1809417275,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 85
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".veinsa.com",
+          "expires": 1809417275,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".veinsa.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "expires": 1793867052.809237,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "expires": 1827561254.383317,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "expires": 1794470054.38339,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "expires": 1827561254.383455,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "expires": 1827561253.493163,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "expires": 1794470053.493242,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "expires": 1793865853.493265,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".veinsa.com",
+          "expires": 1793867074,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "_ga_MWYNY13HY9",
+          "domain": ".veinsa.com",
+          "expires": 1828425274.611573,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828425274.731235,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clsk",
+          "domain": ".veinsa.com",
+          "expires": 1793951674,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "__hssc",
+          "domain": ".veinsa.com",
+          "expires": 1793867075,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "stats.wp.com",
+        "js.hs-scripts.com",
+        "google.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "pixel.wp.com",
+        "clarity.ms",
+        "js.hs-banner.com",
+        "js.hs-analytics.net",
+        "js.hscollectedforms.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "forms.hscollectedforms.net",
+        "scripts.clarity.ms",
+        "forms.hsforms.com",
+        "n.clarity.ms",
+        "google.co.cr",
+        "fonts.gstatic.com",
+        "track.hubspot.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "clarity.ms",
+        "js.hs-analytics.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "scripts.clarity.ms",
+        "n.clarity.ms",
+        "track.hubspot.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_gcl_au@.veinsa.com",
+        "sbjs_migrations@.veinsa.com",
+        "sbjs_current_add@.veinsa.com",
+        "sbjs_first_add@.veinsa.com",
+        "sbjs_current@.veinsa.com",
+        "sbjs_first@.veinsa.com",
+        "sbjs_udata@.veinsa.com",
+        "sbjs_session@.veinsa.com",
+        "_ga_MWYNY13HY9@.veinsa.com",
+        "_ga@.veinsa.com",
+        "CLID@www.clarity.ms",
+        "tk_or@.veinsa.com",
+        "tk_r3d@.veinsa.com",
+        "tk_lr@.veinsa.com",
+        "test_cookie@.doubleclick.net",
+        "_clck@.veinsa.com",
+        "_clsk@.veinsa.com",
+        "__hstc@.veinsa.com",
+        "hubspotutk@.veinsa.com",
+        "__hssrc@.veinsa.com",
+        "__hssc@.veinsa.com",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 34,
+        "rastreadoresEnE0": 12
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "tk_ai",
+      "dominio": "veinsa.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "tk_ai",
+      "dominio": "veinsa.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "tk_ai",
+      "dominio": "veinsa.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "tk_ai",
+      "dominio": "veinsa.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "tk_ai",
+      "dominio": "veinsa.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "tk_ai",
+      "dominio": "veinsa.com",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 34,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 2.9,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.890Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

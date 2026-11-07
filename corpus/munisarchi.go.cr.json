@@ -1,0 +1,445 @@
+{
+  "sitio": "munisarchi.go.cr",
+  "url": "https://munisarchi.go.cr",
+  "auditadoEn": "2026-11-05T07:02:43.270Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://munisarchi.go.cr",
+      "instante": "2026-11-05T07:00:27.990Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "CAKEPHP",
+          "domain": "munisarchi.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CakeCookie[muni_sarchi_cookie]",
+          "domain": "munisarchi.go.cr",
+          "path": "/",
+          "expires": 1793890828.528927,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "cdn.jsdelivr.net",
+        "code.jquery.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://munisarchi.go.cr",
+      "instante": "2026-11-05T07:00:44.282Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "CAKEPHP",
+          "domain": "munisarchi.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CakeCookie[muni_sarchi_cookie]",
+          "domain": "munisarchi.go.cr",
+          "path": "/",
+          "expires": 1793890844.703833,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "cdn.jsdelivr.net",
+        "code.jquery.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://munisarchi.go.cr",
+      "instante": "2026-11-05T07:01:05.419Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "CAKEPHP",
+          "domain": "munisarchi.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CakeCookie[muni_sarchi_cookie]",
+          "domain": "munisarchi.go.cr",
+          "path": "/",
+          "expires": 1793890865.846518,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "cdn.jsdelivr.net",
+        "code.jquery.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://munisarchi.go.cr",
+      "instante": "2026-11-05T07:01:31.114Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "CAKEPHP",
+          "domain": "munisarchi.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CakeCookie[muni_sarchi_cookie]",
+          "domain": "munisarchi.go.cr",
+          "path": "/",
+          "expires": 1793890891.537643,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "cdn.jsdelivr.net",
+        "code.jquery.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://munisarchi.go.cr",
+      "instante": "2026-11-05T07:01:51.058Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "CAKEPHP",
+          "domain": "munisarchi.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CakeCookie[muni_sarchi_cookie]",
+          "domain": "munisarchi.go.cr",
+          "path": "/",
+          "expires": 1793890911.496341,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "cdn.jsdelivr.net",
+        "code.jquery.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://munisarchi.go.cr",
+      "instante": "2026-11-05T07:02:16.300Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "CAKEPHP",
+          "domain": "munisarchi.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "CakeCookie[muni_sarchi_cookie]",
+          "domain": "munisarchi.go.cr",
+          "expires": 1793890936.700872,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "cdn.jsdelivr.net",
+        "fonts.gstatic.com",
+        "code.jquery.com",
+        "google.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 2,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "CAKEPHP",
+      "dominio": "munisarchi.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "CakeCookie[muni_sarchi_cookie]",
+      "dominio": "munisarchi.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "CAKEPHP",
+      "dominio": "munisarchi.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "CakeCookie[muni_sarchi_cookie]",
+      "dominio": "munisarchi.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "CAKEPHP",
+      "dominio": "munisarchi.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "CakeCookie[muni_sarchi_cookie]",
+      "dominio": "munisarchi.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "CAKEPHP",
+      "dominio": "munisarchi.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "CakeCookie[muni_sarchi_cookie]",
+      "dominio": "munisarchi.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "CAKEPHP",
+      "dominio": "munisarchi.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "CakeCookie[muni_sarchi_cookie]",
+      "dominio": "munisarchi.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "CAKEPHP",
+      "dominio": "munisarchi.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "CakeCookie[muni_sarchi_cookie]",
+      "dominio": "munisarchi.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 2,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 100,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

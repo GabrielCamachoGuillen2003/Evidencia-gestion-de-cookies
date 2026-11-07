@@ -1,0 +1,1262 @@
+{
+  "sitio": "bomberos.go.cr",
+  "url": "https://www.bomberos.go.cr",
+  "auditadoEn": "2026-11-06T03:46:45.673Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.bomberos.go.cr",
+      "instante": "2026-11-06T03:45:14.537Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661515.334394,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661515.334487,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661515.334527,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "_I_",
+          "domain": ".bomberos.go.cr",
+          "path": "/",
+          "expires": 1796528720.146306,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661528.232934,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661528.233033,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "radAgSig",
+          "radRandom"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "captcha.mysitearea.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.bomberos.go.cr",
+      "instante": "2026-11-06T03:45:30.448Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661531.253297,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661531.253532,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661531.253646,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661534.289361,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488734,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661534.289254,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488734,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488734,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488734,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488734,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488734,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488734,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488734,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488734,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "radAgSig",
+          "radRandom"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "captcha.mysitearea.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.bomberos.go.cr",
+      "instante": "2026-11-06T03:45:46.434Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661546.984302,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661546.984372,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661546.984396,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488747,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488748,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488748,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488748,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488748,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488748,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488748,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488748,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".bomberos.go.cr",
+          "path": "/",
+          "expires": 1809488748,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "_I_",
+          "domain": ".bomberos.go.cr",
+          "path": "/",
+          "expires": 1796528749.119445,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661559.91724,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.bomberos.go.cr",
+          "path": "/",
+          "expires": 1809661559.917326,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "radAgSig",
+          "radRandom"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "captcha.mysitearea.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.bomberos.go.cr",
+      "instante": "2026-11-06T03:46:02.117Z",
+      "error": "page.evaluate: Execution context was destroyed, most likely because of a navigation",
+      "bitacora": [],
+      "banner": null,
+      "cookies": [],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": []
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.bomberos.go.cr",
+      "instante": "2026-11-06T03:46:18.242Z",
+      "error": "page.$$: Execution context was destroyed, most likely because of a navigation",
+      "bitacora": [],
+      "banner": null,
+      "cookies": [],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.bomberos.go.cr",
+      "instante": "2026-11-06T03:46:28.336Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809661588.959848,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809661588.960083,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809661588.960198,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.bomberos.go.cr",
+          "expires": 1809488789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809488789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809488789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809488789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809488789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809488789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809488789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809488789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".bomberos.go.cr",
+          "expires": 1809488789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "_I_",
+          "domain": ".bomberos.go.cr",
+          "expires": 1796528794.344702,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809661603.892291,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.bomberos.go.cr",
+          "expires": 1809661603.8924,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 15,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__uzma",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmb",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzme",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__ssds",
+      "dominio": ".www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmaj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmbj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmcj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmdj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmlj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmfj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "uzmxj",
+      "dominio": ".bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_I_",
+      "dominio": ".bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmc",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmd",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzma",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmb",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzme",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmd",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__ssds",
+      "dominio": ".www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmc",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmaj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmbj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmcj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmdj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmlj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmfj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "uzmxj",
+      "dominio": ".bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzma",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmb",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzme",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__ssds",
+      "dominio": ".www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmaj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmbj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmcj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmdj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmlj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmfj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "uzmxj",
+      "dominio": ".bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_I_",
+      "dominio": ".bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmc",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmd",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzma",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmb",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzme",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__ssds",
+      "dominio": ".www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmaj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmbj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmcj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmdj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmlj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmfj0",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "uzmxj",
+      "dominio": ".bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_I_",
+      "dominio": ".bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmc",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmd",
+      "dominio": "www.bomberos.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 14,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 100,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.428Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

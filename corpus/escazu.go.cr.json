@@ -1,0 +1,773 @@
+{
+  "sitio": "escazu.go.cr",
+  "url": "https://www.escazu.go.cr",
+  "auditadoEn": "2026-11-05T00:34:29.422Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.escazu.go.cr",
+      "instante": "2026-11-05T00:31:00.148Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.escazu.go.cr",
+      "instante": "2026-11-05T00:31:22.002Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "gso_visitor_uid",
+          "domain": ".kommo.com",
+          "path": "/",
+          "expires": 1828398688.258832,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 36
+        },
+        {
+          "name": "amo-livechat-id",
+          "domain": "escazu.go.cr",
+          "path": "/",
+          "expires": 1825374688,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 21
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390689.984662,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390689.984816,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390689.984843,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390689.984874,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": [
+          "amo_social_button_tracking_session_id",
+          "amo_social_button_tracking_time",
+          "amo_social_button_tracking_hits",
+          "is_send_follow_link",
+          "wpEmojiSettingsSupports",
+          "amo_social_button_tracking_pages",
+          "amo_social_button_tracking_uuid"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "cdn.userway.org",
+        "gso.kommo.com",
+        "api.userway.org",
+        "static.cloudflareinsights.com",
+        "scontent-ord5-1.cdninstagram.com",
+        "scontent-ord5-2.cdninstagram.com",
+        "youtube.com",
+        "i1.ytimg.com",
+        "i2.ytimg.com",
+        "i4.ytimg.com",
+        "i3.ytimg.com",
+        "s.w.org"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.escazu.go.cr",
+      "instante": "2026-11-05T00:31:52.511Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "sin rechazo en primera capa; abierto «¿dónde puedo gestionar la matrícula virtual de un curso?»",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "gso_visitor_uid",
+          "domain": ".kommo.com",
+          "path": "/",
+          "expires": 1828398718.409225,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 36
+        },
+        {
+          "name": "amo-livechat-id",
+          "domain": "escazu.go.cr",
+          "path": "/",
+          "expires": 1825374718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 21
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390719.483453,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390719.483552,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390719.483592,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390719.483622,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": [
+          "amo_social_button_tracking_session_id",
+          "amo_social_button_tracking_time",
+          "amo_social_button_tracking_hits",
+          "is_send_follow_link",
+          "wpEmojiSettingsSupports",
+          "amo_social_button_tracking_pages",
+          "amo_social_button_tracking_uuid"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "cdn.userway.org",
+        "gso.kommo.com",
+        "api.userway.org",
+        "static.cloudflareinsights.com",
+        "scontent-ord5-1.cdninstagram.com",
+        "scontent-ord5-2.cdninstagram.com",
+        "youtube.com",
+        "i1.ytimg.com",
+        "i2.ytimg.com",
+        "i4.ytimg.com",
+        "i3.ytimg.com",
+        "s.w.org"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ],
+      "rechazoEnPrimeraCapa": false,
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.escazu.go.cr",
+      "instante": "2026-11-05T00:32:37.704Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "panel abierto; 0 casillas, 0 premarcadas",
+        "sin botón de guardar — manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "gso_visitor_uid",
+          "domain": ".kommo.com",
+          "path": "/",
+          "expires": 1828398763.56199,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 36
+        },
+        {
+          "name": "amo-livechat-id",
+          "domain": "escazu.go.cr",
+          "path": "/",
+          "expires": 1825374763,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 21
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390764.706851,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390764.706982,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390764.707025,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390764.707057,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": [
+          "amo_social_button_tracking_session_id",
+          "amo_social_button_tracking_time",
+          "amo_social_button_tracking_hits",
+          "is_send_follow_link",
+          "wpEmojiSettingsSupports",
+          "amo_social_button_tracking_pages",
+          "amo_social_button_tracking_uuid"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "cdn.userway.org",
+        "gso.kommo.com",
+        "api.userway.org",
+        "static.cloudflareinsights.com",
+        "scontent-ord5-1.cdninstagram.com",
+        "scontent-ord5-2.cdninstagram.com",
+        "youtube.com",
+        "i1.ytimg.com",
+        "i2.ytimg.com",
+        "i4.ytimg.com",
+        "i3.ytimg.com",
+        "s.w.org"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ],
+      "casillas": [],
+      "premarcadas": 0,
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.escazu.go.cr",
+      "instante": "2026-11-05T00:33:07.943Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390811.114831,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390811.114951,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390811.114981,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809390811.115013,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "gso_visitor_uid",
+          "domain": ".kommo.com",
+          "path": "/",
+          "expires": 1828398811.681898,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 36
+        },
+        {
+          "name": "amo-livechat-id",
+          "domain": "escazu.go.cr",
+          "path": "/",
+          "expires": 1825374811,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 21
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": [
+          "amo_social_button_tracking_session_id",
+          "amo_social_button_tracking_time",
+          "amo_social_button_tracking_hits",
+          "wpEmojiSettingsSupports",
+          "is_send_follow_link",
+          "amo_social_button_tracking_pages",
+          "amo_social_button_tracking_uuid"
+        ]
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "cdn.userway.org",
+        "gso.kommo.com",
+        "scontent-ord5-1.cdninstagram.com",
+        "scontent-ord5-2.cdninstagram.com",
+        "youtube.com",
+        "i1.ytimg.com",
+        "i2.ytimg.com",
+        "i4.ytimg.com",
+        "i3.ytimg.com",
+        "api.userway.org",
+        "static.cloudflareinsights.com",
+        "s.w.org"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.escazu.go.cr",
+      "instante": "2026-11-05T00:33:39.897Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — sin rechazo en primera capa; abierto «¿dónde puedo gestionar la matrícula virtual de un curso?»; NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "gso_visitor_uid",
+          "domain": ".kommo.com",
+          "expires": 1828398826.098984,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 36
+        },
+        {
+          "name": "amo-livechat-id",
+          "domain": "escazu.go.cr",
+          "expires": 1825374826,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 21
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809390827.180751,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809390827.180798,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809390826.630094,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809390862.630318,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "unpkg.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "cdn.userway.org",
+        "gso.kommo.com",
+        "s.w.org",
+        "scontent-ord5-1.cdninstagram.com",
+        "scontent-ord5-2.cdninstagram.com",
+        "youtube.com",
+        "i1.ytimg.com",
+        "i2.ytimg.com",
+        "i4.ytimg.com",
+        "i3.ytimg.com",
+        "api.userway.org",
+        "static.cloudflareinsights.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com"
+      ],
+      "bannerReaparece": false,
+      "rechazoEnPrimeraCapa": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 0,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E1",
+      "cookie": "amo-livechat-id",
+      "dominio": "escazu.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "amo-livechat-id",
+      "dominio": "escazu.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "amo-livechat-id",
+      "dominio": "escazu.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "amo-livechat-id",
+      "dominio": "escazu.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "amo-livechat-id",
+      "dominio": "escazu.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 7,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 14.3,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

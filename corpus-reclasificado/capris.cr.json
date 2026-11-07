@@ -1,0 +1,2498 @@
+{
+  "sitio": "capris.cr",
+  "url": "https://www.capris.cr",
+  "auditadoEn": "2026-11-06T01:02:36.114Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.capris.cr",
+      "instante": "2026-11-06T00:57:34.716Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1801702656,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1828486656.969821,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_N38LVBS3YX",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1828486656.984169,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_mkto_trk",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1828486657.188392,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 72
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927557.421869,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_fbp",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1801702658,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "path": "/",
+          "expires": 1801702659.162885,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 211
+        },
+        {
+          "name": "STUID",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930259,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "STVID",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1825466259,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "form_key",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1794013059,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 16
+        },
+        {
+          "name": "mage-cache-storage",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930260,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-storage-section-invalidation",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930260,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-messages",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930261,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "recently_viewed_product",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930260,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_viewed_product_previous",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930260,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930260,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product_previous",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930260,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "product_data_storage",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930260,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1793930261.581842,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "form_key",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1793930261.581874,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "amga4_customer",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1825462661.581898,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 77
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mage-customer-login",
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "lastExternalReferrerTime",
+          "product_data_storage",
+          "mage-cache-timeout",
+          "recently_compared_product_previous",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "NRBA_SESSION::aa10d140",
+          "recently_compared_product",
+          "botmaker_auth_661UGJMORG"
+        ],
+        "sessionStorage": [
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "product_data_storage",
+          "recently_compared_product",
+          "recently_compared_product_previous"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "static.addtoany.com",
+        "rum.hlx.page",
+        "storage.googleapis.com",
+        "integration-5ojmyuq-4xkdgnlfgigc2.us-5.magentosite.cloud",
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "go.botmaker.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "258-uzb-876.mktoresp.com",
+        "cdnjs.cloudflare.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "static.botmaker.com",
+        "fonts.gstatic.com",
+        "js.braintreegateway.com",
+        "gstatic.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.capris.cr",
+      "instante": "2026-11-06T00:57:51.076Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809478677.766447,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_mkto_trk",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1828486673.094231,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1801702673,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1828486673.959631,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_N38LVBS3YX",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1828486673.973124,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927574.035576,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_fbp",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1801702674,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "path": "/",
+          "expires": 1801702674.809302,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 211
+        },
+        {
+          "name": "STUID",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930275,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "STVID",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1825466275,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "form_key",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1794013075,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 16
+        },
+        {
+          "name": "mage-cache-storage",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930276,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-storage-section-invalidation",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930276,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-messages",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930277,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1793930277.309279,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "form_key",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1793930277.30931,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "amga4_customer",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1825462677.309349,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 77
+        },
+        {
+          "name": "recently_viewed_product",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930276,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_viewed_product_previous",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930276,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930276,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product_previous",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930276,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "product_data_storage",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930276,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mage-customer-login",
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "lastExternalReferrerTime",
+          "product_data_storage",
+          "mage-cache-timeout",
+          "recently_compared_product_previous",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "NRBA_SESSION::aa10d140",
+          "recently_compared_product",
+          "botmaker_auth_661UGJMORG"
+        ],
+        "sessionStorage": [
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "product_data_storage",
+          "recently_compared_product",
+          "recently_compared_product_previous"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "static.addtoany.com",
+        "rum.hlx.page",
+        "storage.googleapis.com",
+        "integration-5ojmyuq-4xkdgnlfgigc2.us-5.magentosite.cloud",
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "go.botmaker.com",
+        "258-uzb-876.mktoresp.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "google.com",
+        "ad.doubleclick.net",
+        "cdnjs.cloudflare.com",
+        "googleads.g.doubleclick.net",
+        "static.botmaker.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "fonts.gstatic.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "js.braintreegateway.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.capris.cr",
+      "instante": "2026-11-06T00:58:39.474Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809478726.500251,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1801702721,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1828486721.428919,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_N38LVBS3YX",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1828486721.44277,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927621.615158,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_mkto_trk",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1828486721.676856,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_fbp",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1801702722,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "path": "/",
+          "expires": 1801702723.103059,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 211
+        },
+        {
+          "name": "STUID",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930323,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "STVID",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1825466323,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "form_key",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1794013124,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 16
+        },
+        {
+          "name": "mage-cache-storage",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930325,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-storage-section-invalidation",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930325,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-messages",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930325,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1793930326.020916,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "form_key",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1793930326.020946,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "amga4_customer",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1825462726.020994,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 77
+        },
+        {
+          "name": "recently_viewed_product",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930325,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_viewed_product_previous",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930325,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930325,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product_previous",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930325,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "product_data_storage",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930325,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mage-customer-login",
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "lastExternalReferrerTime",
+          "product_data_storage",
+          "mage-cache-timeout",
+          "recently_compared_product_previous",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "NRBA_SESSION::aa10d140",
+          "recently_compared_product",
+          "botmaker_auth_661UGJMORG"
+        ],
+        "sessionStorage": [
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "product_data_storage",
+          "recently_compared_product",
+          "recently_compared_product_previous"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "static.addtoany.com",
+        "rum.hlx.page",
+        "storage.googleapis.com",
+        "integration-5ojmyuq-4xkdgnlfgigc2.us-5.magentosite.cloud",
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "go.botmaker.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "258-uzb-876.mktoresp.com",
+        "cdnjs.cloudflare.com",
+        "static.botmaker.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "fonts.gstatic.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "js.braintreegateway.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.capris.cr",
+      "instante": "2026-11-06T01:00:03.133Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809478810.493302,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1801702805,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1828486805.193313,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_N38LVBS3YX",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1828486805.207686,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_mkto_trk",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1828486805.530372,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 72
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927705.678775,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_fbp",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1801702805,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "path": "/",
+          "expires": 1801702806.850152,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 211
+        },
+        {
+          "name": "STUID",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930407,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "STVID",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1825466407,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "form_key",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1794013208,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 16
+        },
+        {
+          "name": "mage-cache-storage",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930409,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-storage-section-invalidation",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930409,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-messages",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930409,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "recently_viewed_product",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930409,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_viewed_product_previous",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930409,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930409,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product_previous",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930409,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "product_data_storage",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930409,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1793930410.194814,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "form_key",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1793930410.194846,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "amga4_customer",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1825462810.194869,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 77
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mage-customer-login",
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "lastExternalReferrerTime",
+          "product_data_storage",
+          "mage-cache-timeout",
+          "recently_compared_product_previous",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "NRBA_SESSION::aa10d140",
+          "recently_compared_product",
+          "botmaker_auth_661UGJMORG"
+        ],
+        "sessionStorage": [
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "product_data_storage",
+          "recently_compared_product",
+          "recently_compared_product_previous"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "static.addtoany.com",
+        "rum.hlx.page",
+        "storage.googleapis.com",
+        "integration-5ojmyuq-4xkdgnlfgigc2.us-5.magentosite.cloud",
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "go.botmaker.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "google.com",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "cdnjs.cloudflare.com",
+        "258-uzb-876.mktoresp.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "static.botmaker.com",
+        "fonts.gstatic.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "js.braintreegateway.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.capris.cr",
+      "instante": "2026-11-06T01:00:47.055Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809478853.634463,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1801702849,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_mkto_trk",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1828486864.845529,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1828486864.797293,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_fbp",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1801702864,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "STUID",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930464,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "STVID",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1825466451,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "form_key",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1794013251,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 16
+        },
+        {
+          "name": "mage-cache-storage",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930452,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-storage-section-invalidation",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930452,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-messages",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930465,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "recently_viewed_product",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930452,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_viewed_product_previous",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930452,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930452,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product_previous",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930452,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "product_data_storage",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930452,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1793930465.581639,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "form_key",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1793930465.581728,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "amga4_customer",
+          "domain": ".www.capris.cr",
+          "path": "/",
+          "expires": 1825462853.205365,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 77
+        },
+        {
+          "name": "_ga_N38LVBS3YX",
+          "domain": ".capris.cr",
+          "path": "/",
+          "expires": 1828486864.818078,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828486864.944425,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "mage-cache-sessid",
+          "domain": "www.capris.cr",
+          "path": "/",
+          "expires": 1793930465,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801702865.123862,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "path": "/",
+          "expires": 1801702865.574075,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 211
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "mage-cache-storage",
+          "product_data_storage",
+          "recently_compared_product_previous",
+          "_gcl_ls",
+          "NRBA_SESSION::aa10d140",
+          "mage-customer-login",
+          "recently_viewed_product",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "lastExternalReferrerTime",
+          "mage-cache-timeout",
+          "lastExternalReferrer",
+          "recently_compared_product",
+          "botmaker_auth_661UGJMORG"
+        ],
+        "sessionStorage": [
+          "recently_viewed_product",
+          "mage-cache-storage",
+          "mage-cache-storage-section-invalidation",
+          "recently_viewed_product_previous",
+          "product_data_storage",
+          "recently_compared_product",
+          "recently_compared_product_previous"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "static.addtoany.com",
+        "rum.hlx.page",
+        "storage.googleapis.com",
+        "integration-5ojmyuq-4xkdgnlfgigc2.us-5.magentosite.cloud",
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "go.botmaker.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "google.com",
+        "ad.doubleclick.net",
+        "258-uzb-876.mktoresp.com",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "cdnjs.cloudflare.com",
+        "static.botmaker.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "fonts.gstatic.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "js.braintreegateway.com",
+        "gstatic.com",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.capris.cr",
+      "instante": "2026-11-06T01:01:14.119Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809478949.91867,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".capris.cr",
+          "expires": 1801702876,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_mkto_trk",
+          "domain": ".www.capris.cr",
+          "expires": 1828486949.82247,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga",
+          "domain": ".capris.cr",
+          "expires": 1828486949.754708,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_fbp",
+          "domain": ".capris.cr",
+          "expires": 1801702949,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "STUID",
+          "domain": "www.capris.cr",
+          "expires": 1793930549,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "STVID",
+          "domain": "www.capris.cr",
+          "expires": 1825466478,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "form_key",
+          "domain": "www.capris.cr",
+          "expires": 1794013278,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 16
+        },
+        {
+          "name": "mage-cache-storage",
+          "domain": "www.capris.cr",
+          "expires": 1793930479,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-storage-section-invalidation",
+          "domain": "www.capris.cr",
+          "expires": 1793930479,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-messages",
+          "domain": "www.capris.cr",
+          "expires": 1793930549,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": ".www.capris.cr",
+          "expires": 1793930549.750918,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "form_key",
+          "domain": ".www.capris.cr",
+          "expires": 1793930549.75105,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "amga4_customer",
+          "domain": ".www.capris.cr",
+          "expires": 1825462880.229241,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 77
+        },
+        {
+          "name": "recently_viewed_product",
+          "domain": "www.capris.cr",
+          "expires": 1793930479,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_viewed_product_previous",
+          "domain": "www.capris.cr",
+          "expires": 1793930479,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product",
+          "domain": "www.capris.cr",
+          "expires": 1793930479,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "recently_compared_product_previous",
+          "domain": "www.capris.cr",
+          "expires": 1793930479,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "product_data_storage",
+          "domain": "www.capris.cr",
+          "expires": 1793930479,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "mage-cache-sessid",
+          "domain": "www.capris.cr",
+          "expires": 1793930549,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "_ga_N38LVBS3YX",
+          "domain": ".capris.cr",
+          "expires": 1828486949.766113,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828486949.863152,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "botmaker_auth",
+          "domain": ".botmaker.com",
+          "expires": 1801702950.088884,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 211
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "static.addtoany.com",
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "rum.hlx.page",
+        "storage.googleapis.com",
+        "integration-5ojmyuq-4xkdgnlfgigc2.us-5.magentosite.cloud",
+        "go.botmaker.com",
+        "js.braintreegateway.com",
+        "google.com",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "cdnjs.cloudflare.com",
+        "static.botmaker.com",
+        "gstatic.com",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "258-uzb-876.mktoresp.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "google.co.cr",
+        "fonts.gstatic.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "munchkin.marketo.net",
+        "connect.facebook.net",
+        "clarity.ms",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_gcl_au@.capris.cr",
+        "_ga@.capris.cr",
+        "_ga_N38LVBS3YX@.capris.cr",
+        "_mkto_trk@.www.capris.cr",
+        "test_cookie@.doubleclick.net",
+        "_fbp@.capris.cr",
+        "botmaker_auth@.botmaker.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 21,
+        "rastreadoresEnE0": 9
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "STUID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "STVID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "mage-cache-storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "mage-cache-storage-section-invalidation",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "mage-messages",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "recently_viewed_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "recently_viewed_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "recently_compared_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "recently_compared_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "product_data_storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "amga4_customer",
+      "dominio": ".www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "STUID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "STVID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "mage-cache-storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "mage-cache-storage-section-invalidation",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "mage-messages",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "amga4_customer",
+      "dominio": ".www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "recently_viewed_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "recently_viewed_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "recently_compared_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "recently_compared_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "product_data_storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "STUID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "STVID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "mage-cache-storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "mage-cache-storage-section-invalidation",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "mage-messages",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "amga4_customer",
+      "dominio": ".www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "recently_viewed_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "recently_viewed_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "recently_compared_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "recently_compared_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "product_data_storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "STUID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "STVID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "mage-cache-storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "mage-cache-storage-section-invalidation",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "mage-messages",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "recently_viewed_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "recently_viewed_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "recently_compared_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "recently_compared_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "product_data_storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "amga4_customer",
+      "dominio": ".www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "STUID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "STVID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "mage-cache-storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "mage-cache-storage-section-invalidation",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "mage-messages",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "recently_viewed_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "recently_viewed_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "recently_compared_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "recently_compared_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "product_data_storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "amga4_customer",
+      "dominio": ".www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "mage-cache-sessid",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "STUID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "STVID",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "mage-cache-storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "mage-cache-storage-section-invalidation",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "mage-messages",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "amga4_customer",
+      "dominio": ".www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "recently_viewed_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "recently_viewed_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "recently_compared_product",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "recently_compared_product_previous",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "product_data_storage",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "mage-cache-sessid",
+      "dominio": "www.capris.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 22,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 50.7,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.436Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

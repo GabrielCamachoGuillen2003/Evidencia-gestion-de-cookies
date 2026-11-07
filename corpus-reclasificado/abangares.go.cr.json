@@ -1,0 +1,902 @@
+{
+  "sitio": "abangares.go.cr",
+  "url": "https://abangares.go.cr",
+  "auditadoEn": "2026-11-05T05:16:24.070Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://abangares.go.cr",
+      "instante": "2026-11-05T05:13:57.268Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "c1d20c96c36363852b2f75cb49c56488",
+          "domain": "abangares.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "abangares.go.cr",
+          "path": "/",
+          "expires": 1793898839.194901,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_QZH1P3BM5G",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415639.962258,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415639.963951,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_FV7FXDB74C",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415639.973739,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1801631639,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793856540.38159,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://abangares.go.cr",
+      "instante": "2026-11-05T05:14:17.181Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "c1d20c96c36363852b2f75cb49c56488",
+          "domain": "abangares.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "abangares.go.cr",
+          "path": "/",
+          "expires": 1793898858.46126,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_QZH1P3BM5G",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415658.845814,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415658.846365,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_FV7FXDB74C",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415658.853696,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1801631658,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793856559.092776,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://abangares.go.cr",
+      "instante": "2026-11-05T05:14:39.667Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "c1d20c96c36363852b2f75cb49c56488",
+          "domain": "abangares.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "abangares.go.cr",
+          "path": "/",
+          "expires": 1793898881.924246,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_QZH1P3BM5G",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415683.012432,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415683.012968,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_FV7FXDB74C",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415683.021617,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1801631683,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793856583.253206,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://abangares.go.cr",
+      "instante": "2026-11-05T05:15:05.678Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "c1d20c96c36363852b2f75cb49c56488",
+          "domain": "abangares.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "abangares.go.cr",
+          "path": "/",
+          "expires": 1793898907.028212,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_QZH1P3BM5G",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415707.372106,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415707.372775,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_FV7FXDB74C",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415707.381803,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1801631707,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793856608.23291,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://abangares.go.cr",
+      "instante": "2026-11-05T05:15:27.377Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "c1d20c96c36363852b2f75cb49c56488",
+          "domain": "abangares.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "abangares.go.cr",
+          "path": "/",
+          "expires": 1793898929.344242,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415729.765747,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1801631729,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 23
+        },
+        {
+          "name": "_ga_FV7FXDB74C",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415748.770693,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_QZH1P3BM5G",
+          "domain": ".abangares.go.cr",
+          "path": "/",
+          "expires": 1828415748.773481,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828415748.928297,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://abangares.go.cr",
+      "instante": "2026-11-05T05:15:58.023Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "c1d20c96c36363852b2f75cb49c56488",
+          "domain": "abangares.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "abangares.go.cr",
+          "expires": 1793898959.994276,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".abangares.go.cr",
+          "expires": 1828415760.751838,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".abangares.go.cr",
+          "expires": 1801631760,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_FV7FXDB74C",
+          "domain": ".abangares.go.cr",
+          "expires": 1828415777.01001,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_QZH1P3BM5G",
+          "domain": ".abangares.go.cr",
+          "expires": 1828415777.013272,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828415777.207361,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "connect.facebook.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "google-analytics.com",
+        "connect.facebook.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_QZH1P3BM5G@.abangares.go.cr",
+        "_ga@.abangares.go.cr",
+        "_ga_FV7FXDB74C@.abangares.go.cr",
+        "_gcl_au@.abangares.go.cr",
+        "test_cookie@.doubleclick.net"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 7,
+        "rastreadoresEnE0": 6
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "c1d20c96c36363852b2f75cb49c56488",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sppb_user_timezone",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "c1d20c96c36363852b2f75cb49c56488",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sppb_user_timezone",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "c1d20c96c36363852b2f75cb49c56488",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sppb_user_timezone",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "c1d20c96c36363852b2f75cb49c56488",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sppb_user_timezone",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "c1d20c96c36363852b2f75cb49c56488",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sppb_user_timezone",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "c1d20c96c36363852b2f75cb49c56488",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sppb_user_timezone",
+      "dominio": "abangares.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 7,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 28.6,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.382Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

@@ -1,0 +1,33 @@
+# Prueba piloto — 20 sitios (10 públicos / 10 privados)
+#
+# VERIFIQUE CADA DOMINIO antes de correr: algunos pueden haber cambiado de
+# dirección o no responder. Los que fallen se registran como no auditables y
+# cuentan en la tasa de pérdida del estrato, que es un dato del estudio.
+#
+# Para cada sitio hay que documentar, en su ficha de registro, cuáles de las
+# cuatro señales de elegibilidad de la Sección 1.5 cumple. El estrato público
+# queda resuelto por la segunda señal (directorio institucional del Estado).
+
+# ─── Sector público ───────────────────────────────────────────────────
+https://www.hacienda.go.cr
+https://www.ccss.sa.cr
+https://www.ice.go.cr
+https://www.mep.go.cr
+https://www.presidencia.go.cr
+https://www.tse.go.cr
+https://www.aya.go.cr
+https://www.ministeriodesalud.go.cr
+https://www.tec.ac.cr
+https://www.ucr.ac.cr
+
+# ─── Sector privado ───────────────────────────────────────────────────
+https://www.nacion.com
+https://www.teletica.com
+https://www.crhoy.com
+https://www.larepublica.net
+https://www.elfinancierocr.com
+https://www.bncr.fi.cr
+https://www.bancobcr.com
+https://www.automercado.cr
+https://www.dospinos.com
+https://www.gollo.com

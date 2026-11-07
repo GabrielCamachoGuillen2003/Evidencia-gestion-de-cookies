@@ -1,0 +1,137 @@
+# Lote 2 — 86 sitios adicionales (no repite los 20 del piloto)
+#
+# PROCEDENCIA, que hay que documentar en el informe conforme a la Sección 3.5.2:
+#   - Bloque público: directorio de instituciones del Poder Ejecutivo de Costa
+#     Rica (Political Database of the Americas, Georgetown University),
+#     complementado con los portales de los poderes Judicial y Legislativo y de
+#     las superintendencias del sistema financiero.
+#   - Bloque municipal y privado: reconstruido por dominio conocido. ESTE BLOQUE
+#     NO ESTÁ VERIFICADO contra un registro oficial; para el marco muestral
+#     definitivo hay que triangularlo con NIC-CR y los directorios de cámaras
+#     empresariales, como exige el diseño.
+#
+# Los dominios que fallen NO son un problema: se registran como no auditables y
+# la tasa de pérdida por estrato es un dato del estudio, con umbral del 10%.
+#
+# Tiempo estimado de ejecución: unas 3 horas.
+
+# ─── Público · Ministerios ────────────────────────────────────────────────
+https://www.casapres.go.cr
+https://www.mag.go.cr
+https://www.minae.go.cr
+https://www.micit.go.cr
+https://www.comex.go.cr
+https://www.meic.go.cr
+https://www.msp.go.cr
+https://www.mj.go.cr
+https://www.mopt.go.cr
+https://www.mideplan.go.cr
+https://www.rree.go.cr
+https://www.mtss.go.cr
+https://www.mivah.go.cr
+https://www.mcj.go.cr
+
+# ─── Público · Instituciones autónomas y órganos desconcentrados ──────────
+https://www.aresep.go.cr
+https://www.bccr.fi.cr
+https://www.conicit.go.cr
+https://www.cnp.go.cr
+https://www.cnree.go.cr
+https://www.cne.go.cr
+https://www.inec.go.cr
+https://www.inamu.go.cr
+https://www.ins.go.cr
+https://www.ina.ac.cr
+https://www.imn.ac.cr
+https://www.pani.go.cr
+https://www.imas.go.cr
+https://www.senasa.go.cr
+https://www.sinac.go.cr
+https://www.recope.go.cr
+https://www.racsa.go.cr
+https://www.correos.go.cr
+https://www.sutel.go.cr
+https://www.migracion.go.cr
+https://www.procomer.com
+https://www.visitcostarica.com
+
+# ─── Público · Supervisión financiera ─────────────────────────────────────
+https://www.sugef.fi.cr
+https://www.sugeval.fi.cr
+https://www.supen.fi.cr
+https://www.sugese.fi.cr
+
+# ─── Público · Poderes Judicial, Legislativo y control ────────────────────
+https://www.poder-judicial.go.cr
+https://www.asamblea.go.cr
+https://www.cgr.go.cr
+https://www.dhr.go.cr
+
+# ─── Público · Municipalidades ────────────────────────────────────────────
+https://www.msj.go.cr
+https://www.munialajuela.go.cr
+https://www.muniCartago.go.cr
+https://www.heredia.go.cr
+https://www.muniliberia.go.cr
+https://www.curridabat.go.cr
+https://www.escazu.go.cr
+https://www.desamparados.go.cr
+https://www.belen.go.cr
+https://www.munisancarlos.go.cr
+
+# ─── Público · Universidades estatales ────────────────────────────────────
+https://www.una.ac.cr
+https://www.uned.ac.cr
+https://www.utn.ac.cr
+
+# ─── Privado · Servicios financieros y seguros ────────────────────────────
+https://www.baccredomatic.com
+https://www.scotiabankcr.com
+https://www.davivienda.cr
+https://www.bancopromerica.cr
+https://www.coopenae.fi.cr
+https://www.coopeservidores.fi.cr
+https://www.grupomutual.fi.cr
+https://www.mucap.fi.cr
+
+# ─── Privado · Comercio y retail ──────────────────────────────────────────
+https://www.masxmenos.cr
+https://www.walmart.co.cr
+https://www.pricesmart.com
+https://www.monge.cr
+https://www.universal.co.cr
+https://www.cemaco.com
+
+# ─── Privado · Medios de comunicación ─────────────────────────────────────
+https://www.repretel.com
+https://www.monumental.co.cr
+https://www.columbia.co.cr
+https://www.diarioextra.com
+https://delfino.cr
+https://www.ameliarueda.com
+https://www.elmundo.cr
+https://www.semanariouniversidad.com
+
+# ─── Privado · Salud ──────────────────────────────────────────────────────
+https://www.clinicabiblica.com
+https://www.hospitalmetropolitano.cr
+https://www.cimahospital.com
+https://www.hospitallacatolica.com
+
+# ─── Privado · Educación ──────────────────────────────────────────────────
+https://www.ulatina.ac.cr
+https://www.ulacit.ac.cr
+https://www.uam.ac.cr
+https://www.ufidelitas.ac.cr
+
+# ─── Privado · Telecomunicaciones y tecnología ────────────────────────────
+https://www.kolbi.cr
+https://www.liberty.cr
+https://www.claro.cr
+https://www.gbm.net
+
+# ─── Privado · Alimentos y turismo ────────────────────────────────────────
+https://www.fifco.com
+https://www.cafebritt.com
+https://www.pozuelo.com
+https://www.aeris.cr

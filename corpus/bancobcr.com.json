@@ -1,0 +1,2841 @@
+{
+  "sitio": "bancobcr.com",
+  "url": "https://www.bancobcr.com",
+  "auditadoEn": "2026-11-04T22:27:22.131Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.bancobcr.com",
+      "instante": "2026-11-04T22:25:42.962Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555943.391753,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555943.391831,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555943.391864,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383143,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383144,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383144,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383144,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383144,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383144,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383144,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383144,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".bancobcr.com",
+          "path": "/",
+          "expires": 1809383144,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ssfj",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1793831204,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555944.382985,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555944.383238,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555944.383335,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 83
+        },
+        {
+          "name": "uzmx",
+          "domain": ".bancobcr.com",
+          "path": "/",
+          "expires": 1809555944.383476,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 83
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383144.799471,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383144.799497,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383144.799519,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383144.799564,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793832944.960603,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383145,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383145,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383145,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383145,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383145,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383145,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm8b0c4",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831274,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft8b0c4",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831274,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl8b0c4",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831274,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 266
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "cas.avalon.perfdrive.com",
+        "4ec83f52e7b0.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "08fe78fa8dfa.w.hcaptcha.com",
+        "api.hcaptcha.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.bancobcr.com",
+      "instante": "2026-11-04T22:25:58.913Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555959.257178,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555959.257242,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555959.257295,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383159,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383159,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383159,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383159,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383159,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383159,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383159,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383159,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".bancobcr.com",
+          "path": "/",
+          "expires": 1809383159,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555960.154773,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555960.154857,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555960.154903,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 82
+        },
+        {
+          "name": "uzmx",
+          "domain": ".bancobcr.com",
+          "path": "/",
+          "expires": 1809555960.154953,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 82
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383160.516945,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383160.51707,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383160.517227,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383160.517326,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793832960.600313,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383160,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383161,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383161,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383161,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383161,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383161,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm7ff18",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831292,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft7ff18",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831292,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl7ff18",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831292,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 266
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "cas.avalon.perfdrive.com",
+        "4fbfb463ba76.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "ebe74358d6df.w.hcaptcha.com",
+        "api.hcaptcha.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.bancobcr.com",
+      "instante": "2026-11-04T22:26:14.872Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555975.251041,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555975.251106,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555975.251129,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".bancobcr.com",
+          "path": "/",
+          "expires": 1809383175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555976.168775,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555976.168865,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555976.168917,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 82
+        },
+        {
+          "name": "uzmx",
+          "domain": ".bancobcr.com",
+          "path": "/",
+          "expires": 1809555976.168971,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 82
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383176.608135,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383176.608192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383176.608242,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383176.608281,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793832976.695663,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383176,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383177,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383177,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383177,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383177,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383177,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm217fd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831308,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft217fd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831308,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl217fd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831308,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 266
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "cas.avalon.perfdrive.com",
+        "991839b6f78e.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "172b2b56e689.w.hcaptcha.com",
+        "api.hcaptcha.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.bancobcr.com",
+      "instante": "2026-11-04T22:26:30.904Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555991.291766,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555991.291861,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555991.2919,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383191,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".bancobcr.com",
+          "path": "/",
+          "expires": 1809383192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555992.262432,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555992.262519,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809555992.262607,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 83
+        },
+        {
+          "name": "uzmx",
+          "domain": ".bancobcr.com",
+          "path": "/",
+          "expires": 1809555992.262656,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 83
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383192.597597,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383192.597623,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383192.597646,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383192.597667,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793832992.683795,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfma58c5",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831324,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfta58c5",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831324,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcla58c5",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831324,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 266
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "cas.avalon.perfdrive.com",
+        "b7097bb00132.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "cabd460a9233.w.hcaptcha.com",
+        "api.hcaptcha.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.bancobcr.com",
+      "instante": "2026-11-04T22:26:46.883Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento sin tocar el banner; sin enlaces internos navegables"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809556007.28049,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809556007.280593,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809556007.280633,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383207,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383208,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383208,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383208,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383208,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383208,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383208,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809383208,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".bancobcr.com",
+          "path": "/",
+          "expires": 1809383208,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809556008.201454,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809556008.201545,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.bancobcr.com",
+          "path": "/",
+          "expires": 1809556008.201655,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 82
+        },
+        {
+          "name": "uzmx",
+          "domain": ".bancobcr.com",
+          "path": "/",
+          "expires": 1809556008.201719,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 82
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383208.539231,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383208.539395,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383208.539512,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809383208.539609,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793833008.630619,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383208,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383209,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383209,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383209,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383209,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809383209,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm3ea9d",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831340,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft3ea9d",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831340,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl3ea9d",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793831340,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 266
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "cas.avalon.perfdrive.com",
+        "bf1e9c311ee4.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "9886fd4382b3.w.hcaptcha.com",
+        "api.hcaptcha.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.bancobcr.com",
+      "instante": "2026-11-04T22:27:04.284Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.bancobcr.com",
+          "expires": 1809556024.679893,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.bancobcr.com",
+          "expires": 1809556024.679954,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.bancobcr.com",
+          "expires": 1809556024.679977,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.bancobcr.com",
+          "expires": 1809383225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.bancobcr.com",
+          "expires": 1809383225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.bancobcr.com",
+          "expires": 1809383225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.bancobcr.com",
+          "expires": 1809383225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.bancobcr.com",
+          "expires": 1809383225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.bancobcr.com",
+          "expires": 1809383225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.bancobcr.com",
+          "expires": 1809383225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.bancobcr.com",
+          "expires": 1809383225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".bancobcr.com",
+          "expires": 1809383225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809383234.794044,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809383234.794148,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "expires": 1793833026.020872,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "expires": 1809383234,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "expires": 1809383234,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809383234,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809383234,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm633fe",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793831351,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft633fe",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793831351,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl633fe",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793831351,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 266
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.bancobcr.com",
+          "expires": 1809556034.334669,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.bancobcr.com",
+          "expires": 1809556034.334784,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.bancobcr.com",
+          "expires": 1809556034.334852,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 83
+        },
+        {
+          "name": "uzmx",
+          "domain": ".bancobcr.com",
+          "expires": 1809556034.334942,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809383234.794245,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809383234.794299,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809383234,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809383234,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm34061",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793831360,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft34061",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793831360,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl34061",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793831360,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 266
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "cas.avalon.perfdrive.com",
+        "fonts.googleapis.com",
+        "35574d418655.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "e8a8d252de73.w.hcaptcha.com",
+        "api.hcaptcha.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "__uzma@validate.perfdrive.com",
+        "__uzmb@validate.perfdrive.com",
+        "__uzmc@validate.perfdrive.com",
+        "__uzmd@validate.perfdrive.com",
+        "__ssds@.perfdrive.com",
+        "__ssuzjsr2@.perfdrive.com",
+        "__uzmaj2@.perfdrive.com",
+        "__uzmbj2@.perfdrive.com",
+        "__uzmcj2@.perfdrive.com",
+        "__uzmdj2@.perfdrive.com",
+        "cbfm8b0c4@validate.perfdrive.com",
+        "cbft8b0c4@validate.perfdrive.com",
+        "cbfcl8b0c4@validate.perfdrive.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 32,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__uzma",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmb",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzme",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__ssds",
+      "dominio": ".www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmaj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmbj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmcj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmdj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmlj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmfj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "uzmxj",
+      "dominio": ".bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ssfj",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmc",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmd",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmf",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "uzmx",
+      "dominio": ".bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzma",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmb",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzme",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__ssds",
+      "dominio": ".www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmaj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmbj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmcj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmdj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmlj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmfj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "uzmxj",
+      "dominio": ".bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmc",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmd",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmf",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "uzmx",
+      "dominio": ".bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzma",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmb",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzme",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__ssds",
+      "dominio": ".www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmaj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmbj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmcj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmdj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmlj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmfj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "uzmxj",
+      "dominio": ".bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmc",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmd",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmf",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "uzmx",
+      "dominio": ".bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzma",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmb",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzme",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__ssds",
+      "dominio": ".www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmaj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmbj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmcj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmdj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmlj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmfj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "uzmxj",
+      "dominio": ".bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmc",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmd",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmf",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "uzmx",
+      "dominio": ".bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzma",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmb",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzme",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__ssds",
+      "dominio": ".www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmaj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmbj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmcj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmdj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmlj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmfj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "uzmxj",
+      "dominio": ".bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmc",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmd",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmf",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "uzmx",
+      "dominio": ".bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzma",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmb",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzme",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__ssds",
+      "dominio": ".www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmaj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmbj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmcj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmdj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmlj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmfj0",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "uzmxj",
+      "dominio": ".bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmc",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmd",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmf",
+      "dominio": "www.bancobcr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "uzmx",
+      "dominio": ".bancobcr.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 31,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 51.1,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

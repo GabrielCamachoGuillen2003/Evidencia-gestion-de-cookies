@@ -1,0 +1,3507 @@
+{
+  "sitio": "elperiodicocr.com",
+  "url": "https://elperiodicocr.com",
+  "auditadoEn": "2026-11-05T05:36:26.496Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://elperiodicocr.com",
+      "instante": "2026-11-05T05:33:48.952Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "elperiodicocr.com",
+          "path": "/",
+          "expires": 1794029630.129975,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_VCNE2202BX",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1828416831.282012,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1828416831.282425,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392831.515659,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825392831.613282,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392832,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_clsk",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1793943232,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828416833.199807,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "__gads",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552833,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552833,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1809408833,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827552833.916357,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794461633.916416,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827552833.916439,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552833,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392834,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827552834.053831,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794461634.053872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793857434.053892,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "google_adsense_settings",
+          "google_ama_config"
+        ],
+        "sessionStorage": [
+          "litespeed_docref",
+          "litespeed_reloaded",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "assets.ipzmarketing.com",
+        "static.cloudflareinsights.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "fonts.gstatic.com",
+        "elperiodicocr.ipzmarketing.com",
+        "clarity.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "t.clarity.ms",
+        "fundingchoicesmessages.google.com",
+        "c.clarity.ms",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "c.bing.com",
+        "google.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "clarity.ms",
+        "stats.g.doubleclick.net",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "t.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://elperiodicocr.com",
+      "instante": "2026-11-05T05:34:05.166Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "elperiodicocr.com",
+          "path": "/",
+          "expires": 1794029646.139418,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_VCNE2202BX",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1828416847.168183,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1828416847.168667,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392847.455649,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825392847.562392,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392848,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__gads",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552848,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552848,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1809408848,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "_clsk",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1793943249,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828416849.159221,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827552850.547213,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794461650.547512,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827552850.547695,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "APC",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1809408849.561984,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 54
+        },
+        {
+          "name": "CMID",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1825392850.153889,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "CMPS",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801632849.584827,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "CMPRO",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801632850.154055,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552849,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827552849.66149,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794461649.661532,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793857449.661552,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632849.868977,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632849.869089,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 18
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392849,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632849.869066,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 110
+        },
+        {
+          "name": "b",
+          "domain": ".blismedia.com",
+          "path": "/",
+          "expires": 1825396850.246392,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 25
+        },
+        {
+          "name": "flashtalkingad1",
+          "domain": ".flashtalking.com",
+          "path": "/",
+          "expires": 1828020850.267485,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 21
+        },
+        {
+          "name": "uid",
+          "domain": ".theagenticx.ai",
+          "path": "/",
+          "expires": 1796448850.317951,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "ANON_ID",
+          "domain": ".tribalfusion.com",
+          "path": "/",
+          "expires": 1801632849.359421,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".temu.com",
+          "path": "/",
+          "expires": 1793858650.365941,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_tracker",
+          "domain": ".travelaudience.com",
+          "path": "/",
+          "expires": 1827984849.769831,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 61
+        },
+        {
+          "name": "V",
+          "domain": ".contextweb.com",
+          "path": "/",
+          "expires": 1824960850.933226,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 360,
+          "valorLongitud": 12
+        },
+        {
+          "name": "VP",
+          "domain": ".contextweb.com",
+          "path": "/",
+          "expires": 1824960850.933282,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 360,
+          "valorLongitud": 17
+        },
+        {
+          "name": "pb_rtb_ev",
+          "domain": ".contextweb.com",
+          "path": "/",
+          "expires": 1825392850.933314,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 40
+        },
+        {
+          "name": "pb_rtb_ev_part",
+          "domain": ".contextweb.com",
+          "path": "/",
+          "expires": 1825392850.933334,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 40
+        },
+        {
+          "name": "INGRESSCOOKIE",
+          "domain": "bh.contextweb.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_D9J",
+          "domain": ".flashtalking.com",
+          "path": "/",
+          "expires": 1825392851.518176,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "google_adsense_settings",
+          "google_ama_config"
+        ],
+        "sessionStorage": [
+          "litespeed_docref",
+          "litespeed_reloaded",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "assets.ipzmarketing.com",
+        "static.cloudflareinsights.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "fonts.gstatic.com",
+        "elperiodicocr.ipzmarketing.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "fundingchoicesmessages.google.com",
+        "j.clarity.ms",
+        "c.clarity.ms",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "tpc.googlesyndication.com",
+        "google.com",
+        "c.bing.com",
+        "cm.g.doubleclick.net",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com",
+        "servedby.flashtalking.com",
+        "a.tribalfusion.com",
+        "tr.blismedia.com",
+        "ads.travelaudience.com",
+        "bh.contextweb.com",
+        "temu.com",
+        "sync.theagenticx.ai",
+        "ajs-assets.ftstatic.com",
+        "s.tribalfusion.com",
+        "agen-assets.ftstatic.com",
+        "d9.flashtalking.com",
+        "js.ad-score.com",
+        "cdn.flashtalking.com",
+        "data.ad-score.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "stats.g.doubleclick.net",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "j.clarity.ms",
+        "c.clarity.ms",
+        "tpc.googlesyndication.com",
+        "c.bing.com",
+        "cm.g.doubleclick.net",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://elperiodicocr.com",
+      "instante": "2026-11-05T05:34:29.042Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "elperiodicocr.com",
+          "path": "/",
+          "expires": 1794029669.947689,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_VCNE2202BX",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1828416870.936503,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1828416870.936861,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392871.234593,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825392871.305539,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392871,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_clsk",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1793943272,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828416872.576309,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "__gads",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1809408872,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "APC",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1809408872.849708,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 54
+        },
+        {
+          "name": "ANON_ID",
+          "domain": ".tribalfusion.com",
+          "path": "/",
+          "expires": 1801632873.131156,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 40
+        },
+        {
+          "name": "CMPS",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801632873.183842,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "UID",
+          "domain": "beacon.lynx.cognitivlabs.com",
+          "path": "/",
+          "expires": 1825392873.346458,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632873.255678,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632873.255749,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 110
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632873.255771,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "flashtalkingad1",
+          "domain": ".flashtalking.com",
+          "path": "/",
+          "expires": 1828020873.263753,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 21
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552873,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "A3",
+          "domain": ".yahoo.com",
+          "path": "/",
+          "expires": 1825414473.375332,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 94
+        },
+        {
+          "name": "CMID",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1825392873.514005,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "CMPRO",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801632873.514078,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "eud",
+          "domain": ".rfihub.com",
+          "path": "/",
+          "expires": 1827552873.346764,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 94
+        },
+        {
+          "name": "rud",
+          "domain": ".rfihub.com",
+          "path": "/",
+          "expires": 1827552873.346794,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 76
+        },
+        {
+          "name": "ruds",
+          "domain": ".rfihub.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 76
+        },
+        {
+          "name": "euds",
+          "domain": ".rfihub.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 67
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392873,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "IDSYNC",
+          "domain": ".analytics.yahoo.com",
+          "path": "/",
+          "expires": 1825392873.375288,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 9
+        },
+        {
+          "name": "DotomiTest",
+          "domain": ".dotomi.com",
+          "path": "/",
+          "expires": 1793856903.490899,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827552873.634792,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794461673.635015,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827552873.635127,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799040873.853461,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799040873.853532,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827552873.759899,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794461673.759939,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793857473.759959,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799040873.853568,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "ss",
+          "domain": "beacon.lynx.cognitivlabs.com",
+          "path": "/",
+          "expires": 1825392874.233031,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 134
+        },
+        {
+          "name": "_D9J",
+          "domain": ".flashtalking.com",
+          "path": "/",
+          "expires": 1825392874.272106,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "google_adsense_settings",
+          "google_ama_config"
+        ],
+        "sessionStorage": [
+          "litespeed_docref",
+          "litespeed_reloaded",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "assets.ipzmarketing.com",
+        "static.cloudflareinsights.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "fonts.gstatic.com",
+        "elperiodicocr.ipzmarketing.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "clarity.ms",
+        "googleads.g.doubleclick.net",
+        "scripts.clarity.ms",
+        "fundingchoicesmessages.google.com",
+        "l.clarity.ms",
+        "ep1.adtrafficquality.google",
+        "c.clarity.ms",
+        "ep2.adtrafficquality.google",
+        "tpc.googlesyndication.com",
+        "google.com",
+        "c.bing.com",
+        "cm.g.doubleclick.net",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com",
+        "servedby.flashtalking.com",
+        "dclk-match.dotomi.com",
+        "a.tribalfusion.com",
+        "sync-tm.everesttech.net",
+        "ups.analytics.yahoo.com",
+        "a.rfihub.com",
+        "beacon.lynx.cognitivlabs.com",
+        "analytics.pangle-ads.com",
+        "s.tribalfusion.com",
+        "ajs-assets.ftstatic.com",
+        "pixel.tapad.com",
+        "agen-assets.ftstatic.com",
+        "d9.flashtalking.com",
+        "js.ad-score.com",
+        "cdn.flashtalking.com",
+        "data.ad-score.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "stats.g.doubleclick.net",
+        "clarity.ms",
+        "googleads.g.doubleclick.net",
+        "scripts.clarity.ms",
+        "l.clarity.ms",
+        "c.clarity.ms",
+        "tpc.googlesyndication.com",
+        "c.bing.com",
+        "cm.g.doubleclick.net",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com",
+        "sync-tm.everesttech.net",
+        "pixel.tapad.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://elperiodicocr.com",
+      "instante": "2026-11-05T05:35:01.036Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "elperiodicocr.com",
+          "path": "/",
+          "expires": 1794029702.031467,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_VCNE2202BX",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1828416903.028294,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1828416903.028681,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392903.325334,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825392903.371274,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392903,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828416904.381542,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clsk",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1793943304,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__gads",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552903,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552903,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1809408903,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "CMPS",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801632904.792046,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "uuid",
+          "domain": ".getrockerbox.com",
+          "path": "/",
+          "expires": 1796448904.882057,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 41
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632906.14028,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632906.140416,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "CMID",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1825392906.313939,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "CMPRO",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801632906.314041,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552905,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392905,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632906.140373,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 110
+        },
+        {
+          "name": "APC",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1809408906.221155,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 54
+        },
+        {
+          "name": "ANON_ID",
+          "domain": ".tribalfusion.com",
+          "path": "/",
+          "expires": 1801632906.543575,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 43
+        },
+        {
+          "name": "flashtalkingad1",
+          "domain": ".flashtalking.com",
+          "path": "/",
+          "expires": 1828020906.676319,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 21
+        },
+        {
+          "name": "ADK_EX_11",
+          "domain": ".adkernel.com",
+          "path": "/",
+          "expires": 1795066506.693579,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 14,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ADKUID",
+          "domain": ".adkernel.com",
+          "path": "/",
+          "expires": 1796448906.693635,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 20
+        },
+        {
+          "name": "BSXUID",
+          "domain": ".bluevoox.com",
+          "path": "/",
+          "expires": 1801632906.702559,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 16
+        },
+        {
+          "name": "mlcwc",
+          "domain": ".moloco.com",
+          "path": "/",
+          "expires": 1825392906.780367,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 412
+        },
+        {
+          "name": "tuuid",
+          "domain": ".mfadsrvr.com",
+          "path": "/",
+          "expires": 1825392907.197458,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "c",
+          "domain": ".mfadsrvr.com",
+          "path": "/",
+          "expires": 1825392906.783176,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "tuuid",
+          "domain": ".360yield.com",
+          "path": "/",
+          "expires": 1801632906.792511,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tuuid_lu",
+          "domain": ".360yield.com",
+          "path": "/",
+          "expires": 1801632906.792574,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 10
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827552906.820947,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794461706.821003,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827552906.821027,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827552906.922547,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794461706.922588,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793857506.922608,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "uid",
+          "domain": "server.smartytech.io",
+          "path": "/",
+          "expires": 1825392907.065653,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tuuid_lu",
+          "domain": ".mfadsrvr.com",
+          "path": "/",
+          "expires": 1825392907.19756,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "ssh",
+          "domain": ".mfadsrvr.com",
+          "path": "/",
+          "expires": 1825392907.197616,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_D9J",
+          "domain": ".flashtalking.com",
+          "path": "/",
+          "expires": 1825392907.658385,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "google_adsense_settings",
+          "google_ama_config"
+        ],
+        "sessionStorage": [
+          "litespeed_docref",
+          "litespeed_reloaded",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "assets.ipzmarketing.com",
+        "static.cloudflareinsights.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "fonts.gstatic.com",
+        "elperiodicocr.ipzmarketing.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "clarity.ms",
+        "googleads.g.doubleclick.net",
+        "scripts.clarity.ms",
+        "fundingchoicesmessages.google.com",
+        "i.clarity.ms",
+        "s0.2mdn.net",
+        "ep2.adtrafficquality.google",
+        "tpc.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com",
+        "metrics.getrockerbox.com",
+        "googleads4.g.doubleclick.net",
+        "ep1.adtrafficquality.google",
+        "c.clarity.ms",
+        "google.com",
+        "c.bing.com",
+        "servedby.flashtalking.com",
+        "a.tribalfusion.com",
+        "pixelfnt-us.dsp-api.moloco.com",
+        "dsp.360yield.com",
+        "dsp.adkernel.com",
+        "rtb.mfadsrvr.com",
+        "cm.bluevoox.com",
+        "server.smartytech.io",
+        "s.tribalfusion.com",
+        "ajs-assets.ftstatic.com",
+        "agen-assets.ftstatic.com",
+        "d9.flashtalking.com",
+        "js.ad-score.com",
+        "cdn.flashtalking.com",
+        "data.ad-score.com",
+        "ade.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "stats.g.doubleclick.net",
+        "clarity.ms",
+        "googleads.g.doubleclick.net",
+        "scripts.clarity.ms",
+        "i.clarity.ms",
+        "tpc.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com",
+        "googleads4.g.doubleclick.net",
+        "c.clarity.ms",
+        "c.bing.com",
+        "ade.googlesyndication.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://elperiodicocr.com",
+      "instante": "2026-11-05T05:35:24.604Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "elperiodicocr.com",
+          "path": "/",
+          "expires": 1794029725.556049,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1828416941.299269,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392926.731533,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825392926.831102,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392927,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__gads",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552927,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552927,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1809408927,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828416928.448209,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "CMID",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1825392930.372646,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "CMPS",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801632928.63257,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "CMPRO",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801632930.37272,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "uuid",
+          "domain": ".getrockerbox.com",
+          "path": "/",
+          "expires": 1796448928.750641,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 41
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632930.248785,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632930.248954,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801632930.248899,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 110
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827552931.293582,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794461731.293648,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827552931.293675,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "APC",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1809408930.382257,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 54
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827552930.406688,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794461730.406729,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793857530.406749,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825392930.78297,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793943330.783099,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793858730.783168,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "flashtalkingad1",
+          "domain": ".flashtalking.com",
+          "path": "/",
+          "expires": 1828020930.788403,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 21
+        },
+        {
+          "name": "mlcwc",
+          "domain": ".moloco.com",
+          "path": "/",
+          "expires": 1825392930.791863,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 412
+        },
+        {
+          "name": "idsp_c",
+          "domain": ".inmobi.com",
+          "path": "/",
+          "expires": 1801632930.853469,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "x",
+          "domain": ".advolve.io",
+          "path": "/",
+          "expires": 1825392930.864519,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "tuuid",
+          "domain": ".bidswitch.net",
+          "path": "/",
+          "expires": 1825392931.302979,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "c",
+          "domain": ".bidswitch.net",
+          "path": "/",
+          "expires": 1825392930.877493,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "tuuid_lu",
+          "domain": ".bidswitch.net",
+          "path": "/",
+          "expires": 1825392931.303053,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_D9J",
+          "domain": ".flashtalking.com",
+          "path": "/",
+          "expires": 1825392942.573057,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "ruds",
+          "domain": ".rfihub.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 76
+        },
+        {
+          "name": "rud",
+          "domain": ".rfihub.com",
+          "path": "/",
+          "expires": 1827552942.84833,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 76
+        },
+        {
+          "name": "g",
+          "domain": ".creativecdn.com",
+          "path": "/",
+          "expires": 1825392933.107107,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 34
+        },
+        {
+          "name": "ts",
+          "domain": ".creativecdn.com",
+          "path": "/",
+          "expires": 1825392933.107167,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_ga_VCNE2202BX",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1828416941.298587,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_clsk",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1793943341,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "tt_viewer",
+          "domain": ".teads.tv",
+          "path": "/",
+          "expires": 1825306542.426349,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 364,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".temu.com",
+          "path": "/",
+          "expires": 1793858742.448852,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825392942.646061,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "mc",
+          "domain": ".quantserve.com",
+          "path": "/",
+          "expires": 1827984942.55305,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 26
+        },
+        {
+          "name": "OAU",
+          "domain": ".rtbscale.com",
+          "path": "/",
+          "expires": 1825392942.56303,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 35
+        },
+        {
+          "name": "i",
+          "domain": ".openx.net",
+          "path": "/",
+          "expires": 1825392942.625144,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 47
+        },
+        {
+          "name": "obuid",
+          "domain": ".outbrain.com",
+          "path": "/",
+          "expires": 1801632942.746193,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825392942.646205,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 64
+        },
+        {
+          "name": "sp",
+          "domain": ".quantserve.com",
+          "path": "/",
+          "expires": 1801632942.652862,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 16
+        },
+        {
+          "name": "euds",
+          "domain": ".rfihub.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 67
+        },
+        {
+          "name": "eud",
+          "domain": ".rfihub.com",
+          "path": "/",
+          "expires": 1827552942.848365,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 104
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1827552943,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 155
+        },
+        {
+          "name": "suid",
+          "domain": ".simpli.fi",
+          "path": "/",
+          "expires": 1825479343.130925,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 366,
+          "valorLongitud": 32
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".elperiodicocr.com",
+          "path": "/",
+          "expires": 1825392943,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "google_adsense_settings",
+          "google_ama_config"
+        ],
+        "sessionStorage": [
+          "litespeed_docref",
+          "litespeed_reloaded",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "assets.ipzmarketing.com",
+        "static.cloudflareinsights.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "fonts.gstatic.com",
+        "elperiodicocr.ipzmarketing.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "q.clarity.ms",
+        "fundingchoicesmessages.google.com",
+        "tpc.googlesyndication.com",
+        "s0.2mdn.net",
+        "ep2.adtrafficquality.google",
+        "cm.g.doubleclick.net",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com",
+        "metrics.getrockerbox.com",
+        "googleads4.g.doubleclick.net",
+        "ep1.adtrafficquality.google",
+        "c.clarity.ms",
+        "google.com",
+        "c.bing.com",
+        "servedby.flashtalking.com",
+        "px.ads.linkedin.com",
+        "mweb.ck.inmobi.com",
+        "x.bidswitch.net",
+        "creativecdn.com",
+        "pixelfnt-us.dsp-api.moloco.com",
+        "gpm.servicesadmedia.com",
+        "cm-mx.advolve.io",
+        "ajs-assets.ftstatic.com",
+        "agen-assets.ftstatic.com",
+        "p.rfihub.com",
+        "d9.flashtalking.com",
+        "js.ad-score.com",
+        "cdn.flashtalking.com",
+        "data.ad-score.com",
+        "ade.googlesyndication.com",
+        "us-u.openx.net",
+        "sync.teads.tv",
+        "cms.quantserve.com",
+        "um.simpli.fi",
+        "match.adsrvr.org",
+        "b1sync.outbrain.com",
+        "a.rfihub.com",
+        "temu.com",
+        "t.rtbscale.com",
+        "secure.flashtalking.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "stats.g.doubleclick.net",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "q.clarity.ms",
+        "tpc.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "dsum-sec.casalemedia.com",
+        "ib.adnxs.com",
+        "googleads4.g.doubleclick.net",
+        "c.clarity.ms",
+        "c.bing.com",
+        "px.ads.linkedin.com",
+        "x.bidswitch.net",
+        "ade.googlesyndication.com",
+        "us-u.openx.net",
+        "sync.teads.tv",
+        "cms.quantserve.com",
+        "match.adsrvr.org",
+        "b1sync.outbrain.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://elperiodicocr.com",
+      "instante": "2026-11-05T05:35:50.418Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "elperiodicocr.com",
+          "expires": 1794029751.648699,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga",
+          "domain": ".elperiodicocr.com",
+          "expires": 1828416979.439065,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".elperiodicocr.com",
+          "expires": 1825392952.928972,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 431
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "expires": 1825392952.969763,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".elperiodicocr.com",
+          "expires": 1825392953,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828416954.079748,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "__gads",
+          "domain": ".elperiodicocr.com",
+          "expires": 1827552952,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".elperiodicocr.com",
+          "expires": 1827552952,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".elperiodicocr.com",
+          "expires": 1809408952,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "CMID",
+          "domain": ".casalemedia.com",
+          "expires": 1825392955.528742,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "CMPS",
+          "domain": ".casalemedia.com",
+          "expires": 1801632954.262273,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "CMPRO",
+          "domain": ".casalemedia.com",
+          "expires": 1801632955.528857,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "uuid",
+          "domain": ".getrockerbox.com",
+          "expires": 1796448954.356687,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 41
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "expires": 1801632955.33318,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "expires": 1801632955.333346,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "APC",
+          "domain": ".doubleclick.net",
+          "expires": 1809408955.273818,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 54
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "expires": 1801632955.333293,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 110
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "expires": 1827552955.546865,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "expires": 1794461755.546928,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "expires": 1827552955.546957,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".temu.com",
+          "expires": 1793858755.579693,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "flashtalkingad1",
+          "domain": ".flashtalking.com",
+          "expires": 1828020955.651199,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 21
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "expires": 1827552955.668792,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "expires": 1794461755.668839,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "expires": 1793857555.668861,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "adtheorent[cuid]",
+          "domain": ".adentifi.com",
+          "expires": 1828416955.765688,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 41
+        },
+        {
+          "name": "uid",
+          "domain": ".criteo.com",
+          "expires": 1827552955.787381,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tuuid",
+          "domain": ".bidswitch.net",
+          "expires": 1825392956.461518,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "c",
+          "domain": ".bidswitch.net",
+          "expires": 1825392956.043463,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "UID",
+          "domain": "beacon.lynx.cognitivlabs.com",
+          "expires": 1825392956.261124,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "OAU",
+          "domain": ".rtbscale.com",
+          "expires": 1825392956.236802,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 35
+        },
+        {
+          "name": "tuuid_lu",
+          "domain": ".bidswitch.net",
+          "expires": 1825392956.46161,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "google_push",
+          "domain": ".bidswitch.net",
+          "expires": 1793857256.461649,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 159
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "expires": 1799040956.847282,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "expires": 1799040956.84739,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_D9J",
+          "domain": ".flashtalking.com",
+          "expires": 1825392980.562545,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "expires": 1799040956.847453,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "ss",
+          "domain": "beacon.lynx.cognitivlabs.com",
+          "expires": 1825392956.942954,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 136
+        },
+        {
+          "name": "_ga_VCNE2202BX",
+          "domain": ".elperiodicocr.com",
+          "expires": 1828416979.438691,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_clsk",
+          "domain": ".elperiodicocr.com",
+          "expires": 1793943379,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "tt_viewer",
+          "domain": ".teads.tv",
+          "expires": 1825306580.400608,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 364,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "expires": 1825392980.567262,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cto_bundle",
+          "domain": ".criteo.com",
+          "expires": 1827552979.487843,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 220
+        },
+        {
+          "name": "mc",
+          "domain": ".quantserve.com",
+          "expires": 1827984980.510206,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 26
+        },
+        {
+          "name": "euds",
+          "domain": ".rfihub.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 67
+        },
+        {
+          "name": "ruds",
+          "domain": ".rfihub.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 76
+        },
+        {
+          "name": "rud",
+          "domain": ".rfihub.com",
+          "expires": 1827552980.52765,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 76
+        },
+        {
+          "name": "eud",
+          "domain": ".rfihub.com",
+          "expires": 1827552980.527682,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 92
+        },
+        {
+          "name": "i",
+          "domain": ".openx.net",
+          "expires": 1825392980.544774,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 47
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "expires": 1825392980.567342,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 64
+        },
+        {
+          "name": "sp",
+          "domain": ".quantserve.com",
+          "expires": 1801632980.644129,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_tracker",
+          "domain": ".travelaudience.com",
+          "expires": 1827984979.675558,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 61
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elperiodicocr.com",
+          "expires": 1827552981,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".elperiodicocr.com",
+          "expires": 1825392981,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "elperiodicocr.ipzmarketing.com",
+        "assets.ipzmarketing.com",
+        "static.cloudflareinsights.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "fundingchoicesmessages.google.com",
+        "e.clarity.ms",
+        "tpc.googlesyndication.com",
+        "google.com",
+        "cm.g.doubleclick.net",
+        "us-u.openx.net",
+        "sync.teads.tv",
+        "ep2.adtrafficquality.google",
+        "servedby.flashtalking.com",
+        "cms.quantserve.com",
+        "match.adsrvr.org",
+        "ads.travelaudience.com",
+        "dis.criteo.com",
+        "onetag-sys.com",
+        "a.rfihub.com",
+        "gtracenep.admaster.cc",
+        "ep1.adtrafficquality.google",
+        "ajs-assets.ftstatic.com",
+        "agen-assets.ftstatic.com",
+        "d9.flashtalking.com",
+        "js.ad-score.com",
+        "cdn.flashtalking.com",
+        "data.ad-score.com",
+        "secure.flashtalking.com",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "googleads.g.doubleclick.net",
+        "static.cloudflareinsights.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "e.clarity.ms",
+        "tpc.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "us-u.openx.net",
+        "sync.teads.tv",
+        "cms.quantserve.com",
+        "match.adsrvr.org",
+        "dis.criteo.com",
+        "onetag-sys.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_VCNE2202BX@.elperiodicocr.com",
+        "_ga@.elperiodicocr.com",
+        "CLID@www.clarity.ms",
+        "_clck@.elperiodicocr.com",
+        "_clsk@.elperiodicocr.com",
+        "IDE@.doubleclick.net",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 20,
+        "rastreadoresEnE0": 10
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_lscache_vary",
+      "dominio": "elperiodicocr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__gads",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__gpi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__eoi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "FCCDCF",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "FCNEC",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_lscache_vary",
+      "dominio": "elperiodicocr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gads",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gpi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__eoi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "FCCDCF",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "FCNEC",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_lscache_vary",
+      "dominio": "elperiodicocr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__gads",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__gpi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__eoi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "FCCDCF",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "FCNEC",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_lscache_vary",
+      "dominio": "elperiodicocr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__gads",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__gpi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__eoi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "FCCDCF",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "FCNEC",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_lscache_vary",
+      "dominio": "elperiodicocr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__gads",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__gpi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__eoi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "FCCDCF",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "FCNEC",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_lscache_vary",
+      "dominio": "elperiodicocr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__gads",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__gpi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__eoi",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "FCCDCF",
+      "dominio": ".elperiodicocr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "FCNEC",
+      "dominio": ".elperiodicocr.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 39,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 14.2,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

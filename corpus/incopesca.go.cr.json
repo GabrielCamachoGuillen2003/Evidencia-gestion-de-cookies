@@ -1,0 +1,759 @@
+{
+  "sitio": "incopesca.go.cr",
+  "url": "https://www.incopesca.go.cr",
+  "auditadoEn": "2026-11-06T04:42:32.908Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.incopesca.go.cr",
+      "instante": "2026-11-06T04:40:12.222Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": 1799940011.810786,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 151
+        },
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "selected-model",
+          "domain": "incopesca.atenea.cr",
+          "path": "/",
+          "expires": 1796532014.886581,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 12
+        },
+        {
+          "name": "fontresize",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": 1794112815,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_YYEPBXJJHM",
+          "domain": ".incopesca.go.cr",
+          "path": "/",
+          "expires": 1828500015.694901,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".incopesca.go.cr",
+          "path": "/",
+          "expires": 1828500015.696247,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "translate.google.com",
+        "incopesca.atenea.cr",
+        "fonts.gstatic.com",
+        "static.cloudflareinsights.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "googletagmanager.com",
+        "translate-pa.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.incopesca.go.cr",
+      "instante": "2026-11-06T04:40:30.389Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": 1799940029.64211,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 151
+        },
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "selected-model",
+          "domain": "incopesca.atenea.cr",
+          "path": "/",
+          "expires": 1796532031.081356,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 12
+        },
+        {
+          "name": "fontresize",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": 1794112832,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_YYEPBXJJHM",
+          "domain": ".incopesca.go.cr",
+          "path": "/",
+          "expires": 1828500033.249261,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".incopesca.go.cr",
+          "path": "/",
+          "expires": 1828500033.250016,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "translate.google.com",
+        "incopesca.atenea.cr",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "googletagmanager.com",
+        "translate-pa.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.incopesca.go.cr",
+      "instante": "2026-11-06T04:40:51.276Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": 1799940050.486769,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 151
+        },
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "selected-model",
+          "domain": "incopesca.atenea.cr",
+          "path": "/",
+          "expires": 1796532052.868973,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 12
+        },
+        {
+          "name": "fontresize",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": 1794112853,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_YYEPBXJJHM",
+          "domain": ".incopesca.go.cr",
+          "path": "/",
+          "expires": 1828500053.987927,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".incopesca.go.cr",
+          "path": "/",
+          "expires": 1828500053.988556,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "translate.google.com",
+        "incopesca.atenea.cr",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "googletagmanager.com",
+        "translate-pa.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.incopesca.go.cr",
+      "instante": "2026-11-06T04:41:15.776Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": 1799940074.971112,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 151
+        },
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "selected-model",
+          "domain": "incopesca.atenea.cr",
+          "path": "/",
+          "expires": 1796532077.467407,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 12
+        },
+        {
+          "name": "fontresize",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": 1794112878,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_YYEPBXJJHM",
+          "domain": ".incopesca.go.cr",
+          "path": "/",
+          "expires": 1828500078.510248,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".incopesca.go.cr",
+          "path": "/",
+          "expires": 1828500078.510848,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "translate.google.com",
+        "incopesca.atenea.cr",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "googletagmanager.com",
+        "translate-pa.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.incopesca.go.cr",
+      "instante": "2026-11-06T04:41:36.291Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": 1799940095.509414,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 151
+        },
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "selected-model",
+          "domain": "incopesca.atenea.cr",
+          "path": "/",
+          "expires": 1796532114.245063,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 12
+        },
+        {
+          "name": "fontresize",
+          "domain": "www.incopesca.go.cr",
+          "path": "/",
+          "expires": 1794112914,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga",
+          "domain": ".incopesca.go.cr",
+          "path": "/",
+          "expires": 1828500099.385996,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_YYEPBXJJHM",
+          "domain": ".incopesca.go.cr",
+          "path": "/",
+          "expires": 1828500114.453091,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "translate.google.com",
+        "incopesca.atenea.cr",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "googletagmanager.com",
+        "translate-pa.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.incopesca.go.cr",
+      "instante": "2026-11-06T04:42:03.618Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": ".ASPXANONYMOUS",
+          "domain": "www.incopesca.go.cr",
+          "expires": 1799940122.819757,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 69,
+          "valorLongitud": 151
+        },
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.incopesca.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "selected-model",
+          "domain": "incopesca.atenea.cr",
+          "expires": 1796532145.830637,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 12
+        },
+        {
+          "name": "fontresize",
+          "domain": "www.incopesca.go.cr",
+          "expires": 1794112945,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga",
+          "domain": ".incopesca.go.cr",
+          "expires": 1828500126.793891,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_YYEPBXJJHM",
+          "domain": ".incopesca.go.cr",
+          "expires": 1828500146.000197,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "translate.google.com",
+        "incopesca.atenea.cr",
+        "static.cloudflareinsights.com",
+        "fonts.gstatic.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "googletagmanager.com",
+        "translate-pa.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "selected-model@incopesca.atenea.cr",
+        "_ga_YYEPBXJJHM@.incopesca.go.cr",
+        "_ga@.incopesca.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 6,
+        "rastreadoresEnE0": 3
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.incopesca.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "fontresize",
+      "dominio": "www.incopesca.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.incopesca.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "fontresize",
+      "dominio": "www.incopesca.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.incopesca.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "fontresize",
+      "dominio": "www.incopesca.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.incopesca.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "fontresize",
+      "dominio": "www.incopesca.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.incopesca.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "fontresize",
+      "dominio": "www.incopesca.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": ".ASPXANONYMOUS",
+      "dominio": "www.incopesca.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "fontresize",
+      "dominio": "www.incopesca.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 6,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 33.3,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

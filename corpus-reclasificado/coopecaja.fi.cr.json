@@ -1,0 +1,2876 @@
+{
+  "sitio": "coopecaja.fi.cr",
+  "url": "https://www.coopecaja.fi.cr",
+  "auditadoEn": "2026-11-06T04:12:28.931Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.coopecaja.fi.cr",
+      "instante": "2026-11-06T04:10:12.889Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474213.862755,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474213.862786,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".experienciascoopecaja.smartleadcrm.net",
+          "path": "/",
+          "expires": 1793940015.816024,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825474216.373251,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827634216.447584,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1801714216,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 73
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801714217.466328,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794024616.570119,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825474217.466619,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793940016.570156,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_693MY0YMLD",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1828498216.605536,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1828498216.606307,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_fbp",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1801714216,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796530216.747919,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796530216.747942,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "_clck",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474216,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801714216.927698,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634216,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634216,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828498217.073702,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825474217.31118,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "_clsk",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1794024617,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "LFR_SESSION_STATE_20102",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827634226.348857,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794543026.348918,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827634226.348942,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827634225.484751,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794543025.484814,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793938825.484847,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634226,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_D69HLBJC77U2V3Q5J7D0",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634226,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "smartbots.sabanatech.com",
+        "code.jquery.com",
+        "cdn.plyr.io",
+        "coopecaja.smartbotscr.com",
+        "maps.googleapis.com",
+        "cdn.jsdelivr.net",
+        "stackpath.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "tracker.metricool.com",
+        "experienciascoopecaja.smartleadcrm.net",
+        "public-chatbot-media.s3.us-east-1.amazonaws.com",
+        "fonts.googleapis.com",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com",
+        "linkedin.com",
+        "r.clarity.ms",
+        "analytics-ipv6.tiktokw.us",
+        "fonts.gstatic.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "stats.g.doubleclick.net",
+        "facebook.com",
+        "linkedin.com",
+        "r.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.coopecaja.fi.cr",
+      "instante": "2026-11-06T04:10:30.720Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474231.432623,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474231.432648,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".experienciascoopecaja.smartleadcrm.net",
+          "path": "/",
+          "expires": 1793940032.413336,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 197
+        },
+        {
+          "name": "_fbp",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1801714232,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801714232.95886,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "LFR_SESSION_STATE_20102",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825474233.215064,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827634233.257803,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1801714233,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 70
+        },
+        {
+          "name": "_ga_693MY0YMLD",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1828498233.376063,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1828498233.376767,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801714234.189416,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825474234.189494,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794024633.523561,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793940033.523597,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828498233.756229,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clck",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474233,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796530233.825951,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796530233.825975,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825474234.009091,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634234,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634234,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_clsk",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1794024634,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827634236.659331,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794543036.659397,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827634236.659424,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827634237.0659,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794543037.065944,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793938837.065965,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634244,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_D69HLBJC77U2V3Q5J7D0",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634244,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "_gcl_ls",
+          "li_adsId"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "smartbots.sabanatech.com",
+        "code.jquery.com",
+        "cdn.plyr.io",
+        "coopecaja.smartbotscr.com",
+        "maps.googleapis.com",
+        "cdn.jsdelivr.net",
+        "stackpath.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "tracker.metricool.com",
+        "experienciascoopecaja.smartleadcrm.net",
+        "fonts.googleapis.com",
+        "public-chatbot-media.s3.us-east-1.amazonaws.com",
+        "facebook.com",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "scripts.clarity.ms",
+        "px.ads.linkedin.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "linkedin.com",
+        "t.clarity.ms",
+        "analytics-ipv6.tiktokw.us",
+        "fonts.gstatic.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "facebook.com",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "scripts.clarity.ms",
+        "px.ads.linkedin.com",
+        "stats.g.doubleclick.net",
+        "linkedin.com",
+        "t.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.coopecaja.fi.cr",
+      "instante": "2026-11-06T04:10:51.239Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474252.041414,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474252.041442,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".experienciascoopecaja.smartleadcrm.net",
+          "path": "/",
+          "expires": 1793940053.558447,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827634253.957964,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "LFR_SESSION_STATE_20102",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_fbp",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1801714254,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825474254.112396,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801714254.936249,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825474254.936324,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794024654.210408,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793940054.210467,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634254,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634254,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801714254.374199,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1801714254,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796530254.418484,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796530254.418511,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "_ga_693MY0YMLD",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1828498254.486461,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1828498254.487186,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825474254.748156,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "_clck",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474254,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828498254.82899,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clsk",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1794024655,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827634257.946519,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794543057.946581,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827634257.946605,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827634258.057292,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794543058.057466,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793938858.057554,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634264,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_D69HLBJC77U2V3Q5J7D0",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634264,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "smartbots.sabanatech.com",
+        "code.jquery.com",
+        "cdn.plyr.io",
+        "coopecaja.smartbotscr.com",
+        "maps.googleapis.com",
+        "cdn.jsdelivr.net",
+        "stackpath.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "tracker.metricool.com",
+        "experienciascoopecaja.smartleadcrm.net",
+        "public-chatbot-media.s3.us-east-1.amazonaws.com",
+        "fonts.googleapis.com",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com",
+        "facebook.com",
+        "scripts.clarity.ms",
+        "analytics-ipv6.tiktokw.us",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "linkedin.com",
+        "l.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com",
+        "facebook.com",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "stats.g.doubleclick.net",
+        "linkedin.com",
+        "l.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.coopecaja.fi.cr",
+      "instante": "2026-11-06T04:11:14.720Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474276.472641,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474276.472666,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".experienciascoopecaja.smartleadcrm.net",
+          "path": "/",
+          "expires": 1793940077.956575,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_fbp",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1801714278,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827634278.77829,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801714279.332508,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794024678.857546,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793940078.857585,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825474278.878021,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ga_693MY0YMLD",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1828498278.93798,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1828498278.938712,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796530278.98815,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796530278.9882,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825474279.332571,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1801714279,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801714279.082323,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634279,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634279,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825474279.2031,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "_clck",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474279,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828498279.430145,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clsk",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1794024679,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "LFR_SESSION_STATE_20102",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827634288.196276,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794543088.196346,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827634288.196373,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827634287.315989,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794543087.316032,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793938887.316053,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634289,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_D69HLBJC77U2V3Q5J7D0",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634289,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "_gcl_ls",
+          "li_adsId"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "smartbots.sabanatech.com",
+        "code.jquery.com",
+        "cdn.plyr.io",
+        "coopecaja.smartbotscr.com",
+        "maps.googleapis.com",
+        "cdn.jsdelivr.net",
+        "stackpath.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "tracker.metricool.com",
+        "experienciascoopecaja.smartleadcrm.net",
+        "public-chatbot-media.s3.us-east-1.amazonaws.com",
+        "fonts.googleapis.com",
+        "facebook.com",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "linkedin.com",
+        "analytics-ipv6.tiktokw.us",
+        "u.clarity.ms",
+        "fonts.gstatic.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "facebook.com",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com",
+        "stats.g.doubleclick.net",
+        "scripts.clarity.ms",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "linkedin.com",
+        "u.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.coopecaja.fi.cr",
+      "instante": "2026-11-06T04:11:36.184Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474296.927697,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474296.92773,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".experienciascoopecaja.smartleadcrm.net",
+          "path": "/",
+          "expires": 1793940097.779232,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_fbp",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1801714313,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801714298.420358,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801714313.648004,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1828498298.625255,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827634313.494096,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794024698.664276,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793940098.664313,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825474298.705696,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796530298.777452,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796530298.777476,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825474313.648074,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825474299.040396,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634313,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634313,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828498299.172516,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clck",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1825474299,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827634303.999355,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794543103.999582,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827634303.999696,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827634303.123152,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794543103.123334,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793938903.123428,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1801714298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga_693MY0YMLD",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1828498313.456675,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634313,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 91
+        },
+        {
+          "name": "ttcsid_D69HLBJC77U2V3Q5J7D0",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1827634313,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_clsk",
+          "domain": ".coopecaja.fi.cr",
+          "path": "/",
+          "expires": 1794024713,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        },
+        {
+          "name": "LFR_SESSION_STATE_20102",
+          "domain": "www.coopecaja.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "_gcl_ls",
+          "li_adsId"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "tt_appInfo",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "smartbots.sabanatech.com",
+        "code.jquery.com",
+        "cdn.plyr.io",
+        "coopecaja.smartbotscr.com",
+        "maps.googleapis.com",
+        "cdn.jsdelivr.net",
+        "stackpath.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "tracker.metricool.com",
+        "experienciascoopecaja.smartleadcrm.net",
+        "fonts.googleapis.com",
+        "public-chatbot-media.s3.us-east-1.amazonaws.com",
+        "facebook.com",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "scripts.clarity.ms",
+        "linkedin.com",
+        "analytics-ipv6.tiktokw.us",
+        "a.clarity.ms",
+        "fonts.gstatic.com",
+        "c.clarity.ms",
+        "c.bing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "facebook.com",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "scripts.clarity.ms",
+        "linkedin.com",
+        "a.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.coopecaja.fi.cr",
+      "instante": "2026-11-06T04:12:03.787Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.coopecaja.fi.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.coopecaja.fi.cr",
+          "expires": 1825474324.700984,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.coopecaja.fi.cr",
+          "expires": 1825474324.701027,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".experienciascoopecaja.smartleadcrm.net",
+          "expires": 1793940125.739878,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_fbp",
+          "domain": ".coopecaja.fi.cr",
+          "expires": 1801714342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801714326.614494,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "expires": 1825474326.639862,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopecaja.fi.cr",
+          "expires": 1828498326.661925,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "expires": 1801714342.253738,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "expires": 1794024726.68412,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "expires": 1793940126.684168,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "expires": 1827634342.10585,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "expires": 1796530326.86856,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "expires": 1796530326.868582,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "expires": 1825474342.253812,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".coopecaja.fi.cr",
+          "expires": 1827634342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".coopecaja.fi.cr",
+          "expires": 1827634342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828498327.093065,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clck",
+          "domain": ".coopecaja.fi.cr",
+          "expires": 1825474327,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "expires": 1825474327.166135,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "expires": 1827634328.86618,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "expires": 1794543128.866268,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "expires": 1827634328.866308,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "expires": 1827634328.986572,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "expires": 1794543128.986613,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "expires": 1793938928.986632,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "LFR_SESSION_STATE_20102",
+          "domain": "www.coopecaja.fi.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coopecaja.fi.cr",
+          "expires": 1801714326,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga_693MY0YMLD",
+          "domain": ".coopecaja.fi.cr",
+          "expires": 1828498342.066088,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".coopecaja.fi.cr",
+          "expires": 1827634342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "ttcsid_D69HLBJC77U2V3Q5J7D0",
+          "domain": ".coopecaja.fi.cr",
+          "expires": 1827634342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_clsk",
+          "domain": ".coopecaja.fi.cr",
+          "expires": 1794024742,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "smartbots.sabanatech.com",
+        "code.jquery.com",
+        "cdn.plyr.io",
+        "coopecaja.smartbotscr.com",
+        "maps.googleapis.com",
+        "cdn.jsdelivr.net",
+        "stackpath.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "tracker.metricool.com",
+        "experienciascoopecaja.smartleadcrm.net",
+        "public-chatbot-media.s3.us-east-1.amazonaws.com",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "google.com",
+        "fonts.googleapis.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "fonts.gstatic.com",
+        "px.ads.linkedin.com",
+        "facebook.com",
+        "google.co.cr",
+        "scripts.clarity.ms",
+        "s.clarity.ms",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "snap.licdn.com",
+        "clarity.ms",
+        "analytics.tiktok.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "px.ads.linkedin.com",
+        "facebook.com",
+        "scripts.clarity.ms",
+        "s.clarity.ms"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "CLID@www.clarity.ms",
+        "_ttp@.tiktok.com",
+        "_gcl_au@.coopecaja.fi.cr",
+        "li_sugr@.linkedin.com",
+        "lidc@.linkedin.com",
+        "bcookie@.linkedin.com",
+        "_ga_693MY0YMLD@.coopecaja.fi.cr",
+        "_ga@.coopecaja.fi.cr",
+        "_fbp@.coopecaja.fi.cr",
+        "UserMatchHistory@.linkedin.com",
+        "AnalyticsSyncHistory@.linkedin.com",
+        "_clck@.coopecaja.fi.cr",
+        "fr@.facebook.com",
+        "_tt_enable_cookie@.coopecaja.fi.cr",
+        "_ttp@.coopecaja.fi.cr",
+        "IDE@.doubleclick.net",
+        "bscookie@.www.linkedin.com",
+        "_clsk@.coopecaja.fi.cr",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms",
+        "ttcsid@.coopecaja.fi.cr",
+        "ttcsid_D69HLBJC77U2V3Q5J7D0@.coopecaja.fi.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 33,
+        "rastreadoresEnE0": 16
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "LFR_SESSION_STATE_20102",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "LFR_SESSION_STATE_20102",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "LFR_SESSION_STATE_20102",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "LFR_SESSION_STATE_20102",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "LFR_SESSION_STATE_20102",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "LFR_SESSION_STATE_20102",
+      "dominio": "www.coopecaja.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 33,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 9.1,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.488Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

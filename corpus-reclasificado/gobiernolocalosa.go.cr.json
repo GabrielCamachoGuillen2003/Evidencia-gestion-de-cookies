@@ -1,0 +1,1008 @@
+{
+  "sitio": "gobiernolocalosa.go.cr",
+  "url": "https://gobiernolocalosa.go.cr",
+  "auditadoEn": "2026-11-05T05:43:26.315Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://gobiernolocalosa.go.cr",
+      "instante": "2026-11-05T05:41:08.896Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409272.377099,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409272.377148,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409271.376929,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409272.377034,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "_ga",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417272.539891,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_RQV7F79QY9",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417272.681821,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_SD1Z95VTJB",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417272.689434,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-tunings",
+          "mlc2v-85918412-CCCustomerId",
+          "mlc2e-85918412-CCCustomerId",
+          "mlc2v-85918412-uadt",
+          "mlc2e-85918412-Actions",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "mlc2v-85918412-Actions"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "i.creativecommons.org",
+        "maps.google.com",
+        "maps.googleapis.com",
+        "webservices.lmsoft.com",
+        "mylivechat.com",
+        "cdn.userway.org",
+        "youtube.com",
+        "licensebuttons.net",
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "api.userway.org",
+        "fonts.gstatic.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "google-analytics.com",
+        "pagosmunideosa.go.cr",
+        "a7.mylivechat.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://gobiernolocalosa.go.cr",
+      "instante": "2026-11-05T05:41:27.531Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409291.511733,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409291.511778,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417291.248255,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_RQV7F79QY9",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417291.353218,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_SD1Z95VTJB",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417291.365456,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409290.511549,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409291.51163,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-tunings",
+          "mlc2v-85918412-CCCustomerId",
+          "mlc2e-85918412-CCCustomerId",
+          "mlc2v-85918412-uadt",
+          "mlc2e-85918412-Actions",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "mlc2v-85918412-Actions"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "i.creativecommons.org",
+        "maps.google.com",
+        "maps.googleapis.com",
+        "webservices.lmsoft.com",
+        "mylivechat.com",
+        "cdn.userway.org",
+        "youtube.com",
+        "licensebuttons.net",
+        "a7.mylivechat.com",
+        "api.userway.org",
+        "pagosmunideosa.go.cr",
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://gobiernolocalosa.go.cr",
+      "instante": "2026-11-05T05:41:48.820Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409312.185373,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409312.185435,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409311.185199,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409312.185492,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_ga",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417312.324905,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_RQV7F79QY9",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417312.439554,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_SD1Z95VTJB",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417312.448332,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-tunings",
+          "mlc2v-85918412-CCCustomerId",
+          "mlc2e-85918412-CCCustomerId",
+          "mlc2v-85918412-uadt",
+          "mlc2e-85918412-Actions",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "mlc2v-85918412-Actions"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "i.creativecommons.org",
+        "maps.google.com",
+        "maps.googleapis.com",
+        "webservices.lmsoft.com",
+        "mylivechat.com",
+        "cdn.userway.org",
+        "licensebuttons.net",
+        "youtube.com",
+        "a7.mylivechat.com",
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "api.userway.org",
+        "fonts.gstatic.com",
+        "pagosmunideosa.go.cr",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://gobiernolocalosa.go.cr",
+      "instante": "2026-11-05T05:42:12.781Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409336.226536,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409336.226626,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409335.226342,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409336.226678,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_ga",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417336.494982,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_SD1Z95VTJB",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417336.599308,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_RQV7F79QY9",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417336.603871,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-tunings",
+          "mlc2v-85918412-CCCustomerId",
+          "mlc2e-85918412-CCCustomerId",
+          "mlc2v-85918412-uadt",
+          "mlc2e-85918412-Actions",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "mlc2v-85918412-Actions"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "i.creativecommons.org",
+        "maps.google.com",
+        "maps.googleapis.com",
+        "webservices.lmsoft.com",
+        "mylivechat.com",
+        "cdn.userway.org",
+        "youtube.com",
+        "licensebuttons.net",
+        "a7.mylivechat.com",
+        "api.userway.org",
+        "pagosmunideosa.go.cr",
+        "fonts.gstatic.com",
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://gobiernolocalosa.go.cr",
+      "instante": "2026-11-05T05:42:33.850Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409372.41057,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409372.410648,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409356.273194,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809409357.273422,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_ga",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417357.755773,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_SD1Z95VTJB",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417371.738161,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_RQV7F79QY9",
+          "domain": ".gobiernolocalosa.go.cr",
+          "path": "/",
+          "expires": 1828417371.750236,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-tunings",
+          "mlc2v-85918412-CCCustomerId",
+          "mlc2e-85918412-CCCustomerId",
+          "mlc2v-85918412-uadt",
+          "mlc2e-85918412-Actions",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "mlc2v-85918412-Actions"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "i.creativecommons.org",
+        "maps.google.com",
+        "maps.googleapis.com",
+        "webservices.lmsoft.com",
+        "mylivechat.com",
+        "cdn.userway.org",
+        "licensebuttons.net",
+        "youtube.com",
+        "a7.mylivechat.com",
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "api.userway.org",
+        "fonts.gstatic.com",
+        "pagosmunideosa.go.cr",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "seal.atlas.globalsign.com",
+        "yt3.ggpht.com",
+        "gstatic.com",
+        "s7.addthis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "s7.addthis.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://gobiernolocalosa.go.cr",
+      "instante": "2026-11-05T05:43:01.251Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809409399.600975,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809409399.601056,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809409384.54216,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809409384.542392,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "_ga",
+          "domain": ".gobiernolocalosa.go.cr",
+          "expires": 1828417384.701559,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_SD1Z95VTJB",
+          "domain": ".gobiernolocalosa.go.cr",
+          "expires": 1828417399.432397,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_RQV7F79QY9",
+          "domain": ".gobiernolocalosa.go.cr",
+          "expires": 1828417399.445864,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "i.creativecommons.org",
+        "licensebuttons.net",
+        "maps.google.com",
+        "maps.googleapis.com",
+        "webservices.lmsoft.com",
+        "mylivechat.com",
+        "cdn.userway.org",
+        "youtube.com",
+        "pagosmunideosa.go.cr",
+        "a7.mylivechat.com",
+        "analytics.google.com",
+        "api.userway.org",
+        "maxcdn.bootstrapcdn.com",
+        "fonts.googleapis.com",
+        "ajax.googleapis.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "__Secure-YNID@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "_ga@.gobiernolocalosa.go.cr",
+        "_ga_RQV7F79QY9@.gobiernolocalosa.go.cr",
+        "_ga_SD1Z95VTJB@.gobiernolocalosa.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 8,
+        "rastreadoresEnE0": 5
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 8,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.576Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

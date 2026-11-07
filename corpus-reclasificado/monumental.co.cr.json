@@ -1,0 +1,1987 @@
+{
+  "sitio": "monumental.co.cr",
+  "url": "https://www.monumental.co.cr",
+  "auditadoEn": "2026-11-05T01:19:21.669Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.monumental.co.cr",
+      "instante": "2026-11-05T01:17:10.766Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.monumental.co.cr",
+          "path": "/",
+          "expires": 1793843231.304642,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793843232.008014,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_rlid",
+          "domain": ".www.monumental.co.cr",
+          "path": "/",
+          "expires": 1809393432,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1828401433.376596,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537433,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793842332.521443,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "__gads",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1809393429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "_ga_4Z3YGQFP2T",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1828401433.671558,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825377434.034976,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1825377434,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1825377434,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827537435.743083,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794446235.743145,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827537435.743171,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827537434.836585,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794446234.836623,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793842034.836641,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_clsk",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1793927835,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "adjacent-publisher-stamp",
+          "os_pageViews",
+          "userConsent",
+          "_pubcid_exp",
+          "adjacent-response",
+          "_rlid",
+          "os_feature_flags",
+          "adjacent-publisher",
+          "loglevel",
+          "_pubcid"
+        ],
+        "sessionStorage": [
+          "_cltk",
+          "wpEmojiSettingsSupports",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "kit.fontawesome.com",
+        "alba-cr-monumental.cdn.mediatiquepress.com",
+        "cdn.onesignal.com",
+        "api.retargetly.com",
+        "fonts.googleapis.com",
+        "cdn.getadjacent.com",
+        "fonts.gstatic.com",
+        "securepubads.g.doubleclick.net",
+        "api.onesignal.com",
+        "api.getadjacent.com",
+        "onesignal.com",
+        "fundingchoicesmessages.google.com",
+        "googletagmanager.com",
+        "cm.g.doubleclick.net",
+        "a53c7ccc9ab628de56d6e73d6aea3f7f.safeframe.googlesyndication.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "clarity.ms",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "google.com",
+        "pagead2.googlesyndication.com",
+        "c.bing.com",
+        "l.clarity.ms"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "securepubads.g.doubleclick.net",
+        "api.onesignal.com",
+        "onesignal.com",
+        "googletagmanager.com",
+        "cm.g.doubleclick.net",
+        "a53c7ccc9ab628de56d6e73d6aea3f7f.safeframe.googlesyndication.com",
+        "stats.g.doubleclick.net",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "pagead2.googlesyndication.com",
+        "c.bing.com",
+        "l.clarity.ms"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.monumental.co.cr",
+      "instante": "2026-11-05T01:17:27.219Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.monumental.co.cr",
+          "path": "/",
+          "expires": 1793843247.304469,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793843247.859062,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_rlid",
+          "domain": ".www.monumental.co.cr",
+          "path": "/",
+          "expires": 1809393448,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1828401449.095522,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537449,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793842350.050889,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_4Z3YGQFP2T",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1828401449.787494,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__gads",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537446,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537446,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1809393446,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825377450.130961,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1825377450,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1825377450,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827537451.902327,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794446251.902393,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827537451.902419,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827537451.023343,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794446251.023383,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793842051.023403,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_clsk",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1793927851,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "adjacent-publisher-stamp",
+          "os_pageViews",
+          "userConsent",
+          "adjacent-publisher",
+          "adjacent-response",
+          "_pubcid_exp",
+          "os_feature_flags",
+          "_rlid",
+          "loglevel",
+          "_pubcid"
+        ],
+        "sessionStorage": [
+          "_cltk",
+          "wpEmojiSettingsSupports",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "kit.fontawesome.com",
+        "alba-cr-monumental.cdn.mediatiquepress.com",
+        "cdn.onesignal.com",
+        "api.retargetly.com",
+        "fonts.googleapis.com",
+        "cdn.getadjacent.com",
+        "fonts.gstatic.com",
+        "api.onesignal.com",
+        "securepubads.g.doubleclick.net",
+        "onesignal.com",
+        "api.getadjacent.com",
+        "googletagmanager.com",
+        "fundingchoicesmessages.google.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "cm.g.doubleclick.net",
+        "26853ae67f5309f875ca5324620fd7cd.safeframe.googlesyndication.com",
+        "ep1.adtrafficquality.google",
+        "clarity.ms",
+        "pagead2.googlesyndication.com",
+        "ep2.adtrafficquality.google",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "google.com",
+        "c.bing.com",
+        "f.clarity.ms"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "securepubads.g.doubleclick.net",
+        "onesignal.com",
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "26853ae67f5309f875ca5324620fd7cd.safeframe.googlesyndication.com",
+        "clarity.ms",
+        "pagead2.googlesyndication.com",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com",
+        "f.clarity.ms"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.monumental.co.cr",
+      "instante": "2026-11-05T01:17:47.303Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.monumental.co.cr",
+          "path": "/",
+          "expires": 1793843267.370704,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793843267.910409,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_rlid",
+          "domain": ".www.monumental.co.cr",
+          "path": "/",
+          "expires": 1809393468,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1828401469.026766,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537469,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793842369.73418,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_4Z3YGQFP2T",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1828401469.661791,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__gads",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537466,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537466,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1809393466,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825377470.111363,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1825377470,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 26
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1825377470,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827537470.934814,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794446270.934873,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827537470.934897,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827537471.045805,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794446271.045843,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793842071.045862,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_clsk",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1793927871,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "adjacent-publisher-stamp",
+          "os_pageViews",
+          "userConsent",
+          "adjacent-publisher",
+          "adjacent-response",
+          "_pubcid_exp",
+          "os_feature_flags",
+          "_rlid",
+          "loglevel",
+          "_pubcid"
+        ],
+        "sessionStorage": [
+          "_cltk",
+          "wpEmojiSettingsSupports",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "kit.fontawesome.com",
+        "alba-cr-monumental.cdn.mediatiquepress.com",
+        "cdn.onesignal.com",
+        "api.retargetly.com",
+        "fonts.googleapis.com",
+        "cdn.getadjacent.com",
+        "fonts.gstatic.com",
+        "api.onesignal.com",
+        "securepubads.g.doubleclick.net",
+        "onesignal.com",
+        "api.getadjacent.com",
+        "googletagmanager.com",
+        "fundingchoicesmessages.google.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "cm.g.doubleclick.net",
+        "15fdcf1f2c81e4ff85f7f0ea879d42ff.safeframe.googlesyndication.com",
+        "ep1.adtrafficquality.google",
+        "clarity.ms",
+        "ep2.adtrafficquality.google",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "google.com",
+        "pagead2.googlesyndication.com",
+        "c.bing.com",
+        "t.clarity.ms"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "securepubads.g.doubleclick.net",
+        "onesignal.com",
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "15fdcf1f2c81e4ff85f7f0ea879d42ff.safeframe.googlesyndication.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "pagead2.googlesyndication.com",
+        "c.bing.com",
+        "t.clarity.ms"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.monumental.co.cr",
+      "instante": "2026-11-05T01:18:11.647Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.monumental.co.cr",
+          "path": "/",
+          "expires": 1793843291.799445,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793843292.539773,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_rlid",
+          "domain": ".www.monumental.co.cr",
+          "path": "/",
+          "expires": 1809393492,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1828401493.564862,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793842393.425332,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537494,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "__gads",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537490,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537490,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1809393490,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "_ga_4Z3YGQFP2T",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1828401494.565053,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825377494.948293,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1825377495,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "_clck",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1825377495,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827537496.711336,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794446296.711498,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827537496.711579,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827537495.83072,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794446295.83078,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793842095.8308,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_clsk",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1793927895,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "adjacent-publisher-stamp",
+          "os_pageViews",
+          "userConsent",
+          "adjacent-publisher",
+          "adjacent-response",
+          "_pubcid_exp",
+          "os_feature_flags",
+          "_rlid",
+          "loglevel",
+          "_pubcid"
+        ],
+        "sessionStorage": [
+          "_cltk",
+          "wpEmojiSettingsSupports",
+          "onesignal-pageview-count"
+        ]
+      },
+      "terceros": [
+        "kit.fontawesome.com",
+        "alba-cr-monumental.cdn.mediatiquepress.com",
+        "cdn.onesignal.com",
+        "api.retargetly.com",
+        "fonts.googleapis.com",
+        "cdn.getadjacent.com",
+        "fonts.gstatic.com",
+        "securepubads.g.doubleclick.net",
+        "api.onesignal.com",
+        "api.getadjacent.com",
+        "onesignal.com",
+        "googletagmanager.com",
+        "fundingchoicesmessages.google.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "cm.g.doubleclick.net",
+        "1a47d04170a53690a802453923d5ecd0.safeframe.googlesyndication.com",
+        "clarity.ms",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "pagead2.googlesyndication.com",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "google.com",
+        "c.bing.com",
+        "i.clarity.ms"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "securepubads.g.doubleclick.net",
+        "api.onesignal.com",
+        "onesignal.com",
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "1a47d04170a53690a802453923d5ecd0.safeframe.googlesyndication.com",
+        "clarity.ms",
+        "pagead2.googlesyndication.com",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com",
+        "i.clarity.ms"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.monumental.co.cr",
+      "instante": "2026-11-05T01:18:31.422Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.monumental.co.cr",
+          "path": "/",
+          "expires": 1793843311.531238,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "path": "/",
+          "expires": 1793843312.16913,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_rlid",
+          "domain": ".www.monumental.co.cr",
+          "path": "/",
+          "expires": 1809393512,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1828401513.273158,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__gads",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537510,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537510,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1809393510,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825377514.591504,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1825377515,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827537515.582313,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794446315.582374,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827537515.582399,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827537515.701343,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794446315.701383,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793842115.701402,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828401525.819906,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1827537527,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "_ga_4Z3YGQFP2T",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1828401527.62954,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_clsk",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1793927928,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".monumental.co.cr",
+          "path": "/",
+          "expires": 1825377528,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_GESPSK-esp.pubmatic.com",
+          "_pubcid_exp",
+          "os_pageViews",
+          "userConsent",
+          "_rlid",
+          "adjacent-response",
+          "adjacent-publisher-stamp",
+          "os_feature_flags",
+          "adjacent-publisher",
+          "loglevel",
+          "_pubcid"
+        ],
+        "sessionStorage": [
+          "onesignal-pageview-count",
+          "wpEmojiSettingsSupports",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "kit.fontawesome.com",
+        "alba-cr-monumental.cdn.mediatiquepress.com",
+        "cdn.onesignal.com",
+        "api.retargetly.com",
+        "fonts.googleapis.com",
+        "cdn.getadjacent.com",
+        "fonts.gstatic.com",
+        "api.onesignal.com",
+        "securepubads.g.doubleclick.net",
+        "onesignal.com",
+        "api.getadjacent.com",
+        "googletagmanager.com",
+        "fundingchoicesmessages.google.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "pagead2.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "e487f7d4161a7f62bf23acab17c7f634.safeframe.googlesyndication.com",
+        "image6.pubmatic.com",
+        "clarity.ms",
+        "ep1.adtrafficquality.google",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "c.bing.com",
+        "h.clarity.ms",
+        "8dd64411eb163f7e7450e8fc1146db3c.safeframe.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "api.onesignal.com",
+        "securepubads.g.doubleclick.net",
+        "onesignal.com",
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "pagead2.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "e487f7d4161a7f62bf23acab17c7f634.safeframe.googlesyndication.com",
+        "image6.pubmatic.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "c.bing.com",
+        "h.clarity.ms",
+        "8dd64411eb163f7e7450e8fc1146db3c.safeframe.googlesyndication.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.monumental.co.cr",
+      "instante": "2026-11-05T01:18:56.160Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.monumental.co.cr",
+          "expires": 1793843336.235016,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".onesignal.com",
+          "expires": 1793843336.831714,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_rlid",
+          "domain": ".www.monumental.co.cr",
+          "expires": 1809393537,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".monumental.co.cr",
+          "expires": 1828401538.192989,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__gads",
+          "domain": ".monumental.co.cr",
+          "expires": 1827537535,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".monumental.co.cr",
+          "expires": 1827537535,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".monumental.co.cr",
+          "expires": 1809393535,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "expires": 1825377539.183079,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_clck",
+          "domain": ".monumental.co.cr",
+          "expires": 1825377539,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "expires": 1827537540.944837,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "expires": 1794446340.944904,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "expires": 1827537540.944961,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "expires": 1827537540.067977,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "expires": 1794446340.068027,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "expires": 1793842140.068054,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".monumental.co.cr",
+          "expires": 1827537555,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828401555.176117,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "_ga_4Z3YGQFP2T",
+          "domain": ".monumental.co.cr",
+          "expires": 1828401555.300294,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_clsk",
+          "domain": ".monumental.co.cr",
+          "expires": 1793927955,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".monumental.co.cr",
+          "expires": 1825377555,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "kit.fontawesome.com",
+        "alba-cr-monumental.cdn.mediatiquepress.com",
+        "cdn.onesignal.com",
+        "api.retargetly.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "cdn.getadjacent.com",
+        "securepubads.g.doubleclick.net",
+        "api.onesignal.com",
+        "fundingchoicesmessages.google.com",
+        "googletagmanager.com",
+        "analytics.google.com",
+        "onesignal.com",
+        "cm.g.doubleclick.net",
+        "807de094aca13d764cd822e423ff5536.safeframe.googlesyndication.com",
+        "ep1.adtrafficquality.google",
+        "clarity.ms",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "pagead2.googlesyndication.com",
+        "scripts.clarity.ms",
+        "h.clarity.ms"
+      ],
+      "peticionesRastreo": [
+        "cdn.onesignal.com",
+        "securepubads.g.doubleclick.net",
+        "api.onesignal.com",
+        "googletagmanager.com",
+        "onesignal.com",
+        "cm.g.doubleclick.net",
+        "807de094aca13d764cd822e423ff5536.safeframe.googlesyndication.com",
+        "clarity.ms",
+        "pagead2.googlesyndication.com",
+        "scripts.clarity.ms",
+        "h.clarity.ms"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga@.monumental.co.cr",
+        "FCCDCF@.monumental.co.cr",
+        "test_cookie@.doubleclick.net",
+        "__gads@.monumental.co.cr",
+        "__gpi@.monumental.co.cr",
+        "_ga_4Z3YGQFP2T@.monumental.co.cr",
+        "CLID@www.clarity.ms",
+        "_clck@.monumental.co.cr",
+        "FCNEC@.monumental.co.cr",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms",
+        "_clsk@.monumental.co.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 21,
+        "rastreadoresEnE0": 14
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_rlid",
+      "dominio": ".www.monumental.co.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_rlid",
+      "dominio": ".www.monumental.co.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_rlid",
+      "dominio": ".www.monumental.co.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_rlid",
+      "dominio": ".www.monumental.co.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_rlid",
+      "dominio": ".www.monumental.co.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_rlid",
+      "dominio": ".www.monumental.co.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 21,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 4.8,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.696Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

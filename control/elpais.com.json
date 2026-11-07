@@ -1,0 +1,5109 @@
+{
+  "sitio": "elpais.com",
+  "url": "https://elpais.com",
+  "auditadoEn": "2026-11-04T21:00:12.984Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://elpais.com",
+      "instante": "2026-11-04T20:57:54.851Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "arc-geo",
+          "domain": "elpais.com",
+          "path": "/",
+          "expires": 1793826775.181068,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 99
+        },
+        {
+          "name": "eptz",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "hpage",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361875.183128,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 1
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827521876,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "at_check",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pmuser",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825340277,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 82
+        },
+        {
+          "name": "datadome",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361877.726599,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 128
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361877,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "didomi_token",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825448278,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 366,
+          "valorLongitud": 188
+        },
+        {
+          "name": "demdex",
+          "domain": ".demdex.net",
+          "path": "/",
+          "expires": 1809377880.230003,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "s_ecid",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385880.013445,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 46
+        },
+        {
+          "name": "mbox",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385879.903433,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 103
+        },
+        {
+          "name": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385879.346767,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 262
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801601879.873098,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801601879.873182,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825361879.678753,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828385879.60433,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "dextp",
+          "domain": ".demdex.net",
+          "path": "/",
+          "expires": 1809377879,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 127
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825361879.678826,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827953879,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 88
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793827680,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 3
+        },
+        {
+          "name": "KTPCACOOKIE",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1793912279.785932,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 3
+        },
+        {
+          "name": "dpm",
+          "domain": ".dpm.demdex.net",
+          "path": "/",
+          "expires": 1809377880.230104,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "KADUSERCOOKIE",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1825361879.872016,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "s_nr30",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1796417879,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 17
+        },
+        {
+          "name": "s_vncd",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793858399,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "s_ivc",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793827679,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "s_cc",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "uuid-s",
+          "domain": ".live.streamtheworld.com",
+          "path": "/",
+          "expires": 1796417880.030444,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "tgt:tlm:lower",
+          "prisa_noticias_contrast",
+          "didomi_token",
+          "pmsegments",
+          "No_Consent",
+          "tgt:tlm:upper",
+          "tgt:tlm:0",
+          "cmpVideoVendorsConsent"
+        ],
+        "sessionStorage": [
+          "getItem",
+          "PMCompass_Browsing",
+          "PMCompass_Fingerprint",
+          "PMCompass_User",
+          "___nrbi",
+          "marfeel-sdk-store",
+          "___nrbic"
+        ]
+      },
+      "terceros": [
+        "accounts.google.com",
+        "static.prisa.com",
+        "contributor.google.com",
+        "interactives.apelections.org",
+        "cmp.prisa.com",
+        "fundingchoicesmessages.google.com",
+        "ep01.epimg.net",
+        "googletagmanager.com",
+        "assets.adobedtm.com",
+        "player.prisamedia.com",
+        "ak-ads-ns.prisasd.com",
+        "dpm.demdex.net",
+        "pagead2.googlesyndication.com",
+        "sdk.privacy-center.org",
+        "prisacom.demdex.net",
+        "prisacom.tt.omtrdc.net",
+        "ib.adnxs.com",
+        "cm.g.doubleclick.net",
+        "match.adsrvr.org",
+        "es-config.sensic.net",
+        "sdk.mrf.io",
+        "marfeelexperimentsexperienceengine.mrf.io",
+        "sb.scorecardresearch.com",
+        "adobedc.demdex.net",
+        "image6.pubmatic.com",
+        "synchroscript.deliveryengine.adswizz.com",
+        "playerservices.live.streamtheworld.com",
+        "17938258796567eae1956c9620009613d8bca0ee2e1c4ecec7861fe4.trk.sensic.net",
+        "es1-s2s.sensic.net",
+        "edge.adobedc.net",
+        "localhost.sensic.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "ib.adnxs.com",
+        "cm.g.doubleclick.net",
+        "match.adsrvr.org",
+        "sb.scorecardresearch.com",
+        "image6.pubmatic.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://elpais.com",
+      "instante": "2026-11-04T20:58:04.558Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "pulsado «aceptar»"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "cf_s2s_seen",
+          "domain": "sync.sparteo.com",
+          "path": "/s2s_sync",
+          "expires": 1793912300.517666,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 1
+        },
+        {
+          "name": "arc-geo",
+          "domain": "elpais.com",
+          "path": "/",
+          "expires": 1793826784.767213,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 99
+        },
+        {
+          "name": "eptz",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "hpage",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361884.767299,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 1
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827521885,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "at_check",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "datadome",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361886.680563,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 128
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361886,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "demdex",
+          "domain": ".demdex.net",
+          "path": "/",
+          "expires": 1809377899.679021,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "pmuser",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825340286,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 82
+        },
+        {
+          "name": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "s_ecid",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385888.165638,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 46
+        },
+        {
+          "name": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385887.572874,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 262
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801601900.502284,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801601900.502379,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828385887.746983,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825361900.025287,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "dextp",
+          "domain": ".demdex.net",
+          "path": "/",
+          "expires": 1809377887,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 127
+        },
+        {
+          "name": "dpm",
+          "domain": ".dpm.demdex.net",
+          "path": "/",
+          "expires": 1809377899.679088,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827953887,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 88
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793827688,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 3
+        },
+        {
+          "name": "s_nr30",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1796417888,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 17
+        },
+        {
+          "name": "s_vncd",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793858399,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "s_ivc",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793827688,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "s_cc",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "mbox",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385888.086342,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 103
+        },
+        {
+          "name": "uuid-s",
+          "domain": ".live.streamtheworld.com",
+          "path": "/",
+          "expires": 1796417888.168704,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "s_sq",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 296
+        },
+        {
+          "name": "didomi_token",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825448297,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 366,
+          "valorLongitud": 552
+        },
+        {
+          "name": "euconsent-v2",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825448297,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 366,
+          "valorLongitud": 790
+        },
+        {
+          "name": "___nrbic",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1809377897,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 120
+        },
+        {
+          "name": "___nrbi",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1809377897,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 857
+        },
+        {
+          "name": "compass_uid",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1809377897,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_scor_uid",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827521897,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sui_1pc",
+          "domain": "elpais.com",
+          "path": "/",
+          "expires": 1828385897.190953,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 56
+        },
+        {
+          "name": "UID",
+          "domain": ".scorecardresearch.com",
+          "path": "/",
+          "expires": 1827521897.276218,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 33
+        },
+        {
+          "name": "XID",
+          "domain": ".scorecardresearch.com",
+          "path": "/",
+          "expires": 1827521897.276284,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 33
+        },
+        {
+          "name": "sui_3pc",
+          "domain": ".sensic.net",
+          "path": "/",
+          "expires": 1828385897.373645,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 56
+        },
+        {
+          "name": "pbjs-unifiedid",
+          "domain": "elpais.com",
+          "path": "/",
+          "expires": 1799009897,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 60,
+          "valorLongitud": 150
+        },
+        {
+          "name": "pbjs-unifiedid_cst",
+          "domain": "elpais.com",
+          "path": "/",
+          "expires": 1799009897,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 60,
+          "valorLongitud": 12
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801601897.612224,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "amuid2",
+          "domain": ".a-mo.net",
+          "path": "/",
+          "expires": 1825361897.717725,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "sd_amuid2",
+          "domain": ".sync.a-mo.net",
+          "path": "/",
+          "expires": 1825361897.717785,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "pamuid2",
+          "domain": ".a-mo.net",
+          "path": "/",
+          "expires": 1825361897.717818,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "psd_amuid2",
+          "domain": ".sync.a-mo.net",
+          "path": "/",
+          "expires": 1825361897.717849,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_sv3_0",
+          "domain": ".a-mo.net",
+          "path": "/",
+          "expires": 1793912297.717879,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 1
+        },
+        {
+          "name": "p_sv3_0",
+          "domain": ".a-mo.net",
+          "path": "/",
+          "expires": 1793912297.717905,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_Amc_b",
+          "domain": "sync.a-mo.net",
+          "path": "/",
+          "expires": 1793826197.717936,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 3
+        },
+        {
+          "name": "p_Amc_b",
+          "domain": "sync.a-mo.net",
+          "path": "/",
+          "expires": 1793826197.717956,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 3
+        },
+        {
+          "name": "_Amc_s",
+          "domain": "sync.a-mo.net",
+          "path": "/",
+          "expires": 1793826197.717989,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 790
+        },
+        {
+          "name": "_Amc_t",
+          "domain": "sync.a-mo.net",
+          "path": "/",
+          "expires": 1793826197.718016,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "p_Amc_s",
+          "domain": "sync.a-mo.net",
+          "path": "/",
+          "expires": 1793826197.718034,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 790
+        },
+        {
+          "name": "p_Amc_t",
+          "domain": "sync.a-mo.net",
+          "path": "/",
+          "expires": 1793826197.718092,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_lr_geo_location_state",
+          "domain": "elpais.com",
+          "path": "/",
+          "expires": 1793998698.179765,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_lr_geo_location",
+          "domain": "elpais.com",
+          "path": "/",
+          "expires": 1793998698.179916,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 2
+        },
+        {
+          "name": "icu",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801601898.410044,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 48
+        },
+        {
+          "name": "2223_u",
+          "domain": ".newsroom.bi",
+          "path": "/",
+          "expires": 1809377900.528622,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "2223_s",
+          "domain": ".newsroom.bi",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "2223_lv",
+          "domain": ".newsroom.bi",
+          "path": "/",
+          "expires": 1796417900.52875,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 4
+        },
+        {
+          "name": "2223_ut",
+          "domain": ".newsroom.bi",
+          "path": "/",
+          "expires": 1796417900.528807,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__gads",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827521894,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827521894,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1809377894,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "___iat_gid",
+          "domain": ".insurads.com",
+          "path": "/",
+          "expires": 1825361898.664544,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "___iat_ses",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793827698,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "___iat_vis",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1809377898,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 122
+        },
+        {
+          "name": "i",
+          "domain": ".openx.net",
+          "path": "/",
+          "expires": 1825361899.159538,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 47
+        },
+        {
+          "name": "khaos",
+          "domain": ".rubiconproject.com",
+          "path": "/",
+          "expires": 1825361900.555542,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "uid",
+          "domain": ".criteo.com",
+          "path": "/",
+          "expires": 1827521898.810149,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cto_bundle",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827521898,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 234
+        },
+        {
+          "name": "xxuid",
+          "domain": ".nexx360.io",
+          "path": "/",
+          "expires": 1801601899.765281,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "ad-id",
+          "domain": ".amazon-adsystem.com",
+          "path": "/",
+          "expires": 1814475499.134463,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 239,
+          "valorLongitud": 23
+        },
+        {
+          "name": "ad-privacy",
+          "domain": ".amazon-adsystem.com",
+          "path": "/",
+          "expires": 1828385899.134751,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 1
+        },
+        {
+          "name": "pd",
+          "domain": ".openx.net",
+          "path": "/",
+          "expires": 1795121899.159635,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 15,
+          "valorLongitud": 24
+        },
+        {
+          "name": "KCCH",
+          "domain": ".ads.pubmatic.com",
+          "path": "/",
+          "expires": 1793912299,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 3
+        },
+        {
+          "name": "KADUSERCOOKIE",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1825361901.128958,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "DPSync4",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1801601899.433604,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 58
+        },
+        {
+          "name": "SyncRTB4",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1801601899.433625,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 33
+        },
+        {
+          "name": "CMID",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1825361900.53266,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "CMPS",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801601899.478378,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "CMPRO",
+          "domain": ".casalemedia.com",
+          "path": "/",
+          "expires": 1801601900.532748,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 4
+        },
+        {
+          "name": "uid",
+          "domain": ".turn.com",
+          "path": "/",
+          "expires": 1809377901.426378,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 19
+        },
+        {
+          "name": "A3",
+          "domain": ".yahoo.com",
+          "path": "/",
+          "expires": 1825383499.741448,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 94
+        },
+        {
+          "name": "tluid",
+          "domain": ".3lift.com",
+          "path": "/",
+          "expires": 1801601900.72335,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 22
+        },
+        {
+          "name": "TXUSERID",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417899.628872,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 39
+        },
+        {
+          "name": "TXCD",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417899.628945,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 10
+        },
+        {
+          "name": "presage-ssp",
+          "domain": ".presage.io",
+          "path": "/",
+          "expires": 1809637100.773743,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 61
+        },
+        {
+          "name": "presage-freshness",
+          "domain": ".presage.io",
+          "path": "/",
+          "expires": 1794430699.636026,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 4
+        },
+        {
+          "name": "khaos_p",
+          "domain": ".rubiconproject.com",
+          "path": "/",
+          "expires": 1825361900.55558,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "receive-cookie-deprecation",
+          "domain": ".rubiconproject.com",
+          "path": "/",
+          "expires": 1801601900.555661,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 1
+        },
+        {
+          "name": "IDSYNC",
+          "domain": ".analytics.yahoo.com",
+          "path": "/",
+          "expires": 1825361899.741373,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 21
+        },
+        {
+          "name": "TXCSDMN_28",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417899.808559,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 22
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799009900.204566,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799009900.204631,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TXCSDMN_965",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417899.858132,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "cto_bundle",
+          "domain": ".criteo.com",
+          "path": "/",
+          "expires": 1827521900.905037,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 228
+        },
+        {
+          "name": "suid",
+          "domain": ".simpli.fi",
+          "path": "/",
+          "expires": 1825448299.91104,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 366,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sa-user-id",
+          "domain": "sync.srv.stackadapt.com",
+          "path": "/",
+          "expires": 1825361899.995911,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 90
+        },
+        {
+          "name": "sa-user-id",
+          "domain": ".srv.stackadapt.com",
+          "path": "/",
+          "expires": 1825361899.99597,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 90
+        },
+        {
+          "name": "sa-user-id-v2",
+          "domain": "sync.srv.stackadapt.com",
+          "path": "/",
+          "expires": 1825361899.996012,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 77
+        },
+        {
+          "name": "sa-user-id-v2",
+          "domain": ".srv.stackadapt.com",
+          "path": "/",
+          "expires": 1825361899.996039,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 77
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825361900.025372,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 132
+        },
+        {
+          "name": "KRTBCOOKIE_377",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1801601900.025876,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 38
+        },
+        {
+          "name": "PugT",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1796417900.117338,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 10
+        },
+        {
+          "name": "KRTBCOOKIE_80",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1801601900.117224,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "ljt_reader",
+          "domain": ".lijit.com",
+          "path": "/",
+          "expires": 1825361900.447688,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "KRTBCOOKIE_148",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1796417900.060829,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 38
+        },
+        {
+          "name": "KRTBCOOKIE_860",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1801601900.09319,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "_uid",
+          "domain": ".fwmrm.net",
+          "path": "/",
+          "expires": 1809377900.52427,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 27
+        },
+        {
+          "name": "SCM",
+          "domain": ".smaato.net",
+          "path": "/",
+          "expires": 1795640300.464067,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 21,
+          "valorLongitud": 10
+        },
+        {
+          "name": "SCMtappx",
+          "domain": ".smaato.net",
+          "path": "/",
+          "expires": 1795640300.19927,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 21,
+          "valorLongitud": 10
+        },
+        {
+          "name": "admtr",
+          "domain": ".admanmedia.com",
+          "path": "/",
+          "expires": 1794430340.991251,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TXCSDMN_13",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.202497,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 24
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799009900.204674,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 6
+        },
+        {
+          "name": "new",
+          "domain": "measureadv.com",
+          "path": "/",
+          "expires": 1795640300.234612,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 21,
+          "valorLongitud": 1
+        },
+        {
+          "name": "uid",
+          "domain": "measureadv.com",
+          "path": "/",
+          "expires": 1796417900.234677,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1796417900.235427,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "33x_ps",
+          "domain": ".33across.com",
+          "path": "/",
+          "expires": 1825361901.466117,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 61
+        },
+        {
+          "name": "ADKUID",
+          "domain": "cpm.chocolateplatform.com",
+          "path": "/",
+          "expires": 1796417900.23834,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 20
+        },
+        {
+          "name": "ym_user_cookie",
+          "domain": ".ymmobi.com",
+          "path": "/",
+          "expires": 1824929900.239766,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 360,
+          "valorLongitud": 44
+        },
+        {
+          "name": "new",
+          "domain": "syncingbridge.com",
+          "path": "/",
+          "expires": 1795035500.324998,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 14,
+          "valorLongitud": 1
+        },
+        {
+          "name": "uid",
+          "domain": "syncingbridge.com",
+          "path": "/",
+          "expires": 1795985900.325079,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 25,
+          "valorLongitud": 36
+        },
+        {
+          "name": "rlas3",
+          "domain": ".rlcdn.com",
+          "path": "/",
+          "expires": 1825361900.442293,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 44
+        },
+        {
+          "name": "TXCSDMN_82",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.298055,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 10
+        },
+        {
+          "name": "TXCSDMN_231",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.298364,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tuuid",
+          "domain": ".bidswitch.net",
+          "path": "/",
+          "expires": 1825361900.418534,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "c",
+          "domain": ".bidswitch.net",
+          "path": "/",
+          "expires": 1825361900.309133,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "tuuid_lu",
+          "domain": ".bidswitch.net",
+          "path": "/",
+          "expires": 1825361900.418582,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "OTP",
+          "domain": ".onetag-sys.com",
+          "path": "/",
+          "expires": 1828012599.068288,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 396,
+          "valorLongitud": 43
+        },
+        {
+          "name": "wrvUserID",
+          "domain": ".minutemedia-prebid.com",
+          "path": "/",
+          "expires": 1796417900.324295,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 39
+        },
+        {
+          "name": "ssplink",
+          "domain": "syncingbridge.com",
+          "path": "/",
+          "expires": 1793826500.325134,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 900
+        },
+        {
+          "name": "gdpr_consent",
+          "domain": "syncingbridge.com",
+          "path": "/",
+          "expires": 1793829500.325173,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 790
+        },
+        {
+          "name": "gdpr",
+          "domain": "syncingbridge.com",
+          "path": "/",
+          "expires": 1793829500.3252,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "viewer_token",
+          "domain": ".csync.loopme.me",
+          "path": "/",
+          "expires": 1801601900.379266,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "CID",
+          "domain": ".sync-us-east.escalax.io",
+          "path": "/",
+          "expires": 1794430700.379437,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 40
+        },
+        {
+          "name": "DotomiTest",
+          "domain": ".dotomi.com",
+          "path": "/",
+          "expires": 1793825930.391696,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        },
+        {
+          "name": "TXCSDMN_1083",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.404635,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TXCSDMN_162",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.40881,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 6
+        },
+        {
+          "name": "TXCSDMN_869",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.418763,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "pxrc",
+          "domain": ".rlcdn.com",
+          "path": "/",
+          "expires": 1799009900.442433,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 28
+        },
+        {
+          "name": "TXCSDMN_918",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.459474,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 39
+        },
+        {
+          "name": "TXCSDMN_241",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.465271,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 43
+        },
+        {
+          "name": "TXCSDMN_109",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.482917,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "ts",
+          "domain": ".creativecdn.com",
+          "path": "/",
+          "expires": 1825361900.528158,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1799009900.514253,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "tuuid_lu",
+          "domain": ".360yield.com",
+          "path": "/",
+          "expires": 1801601900.630569,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 10
+        },
+        {
+          "name": "g",
+          "domain": ".creativecdn.com",
+          "path": "/",
+          "expires": 1825361900.528043,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 34
+        },
+        {
+          "name": "SPugT",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1796417900.530219,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 10
+        },
+        {
+          "name": "did",
+          "domain": ".pippio.com",
+          "path": "/",
+          "expires": 1825361900.533293,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "didts",
+          "domain": ".pippio.com",
+          "path": "/",
+          "expires": 1825361900.533344,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "nnls",
+          "domain": ".pippio.com",
+          "path": "/",
+          "expires": 1799009900.533372,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "pxrc",
+          "domain": ".pippio.com",
+          "path": "/",
+          "expires": 1799009900.53339,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 4
+        },
+        {
+          "name": "audit_p",
+          "domain": ".rubiconproject.com",
+          "path": "/",
+          "expires": 1825361900.555444,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 238
+        },
+        {
+          "name": "audit",
+          "domain": ".rubiconproject.com",
+          "path": "/",
+          "expires": 1825361900.555624,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 238
+        },
+        {
+          "name": "did",
+          "domain": "syncingbridge.com",
+          "path": "/",
+          "expires": 1795035500.65055,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 14,
+          "valorLongitud": 1
+        },
+        {
+          "name": "TXCSDMN_24",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.570113,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 48
+        },
+        {
+          "name": "OAU",
+          "domain": ".opera.com",
+          "path": "/",
+          "expires": 1825361900.619569,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 35
+        },
+        {
+          "name": "pdid",
+          "domain": ".richaudience.com",
+          "path": "/",
+          "expires": 1796417900.640147,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 37
+        },
+        {
+          "name": "tuuid",
+          "domain": ".360yield.com",
+          "path": "/",
+          "expires": 1801601900.630451,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "ids",
+          "domain": "syncingbridge.com",
+          "path": "/",
+          "expires": 1793826500.650472,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "TXCSDMN_108",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.713785,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 37
+        },
+        {
+          "name": "uid",
+          "domain": ".tynt.com",
+          "path": "/",
+          "expires": 1825361900.774389,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "s-249",
+          "domain": ".pmbmonetize.live",
+          "path": "/",
+          "expires": 1793847500.801948,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "pid",
+          "domain": ".smartadserver.com",
+          "path": "/",
+          "expires": 1801601900.866423,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "TXCSDMN_253",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.877573,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "V",
+          "domain": ".contextweb.com",
+          "path": "/",
+          "expires": 1824929900.924251,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 360,
+          "valorLongitud": 12
+        },
+        {
+          "name": "VP",
+          "domain": ".contextweb.com",
+          "path": "/",
+          "expires": 1824929900.924319,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 360,
+          "valorLongitud": 17
+        },
+        {
+          "name": "INGRESSCOOKIE",
+          "domain": "bh.contextweb.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "TXCSDMN_45",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417900.966948,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 19
+        },
+        {
+          "name": "consent",
+          "domain": ".bidswitch.net",
+          "path": "/",
+          "expires": 1793826200.982285,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 790
+        },
+        {
+          "name": "csd",
+          "domain": ".bidswitch.net",
+          "path": "/",
+          "expires": 1793826200.982349,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "ac_r",
+          "domain": ".admanmedia.com",
+          "path": "/",
+          "expires": 1794430340.991361,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 19
+        },
+        {
+          "name": "cf_sync",
+          "domain": ".sparteo.com",
+          "path": "/",
+          "expires": 1793912301.024525,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 1
+        },
+        {
+          "name": "b",
+          "domain": ".blismedia.com",
+          "path": "/",
+          "expires": 1825365901.026002,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 25
+        },
+        {
+          "name": "xeluid",
+          "domain": ".lunamedia.live",
+          "path": "/",
+          "expires": 1794430701.028461,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 42
+        },
+        {
+          "name": "s-251",
+          "domain": ".lunamedia.live",
+          "path": "/",
+          "expires": 1794430701.028507,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 13
+        },
+        {
+          "name": "yieldmo_id",
+          "domain": ".yieldmo.com",
+          "path": "/",
+          "expires": 1825361901.069669,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 40
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".temu.com",
+          "path": "/",
+          "expires": 1793827701.083954,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "visitor-id",
+          "domain": ".trustedstack.com",
+          "path": "/",
+          "expires": 1804193901.1134,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 120,
+          "valorLongitud": 22
+        },
+        {
+          "name": "visitor-id",
+          "domain": ".media.net",
+          "path": "/",
+          "expires": 1804193901.118241,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 120,
+          "valorLongitud": 22
+        },
+        {
+          "name": "TXCSDMN_998",
+          "domain": ".tappx.com",
+          "path": "/",
+          "expires": 1796417901.125126,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 42
+        },
+        {
+          "name": "chkChromeAb67Sec",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1801601901.129039,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ipc",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1793825904.128757,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1933
+        },
+        {
+          "name": "pi",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1793912301.128886,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 8
+        },
+        {
+          "name": "novauid",
+          "domain": ".rtbwise.com",
+          "path": "/",
+          "expires": 1825361901.139314,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 35
+        },
+        {
+          "name": "novasig",
+          "domain": ".rtbwise.com",
+          "path": "/",
+          "expires": 1825361901.139381,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 43
+        },
+        {
+          "name": "novaexp",
+          "domain": ".rtbwise.com",
+          "path": "/",
+          "expires": 1825361901.139408,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        },
+        {
+          "name": "novasyncts",
+          "domain": ".rtbwise.com",
+          "path": "/",
+          "expires": 1825361901.139431,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 10
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_GESPSK-esp.pubmatic.com",
+          "tgt:tlm:lower",
+          "prisa_noticias_contrast",
+          "cto_bundle",
+          "No_Consent",
+          "tgt:tlm:upper",
+          "tgt:tlm:0",
+          "_GESPSK-id5-sync.com",
+          "aps:3226:idVendors/enabled",
+          "_GESPSK-esp.criteo.com",
+          "aps:3226:deviceSignal/sua",
+          "marfeel-sdk-store",
+          "didomi_token",
+          "pmsegments",
+          "aps:3226:sessionMarker/marker",
+          "_GESPSK-openx",
+          "euconsent-v2",
+          "_GESPSK-rtbhouse",
+          "cmpVideoVendorsConsent",
+          "rtbhouse-esp"
+        ],
+        "sessionStorage": [
+          "getItem",
+          "PMCompass_Browsing",
+          "PMCompass_Fingerprint",
+          "PMCompass_User",
+          "___nrbi",
+          "marfeel-sdk-store",
+          "compass_rfv_2223",
+          "___nrbic"
+        ]
+      },
+      "terceros": [
+        "accounts.google.com",
+        "static.prisa.com",
+        "contributor.google.com",
+        "interactives.apelections.org",
+        "cmp.prisa.com",
+        "fundingchoicesmessages.google.com",
+        "ep01.epimg.net",
+        "assets.adobedtm.com",
+        "player.prisamedia.com",
+        "ak-ads-ns.prisasd.com",
+        "googletagmanager.com",
+        "dpm.demdex.net",
+        "pagead2.googlesyndication.com",
+        "sdk.privacy-center.org",
+        "prisacom.demdex.net",
+        "prisacom.tt.omtrdc.net",
+        "ib.adnxs.com",
+        "cm.g.doubleclick.net",
+        "match.adsrvr.org",
+        "es-config.sensic.net",
+        "sdk.mrf.io",
+        "marfeelexperimentsexperienceengine.mrf.io",
+        "sb.scorecardresearch.com",
+        "adobedc.demdex.net",
+        "image6.pubmatic.com",
+        "synchroscript.deliveryengine.adswizz.com",
+        "1793825887766b27bfaa6f69c7a5efc9ac6a302b1178078baef5c4dd.trk.sensic.net",
+        "es1-s2s.sensic.net",
+        "playerservices.live.streamtheworld.com",
+        "edge.adobedc.net",
+        "localhost.sensic.net",
+        "events.newsroom.bi",
+        "experiences.newsroom.bi",
+        "experiences.mrf.io",
+        "api.privacy-center.org",
+        "fc-id.sensic.net",
+        "securepubads.g.doubleclick.net",
+        "c.amazon-adsystem.com",
+        "sync.a-mo.net",
+        "facebook.com",
+        "dcs.adobedc.net",
+        "ats-wrapper.privacymanager.io",
+        "id.a-mx.com",
+        "config.aps.amazon-adsystem.com",
+        "geo.privacymanager.io",
+        "cdn.insurads.com",
+        "pubads.g.doubleclick.net",
+        "web-banner.ads.aps.amazon-adsystem.com",
+        "ep1.adtrafficquality.google",
+        "oa.openxcdn.net",
+        "invstatic101.creativecdn.com",
+        "ads.pubmatic.com",
+        "cdn.id5-sync.com",
+        "static.criteo.net",
+        "use3-sync.a-mo.net",
+        "fastlane.rubiconproject.com",
+        "htlb.casalemedia.com",
+        "fast.nexx360.io",
+        "ssb-global.smartadserver.com",
+        "shb.richaudience.com",
+        "3e31372fc122727c5c3e8e4a2b03a2cc.safeframe.googlesyndication.com",
+        "services.insurads.com",
+        "rtb.openx.net",
+        "id5-sync.com",
+        "ep2.adtrafficquality.google",
+        "gum.criteo.com",
+        "s.amazon-adsystem.com",
+        "google-bidout-d.openx.net",
+        "monitoring.nexx360.io",
+        "google.com",
+        "ups.analytics.yahoo.com",
+        "ad.turn.com",
+        "us-u.openx.net",
+        "pixel.rubiconproject.com",
+        "ssum-sec.casalemedia.com",
+        "ms-cookie-sync.presage.io",
+        "us-east-sync.richaudience.com",
+        "ssbsync-us.smartadserver.com",
+        "ssp.api.tappx.com",
+        "eb2.3lift.com",
+        "um.simpli.fi",
+        "sync.srv.stackadapt.com",
+        "pixel.tapad.com",
+        "dis.criteo.com",
+        "idsync.rlcdn.com",
+        "simage2.pubmatic.com",
+        "image2.pubmatic.com",
+        "csync.loopme.me",
+        "sync.richaudience.com",
+        "sync.1rx.io",
+        "cs.admanmedia.com",
+        "s.ad.smaato.net",
+        "dsum-sec.casalemedia.com",
+        "id.rlcdn.com",
+        "c1.adform.net",
+        "t.adx.opera.com",
+        "gw-iad-bid.ymmobi.com",
+        "cm.adform.net",
+        "ssbsync.smartadserver.com",
+        "secure-assets.rubiconproject.com",
+        "ap.lijit.com",
+        "ad.360yield.com",
+        "ssc-cms.33across.com",
+        "ssp-sync.criteo.com",
+        "measureadv.com",
+        "onetag-sys.com",
+        "creativecdn.com",
+        "cpm.chocolateplatform.com",
+        "syncingbridge.com",
+        "ogury-match.dotomi.com",
+        "x.bidswitch.net",
+        "b1sync.zemanta.com",
+        "user-sync.fwmrm.net",
+        "sync.sparteo.com",
+        "ittpx.eskimi.com",
+        "prebid-match.dotomi.com",
+        "sync.lunamedia.live",
+        "cs-rtb.minutemedia-prebid.com",
+        "sync-us-east.escalax.io",
+        "simage4.pubmatic.com",
+        "pippio.com",
+        "eus.rubiconproject.com",
+        "de.tynt.com",
+        "bh.contextweb.com",
+        "web-cf-event-cell8005.ads.aps.amazon-adsystem.com",
+        "sync.pmbmonetize.live",
+        "cs.media.net",
+        "image8.pubmatic.com",
+        "hb.trustedstack.com",
+        "secure.adnxs.com",
+        "tr.blismedia.com",
+        "trace.us.rtbwise.com",
+        "go.mediagotechnology.com",
+        "ads.yieldmo.com",
+        "rtb.mfadsrvr.com",
+        "ssbsync-global.smartadserver.com",
+        "temu.com",
+        "track.adform.net",
+        "match.prod.bidr.io",
+        "dsp-2.presage.io",
+        "token.rubiconproject.com",
+        "hde.tynt.com",
+        "us1rtb-user-sync.oneadtag.com",
+        "ws.rqtrk.eu",
+        "a6172.casalemedia.com",
+        "k8s1-event-tracker-va.lb.indexww.com",
+        "eqt-gc.rendering.sharethrough.com",
+        "googleads.g.doubleclick.net",
+        "csync-global.smartadserver.com",
+        "tracking-api-use1.smartadserver.com",
+        "tpc.googlesyndication.com",
+        "match.sharethrough.com",
+        "sync.aralego.com",
+        "t.oa.opera.com",
+        "check.analytics.rlcdn.com",
+        "image4.pubmatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "ib.adnxs.com",
+        "cm.g.doubleclick.net",
+        "match.adsrvr.org",
+        "sb.scorecardresearch.com",
+        "image6.pubmatic.com",
+        "securepubads.g.doubleclick.net",
+        "facebook.com",
+        "pubads.g.doubleclick.net",
+        "ads.pubmatic.com",
+        "static.criteo.net",
+        "fastlane.rubiconproject.com",
+        "3e31372fc122727c5c3e8e4a2b03a2cc.safeframe.googlesyndication.com",
+        "rtb.openx.net",
+        "gum.criteo.com",
+        "google-bidout-d.openx.net",
+        "us-u.openx.net",
+        "pixel.rubiconproject.com",
+        "dis.criteo.com",
+        "simage2.pubmatic.com",
+        "image2.pubmatic.com",
+        "secure-assets.rubiconproject.com",
+        "ssp-sync.criteo.com",
+        "simage4.pubmatic.com",
+        "eus.rubiconproject.com",
+        "image8.pubmatic.com",
+        "secure.adnxs.com",
+        "token.rubiconproject.com",
+        "googleads.g.doubleclick.net",
+        "tpc.googlesyndication.com",
+        "image4.pubmatic.com"
+      ],
+      "controlUsado": "aceptar"
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://elpais.com",
+      "instante": "2026-11-04T20:58:23.376Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "sin rechazo en primera capa; abierto «configuración»",
+        "pulsado «rechazar todo»"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "arc-geo",
+          "domain": "elpais.com",
+          "path": "/",
+          "expires": 1793826803.677989,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 99
+        },
+        {
+          "name": "eptz",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "hpage",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361903.678343,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 1
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827521904,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "at_check",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pmuser",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825340305,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 82
+        },
+        {
+          "name": "datadome",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361905.563878,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 128
+        },
+        {
+          "name": "demdex",
+          "domain": ".demdex.net",
+          "path": "/",
+          "expires": 1809377907.10898,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361905,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "s_ecid",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385906.866649,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 46
+        },
+        {
+          "name": "mbox",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385906.784512,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 103
+        },
+        {
+          "name": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385906.261981,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 262
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801601906.3926,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801601906.39273,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828385906.464691,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825361906.567049,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825361906.567126,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "dextp",
+          "domain": ".demdex.net",
+          "path": "/",
+          "expires": 1809377906,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 127
+        },
+        {
+          "name": "dpm",
+          "domain": ".dpm.demdex.net",
+          "path": "/",
+          "expires": 1809377907.109099,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827953906,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 88
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793827706,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 3
+        },
+        {
+          "name": "KTPCACOOKIE",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1793912306.661419,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 3
+        },
+        {
+          "name": "KADUSERCOOKIE",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1825361906.754708,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "s_nr30",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1796417906,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 17
+        },
+        {
+          "name": "s_vncd",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793858399,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "s_ivc",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793827706,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "s_cc",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "uuid-s",
+          "domain": ".live.streamtheworld.com",
+          "path": "/",
+          "expires": 1796417906.907647,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "s_sq",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 320
+        },
+        {
+          "name": "didomi_token",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825448331,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 366,
+          "valorLongitud": 524
+        },
+        {
+          "name": "euconsent-v2",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825448331,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 366,
+          "valorLongitud": 501
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "tgt:tlm:lower",
+          "prisa_noticias_contrast",
+          "didomi_token",
+          "pmsegments",
+          "No_Consent",
+          "tgt:tlm:upper",
+          "tgt:tlm:0",
+          "euconsent-v2",
+          "cmpVideoVendorsConsent"
+        ],
+        "sessionStorage": [
+          "getItem",
+          "PMCompass_Browsing",
+          "PMCompass_Fingerprint",
+          "PMCompass_User",
+          "___nrbi",
+          "marfeel-sdk-store",
+          "___nrbic"
+        ]
+      },
+      "terceros": [
+        "accounts.google.com",
+        "static.prisa.com",
+        "contributor.google.com",
+        "interactives.apelections.org",
+        "cmp.prisa.com",
+        "fundingchoicesmessages.google.com",
+        "ep01.epimg.net",
+        "assets.adobedtm.com",
+        "player.prisamedia.com",
+        "ak-ads-ns.prisasd.com",
+        "googletagmanager.com",
+        "dpm.demdex.net",
+        "pagead2.googlesyndication.com",
+        "sdk.privacy-center.org",
+        "prisacom.demdex.net",
+        "prisacom.tt.omtrdc.net",
+        "ib.adnxs.com",
+        "cm.g.doubleclick.net",
+        "es-config.sensic.net",
+        "sdk.mrf.io",
+        "marfeelexperimentsexperienceengine.mrf.io",
+        "sb.scorecardresearch.com",
+        "match.adsrvr.org",
+        "adobedc.demdex.net",
+        "image6.pubmatic.com",
+        "synchroscript.deliveryengine.adswizz.com",
+        "1793825906476d0b3be124439219be73240d6714c45f3ba770dea05c.trk.sensic.net",
+        "es1-s2s.sensic.net",
+        "playerservices.live.streamtheworld.com",
+        "edge.adobedc.net",
+        "localhost.sensic.net",
+        "events.newsroom.bi",
+        "experiences.newsroom.bi",
+        "experiences.mrf.io",
+        "api.privacy-center.org",
+        "dcs.adobedc.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "ib.adnxs.com",
+        "cm.g.doubleclick.net",
+        "sb.scorecardresearch.com",
+        "match.adsrvr.org",
+        "image6.pubmatic.com"
+      ],
+      "rechazoEnPrimeraCapa": false,
+      "controlUsado": "rechazar todo"
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://elpais.com",
+      "instante": "2026-11-04T20:58:57.573Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "panel abierto; 0 casillas, 0 premarcadas",
+        "guardado con «guardar y comunicar las preferencias de privacidad»"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "arc-geo",
+          "domain": "elpais.com",
+          "path": "/",
+          "expires": 1793826837.853249,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 99
+        },
+        {
+          "name": "eptz",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "hpage",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361937.853337,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 1
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827521938,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "at_check",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "demdex",
+          "domain": ".demdex.net",
+          "path": "/",
+          "expires": 1809377941.587715,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "pmuser",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825340339,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 82
+        },
+        {
+          "name": "datadome",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361939.944739,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 128
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361940,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "s_ecid",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385941.162793,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 46
+        },
+        {
+          "name": "didomi_token",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825448340,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 366,
+          "valorLongitud": 188
+        },
+        {
+          "name": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385940.643877,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 262
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801601940.873143,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801601940.873223,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827953940,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 88
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793827741,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 3
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828385940.883524,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825361941.017486,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "dextp",
+          "domain": ".demdex.net",
+          "path": "/",
+          "expires": 1809377941,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 127
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825361941.017556,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "s_nr30",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1796417941,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 17
+        },
+        {
+          "name": "s_vncd",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793858399,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "s_ivc",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793827741,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "s_cc",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "dpm",
+          "domain": ".dpm.demdex.net",
+          "path": "/",
+          "expires": 1809377941.587864,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "mbox",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385941.081973,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 103
+        },
+        {
+          "name": "KTPCACOOKIE",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1793912341.089339,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 3
+        },
+        {
+          "name": "KADUSERCOOKIE",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1825361941.177692,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "uuid-s",
+          "domain": ".live.streamtheworld.com",
+          "path": "/",
+          "expires": 1796417941.396184,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "s_sq",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 334
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "tgt:tlm:lower",
+          "prisa_noticias_contrast",
+          "didomi_token",
+          "pmsegments",
+          "No_Consent",
+          "tgt:tlm:upper",
+          "tgt:tlm:0",
+          "cmpVideoVendorsConsent"
+        ],
+        "sessionStorage": [
+          "getItem",
+          "PMCompass_Browsing",
+          "PMCompass_Fingerprint",
+          "PMCompass_User",
+          "___nrbi",
+          "marfeel-sdk-store",
+          "___nrbic"
+        ]
+      },
+      "terceros": [
+        "accounts.google.com",
+        "static.prisa.com",
+        "contributor.google.com",
+        "interactives.apelections.org",
+        "cmp.prisa.com",
+        "fundingchoicesmessages.google.com",
+        "ep01.epimg.net",
+        "assets.adobedtm.com",
+        "player.prisamedia.com",
+        "ak-ads-ns.prisasd.com",
+        "googletagmanager.com",
+        "dpm.demdex.net",
+        "pagead2.googlesyndication.com",
+        "sdk.privacy-center.org",
+        "prisacom.demdex.net",
+        "prisacom.tt.omtrdc.net",
+        "ib.adnxs.com",
+        "es-config.sensic.net",
+        "sdk.mrf.io",
+        "marfeelexperimentsexperienceengine.mrf.io",
+        "sb.scorecardresearch.com",
+        "cm.g.doubleclick.net",
+        "adobedc.demdex.net",
+        "match.adsrvr.org",
+        "image6.pubmatic.com",
+        "edge.adobedc.net",
+        "1793825940884c995af5055a4107837d5d605ca91c83afb3a1407522.trk.sensic.net",
+        "es1-s2s.sensic.net",
+        "synchroscript.deliveryengine.adswizz.com",
+        "playerservices.live.streamtheworld.com",
+        "localhost.sensic.net",
+        "events.newsroom.bi",
+        "api.privacy-center.org",
+        "experiences.newsroom.bi",
+        "experiences.mrf.io"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "ib.adnxs.com",
+        "sb.scorecardresearch.com",
+        "cm.g.doubleclick.net",
+        "match.adsrvr.org",
+        "image6.pubmatic.com"
+      ],
+      "casillas": [],
+      "premarcadas": 0
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://elpais.com",
+      "instante": "2026-11-04T20:59:15.159Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "arc-geo",
+          "domain": "elpais.com",
+          "path": "/",
+          "expires": 1793826855.369871,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 99
+        },
+        {
+          "name": "eptz",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "hpage",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361955.369958,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 1
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827521956,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "at_check",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "demdex",
+          "domain": ".demdex.net",
+          "path": "/",
+          "expires": 1809377964.361681,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "pmuser",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825340357,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 82
+        },
+        {
+          "name": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "didomi_token",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825448357,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 366,
+          "valorLongitud": 188
+        },
+        {
+          "name": "s_ecid",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385965.013326,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 46
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801601958.316862,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801601958.316948,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828385958.383736,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825361958.468397,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825361958.468584,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "dextp",
+          "domain": ".demdex.net",
+          "path": "/",
+          "expires": 1809377958,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 127
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1827953958,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 88
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793827764,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 3
+        },
+        {
+          "name": "dpm",
+          "domain": ".dpm.demdex.net",
+          "path": "/",
+          "expires": 1809377958.998283,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "KTPCACOOKIE",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1793912358.550085,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 3
+        },
+        {
+          "name": "s_vncd",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793858399,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "s_ivc",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1793827764,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "s_cc",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "KADUSERCOOKIE",
+          "domain": ".pubmatic.com",
+          "path": "/",
+          "expires": 1825361958.639108,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "uuid-s",
+          "domain": ".live.streamtheworld.com",
+          "path": "/",
+          "expires": 1796417958.805785,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "mbox",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385964.927645,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 103
+        },
+        {
+          "name": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1828385964.370848,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 261
+        },
+        {
+          "name": "datadome",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1825361964.457055,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 128
+        },
+        {
+          "name": "s_nr30",
+          "domain": ".elpais.com",
+          "path": "/",
+          "expires": 1796417964,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 17
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "tgt:tlm:lower",
+          "prisa_noticias_contrast",
+          "didomi_token",
+          "pmsegments",
+          "No_Consent",
+          "tgt:tlm:upper",
+          "cmpVideoVendorsConsent"
+        ],
+        "sessionStorage": [
+          "getItem",
+          "PMCompass_Browsing",
+          "PMCompass_Fingerprint",
+          "PMCompass_User",
+          "___nrbi",
+          "marfeel-sdk-store",
+          "___nrbic"
+        ]
+      },
+      "terceros": [
+        "accounts.google.com",
+        "static.prisa.com",
+        "contributor.google.com",
+        "interactives.apelections.org",
+        "cmp.prisa.com",
+        "fundingchoicesmessages.google.com",
+        "ep01.epimg.net",
+        "assets.adobedtm.com",
+        "player.prisamedia.com",
+        "ak-ads-ns.prisasd.com",
+        "googletagmanager.com",
+        "dpm.demdex.net",
+        "pagead2.googlesyndication.com",
+        "sdk.privacy-center.org",
+        "prisacom.demdex.net",
+        "prisacom.tt.omtrdc.net",
+        "ib.adnxs.com",
+        "cm.g.doubleclick.net",
+        "es-config.sensic.net",
+        "sdk.mrf.io",
+        "marfeelexperimentsexperienceengine.mrf.io",
+        "sb.scorecardresearch.com",
+        "match.adsrvr.org",
+        "adobedc.demdex.net",
+        "image6.pubmatic.com",
+        "179382595834904c868883badfff422dbfd9179175347b53955b9eb8.trk.sensic.net",
+        "es1-s2s.sensic.net",
+        "synchroscript.deliveryengine.adswizz.com",
+        "playerservices.live.streamtheworld.com",
+        "edge.adobedc.net",
+        "localhost.sensic.net",
+        "gapi.prisasd.com",
+        "events.newsroom.bi",
+        "17938259644374120038a9146f364d093c97d49175b8faa9f26f675d.trk.sensic.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "pagead2.googlesyndication.com",
+        "ib.adnxs.com",
+        "cm.g.doubleclick.net",
+        "sb.scorecardresearch.com",
+        "match.adsrvr.org",
+        "image6.pubmatic.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://elpais.com",
+      "instante": "2026-11-04T20:59:32.287Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — sin rechazo en primera capa; abierto «configuración»; pulsado «rechazar todo»",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "arc-geo",
+          "domain": "elpais.com",
+          "expires": 1793826872.599068,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 99
+        },
+        {
+          "name": "eptz",
+          "domain": ".elpais.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "hpage",
+          "domain": ".elpais.com",
+          "expires": 1825361972.599156,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 1
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".elpais.com",
+          "expires": 1827521973,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "at_check",
+          "domain": ".elpais.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "demdex",
+          "domain": ".demdex.net",
+          "expires": 1809378007.194677,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "pmuser",
+          "domain": ".elpais.com",
+          "expires": 1825340374,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 82
+        },
+        {
+          "name": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "s_ecid",
+          "domain": ".elpais.com",
+          "expires": 1828386008.048879,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 46
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "expires": 1801601975.550239,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "expires": 1801601975.550375,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+          "domain": ".elpais.com",
+          "expires": 1827953975,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 88
+        },
+        {
+          "name": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+          "domain": ".elpais.com",
+          "expires": 1793827807,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 3
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828385975.539771,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "expires": 1825361975.653227,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "expires": 1825361975.6533,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "dextp",
+          "domain": ".demdex.net",
+          "expires": 1809377975,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 127
+        },
+        {
+          "name": "s_vncd",
+          "domain": ".elpais.com",
+          "expires": 1793858399,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "s_ivc",
+          "domain": ".elpais.com",
+          "expires": 1793827807,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "s_cc",
+          "domain": ".elpais.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "KTPCACOOKIE",
+          "domain": ".pubmatic.com",
+          "expires": 1793912375.719269,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 3
+        },
+        {
+          "name": "dpm",
+          "domain": ".dpm.demdex.net",
+          "expires": 1809377976.302731,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 38
+        },
+        {
+          "name": "KADUSERCOOKIE",
+          "domain": ".pubmatic.com",
+          "expires": 1825361975.822682,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "uuid-s",
+          "domain": ".live.streamtheworld.com",
+          "expires": 1796417976.108995,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "didomi_token",
+          "domain": ".elpais.com",
+          "expires": 1825448400,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 366,
+          "valorLongitud": 524
+        },
+        {
+          "name": "euconsent-v2",
+          "domain": ".elpais.com",
+          "expires": 1825448400,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 366,
+          "valorLongitud": 501
+        },
+        {
+          "name": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+          "domain": ".elpais.com",
+          "expires": 1828386007.213751,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 261
+        },
+        {
+          "name": "mbox",
+          "domain": ".elpais.com",
+          "expires": 1828386007.802494,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 103
+        },
+        {
+          "name": "datadome",
+          "domain": ".elpais.com",
+          "expires": 1825362007.318324,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 128
+        },
+        {
+          "name": "s_nr30",
+          "domain": ".elpais.com",
+          "expires": 1796418007,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 17
+        },
+        {
+          "name": "s_sq",
+          "domain": ".elpais.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "accounts.google.com",
+        "static.prisa.com",
+        "contributor.google.com",
+        "interactives.apelections.org",
+        "cmp.prisa.com",
+        "fundingchoicesmessages.google.com",
+        "ep01.epimg.net",
+        "sdk.privacy-center.org",
+        "assets.adobedtm.com",
+        "player.prisamedia.com",
+        "ak-ads-ns.prisasd.com",
+        "dpm.demdex.net",
+        "prisacom.tt.omtrdc.net",
+        "googletagmanager.com",
+        "prisacom.demdex.net",
+        "es-config.sensic.net",
+        "sdk.mrf.io",
+        "marfeelexperimentsexperienceengine.mrf.io",
+        "sb.scorecardresearch.com",
+        "events.newsroom.bi",
+        "edge.adobedc.net",
+        "179382600730840de153ea6ed5cbb57ff74d75688e05ee57f4010c11.trk.sensic.net",
+        "es1-s2s.sensic.net",
+        "dcs.adobedc.net",
+        "localhost.sensic.net",
+        "experiences.newsroom.bi",
+        "experiences.mrf.io",
+        "cloudfront-eu-central-1.images.arcpublishing.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "sb.scorecardresearch.com"
+      ],
+      "bannerReaparece": false,
+      "rechazoEnPrimeraCapa": false,
+      "controlUsado": "rechazar todo"
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "demdex@.demdex.net",
+        "XANDR_PANID@.adnxs.com",
+        "uuid2@.adnxs.com",
+        "TDID@.adsrvr.org",
+        "IDE@.doubleclick.net",
+        "dextp@.demdex.net",
+        "TDCPM@.adsrvr.org",
+        "KTPCACOOKIE@.pubmatic.com",
+        "dpm@.dpm.demdex.net",
+        "KADUSERCOOKIE@.pubmatic.com",
+        "uuid-s@.live.streamtheworld.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V2",
+      "gravedad": "Crítica",
+      "nombre": "Cookies pese al rechazo explícito",
+      "evidencia": [
+        "demdex@.demdex.net",
+        "XANDR_PANID@.adnxs.com",
+        "uuid2@.adnxs.com",
+        "IDE@.doubleclick.net",
+        "TDID@.adsrvr.org",
+        "TDCPM@.adsrvr.org",
+        "dextp@.demdex.net",
+        "dpm@.dpm.demdex.net",
+        "KADUSERCOOKIE@.pubmatic.com",
+        "uuid-s@.live.streamtheworld.com"
+      ],
+      "regla": "no_esenciales(E2) ∩ universo_ref ≠ ∅"
+    },
+    {
+      "id": "V5",
+      "gravedad": "Media",
+      "nombre": "No persistencia de la decisión",
+      "evidencia": [
+        "demdex@.demdex.net",
+        "XANDR_PANID@.adnxs.com",
+        "uuid2@.adnxs.com",
+        "IDE@.doubleclick.net",
+        "TDID@.adsrvr.org",
+        "TDCPM@.adsrvr.org",
+        "dextp@.demdex.net",
+        "dpm@.dpm.demdex.net",
+        "KADUSERCOOKIE@.pubmatic.com",
+        "uuid-s@.live.streamtheworld.com"
+      ],
+      "regla": "banner reaparece en E5 o se reinstalan cookies rechazadas"
+    },
+    {
+      "id": "V6",
+      "gravedad": "Media",
+      "nombre": "Revocación inoperante",
+      "evidencia": [
+        "demdex@.demdex.net",
+        "XANDR_PANID@.adnxs.com",
+        "uuid2@.adnxs.com",
+        "IDE@.doubleclick.net",
+        "TDID@.adsrvr.org",
+        "TDCPM@.adsrvr.org",
+        "dextp@.demdex.net",
+        "KTPCACOOKIE@.pubmatic.com",
+        "dpm@.dpm.demdex.net",
+        "KADUSERCOOKIE@.pubmatic.com",
+        "uuid-s@.live.streamtheworld.com"
+      ],
+      "regla": "persisten cookies no esenciales sin control de revocación visible",
+      "requiereConfirmacionManual": true
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "arc-geo",
+      "dominio": "elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "eptz",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "hpage",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "FCCDCF",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "at_check",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "pmuser",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "datadome",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "FCNEC",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "didomi_token",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "s_ecid",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "mbox",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "s_nr30",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "s_vncd",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "s_ivc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "s_cc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "arc-geo",
+      "dominio": "elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "eptz",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "hpage",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "FCCDCF",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "at_check",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "datadome",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "FCNEC",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pmuser",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "s_ecid",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "s_nr30",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "s_vncd",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "s_ivc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "s_cc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "mbox",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "s_sq",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "didomi_token",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "___nrbic",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "___nrbi",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "compass_uid",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_scor_uid",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sui_1pc",
+      "dominio": "elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pbjs-unifiedid",
+      "dominio": "elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pbjs-unifiedid_cst",
+      "dominio": "elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_lr_geo_location_state",
+      "dominio": "elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_lr_geo_location",
+      "dominio": "elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gads",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gpi",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__eoi",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "___iat_ses",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "___iat_vis",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cto_bundle",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "arc-geo",
+      "dominio": "elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "eptz",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "hpage",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "FCCDCF",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "at_check",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "pmuser",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "datadome",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "FCNEC",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "s_ecid",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "mbox",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "s_nr30",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "s_vncd",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "s_ivc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "s_cc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "s_sq",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "didomi_token",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "arc-geo",
+      "dominio": "elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "eptz",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "hpage",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "FCCDCF",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "at_check",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "pmuser",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "datadome",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "FCNEC",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "s_ecid",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "didomi_token",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "s_nr30",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "s_vncd",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "s_ivc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "s_cc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "mbox",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "s_sq",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "arc-geo",
+      "dominio": "elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "eptz",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "hpage",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "FCCDCF",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "at_check",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "pmuser",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "didomi_token",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "s_ecid",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "s_vncd",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "s_ivc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "s_cc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "mbox",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "datadome",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "s_nr30",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "arc-geo",
+      "dominio": "elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "eptz",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "hpage",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "FCCDCF",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "at_check",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "pmuser",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "AMCVS_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "s_ecid",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_identity",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "kndctr_2387401053DB208C0A490D4C_AdobeOrg_cluster",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "s_vncd",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "s_ivc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "s_cc",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "didomi_token",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "AMCV_2387401053DB208C0A490D4C%40AdobeOrg",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "mbox",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "datadome",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "s_nr30",
+      "dominio": ".elpais.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "s_sq",
+      "dominio": ".elpais.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 3,
+    "cotaSuperior": 4,
+    "criticas": [
+      "V2"
+    ],
+    "universoReferencia": 188,
+    "bannerDetectado": false
+  }
+}

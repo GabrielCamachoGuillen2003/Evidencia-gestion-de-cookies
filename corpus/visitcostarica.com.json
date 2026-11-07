@@ -1,0 +1,3186 @@
+{
+  "sitio": "visitcostarica.com",
+  "url": "https://www.visitcostarica.com",
+  "auditadoEn": "2026-11-04T23:59:22.249Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.visitcostarica.com",
+      "instante": "2026-11-04T23:57:17.395Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 983,
+          "y": 9399,
+          "w": 312,
+          "h": 55
+        },
+        "cubrePantalla": false,
+        "texto": "*Doy mi consentimiento para recibir correos electrónicos de la Costa Rica Patronato de Turismo."
+      },
+      "cookies": [
+        {
+          "name": "X-AB",
+          "domain": "sc-static.net",
+          "path": "/scevent.min.js",
+          "expires": 1793923040.37043,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 32
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "www.visitcostarica.com",
+          "path": "/",
+          "expires": 1793838438.955369,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tracker-context-profile-id",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372646.561261,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": 1793838440.176514,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "uid",
+          "domain": ".turn.com",
+          "path": "/",
+          "expires": 1809388641.13775,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 19
+        },
+        {
+          "name": "bito",
+          "domain": ".bidr.io",
+          "path": "/",
+          "expires": 1827946640.2252,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 22
+        },
+        {
+          "name": "bitoIsSecure",
+          "domain": ".bidr.io",
+          "path": "/",
+          "expires": 1827946640.225246,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_scid",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964640,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_scid_r",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964640,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 32
+        },
+        {
+          "name": "cid",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825372641.597429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "trackerUnomiAnonymous",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "sjrn_ccid",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": 1825372641.168507,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 29
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825372641.367404,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612641.867837,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612641.867956,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 18
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1796428641.363086,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825372641.367514,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1799020641.460283,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "ttd",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376641.466786,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 70
+        },
+        {
+          "name": "xdr",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376641.467136,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 46
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828396641.510933,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "adf",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376641.549044,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 48
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020641.749051,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020641.749176,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "gadex",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376641.597778,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 58
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020641.749212,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "ANON_ID",
+          "domain": ".tribalfusion.com",
+          "path": "/",
+          "expires": 1801612641.762006,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 117
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612641.867918,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 100
+        },
+        {
+          "name": "sc_at",
+          "domain": ".snapchat.com",
+          "path": "/",
+          "expires": 1827532641.878324,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 99
+        },
+        {
+          "name": "_sctr",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964641,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 17
+        },
+        {
+          "name": "OptanonAlertBoxClosed",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372646,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "OptanonConsent",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372646,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 321
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "osano_consentmanager_tattles",
+          "u_sclid_r",
+          "u_sclid",
+          "sjrn_ccid",
+          "wg-slugs",
+          "sjrn_referrer"
+        ],
+        "sessionStorage": [
+          "u_scsid",
+          "u_scsid_r",
+          "sjrn_guard"
+        ]
+      },
+      "terceros": [
+        "cmp.osano.com",
+        "fonts.gstatic.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "partner.mindtrip.ai",
+        "cdn.weglot.com",
+        "googletagmanager.com",
+        "cdn.icomoon.io",
+        "gstatic.com",
+        "cdnjs.cloudflare.com",
+        "cdn-api-weglot.com",
+        "s3.amazonaws.com",
+        "api.weglot.com",
+        "static.sojern.com",
+        "a.tribalfusion.com",
+        "r.turn.com",
+        "ads.undertone.com",
+        "cnv.event.prod.bidr.io",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "pixel.sojern.com",
+        "s.tribalfusion.com",
+        "tr.snapchat.com",
+        "geolocation.onetrust.com",
+        "pagead2.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "ib.adnxs.com",
+        "match.adsrvr.org",
+        "c1.adform.net",
+        "tr6.snapchat.com",
+        "pixel.tapad.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "ade.googlesyndication.com",
+        "dldx8oytb69az.cloudfront.net",
+        "privacyportal.onetrust.com",
+        "embedded.mindtrip.ai",
+        "static.cloudflareinsights.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "r.turn.com",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "tr.snapchat.com",
+        "pagead2.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "ib.adnxs.com",
+        "match.adsrvr.org",
+        "c1.adform.net",
+        "tr6.snapchat.com",
+        "pixel.tapad.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "ade.googlesyndication.com",
+        "static.cloudflareinsights.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.visitcostarica.com",
+      "instante": "2026-11-04T23:57:29.686Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 983,
+          "y": 9399,
+          "w": 312,
+          "h": 55
+        },
+        "cubrePantalla": false,
+        "texto": "*Doy mi consentimiento para recibir correos electrónicos de la Costa Rica Patronato de Turismo."
+      },
+      "cookies": [
+        {
+          "name": "X-AB",
+          "domain": "sc-static.net",
+          "path": "/scevent.min.js",
+          "expires": 1793923051.771518,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 32
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "www.visitcostarica.com",
+          "path": "/",
+          "expires": 1793838450.598635,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tracker-context-profile-id",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372658.125204,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": 1793838451.933903,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "uid",
+          "domain": ".turn.com",
+          "path": "/",
+          "expires": 1809388651.642837,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 19
+        },
+        {
+          "name": "bito",
+          "domain": ".bidr.io",
+          "path": "/",
+          "expires": 1827946651.804049,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 22
+        },
+        {
+          "name": "bitoIsSecure",
+          "domain": ".bidr.io",
+          "path": "/",
+          "expires": 1827946651.80411,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_scid",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964651,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_scid_r",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964651,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 32
+        },
+        {
+          "name": "cid",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825372653.064183,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "trackerUnomiAnonymous",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "sjrn_ccid",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": 1825372652.709557,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 29
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825372652.820881,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "sc_at",
+          "domain": ".snapchat.com",
+          "path": "/",
+          "expires": 1827532653.382998,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 99
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612653.44834,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612653.448458,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1796428652.820007,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825372652.82099,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "ttd",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376652.91535,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 72
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1799020652.918235,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828396652.97324,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "xdr",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376652.993926,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 49
+        },
+        {
+          "name": "adf",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376653.013332,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 49
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020653.247826,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020653.247895,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "gadex",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376653.064262,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020653.247931,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "ANON_ID",
+          "domain": ".tribalfusion.com",
+          "path": "/",
+          "expires": 1801612653.354766,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 112
+        },
+        {
+          "name": "_sctr",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964653,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 17
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612653.448419,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 105
+        },
+        {
+          "name": "OptanonAlertBoxClosed",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372657,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "OptanonConsent",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372657,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 321
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "osano_consentmanager_tattles",
+          "u_sclid_r",
+          "u_sclid",
+          "sjrn_ccid",
+          "wg-slugs",
+          "sjrn_referrer"
+        ],
+        "sessionStorage": [
+          "u_scsid",
+          "u_scsid_r",
+          "sjrn_guard"
+        ]
+      },
+      "terceros": [
+        "cmp.osano.com",
+        "fonts.gstatic.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "partner.mindtrip.ai",
+        "cdn.weglot.com",
+        "cdn.icomoon.io",
+        "googletagmanager.com",
+        "gstatic.com",
+        "cdnjs.cloudflare.com",
+        "cdn-api-weglot.com",
+        "s3.amazonaws.com",
+        "api.weglot.com",
+        "static.sojern.com",
+        "a.tribalfusion.com",
+        "r.turn.com",
+        "ads.undertone.com",
+        "cnv.event.prod.bidr.io",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "geolocation.onetrust.com",
+        "pixel.sojern.com",
+        "s.tribalfusion.com",
+        "tr.snapchat.com",
+        "pagead2.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "ib.adnxs.com",
+        "match.adsrvr.org",
+        "c1.adform.net",
+        "pixel.tapad.com",
+        "tr6.snapchat.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "ade.googlesyndication.com",
+        "dldx8oytb69az.cloudfront.net",
+        "privacyportal.onetrust.com",
+        "embedded.mindtrip.ai",
+        "static.cloudflareinsights.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "r.turn.com",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "tr.snapchat.com",
+        "pagead2.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "ib.adnxs.com",
+        "match.adsrvr.org",
+        "c1.adform.net",
+        "pixel.tapad.com",
+        "tr6.snapchat.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "ade.googlesyndication.com",
+        "static.cloudflareinsights.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.visitcostarica.com",
+      "instante": "2026-11-04T23:57:46.400Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "sin rechazo en primera capa; abierto «preferencias de cookies»",
+        "pulsado «rechazarlas todas»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 983,
+          "y": 9399,
+          "w": 312,
+          "h": 55
+        },
+        "cubrePantalla": false,
+        "texto": "*Doy mi consentimiento para recibir correos electrónicos de la Costa Rica Patronato de Turismo."
+      },
+      "cookies": [
+        {
+          "name": "X-AB",
+          "domain": "sc-static.net",
+          "path": "/scevent.min.js",
+          "expires": 1793923068.633405,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809388668.552203,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "www.visitcostarica.com",
+          "path": "/",
+          "expires": 1793838467.456889,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tracker-context-profile-id",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372690.000594,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": 1793838468.635029,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "uid",
+          "domain": ".turn.com",
+          "path": "/",
+          "expires": 1809388668.331619,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 19
+        },
+        {
+          "name": "bito",
+          "domain": ".bidr.io",
+          "path": "/",
+          "expires": 1827946668.401077,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 22
+        },
+        {
+          "name": "bitoIsSecure",
+          "domain": ".bidr.io",
+          "path": "/",
+          "expires": 1827946668.401146,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_scid",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964668,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_scid_r",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964668,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 32
+        },
+        {
+          "name": "cid",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825372669.920915,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "trackerUnomiAnonymous",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825372669.562142,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1796428669.545103,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825372669.562229,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sc_at",
+          "domain": ".snapchat.com",
+          "path": "/",
+          "expires": 1827532670.196853,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 99
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828396669.662889,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "ttd",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376669.672305,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 70
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1799020669.675386,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "gadex",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376669.758283,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612670.081202,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612670.081335,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "adf",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376669.777377,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 49
+        },
+        {
+          "name": "sjrn_ccid",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": 1825372669.827917,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 29
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020670.055322,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020670.055406,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "xdr",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376669.866829,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 49
+        },
+        {
+          "name": "ANON_ID",
+          "domain": ".tribalfusion.com",
+          "path": "/",
+          "expires": 1801612669.914843,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 115
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612670.081292,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 55
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020670.055463,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_sctr",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964670,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 17
+        },
+        {
+          "name": "OptanonAlertBoxClosed",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372689,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "OptanonConsent",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372689,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 321
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "osano_consentmanager_tattles",
+          "u_sclid_r",
+          "u_sclid",
+          "sjrn_ccid",
+          "wg-slugs",
+          "sjrn_referrer"
+        ],
+        "sessionStorage": [
+          "u_scsid",
+          "u_scsid_r",
+          "sjrn_guard"
+        ]
+      },
+      "terceros": [
+        "cmp.osano.com",
+        "fonts.gstatic.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "partner.mindtrip.ai",
+        "cdn.weglot.com",
+        "cdn.icomoon.io",
+        "googletagmanager.com",
+        "gstatic.com",
+        "cdnjs.cloudflare.com",
+        "cdn-api-weglot.com",
+        "s3.amazonaws.com",
+        "api.weglot.com",
+        "static.sojern.com",
+        "a.tribalfusion.com",
+        "r.turn.com",
+        "ads.undertone.com",
+        "cnv.event.prod.bidr.io",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "geolocation.onetrust.com",
+        "pixel.sojern.com",
+        "s.tribalfusion.com",
+        "pagead2.googlesyndication.com",
+        "tr.snapchat.com",
+        "cm.g.doubleclick.net",
+        "ib.adnxs.com",
+        "match.adsrvr.org",
+        "c1.adform.net",
+        "tr6.snapchat.com",
+        "pixel.tapad.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "ade.googlesyndication.com",
+        "dldx8oytb69az.cloudfront.net",
+        "privacyportal.onetrust.com",
+        "embedded.mindtrip.ai",
+        "static.cloudflareinsights.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "r.turn.com",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "pagead2.googlesyndication.com",
+        "tr.snapchat.com",
+        "cm.g.doubleclick.net",
+        "ib.adnxs.com",
+        "match.adsrvr.org",
+        "c1.adform.net",
+        "tr6.snapchat.com",
+        "pixel.tapad.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "ade.googlesyndication.com",
+        "static.cloudflareinsights.com"
+      ],
+      "rechazoEnPrimeraCapa": false,
+      "controlUsado": "rechazarlas todas",
+      "interaccionLograda": true
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.visitcostarica.com",
+      "instante": "2026-11-04T23:58:15.777Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "panel abierto; 4 casillas, 0 premarcadas",
+        "guardado con «confirmar mis preferencias»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 983,
+          "y": 9399,
+          "w": 312,
+          "h": 55
+        },
+        "cubrePantalla": false,
+        "texto": "*Doy mi consentimiento para recibir correos electrónicos de la Costa Rica Patronato de Turismo."
+      },
+      "cookies": [
+        {
+          "name": "X-AB",
+          "domain": "sc-static.net",
+          "path": "/scevent.min.js",
+          "expires": 1793923098.010991,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809388698.269266,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "www.visitcostarica.com",
+          "path": "/",
+          "expires": 1793838496.922639,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tracker-context-profile-id",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372710.855119,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": 1793838497.718254,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "uid",
+          "domain": ".turn.com",
+          "path": "/",
+          "expires": 1809388697.761219,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 19
+        },
+        {
+          "name": "bito",
+          "domain": ".bidr.io",
+          "path": "/",
+          "expires": 1827946698.002033,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 22
+        },
+        {
+          "name": "bitoIsSecure",
+          "domain": ".bidr.io",
+          "path": "/",
+          "expires": 1827946698.002115,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_scid",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964698,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_scid_r",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964698,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 32
+        },
+        {
+          "name": "cid",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825372699.164728,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "trackerUnomiAnonymous",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "sjrn_ccid",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": 1825372698.765095,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 29
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825372698.882392,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612699.463542,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612699.46366,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825372698.882468,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1796428698.935996,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828396698.961465,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "ttd",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376698.972949,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 72
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1799020699.030508,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 18
+        },
+        {
+          "name": "xdr",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376699.039609,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 49
+        },
+        {
+          "name": "gadex",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376699.044574,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020699.321157,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020699.32123,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "adf",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376699.164809,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 48
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020699.321267,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "ANON_ID",
+          "domain": ".tribalfusion.com",
+          "path": "/",
+          "expires": 1801612699.373215,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 114
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612699.463623,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 105
+        },
+        {
+          "name": "sc_at",
+          "domain": ".snapchat.com",
+          "path": "/",
+          "expires": 1827532699.470325,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 99
+        },
+        {
+          "name": "_sctr",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964699,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 17
+        },
+        {
+          "name": "OptanonAlertBoxClosed",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372710,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "OptanonConsent",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372710,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 321
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "osano_consentmanager_tattles",
+          "u_sclid_r",
+          "u_sclid",
+          "sjrn_ccid",
+          "wg-slugs",
+          "sjrn_referrer"
+        ],
+        "sessionStorage": [
+          "u_scsid",
+          "u_scsid_r",
+          "sjrn_guard"
+        ]
+      },
+      "terceros": [
+        "cmp.osano.com",
+        "fonts.gstatic.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "partner.mindtrip.ai",
+        "cdn.weglot.com",
+        "cdn.icomoon.io",
+        "googletagmanager.com",
+        "gstatic.com",
+        "cdn-api-weglot.com",
+        "cdnjs.cloudflare.com",
+        "api.weglot.com",
+        "s3.amazonaws.com",
+        "static.sojern.com",
+        "a.tribalfusion.com",
+        "r.turn.com",
+        "ads.undertone.com",
+        "cnv.event.prod.bidr.io",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "pixel.sojern.com",
+        "s.tribalfusion.com",
+        "geolocation.onetrust.com",
+        "tr.snapchat.com",
+        "pagead2.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "ib.adnxs.com",
+        "match.adsrvr.org",
+        "c1.adform.net",
+        "tr6.snapchat.com",
+        "pixel.tapad.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "ade.googlesyndication.com",
+        "dldx8oytb69az.cloudfront.net",
+        "privacyportal.onetrust.com",
+        "embedded.mindtrip.ai",
+        "static.cloudflareinsights.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "r.turn.com",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "tr.snapchat.com",
+        "pagead2.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "ib.adnxs.com",
+        "match.adsrvr.org",
+        "c1.adform.net",
+        "tr6.snapchat.com",
+        "pixel.tapad.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "ade.googlesyndication.com",
+        "static.cloudflareinsights.com"
+      ],
+      "casillas": [
+        {
+          "id": "edit-consent",
+          "marcada": false,
+          "deshabilitada": false
+        },
+        {
+          "id": "ot-group-id-C0002",
+          "marcada": false,
+          "deshabilitada": false
+        },
+        {
+          "id": "ot-group-id-C0003",
+          "marcada": false,
+          "deshabilitada": false
+        },
+        {
+          "id": "ot-group-id-C0004",
+          "marcada": false,
+          "deshabilitada": false
+        }
+      ],
+      "premarcadas": 0,
+      "interaccionLograda": true
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.visitcostarica.com",
+      "instante": "2026-11-04T23:58:36.632Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 983,
+          "y": 9399,
+          "w": 312,
+          "h": 55
+        },
+        "cubrePantalla": false,
+        "texto": "*Doy mi consentimiento para recibir correos electrónicos de la Costa Rica Patronato de Turismo."
+      },
+      "cookies": [
+        {
+          "name": "X-AB",
+          "domain": "sc-static.net",
+          "path": "/scevent.min.js",
+          "expires": 1793923118.745551,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 32
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "www.visitcostarica.com",
+          "path": "/",
+          "expires": 1793838517.700391,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tracker-context-profile-id",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372728.28944,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": 1793838527.790019,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "uid",
+          "domain": ".turn.com",
+          "path": "/",
+          "expires": 1809388727.957459,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 19
+        },
+        {
+          "name": "_scid",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964718,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 32
+        },
+        {
+          "name": "bito",
+          "domain": ".bidr.io",
+          "path": "/",
+          "expires": 1827946727.77708,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 22
+        },
+        {
+          "name": "bitoIsSecure",
+          "domain": ".bidr.io",
+          "path": "/",
+          "expires": 1827946718.949105,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 2
+        },
+        {
+          "name": "trackerUnomiAnonymous",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "cid",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825372727.962922,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825372719.835921,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "sjrn_ccid",
+          "domain": "es.visitcostarica.com",
+          "path": "/",
+          "expires": 1825372719.767111,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 29
+        },
+        {
+          "name": "sc_at",
+          "domain": ".snapchat.com",
+          "path": "/",
+          "expires": 1827532720.373722,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 99
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "path": "/",
+          "expires": 1825372719.836004,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1796428719.890893,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttd",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376719.944512,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 72
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "path": "/",
+          "expires": 1799020719.983191,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828396720.037247,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020720.240702,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020720.240776,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "adf",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376720.072279,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 49
+        },
+        {
+          "name": "gadex",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376720.13031,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "xdr",
+          "domain": ".sojern.com",
+          "path": "/",
+          "expires": 1825376720.191396,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 49
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612728.094547,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612728.094678,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "path": "/",
+          "expires": 1799020720.240813,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_sctr",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964720,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 17
+        },
+        {
+          "name": "OptanonAlertBoxClosed",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372724,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "OptanonConsent",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1825372727,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 365
+        },
+        {
+          "name": "_scid_r",
+          "domain": ".visitcostarica.com",
+          "path": "/",
+          "expires": 1827964727,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 38
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "path": "/",
+          "expires": 1801612728.094636,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 105
+        },
+        {
+          "name": "ANON_ID",
+          "domain": ".tribalfusion.com",
+          "path": "/",
+          "expires": 1801612728.130144,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 137
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "u_sclid",
+          "u_sclid_r",
+          "wg-translations",
+          "wg-translations-v",
+          "wg-slugs",
+          "sjrn_referrer",
+          "osano_consentmanager_tattles",
+          "sjrn_ccid"
+        ],
+        "sessionStorage": [
+          "u_scsid",
+          "sjrn_guard",
+          "u_scsid_r"
+        ]
+      },
+      "terceros": [
+        "cmp.osano.com",
+        "fonts.gstatic.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "partner.mindtrip.ai",
+        "cdn.weglot.com",
+        "googletagmanager.com",
+        "cdn.icomoon.io",
+        "gstatic.com",
+        "cdnjs.cloudflare.com",
+        "cdn-api-weglot.com",
+        "s3.amazonaws.com",
+        "api.weglot.com",
+        "static.sojern.com",
+        "a.tribalfusion.com",
+        "r.turn.com",
+        "ads.undertone.com",
+        "cnv.event.prod.bidr.io",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "geolocation.onetrust.com",
+        "pixel.sojern.com",
+        "s.tribalfusion.com",
+        "tr.snapchat.com",
+        "pagead2.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "ib.adnxs.com",
+        "match.adsrvr.org",
+        "c1.adform.net",
+        "tr6.snapchat.com",
+        "pixel.tapad.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "ade.googlesyndication.com",
+        "dldx8oytb69az.cloudfront.net",
+        "privacyportal.onetrust.com",
+        "embedded.mindtrip.ai",
+        "static.cloudflareinsights.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "r.turn.com",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "tr.snapchat.com",
+        "pagead2.googlesyndication.com",
+        "cm.g.doubleclick.net",
+        "ib.adnxs.com",
+        "match.adsrvr.org",
+        "c1.adform.net",
+        "tr6.snapchat.com",
+        "pixel.tapad.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "ade.googlesyndication.com",
+        "static.cloudflareinsights.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.visitcostarica.com",
+      "instante": "2026-11-04T23:58:56.958Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — pulsado «rechazarlas todas»",
+        "acto 2 — revisita: el banner REAPARECE (indicio de que la decisión no persistió)"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"consent\" i]",
+        "geometria": {
+          "x": 983,
+          "y": 9399,
+          "w": 312,
+          "h": 55
+        },
+        "cubrePantalla": false,
+        "texto": "*Doy mi consentimiento para recibir correos electrónicos de la Costa Rica Patronato de Turismo."
+      },
+      "cookies": [
+        {
+          "name": "X-AB",
+          "domain": "sc-static.net",
+          "expires": 1793923139.12587,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809388739.651458,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "www.visitcostarica.com",
+          "expires": 1793838555.404082,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "tracker-context-profile-id",
+          "domain": ".visitcostarica.com",
+          "expires": 1825372756.436741,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "trackerUnomiSessionId",
+          "domain": "es.visitcostarica.com",
+          "expires": 1793838555.944229,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "uid",
+          "domain": ".turn.com",
+          "expires": 1809388756.130169,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 19
+        },
+        {
+          "name": "bito",
+          "domain": ".bidr.io",
+          "expires": 1827946755.951137,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 22
+        },
+        {
+          "name": "bitoIsSecure",
+          "domain": ".bidr.io",
+          "expires": 1827946739.305769,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 395,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_scid",
+          "domain": ".visitcostarica.com",
+          "expires": 1827964739,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 32
+        },
+        {
+          "name": "trackerUnomiAnonymous",
+          "domain": "es.visitcostarica.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "cid",
+          "domain": ".sojern.com",
+          "expires": 1825372756.106044,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "sjrn_ccid",
+          "domain": "es.visitcostarica.com",
+          "expires": 1825372740.100782,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 29
+        },
+        {
+          "name": "TDID",
+          "domain": ".adsrvr.org",
+          "expires": 1825372740.207383,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "TDCPM",
+          "domain": ".adsrvr.org",
+          "expires": 1825372740.20748,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "C",
+          "domain": ".adform.net",
+          "expires": 1796428740.207906,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ttd",
+          "domain": ".sojern.com",
+          "expires": 1825376740.302895,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 72
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828396740.306656,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "uid",
+          "domain": ".adform.net",
+          "expires": 1799020740.307979,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 19
+        },
+        {
+          "name": "adf",
+          "domain": ".sojern.com",
+          "expires": 1825376740.405363,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 49
+        },
+        {
+          "name": "gadex",
+          "domain": ".sojern.com",
+          "expires": 1825376740.405705,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 60
+        },
+        {
+          "name": "xdr",
+          "domain": ".sojern.com",
+          "expires": 1825376740.460595,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 48
+        },
+        {
+          "name": "TapAd_TS",
+          "domain": ".tapad.com",
+          "expires": 1799020740.666304,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 13
+        },
+        {
+          "name": "TapAd_DID",
+          "domain": ".tapad.com",
+          "expires": 1799020740.666379,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 36
+        },
+        {
+          "name": "XANDR_PANID",
+          "domain": ".adnxs.com",
+          "expires": 1801612756.290132,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 108
+        },
+        {
+          "name": "uuid2",
+          "domain": ".adnxs.com",
+          "expires": 1801612756.290263,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 19
+        },
+        {
+          "name": "TapAd_3WAY_SYNCS",
+          "domain": ".tapad.com",
+          "expires": 1799020740.666415,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 60,
+          "valorLongitud": 0
+        },
+        {
+          "name": "sc_at",
+          "domain": ".snapchat.com",
+          "expires": 1827532740.800834,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 99
+        },
+        {
+          "name": "_sctr",
+          "domain": ".visitcostarica.com",
+          "expires": 1827964740,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 17
+        },
+        {
+          "name": "OptanonAlertBoxClosed",
+          "domain": ".visitcostarica.com",
+          "expires": 1825372748,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "trackerUnomiAnonymous",
+          "domain": "www.visitcostarica.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "sjrn_ccid",
+          "domain": "www.visitcostarica.com",
+          "expires": 1825372755.459015,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 29
+        },
+        {
+          "name": "_scid_r",
+          "domain": ".visitcostarica.com",
+          "expires": 1827964756,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 38
+        },
+        {
+          "name": "OptanonConsent",
+          "domain": ".visitcostarica.com",
+          "expires": 1825372756,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 365
+        },
+        {
+          "name": "anj",
+          "domain": ".adnxs.com",
+          "expires": 1801612756.290222,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 105
+        },
+        {
+          "name": "ANON_ID",
+          "domain": ".tribalfusion.com",
+          "expires": 1801612755.390253,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 132
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cmp.osano.com",
+        "fonts.gstatic.com",
+        "fonts.googleapis.com",
+        "google.com",
+        "partner.mindtrip.ai",
+        "cdn.weglot.com",
+        "cdn.icomoon.io",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "static.sojern.com",
+        "r.turn.com",
+        "a.tribalfusion.com",
+        "pagead2.googlesyndication.com",
+        "ads.undertone.com",
+        "cnv.event.prod.bidr.io",
+        "pixel.sojern.com",
+        "s.tribalfusion.com",
+        "api.weglot.com",
+        "gstatic.com",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "geolocation.onetrust.com",
+        "ade.googlesyndication.com",
+        "google-analytics.com",
+        "tr.snapchat.com",
+        "cm.g.doubleclick.net",
+        "cdn-api-weglot.com",
+        "ad.doubleclick.net",
+        "ib.adnxs.com",
+        "tr6.snapchat.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "r.turn.com",
+        "pagead2.googlesyndication.com",
+        "cdn.cookielaw.org",
+        "sc-static.net",
+        "ade.googlesyndication.com",
+        "google-analytics.com",
+        "tr.snapchat.com",
+        "cm.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "ib.adnxs.com",
+        "tr6.snapchat.com"
+      ],
+      "bannerReaparece": true,
+      "rechazoEnPrimeraCapa": true,
+      "controlUsado": "rechazarlas todas",
+      "interaccionLograda": true
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "X-AB@sc-static.net",
+        "uid@.turn.com",
+        "bito@.bidr.io",
+        "bitoIsSecure@.bidr.io",
+        "cid@.sojern.com",
+        "TDID@.adsrvr.org",
+        "XANDR_PANID@.adnxs.com",
+        "uuid2@.adnxs.com",
+        "C@.adform.net",
+        "TDCPM@.adsrvr.org",
+        "uid@.adform.net",
+        "ttd@.sojern.com",
+        "xdr@.sojern.com",
+        "IDE@.doubleclick.net",
+        "adf@.sojern.com",
+        "TapAd_TS@.tapad.com",
+        "TapAd_DID@.tapad.com",
+        "gadex@.sojern.com",
+        "TapAd_3WAY_SYNCS@.tapad.com",
+        "ANON_ID@.tribalfusion.com",
+        "anj@.adnxs.com",
+        "sc_at@.snapchat.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V3",
+      "gravedad": "Crítica",
+      "nombre": "Incumplimiento de la selección granular",
+      "evidencia": [
+        "X-AB@sc-static.net",
+        "_GRECAPTCHA@www.google.com",
+        "uid@.turn.com",
+        "bito@.bidr.io",
+        "bitoIsSecure@.bidr.io",
+        "cid@.sojern.com",
+        "TDID@.adsrvr.org",
+        "XANDR_PANID@.adnxs.com",
+        "uuid2@.adnxs.com",
+        "TDCPM@.adsrvr.org",
+        "C@.adform.net",
+        "IDE@.doubleclick.net",
+        "ttd@.sojern.com",
+        "uid@.adform.net",
+        "xdr@.sojern.com",
+        "gadex@.sojern.com",
+        "TapAd_TS@.tapad.com",
+        "TapAd_DID@.tapad.com",
+        "adf@.sojern.com",
+        "TapAd_3WAY_SYNCS@.tapad.com",
+        "ANON_ID@.tribalfusion.com",
+        "anj@.adnxs.com",
+        "sc_at@.snapchat.com"
+      ],
+      "regla": "cookies no esenciales tras selección granular",
+      "requiereConfirmacionManual": true
+    },
+    {
+      "id": "V4",
+      "gravedad": "Alta",
+      "nombre": "Aceptación implícita por navegación",
+      "evidencia": [
+        "X-AB@sc-static.net",
+        "uid@.turn.com",
+        "bito@.bidr.io",
+        "bitoIsSecure@.bidr.io",
+        "cid@.sojern.com",
+        "TDID@.adsrvr.org",
+        "sc_at@.snapchat.com",
+        "TDCPM@.adsrvr.org",
+        "C@.adform.net",
+        "ttd@.sojern.com",
+        "uid@.adform.net",
+        "IDE@.doubleclick.net",
+        "TapAd_TS@.tapad.com",
+        "TapAd_DID@.tapad.com",
+        "adf@.sojern.com",
+        "gadex@.sojern.com",
+        "xdr@.sojern.com",
+        "XANDR_PANID@.adnxs.com",
+        "uuid2@.adnxs.com",
+        "TapAd_3WAY_SYNCS@.tapad.com",
+        "anj@.adnxs.com",
+        "ANON_ID@.tribalfusion.com"
+      ],
+      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+    },
+    {
+      "id": "V5",
+      "gravedad": "Media",
+      "nombre": "No persistencia de la decisión",
+      "evidencia": [
+        "el banner reaparece en la revisita",
+        "X-AB@sc-static.net",
+        "uid@.turn.com",
+        "bito@.bidr.io",
+        "bitoIsSecure@.bidr.io",
+        "cid@.sojern.com",
+        "TDID@.adsrvr.org",
+        "TDCPM@.adsrvr.org",
+        "C@.adform.net",
+        "ttd@.sojern.com",
+        "IDE@.doubleclick.net",
+        "uid@.adform.net",
+        "adf@.sojern.com",
+        "gadex@.sojern.com",
+        "xdr@.sojern.com",
+        "TapAd_TS@.tapad.com",
+        "TapAd_DID@.tapad.com",
+        "XANDR_PANID@.adnxs.com",
+        "uuid2@.adnxs.com",
+        "TapAd_3WAY_SYNCS@.tapad.com",
+        "sc_at@.snapchat.com",
+        "anj@.adnxs.com",
+        "ANON_ID@.tribalfusion.com"
+      ],
+      "regla": "banner reaparece en E5 o se reinstalan cookies rechazadas"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "www.visitcostarica.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "tracker-context-profile-id",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_scid",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_scid_r",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "trackerUnomiAnonymous",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sjrn_ccid",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_sctr",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "OptanonAlertBoxClosed",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "www.visitcostarica.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "tracker-context-profile-id",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_scid",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_scid_r",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "trackerUnomiAnonymous",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sjrn_ccid",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_sctr",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "OptanonAlertBoxClosed",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "www.visitcostarica.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "tracker-context-profile-id",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_scid",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_scid_r",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "trackerUnomiAnonymous",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sjrn_ccid",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_sctr",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "OptanonAlertBoxClosed",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "www.visitcostarica.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "tracker-context-profile-id",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_scid",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_scid_r",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "trackerUnomiAnonymous",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sjrn_ccid",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_sctr",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "OptanonAlertBoxClosed",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "www.visitcostarica.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "tracker-context-profile-id",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_scid",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "trackerUnomiAnonymous",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sjrn_ccid",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_sctr",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "OptanonAlertBoxClosed",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_scid_r",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "www.visitcostarica.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "tracker-context-profile-id",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "trackerUnomiSessionId",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_scid",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "trackerUnomiAnonymous",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sjrn_ccid",
+      "dominio": "es.visitcostarica.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_sctr",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "OptanonAlertBoxClosed",
+      "dominio": ".visitcostarica.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "trackerUnomiAnonymous",
+      "dominio": "www.visitcostarica.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sjrn_ccid",
+      "dominio": "www.visitcostarica.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_scid_r",
+      "dominio": ".visitcostarica.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 3,
+    "cotaSuperior": 4,
+    "criticas": [
+      "V3"
+    ],
+    "universoReferencia": 32,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [
+      "E2",
+      "E3"
+    ],
+    "proporcionIndeterminadas": 28.4,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

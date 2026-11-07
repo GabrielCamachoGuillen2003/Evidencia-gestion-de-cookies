@@ -1,0 +1,415 @@
+{
+  "sitio": "oreamuno.go.cr",
+  "url": "https://oreamuno.go.cr",
+  "auditadoEn": "2026-11-05T07:21:30.074Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://oreamuno.go.cr",
+      "instante": "2026-11-05T07:19:26.353Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 681,
+          "w": 1366,
+          "h": 87
+        },
+        "cubrePantalla": false,
+        "texto": "Este sitio web utiliza cookies para ayudarnos a brindarle la mejor experiencia cuando visite nuestro sitio web.\nAl continuar usando este sitio web, usted acepta nuestro uso de estas cookies.\nAceptar"
+      },
+      "cookies": [
+        {
+          "name": "CakeCookie[muni_oreamuno_cookie]",
+          "domain": "oreamuno.go.cr",
+          "path": "/",
+          "expires": 1793891966.767705,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "code.jquery.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://oreamuno.go.cr",
+      "instante": "2026-11-05T07:19:42.302Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "pulsado «aceptar»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 681,
+          "w": 1366,
+          "h": 87
+        },
+        "cubrePantalla": false,
+        "texto": "Este sitio web utiliza cookies para ayudarnos a brindarle la mejor experiencia cuando visite nuestro sitio web.\nAl continuar usando este sitio web, usted acepta nuestro uso de estas cookies.\nAceptar"
+      },
+      "cookies": [
+        {
+          "name": "CakeCookie[muni_oreamuno_cookie]",
+          "domain": "oreamuno.go.cr",
+          "path": "/",
+          "expires": 1793891982.589053,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        },
+        {
+          "name": "prscookie",
+          "domain": "oreamuno.go.cr",
+          "path": "/",
+          "expires": 1825399197,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 3
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "code.jquery.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "controlUsado": "aceptar",
+      "interaccionLograda": true
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://oreamuno.go.cr",
+      "instante": "2026-11-05T07:20:03.462Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 681,
+          "w": 1366,
+          "h": 87
+        },
+        "cubrePantalla": false,
+        "texto": "Este sitio web utiliza cookies para ayudarnos a brindarle la mejor experiencia cuando visite nuestro sitio web.\nAl continuar usando este sitio web, usted acepta nuestro uso de estas cookies.\nAceptar"
+      },
+      "cookies": [
+        {
+          "name": "CakeCookie[muni_oreamuno_cookie]",
+          "domain": "oreamuno.go.cr",
+          "path": "/",
+          "expires": 1793892003.712666,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "code.jquery.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://oreamuno.go.cr",
+      "instante": "2026-11-05T07:20:24.946Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 681,
+          "w": 1366,
+          "h": 87
+        },
+        "cubrePantalla": false,
+        "texto": "Este sitio web utiliza cookies para ayudarnos a brindarle la mejor experiencia cuando visite nuestro sitio web.\nAl continuar usando este sitio web, usted acepta nuestro uso de estas cookies.\nAceptar"
+      },
+      "cookies": [
+        {
+          "name": "CakeCookie[muni_oreamuno_cookie]",
+          "domain": "oreamuno.go.cr",
+          "path": "/",
+          "expires": 1793892025.211989,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "code.jquery.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://oreamuno.go.cr",
+      "instante": "2026-11-05T07:20:43.068Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 681,
+          "w": 1366,
+          "h": 87
+        },
+        "cubrePantalla": false,
+        "texto": "Este sitio web utiliza cookies para ayudarnos a brindarle la mejor experiencia cuando visite nuestro sitio web.\nAl continuar usando este sitio web, usted acepta nuestro uso de estas cookies.\nAceptar"
+      },
+      "cookies": [
+        {
+          "name": "CakeCookie[muni_oreamuno_cookie]",
+          "domain": "oreamuno.go.cr",
+          "path": "/",
+          "expires": 1793892043.310917,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "code.jquery.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://oreamuno.go.cr",
+      "instante": "2026-11-05T07:21:07.717Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner REAPARECE (indicio de que la decisión no persistió)"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 681,
+          "w": 1366,
+          "h": 87
+        },
+        "cubrePantalla": false,
+        "texto": "Este sitio web utiliza cookies para ayudarnos a brindarle la mejor experiencia cuando visite nuestro sitio web.\nAl continuar usando este sitio web, usted acepta nuestro uso de estas cookies.\nAceptar"
+      },
+      "cookies": [
+        {
+          "name": "CakeCookie[muni_oreamuno_cookie]",
+          "domain": "oreamuno.go.cr",
+          "expires": 1793892066.985738,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 19
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "code.jquery.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": true,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró rechazar en E2, de modo que no hubo decisión que respetar"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "CakeCookie[muni_oreamuno_cookie]",
+      "dominio": "oreamuno.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "CakeCookie[muni_oreamuno_cookie]",
+      "dominio": "oreamuno.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "CakeCookie[muni_oreamuno_cookie]",
+      "dominio": "oreamuno.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "CakeCookie[muni_oreamuno_cookie]",
+      "dominio": "oreamuno.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "CakeCookie[muni_oreamuno_cookie]",
+      "dominio": "oreamuno.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "CakeCookie[muni_oreamuno_cookie]",
+      "dominio": "oreamuno.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 2,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [
+      "E1"
+    ],
+    "proporcionIndeterminadas": 85.7,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.775Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

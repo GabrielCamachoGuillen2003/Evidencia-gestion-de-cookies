@@ -1,0 +1,1097 @@
+{
+  "sitio": "flysansa.com",
+  "url": "https://www.flysansa.com",
+  "auditadoEn": "2026-11-06T01:10:01.891Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.flysansa.com",
+      "instante": "2026-11-06T01:07:42.519Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1793928465.857271,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "csrf_token",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 129
+        },
+        {
+          "name": "nlbi_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "visid_incap_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1825398961.416561,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "incap_ses_1698_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "path": "/",
+          "expires": 1793929065.221638,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_LJS063KXRM",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1828487265.359314,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1828487265.359885,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "csrf_token",
+          "v2_contact_session_rVn3RUkkQ2lhuR76dPpM_session_id",
+          "raygun4js-userid",
+          "v2_history_rVn3RUkkQ2lhuR76dPpM",
+          "v2_session_history_rVn3RUkkQ2lhuR76dPpM",
+          "v3_first_session_event_rVn3RUkkQ2lhuR76dPpM",
+          "nomfields",
+          "rVn3RUkkQ2lhuR76dPpMlead-connecter-text-widget-prompt-dismissed"
+        ],
+        "sessionStorage": [
+          "i18n.es"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "storage.aerocrs.com",
+        "gstatic.com",
+        "cdn.raygun.io",
+        "fonts.gstatic.com",
+        "widgets.leadconnectorhq.com",
+        "services.leadconnectorhq.com",
+        "google-analytics.com",
+        "stcdn.leadconnectorhq.com",
+        "fonts.bunny.net",
+        "cdn.jsdelivr.net",
+        "services.msgsndr.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.flysansa.com",
+      "instante": "2026-11-06T01:07:55.002Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809479277.78925,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1793928478.417633,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "csrf_token",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 129
+        },
+        {
+          "name": "nlbi_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "visid_incap_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1825398961.882202,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "incap_ses_1698_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "path": "/",
+          "expires": 1793929077.53536,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga_LJS063KXRM",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1828487277.75363,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1828487277.754039,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "csrf_token",
+          "v2_contact_session_rVn3RUkkQ2lhuR76dPpM_session_id",
+          "raygun4js-userid",
+          "v2_history_rVn3RUkkQ2lhuR76dPpM",
+          "v2_session_history_rVn3RUkkQ2lhuR76dPpM",
+          "v3_first_session_event_rVn3RUkkQ2lhuR76dPpM",
+          "nomfields",
+          "rVn3RUkkQ2lhuR76dPpMlead-connecter-text-widget-prompt-dismissed"
+        ],
+        "sessionStorage": [
+          "i18n.es"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "storage.aerocrs.com",
+        "gstatic.com",
+        "cdn.raygun.io",
+        "fonts.gstatic.com",
+        "widgets.leadconnectorhq.com",
+        "services.leadconnectorhq.com",
+        "google-analytics.com",
+        "stcdn.leadconnectorhq.com",
+        "fonts.bunny.net",
+        "cdn.jsdelivr.net",
+        "services.msgsndr.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.flysansa.com",
+      "instante": "2026-11-06T01:08:15.530Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809479298.438147,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1793928498.933927,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "csrf_token",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 129
+        },
+        {
+          "name": "nlbi_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "visid_incap_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1825398961.413031,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "incap_ses_1698_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "path": "/",
+          "expires": 1793929098.032262,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_LJS063KXRM",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1828487298.357359,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1828487298.357797,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "csrf_token",
+          "v2_contact_session_rVn3RUkkQ2lhuR76dPpM_session_id",
+          "raygun4js-userid",
+          "v2_history_rVn3RUkkQ2lhuR76dPpM",
+          "v2_session_history_rVn3RUkkQ2lhuR76dPpM",
+          "v3_first_session_event_rVn3RUkkQ2lhuR76dPpM",
+          "nomfields",
+          "rVn3RUkkQ2lhuR76dPpMlead-connecter-text-widget-prompt-dismissed"
+        ],
+        "sessionStorage": [
+          "i18n.es"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "maxcdn.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "storage.aerocrs.com",
+        "gstatic.com",
+        "cdn.raygun.io",
+        "fonts.gstatic.com",
+        "widgets.leadconnectorhq.com",
+        "services.leadconnectorhq.com",
+        "google-analytics.com",
+        "stcdn.leadconnectorhq.com",
+        "fonts.bunny.net",
+        "cdn.jsdelivr.net",
+        "services.msgsndr.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.flysansa.com",
+      "instante": "2026-11-06T01:08:44.275Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809479327.226532,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1793928528.014343,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "csrf_token",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 129
+        },
+        {
+          "name": "nlbi_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "visid_incap_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1825398962.06442,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "incap_ses_1698_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "path": "/",
+          "expires": 1793929126.664916,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga_LJS063KXRM",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1828487326.950232,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1828487326.950636,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "csrf_token",
+          "v2_contact_session_rVn3RUkkQ2lhuR76dPpM_session_id",
+          "raygun4js-userid",
+          "v2_history_rVn3RUkkQ2lhuR76dPpM",
+          "v2_session_history_rVn3RUkkQ2lhuR76dPpM",
+          "v3_first_session_event_rVn3RUkkQ2lhuR76dPpM",
+          "nomfields",
+          "rVn3RUkkQ2lhuR76dPpMlead-connecter-text-widget-prompt-dismissed"
+        ],
+        "sessionStorage": [
+          "i18n.es"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "storage.aerocrs.com",
+        "gstatic.com",
+        "cdn.raygun.io",
+        "fonts.gstatic.com",
+        "widgets.leadconnectorhq.com",
+        "google-analytics.com",
+        "services.leadconnectorhq.com",
+        "stcdn.leadconnectorhq.com",
+        "fonts.bunny.net",
+        "cdn.jsdelivr.net",
+        "services.msgsndr.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.flysansa.com",
+      "instante": "2026-11-06T01:09:04.260Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809479357.202595,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1793928557.837803,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "csrf_token",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 129
+        },
+        {
+          "name": "nlbi_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "visid_incap_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1825398962.162041,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "incap_ses_1698_2435458",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "path": "/",
+          "expires": 1793929146.801124,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1828487356.618113,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_LJS063KXRM",
+          "domain": ".flysansa.com",
+          "path": "/",
+          "expires": 1828487356.623716,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "csrf_token",
+          "v2_contact_session_rVn3RUkkQ2lhuR76dPpM_session_id",
+          "raygun4js-userid",
+          "v2_history_rVn3RUkkQ2lhuR76dPpM",
+          "v2_session_history_rVn3RUkkQ2lhuR76dPpM",
+          "v3_first_session_event_rVn3RUkkQ2lhuR76dPpM",
+          "nomfields",
+          "rVn3RUkkQ2lhuR76dPpMlead-connecter-text-widget-prompt-dismissed",
+          "lead-connecter-text-widget-input-values"
+        ],
+        "sessionStorage": [
+          "i18n.es"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "storage.aerocrs.com",
+        "gstatic.com",
+        "cdn.raygun.io",
+        "fonts.gstatic.com",
+        "widgets.leadconnectorhq.com",
+        "services.leadconnectorhq.com",
+        "google-analytics.com",
+        "stcdn.leadconnectorhq.com",
+        "fonts.bunny.net",
+        "cdn.jsdelivr.net",
+        "services.msgsndr.com",
+        "use.fontawesome.com",
+        "kit.fontawesome.com",
+        "ka-p.fontawesome.com",
+        "csp.withgoogle.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.flysansa.com",
+      "instante": "2026-11-06T01:09:26.200Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809479369.106948,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": ".flysansa.com",
+          "expires": 1793928596.147701,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "csrf_token",
+          "domain": ".flysansa.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 129
+        },
+        {
+          "name": "nlbi_2435458",
+          "domain": ".flysansa.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "visid_incap_2435458",
+          "domain": ".flysansa.com",
+          "expires": 1825398962.008955,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "incap_ses_1698_2435458",
+          "domain": ".flysansa.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".leadconnectorhq.com",
+          "expires": 1793929168.894692,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 197
+        },
+        {
+          "name": "_ga",
+          "domain": ".flysansa.com",
+          "expires": 1828487394.70534,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_LJS063KXRM",
+          "domain": ".flysansa.com",
+          "expires": 1828487394.711256,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "cdn.raygun.io",
+        "fonts.gstatic.com",
+        "widgets.leadconnectorhq.com",
+        "google-analytics.com",
+        "storage.aerocrs.com",
+        "services.leadconnectorhq.com",
+        "stcdn.leadconnectorhq.com",
+        "fonts.bunny.net",
+        "cdn.jsdelivr.net",
+        "services.msgsndr.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_LJS063KXRM@.flysansa.com",
+        "_ga@.flysansa.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 8,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "csrf_token",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "nlbi_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "visid_incap_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "incap_ses_1698_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "csrf_token",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "nlbi_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "visid_incap_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "incap_ses_1698_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "csrf_token",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "nlbi_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "visid_incap_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "incap_ses_1698_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "csrf_token",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "nlbi_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "visid_incap_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "incap_ses_1698_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "csrf_token",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "nlbi_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "visid_incap_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "incap_ses_1698_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "csrf_token",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "nlbi_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "visid_incap_2435458",
+      "dominio": ".flysansa.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "incap_ses_1698_2435458",
+      "dominio": ".flysansa.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 9,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 45.3,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

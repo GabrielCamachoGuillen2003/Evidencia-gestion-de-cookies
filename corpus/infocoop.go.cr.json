@@ -1,0 +1,786 @@
+{
+  "sitio": "infocoop.go.cr",
+  "url": "https://www.infocoop.go.cr",
+  "auditadoEn": "2026-11-06T04:44:41.699Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.infocoop.go.cr",
+      "instante": "2026-11-06T04:42:32.960Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.infocoop.go.cr",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 754
+        },
+        {
+          "name": "_ga_T64SEHGF7H",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1828500154.655858,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1828500154.656382,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1825476160.021069,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.infocoop.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.infocoop.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "_cfPre_tabId"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "embed.tawk.to",
+        "va.tawk.to"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "embed.tawk.to",
+        "va.tawk.to"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.infocoop.go.cr",
+      "instante": "2026-11-06T04:42:55.109Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.infocoop.go.cr",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 780
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1825476176.176525,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "_ga_T64SEHGF7H",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1828500176.662381,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1828500176.662924,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.infocoop.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.infocoop.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "_cfPre_tabId"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "static.cloudflareinsights.com",
+        "embed.tawk.to",
+        "google-analytics.com",
+        "va.tawk.to"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "embed.tawk.to",
+        "google-analytics.com",
+        "va.tawk.to"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.infocoop.go.cr",
+      "instante": "2026-11-06T04:43:13.905Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.infocoop.go.cr",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 745
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1825476195.21138,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "_ga_T64SEHGF7H",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1828500195.617256,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1828500195.617764,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.infocoop.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.infocoop.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "_cfPre_tabId"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "static.cloudflareinsights.com",
+        "embed.tawk.to",
+        "google-analytics.com",
+        "va.tawk.to"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "embed.tawk.to",
+        "google-analytics.com",
+        "va.tawk.to"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.infocoop.go.cr",
+      "instante": "2026-11-06T04:43:35.572Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.infocoop.go.cr",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 780
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1825476216.606816,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "_ga_T64SEHGF7H",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1828500217.241158,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1828500217.241989,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.infocoop.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.infocoop.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "_cfPre_tabId"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "static.cloudflareinsights.com",
+        "embed.tawk.to",
+        "google-analytics.com",
+        "va.tawk.to"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "embed.tawk.to",
+        "google-analytics.com",
+        "va.tawk.to"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.infocoop.go.cr",
+      "instante": "2026-11-06T04:43:53.858Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.infocoop.go.cr",
+          "path": "/cdn-cgi/challenge-platform",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 768
+        },
+        {
+          "name": "_ga",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1828500235.328793,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.infocoop.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "_ga_T64SEHGF7H",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1828500249.879295,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".infocoop.go.cr",
+          "path": "/",
+          "expires": 1825476250.034089,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.infocoop.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": [
+          "_cfPre_tabId"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "static.cloudflareinsights.com",
+        "embed.tawk.to",
+        "google-analytics.com",
+        "va.tawk.to"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "embed.tawk.to",
+        "google-analytics.com",
+        "va.tawk.to"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.infocoop.go.cr",
+      "instante": "2026-11-06T04:44:19.087Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_ob",
+          "domain": "www.infocoop.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 781
+        },
+        {
+          "name": "_ga",
+          "domain": ".infocoop.go.cr",
+          "expires": 1828500260.460839,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "twk_idm_key",
+          "domain": "www.infocoop.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 21
+        },
+        {
+          "name": "_ga_T64SEHGF7H",
+          "domain": ".infocoop.go.cr",
+          "expires": 1828500274.714109,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "cf_clearance",
+          "domain": ".infocoop.go.cr",
+          "expires": 1825476274.773205,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 647
+        },
+        {
+          "name": "TawkConnectionTime",
+          "domain": "www.infocoop.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "use.fontawesome.com",
+        "static.cloudflareinsights.com",
+        "embed.tawk.to",
+        "va.tawk.to",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "embed.tawk.to",
+        "va.tawk.to",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_T64SEHGF7H@.infocoop.go.cr",
+        "_ga@.infocoop.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 6,
+        "rastreadoresEnE0": 5
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__cf_ob",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "twk_idm_key",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__cf_ob",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "twk_idm_key",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__cf_ob",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "twk_idm_key",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__cf_ob",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "twk_idm_key",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__cf_ob",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "twk_idm_key",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__cf_ob",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "twk_idm_key",
+      "dominio": "www.infocoop.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "TawkConnectionTime",
+      "dominio": "www.infocoop.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 6,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 50,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

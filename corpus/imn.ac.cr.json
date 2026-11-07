@@ -1,0 +1,728 @@
+{
+  "sitio": "imn.ac.cr",
+  "url": "https://www.imn.ac.cr",
+  "auditadoEn": "2026-11-04T23:35:13.624Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.imn.ac.cr",
+      "instante": "2026-11-04T23:33:07.525Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "path": "/Portal-IMN-Principal-Nuevo-theme/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": 1825371189.495005,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": 1825371188.658434,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_8EWNB1BKMM",
+          "domain": ".imn.ac.cr",
+          "path": "/",
+          "expires": 1828395189.166956,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".imn.ac.cr",
+          "path": "/",
+          "expires": 1828395189.167474,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.imn.ac.cr",
+      "instante": "2026-11-04T23:33:23.597Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "path": "/Portal-IMN-Principal-Nuevo-theme/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": 1825371204.671224,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": 1825371204.67125,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_8EWNB1BKMM",
+          "domain": ".imn.ac.cr",
+          "path": "/",
+          "expires": 1828395205.283175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".imn.ac.cr",
+          "path": "/",
+          "expires": 1828395205.283945,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.imn.ac.cr",
+      "instante": "2026-11-04T23:33:42.474Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "path": "/Portal-IMN-Principal-Nuevo-theme/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": 1825371223.558651,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": 1825371223.55871,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_8EWNB1BKMM",
+          "domain": ".imn.ac.cr",
+          "path": "/",
+          "expires": 1828395224.105451,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".imn.ac.cr",
+          "path": "/",
+          "expires": 1828395224.106117,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.imn.ac.cr",
+      "instante": "2026-11-04T23:34:04.172Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "path": "/Portal-IMN-Principal-Nuevo-theme/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": 1825371244.367665,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": 1825371244.367699,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_8EWNB1BKMM",
+          "domain": ".imn.ac.cr",
+          "path": "/",
+          "expires": 1828395245.848331,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".imn.ac.cr",
+          "path": "/",
+          "expires": 1828395245.848922,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.imn.ac.cr",
+      "instante": "2026-11-04T23:34:22.584Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "path": "/Portal-IMN-Principal-Nuevo-theme/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": 1825371278.173834,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": 1825371263.650196,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga",
+          "domain": ".imn.ac.cr",
+          "path": "/",
+          "expires": 1828395264.224329,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_8EWNB1BKMM",
+          "domain": ".imn.ac.cr",
+          "path": "/",
+          "expires": 1828395278.263755,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.imn.ac.cr",
+      "instante": "2026-11-04T23:34:47.442Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "GUEST_LANGUAGE_ID",
+          "domain": "www.imn.ac.cr",
+          "expires": 1825371291.822896,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 5
+        },
+        {
+          "name": "COOKIE_SUPPORT",
+          "domain": "www.imn.ac.cr",
+          "expires": 1825371288.512286,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 4
+        },
+        {
+          "name": "_ga",
+          "domain": ".imn.ac.cr",
+          "expires": 1828395289.454266,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "www.imn.ac.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_8EWNB1BKMM",
+          "domain": ".imn.ac.cr",
+          "expires": 1828395306.531499,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "use.fontawesome.com",
+        "fonts.googleapis.com",
+        "maxcdn.bootstrapcdn.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_8EWNB1BKMM@.imn.ac.cr",
+        "_ga@.imn.ac.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 6,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.imn.ac.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.imn.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.imn.ac.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.imn.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.imn.ac.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.imn.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.imn.ac.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.imn.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.imn.ac.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.imn.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "GUEST_LANGUAGE_ID",
+      "dominio": "www.imn.ac.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "COOKIE_SUPPORT",
+      "dominio": "www.imn.ac.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 6,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 33.3,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

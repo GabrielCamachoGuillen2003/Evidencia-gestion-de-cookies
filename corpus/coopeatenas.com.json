@@ -1,0 +1,645 @@
+{
+  "sitio": "coopeatenas.com",
+  "url": "https://coopeatenas.com",
+  "auditadoEn": "2026-11-06T03:19:51.883Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://coopeatenas.com",
+      "instante": "2026-11-06T03:17:19.091Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "coopeatenas.com",
+          "path": "/",
+          "expires": 1828495040.672073,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1795663040.67238,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 434
+        },
+        {
+          "name": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1795663039.672492,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 506
+        },
+        {
+          "name": "_ga_2C79E6XFGT",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1828495042.149263,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1828495042.149673,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "stackpath.bootstrapcdn.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://coopeatenas.com",
+      "instante": "2026-11-06T03:17:38.212Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "coopeatenas.com",
+          "path": "/",
+          "expires": 1828495059.796372,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1795663059.796817,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 434
+        },
+        {
+          "name": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1795663058.796966,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 506
+        },
+        {
+          "name": "_ga_2C79E6XFGT",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1828495061.111033,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1828495061.111486,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "stackpath.bootstrapcdn.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://coopeatenas.com",
+      "instante": "2026-11-06T03:17:59.736Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "coopeatenas.com",
+          "path": "/",
+          "expires": 1828495081.428566,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1795663081.428971,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 434
+        },
+        {
+          "name": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1795663080.429101,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 506
+        },
+        {
+          "name": "_ga_2C79E6XFGT",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1828495082.707775,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1828495082.708194,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "stackpath.bootstrapcdn.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://coopeatenas.com",
+      "instante": "2026-11-06T03:18:23.967Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "coopeatenas.com",
+          "path": "/",
+          "expires": 1828495105.616359,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1795663105.617067,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 434
+        },
+        {
+          "name": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1795663104.617162,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 506
+        },
+        {
+          "name": "_ga_2C79E6XFGT",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1828495106.868089,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1828495106.868497,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "stackpath.bootstrapcdn.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://coopeatenas.com",
+      "instante": "2026-11-06T03:18:45.142Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "coopeatenas.com",
+          "path": "/",
+          "expires": 1828495127.535321,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1795663127.535423,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 434
+        },
+        {
+          "name": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1795663125.535475,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 506
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1828495154.212686,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_2C79E6XFGT",
+          "domain": ".coopeatenas.com",
+          "path": "/",
+          "expires": 1828495154.216682,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "stackpath.bootstrapcdn.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://coopeatenas.com",
+      "instante": "2026-11-06T03:19:23.701Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "coopeatenas.com",
+          "expires": 1828495166.97588,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+          "domain": ".coopeatenas.com",
+          "expires": 1795663166.97618,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 434
+        },
+        {
+          "name": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+          "domain": ".coopeatenas.com",
+          "expires": 1795663165.976281,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 20,
+          "valorLongitud": 506
+        },
+        {
+          "name": "_ga",
+          "domain": ".coopeatenas.com",
+          "expires": 1828495184.693148,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_2C79E6XFGT",
+          "domain": ".coopeatenas.com",
+          "expires": 1828495184.697875,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "stackpath.bootstrapcdn.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_2C79E6XFGT@.coopeatenas.com",
+        "_ga@.coopeatenas.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 5,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+      "dominio": ".coopeatenas.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+      "dominio": ".coopeatenas.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+      "dominio": ".coopeatenas.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+      "dominio": ".coopeatenas.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+      "dominio": ".coopeatenas.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+      "dominio": ".coopeatenas.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+      "dominio": ".coopeatenas.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+      "dominio": ".coopeatenas.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+      "dominio": ".coopeatenas.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+      "dominio": ".coopeatenas.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "PrestaShop-e0283483fe40bf3937469f489adc4fc3",
+      "dominio": ".coopeatenas.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "PrestaShop-954f980d7a50941ccc67714af1ed025b",
+      "dominio": ".coopeatenas.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 5,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 40,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

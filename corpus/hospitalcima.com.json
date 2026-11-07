@@ -1,0 +1,2582 @@
+{
+  "sitio": "hospitalcima.com",
+  "url": "https://hospitalcima.com",
+  "auditadoEn": "2026-11-06T00:38:33.348Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://hospitalcima.com",
+      "instante": "2026-11-06T00:35:41.496Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "pll_language",
+          "domain": "hospitalcima.com",
+          "path": "/",
+          "expires": 1825461344.335499,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1793927146,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 55
+        },
+        {
+          "name": "pys_session_limit",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1793928947,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_start_session",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_first_visit",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530147,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530147,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530147,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "last_pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530147,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "last_pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530147,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_fbp",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1801701348,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477348.347081,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477348.347127,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1828485347.817839,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477347.346884,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477348.347016,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801701348.51237,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "pbid",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1809477348,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga_TYKZ07QK1F",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1828485357.235115,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "elementor",
+          "mekwlej1pemyo"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "sverigegladtid.com",
+        "fonts.gstatic.com",
+        "xllavlk7ul.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "youtube.com",
+        "google-analytics.com",
+        "mpc-prod-24-s6uit34pua-uw.a.run.app",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://hospitalcima.com",
+      "instante": "2026-11-06T00:36:02.595Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "pll_language",
+          "domain": "hospitalcima.com",
+          "path": "/",
+          "expires": 1825461365.244914,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1793927167,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 55
+        },
+        {
+          "name": "pys_session_limit",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1793928967,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_start_session",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_first_visit",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530167,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530167,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530167,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "last_pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530167,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "last_pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530167,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_fbp",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1801701368,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477368.466434,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477368.466661,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1828485368.306334,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477368.465731,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477368.466133,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801701368.875931,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "pbid",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1809477369,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga_TYKZ07QK1F",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1828485377.027178,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "elementor",
+          "mekwlej1pemyo"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "sverigegladtid.com",
+        "fonts.gstatic.com",
+        "xllavlk7ul.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "youtube.com",
+        "google-analytics.com",
+        "mpc-prod-24-s6uit34pua-uw.a.run.app",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://hospitalcima.com",
+      "instante": "2026-11-06T00:36:28.387Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "pll_language",
+          "domain": "hospitalcima.com",
+          "path": "/",
+          "expires": 1825461391.161429,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1793927193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 55
+        },
+        {
+          "name": "pys_session_limit",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1793928993,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_start_session",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_first_visit",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "last_pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "last_pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_fbp",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1801701394,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477394.339856,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477394.339908,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1828485394.280998,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477393.339718,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477394.339972,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801701394.467753,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "pbid",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1809477395,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga_TYKZ07QK1F",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1828485414.09291,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "elementor",
+          "mekwlej1pemyo"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "sverigegladtid.com",
+        "fonts.gstatic.com",
+        "xllavlk7ul.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "youtube.com",
+        "mpc-prod-24-s6uit34pua-uw.a.run.app",
+        "facebook.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com",
+        "gstatic.com",
+        "r2---sn-j5caxupj5-nwvz.googlevideo.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "facebook.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://hospitalcima.com",
+      "instante": "2026-11-06T00:36:59.638Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "pll_language",
+          "domain": "hospitalcima.com",
+          "path": "/",
+          "expires": 1825461422.69918,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1793927224,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 55
+        },
+        {
+          "name": "pys_session_limit",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1793929025,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_start_session",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_first_visit",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "last_pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "last_pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_fbp",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1801701425,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477426.034114,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477426.03416,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1828485425.880469,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477426.033917,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477426.034011,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801701426.183154,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "pbid",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1809477426,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_ga_TYKZ07QK1F",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1828485434.433846,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "elementor",
+          "mekwlej1pemyo"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "sverigegladtid.com",
+        "fonts.gstatic.com",
+        "xllavlk7ul.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "youtube.com",
+        "google-analytics.com",
+        "mpc-prod-24-s6uit34pua-uw.a.run.app",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://hospitalcima.com",
+      "instante": "2026-11-06T00:37:25.263Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "PHPSESSID",
+          "domain": "hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "pys_session_limit",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1793929051,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_start_session",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_first_visit",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "last_pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "last_pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1794530251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_fbp",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1801701469,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477469.764991,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477469.765246,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1828485469.284375,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801701452.144003,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477451.482382,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809477452.483215,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "pbid",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1809477452,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 64
+        },
+        {
+          "name": "pll_language",
+          "domain": "hospitalcima.com",
+          "path": "/",
+          "expires": 1825461468.773823,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1793927269,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 67
+        },
+        {
+          "name": "_ga_TYKZ07QK1F",
+          "domain": ".hospitalcima.com",
+          "path": "/",
+          "expires": 1828485470.644765,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "elementor",
+          "mekwlej1pemyo"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "sverigegladtid.com",
+        "fonts.gstatic.com",
+        "xllavlk7ul.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "youtube.com",
+        "google-analytics.com",
+        "mpc-prod-24-s6uit34pua-uw.a.run.app",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com",
+        "gstatic.com",
+        "yt3.ggpht.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://hospitalcima.com",
+      "instante": "2026-11-06T00:37:58.494Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "pll_language",
+          "domain": "hospitalcima.com",
+          "expires": 1825461481.197339,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "hospitalcima.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sbjs_migrations",
+          "domain": ".hospitalcima.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 17
+        },
+        {
+          "name": "sbjs_current_add",
+          "domain": ".hospitalcima.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_first_add",
+          "domain": ".hospitalcima.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 101
+        },
+        {
+          "name": "sbjs_current",
+          "domain": ".hospitalcima.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_first",
+          "domain": ".hospitalcima.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 238
+        },
+        {
+          "name": "sbjs_udata",
+          "domain": ".hospitalcima.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 225
+        },
+        {
+          "name": "pys_session_limit",
+          "domain": ".hospitalcima.com",
+          "expires": 1793929083,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_start_session",
+          "domain": ".hospitalcima.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pys_first_visit",
+          "domain": ".hospitalcima.com",
+          "expires": 1794530283,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 4
+        },
+        {
+          "name": "pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "expires": 1794530283,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "expires": 1794530283,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "last_pysTrafficSource",
+          "domain": ".hospitalcima.com",
+          "expires": 1794530283,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 6
+        },
+        {
+          "name": "last_pys_landing_page",
+          "domain": ".hospitalcima.com",
+          "expires": 1794530283,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_fbp",
+          "domain": ".hospitalcima.com",
+          "expires": 1801701506,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 29
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809477506.89313,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809477506.893505,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".hospitalcima.com",
+          "expires": 1828485506.438761,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801701484.666558,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809477484.825855,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809477484.825962,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "pbid",
+          "domain": ".hospitalcima.com",
+          "expires": 1809477485,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 64
+        },
+        {
+          "name": "sbjs_session",
+          "domain": ".hospitalcima.com",
+          "expires": 1793927306,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 55
+        },
+        {
+          "name": "_ga_TYKZ07QK1F",
+          "domain": ".hospitalcima.com",
+          "expires": 1828485507.734639,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "sverigegladtid.com",
+        "fonts.gstatic.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "youtube.com",
+        "mpc-prod-24-s6uit34pua-uw.a.run.app",
+        "facebook.com",
+        "xllavlk7ul.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "yt3.ggpht.com",
+        "jnn-pa.googleapis.com",
+        "rr2---sn-j5caxupj5-nwvz.googlevideo.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_fbp@.hospitalcima.com",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "_ga@.hospitalcima.com",
+        "__Secure-YNID@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "fr@.facebook.com",
+        "_ga_TYKZ07QK1F@.hospitalcima.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 26,
+        "rastreadoresEnE0": 6
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "pll_language",
+      "dominio": "hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_migrations",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_current_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_first_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_current",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_first",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_udata",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sbjs_session",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "pys_session_limit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "pys_start_session",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "pys_first_visit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "last_pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "last_pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "pbid",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pll_language",
+      "dominio": "hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_migrations",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_current_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_first_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_current",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_first",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_udata",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sbjs_session",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pys_session_limit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pys_start_session",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pys_first_visit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "last_pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "last_pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "pbid",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "pll_language",
+      "dominio": "hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_migrations",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_current_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_first_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_current",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_first",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_udata",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sbjs_session",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "pys_session_limit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "pys_start_session",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "pys_first_visit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "last_pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "last_pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "pbid",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "pll_language",
+      "dominio": "hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_migrations",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_current_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_first_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_current",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_first",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_udata",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sbjs_session",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "pys_session_limit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "pys_start_session",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "pys_first_visit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "last_pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "last_pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "pbid",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_migrations",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_current_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_first_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_current",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_first",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_udata",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "pys_session_limit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "pys_start_session",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "pys_first_visit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "last_pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "last_pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "pbid",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "pll_language",
+      "dominio": "hospitalcima.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sbjs_session",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "pll_language",
+      "dominio": "hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_migrations",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_current_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_first_add",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_current",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_first",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_udata",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "pys_session_limit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "pys_start_session",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "pys_first_visit",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "last_pysTrafficSource",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "last_pys_landing_page",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "pbid",
+      "dominio": ".hospitalcima.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sbjs_session",
+      "dominio": ".hospitalcima.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 26,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 61.5,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

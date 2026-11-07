@@ -1,0 +1,1879 @@
+{
+  "sitio": "cafebritt.com",
+  "url": "https://www.cafebritt.com",
+  "auditadoEn": "2026-11-05T02:05:26.937Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.cafebritt.com",
+      "instante": "2026-11-05T02:03:17.076Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "localization",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380197.450606,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cart_currency",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1795053797.450744,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 14,
+          "valorLongitud": 3
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380197.45078,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380197.450854,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380197.45089,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "path": "/",
+          "expires": 1825380198.007666,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 168
+        },
+        {
+          "name": "__blockify::first-access-url",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        },
+        {
+          "name": "geoip-inline-faabaa-2.myshopify.com",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1793858400,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 188
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.cafebritt.com",
+          "path": "/",
+          "expires": 1793845998.285727,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__blockify::analyzer",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "shopify_client_id",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380198,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "SEARCH_SAMESITE",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809396198.486482,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 8
+        },
+        {
+          "name": "AEC",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809396198.486511,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 58
+        },
+        {
+          "name": "__Secure-STRP",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1793844499.727701,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809655398.727787,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 339
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sb_wiz.zpc.gws-wiz.",
+          "aim;;aim_welcome_animation_plays",
+          "_c;;i"
+        ],
+        "sessionStorage": [
+          "hsb;;1793844198067",
+          "hsb;;1793844198066",
+          "_c;;i"
+        ]
+      },
+      "terceros": [
+        "shop.app",
+        "cdn.shopify.com",
+        "static.klaviyo.com",
+        "app.octaneai.com",
+        "upsellit.com",
+        "static.zdassets.com",
+        "static.rechargecdn.com",
+        "loox.io",
+        "conf.config-security.com",
+        "api.config-security.com",
+        "otlp-http-production.shopifysvc.com",
+        "ip-check-perf.radar.cloudflare.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google.com",
+        "analytics.tiktok.com",
+        "monorail-edge.shopifysvc.com",
+        "ct.pinterest.com",
+        "static-tracking.klaviyo.com",
+        "fonts.gstatic.com",
+        "csp.withgoogle.com",
+        "gstatic.com",
+        "ogads-pa.clients6.google.com",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "static.zdassets.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.cafebritt.com",
+      "instante": "2026-11-05T02:03:34.458Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "localization",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380214.871592,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cart_currency",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1795053814.871662,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 14,
+          "valorLongitud": 3
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380214.87169,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380214.871719,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380214.871745,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "__blockify::first-access-url",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "path": "/",
+          "expires": 1825380215.444768,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 166
+        },
+        {
+          "name": "geoip-inline-faabaa-2.myshopify.com",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1793858400,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 188
+        },
+        {
+          "name": "__blockify::analyzer",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "SEARCH_SAMESITE",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809396215.85665,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 8
+        },
+        {
+          "name": "AEC",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809396215.856704,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 58
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.cafebritt.com",
+          "path": "/",
+          "expires": 1793846015.887191,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "shopify_client_id",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380215,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__Secure-STRP",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1793844516.918128,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809655415.918206,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 338
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sb_wiz.zpc.gws-wiz.",
+          "aim;;aim_welcome_animation_plays",
+          "_c;;i"
+        ],
+        "sessionStorage": [
+          "hsb;;1793844215390",
+          "hsb;;1793844215389",
+          "_c;;i"
+        ]
+      },
+      "terceros": [
+        "shop.app",
+        "cdn.shopify.com",
+        "static.klaviyo.com",
+        "app.octaneai.com",
+        "upsellit.com",
+        "static.zdassets.com",
+        "loox.io",
+        "static.rechargecdn.com",
+        "conf.config-security.com",
+        "api.config-security.com",
+        "ip-check-perf.radar.cloudflare.com",
+        "otlp-http-production.shopifysvc.com",
+        "google.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "csp.withgoogle.com",
+        "gstatic.com",
+        "ogads-pa.clients6.google.com",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "static.zdassets.com",
+        "connect.facebook.net",
+        "googletagmanager.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.cafebritt.com",
+      "instante": "2026-11-05T02:03:52.821Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "sin rechazo en primera capa; abierto «configuración»",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "localization",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380233.381993,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cart_currency",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1795053833.382101,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 14,
+          "valorLongitud": 3
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380233.382143,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380233.382183,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380233.382219,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "__blockify::first-access-url",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        },
+        {
+          "name": "geoip-inline-faabaa-2.myshopify.com",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1793858400,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 188
+        },
+        {
+          "name": "__blockify::analyzer",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "SEARCH_SAMESITE",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809396234.233921,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 8
+        },
+        {
+          "name": "AEC",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809396234.233953,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 59
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "path": "/",
+          "expires": 1825380234.281224,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 168
+        },
+        {
+          "name": "shopify_client_id",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380234,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809655433.495657,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 338
+        },
+        {
+          "name": "__Secure-STRP",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1793844549.737974,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sb_wiz.zpc.gws-wiz.",
+          "aim;;aim_welcome_animation_plays",
+          "_c;;i"
+        ],
+        "sessionStorage": [
+          "hsb;;1793844233800",
+          "hsb;;1793844233799",
+          "_c;;i"
+        ]
+      },
+      "terceros": [
+        "shop.app",
+        "cdn.shopify.com",
+        "static.klaviyo.com",
+        "app.octaneai.com",
+        "upsellit.com",
+        "static.zdassets.com",
+        "static.rechargecdn.com",
+        "loox.io",
+        "conf.config-security.com",
+        "api.config-security.com",
+        "ip-check-perf.radar.cloudflare.com",
+        "otlp-http-production.shopifysvc.com",
+        "google.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "csp.withgoogle.com",
+        "gstatic.com",
+        "ogads-pa.clients6.google.com",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "static.zdassets.com",
+        "connect.facebook.net",
+        "googletagmanager.com"
+      ],
+      "rechazoEnPrimeraCapa": false,
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.cafebritt.com",
+      "instante": "2026-11-05T02:04:15.472Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "panel abierto; 0 casillas, 0 premarcadas",
+        "sin botón de guardar — manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "localization",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380255.788971,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cart_currency",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1795053855.789161,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 14,
+          "valorLongitud": 3
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380255.7892,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380255.78927,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380255.789318,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "path": "/",
+          "expires": 1825380256.464083,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 166
+        },
+        {
+          "name": "octane%2Fv2%2Flast_assistant_quiz_id",
+          "domain": ".cafebritt.com",
+          "path": "/",
+          "expires": 1828404256.502025,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 0
+        },
+        {
+          "name": "octane%2Fv2%2Flast_assistant_quiz_id",
+          "domain": ".www.cafebritt.com",
+          "path": "/",
+          "expires": 1828404256.502104,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 0
+        },
+        {
+          "name": "octane%2Fshopify%2Fuid",
+          "domain": ".cafebritt.com",
+          "path": "/",
+          "expires": 1828404256.502852,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 120
+        },
+        {
+          "name": "octane%2Fshopify%2Fuid",
+          "domain": ".www.cafebritt.com",
+          "path": "/",
+          "expires": 1828404256.502936,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 120
+        },
+        {
+          "name": "geoip-inline-faabaa-2.myshopify.com",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1793858400,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 188
+        },
+        {
+          "name": "__blockify::first-access-url",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        },
+        {
+          "name": "__blockify::analyzer",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "shopify_client_id",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380256,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.cafebritt.com",
+          "path": "/",
+          "expires": 1793846057.038305,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga_872F0QQZ7L",
+          "domain": ".cafebritt.com",
+          "path": "/",
+          "expires": 1828404257.201953,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".cafebritt.com",
+          "path": "/",
+          "expires": 1828404257.276364,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "tst",
+          "domain": ".pinterest.com",
+          "path": "/",
+          "expires": 1794017057.251273,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 2,
+          "valorLongitud": 151
+        },
+        {
+          "name": "SEARCH_SAMESITE",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809396257.251697,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 8
+        },
+        {
+          "name": "AEC",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809396257.251737,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 58
+        },
+        {
+          "name": "_ga_N51YB2W3NB",
+          "domain": ".cafebritt.com",
+          "path": "/",
+          "expires": 1828404257.275753,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_pin_unauth",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380256,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 70
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809655456.434523,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 339
+        },
+        {
+          "name": "__Secure-STRP",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1793844571.362926,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sb_wiz.zpc.gws-wiz.",
+          "aim;;aim_welcome_animation_plays",
+          "_c;;i"
+        ],
+        "sessionStorage": [
+          "_c;;i",
+          "hsb;;1793844256592",
+          "hsb;;1793844256593"
+        ]
+      },
+      "terceros": [
+        "shop.app",
+        "cdn.shopify.com",
+        "static.klaviyo.com",
+        "app.octaneai.com",
+        "upsellit.com",
+        "static.zdassets.com",
+        "static.rechargecdn.com",
+        "loox.io",
+        "conf.config-security.com",
+        "api.config-security.com",
+        "otlp-http-production.shopifysvc.com",
+        "app2.octaneai.com",
+        "ekr.zdassets.com",
+        "ip-check-perf.radar.cloudflare.com",
+        "app.upsellit.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "ct.pinterest.com",
+        "monorail-edge.shopifysvc.com",
+        "static-tracking.klaviyo.com",
+        "google.com",
+        "merchant-center-analytics.goog",
+        "fonts.gstatic.com",
+        "csp.withgoogle.com",
+        "gstatic.com",
+        "ogads-pa.clients6.google.com",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "analytics.tiktok.com"
+      ],
+      "casillas": [],
+      "premarcadas": 0,
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.cafebritt.com",
+      "instante": "2026-11-05T02:04:36.374Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "localization",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380276.726899,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cart_currency",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1795053877.831961,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 14,
+          "valorLongitud": 3
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380276.727028,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380276.727068,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380276.727104,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "octane%2Fv2%2Flast_assistant_quiz_id",
+          "domain": ".cafebritt.com",
+          "path": "/",
+          "expires": 1828404277.404246,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 0
+        },
+        {
+          "name": "octane%2Fv2%2Flast_assistant_quiz_id",
+          "domain": ".www.cafebritt.com",
+          "path": "/",
+          "expires": 1828404277.40432,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 0
+        },
+        {
+          "name": "octane%2Fshopify%2Fuid",
+          "domain": ".cafebritt.com",
+          "path": "/",
+          "expires": 1828404277.405245,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 120
+        },
+        {
+          "name": "octane%2Fshopify%2Fuid",
+          "domain": ".www.cafebritt.com",
+          "path": "/",
+          "expires": 1828404277.405325,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 120
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "path": "/",
+          "expires": 1825380277.432818,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 166
+        },
+        {
+          "name": "__blockify::first-access-url",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        },
+        {
+          "name": "geoip-inline-faabaa-2.myshopify.com",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1793858400,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 188
+        },
+        {
+          "name": "__blockify::analyzer",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "shopify_client_id",
+          "domain": "www.cafebritt.com",
+          "path": "/",
+          "expires": 1825380277,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.cafebritt.com",
+          "path": "/",
+          "expires": 1793846077.888271,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "SEARCH_SAMESITE",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809396277.948957,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 8
+        },
+        {
+          "name": "AEC",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809396277.949,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 58
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809655478.029747,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 339
+        },
+        {
+          "name": "__Secure-STRP",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1793844594.235098,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sb_wiz.zpc.gws-wiz.",
+          "aim;;aim_welcome_animation_plays",
+          "_c;;i"
+        ],
+        "sessionStorage": [
+          "hsb;;1793844277526",
+          "hsb;;1793844293134",
+          "hsb;;1793844293135",
+          "hsb;;1793844277527",
+          "sr;;1793844277526",
+          "_c;;i"
+        ]
+      },
+      "terceros": [
+        "shop.app",
+        "cdn.shopify.com",
+        "static.klaviyo.com",
+        "app.octaneai.com",
+        "upsellit.com",
+        "static.zdassets.com",
+        "static.rechargecdn.com",
+        "loox.io",
+        "conf.config-security.com",
+        "api.config-security.com",
+        "otlp-http-production.shopifysvc.com",
+        "app2.octaneai.com",
+        "ekr.zdassets.com",
+        "ip-check-perf.radar.cloudflare.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google.com",
+        "analytics.tiktok.com",
+        "ct.pinterest.com",
+        "monorail-edge.shopifysvc.com",
+        "static-tracking.klaviyo.com",
+        "fonts.gstatic.com",
+        "csp.withgoogle.com",
+        "gstatic.com",
+        "ogads-pa.clients6.google.com",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.cafebritt.com",
+      "instante": "2026-11-05T02:05:02.909Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — sin rechazo en primera capa; abierto «configuración»; NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "SNID",
+          "domain": ".google.com",
+          "expires": 1809655503.811227,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 183,
+          "valorLongitud": 99
+        },
+        {
+          "name": "localization",
+          "domain": "www.cafebritt.com",
+          "expires": 1825380319.279698,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 2
+        },
+        {
+          "name": "cart_currency",
+          "domain": "www.cafebritt.com",
+          "expires": 1795053919.279785,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 14,
+          "valorLongitud": 3
+        },
+        {
+          "name": "_shopify_essential",
+          "domain": "www.cafebritt.com",
+          "expires": 1825380303.195041,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_analytics",
+          "domain": "www.cafebritt.com",
+          "expires": 1825380303.195073,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "_shopify_marketing",
+          "domain": "www.cafebritt.com",
+          "expires": 1825380303.195097,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 93
+        },
+        {
+          "name": "__blockify::first-access-url",
+          "domain": "www.cafebritt.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 58
+        },
+        {
+          "name": "geoip-inline-faabaa-2.myshopify.com",
+          "domain": "www.cafebritt.com",
+          "expires": 1793858400,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 188
+        },
+        {
+          "name": "_shop_app_essential",
+          "domain": ".shop.app",
+          "expires": 1825380303.766178,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 168
+        },
+        {
+          "name": "__blockify::analyzer",
+          "domain": "www.cafebritt.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "SEARCH_SAMESITE",
+          "domain": ".google.com",
+          "expires": 1809396319.630882,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 8
+        },
+        {
+          "name": "AEC",
+          "domain": ".google.com",
+          "expires": 1809396304.012492,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 59
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.cafebritt.com",
+          "expires": 1793846104.064325,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 197
+        },
+        {
+          "name": "shopify_client_id",
+          "domain": "www.cafebritt.com",
+          "expires": 1825380319,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "expires": 1809655503.811133,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 344
+        },
+        {
+          "name": "__Secure-STRP",
+          "domain": ".google.com",
+          "expires": 1793844620.274966,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 100
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "shop.app",
+        "cdn.shopify.com",
+        "static.klaviyo.com",
+        "app.octaneai.com",
+        "upsellit.com",
+        "static.zdassets.com",
+        "static.rechargecdn.com",
+        "loox.io",
+        "conf.config-security.com",
+        "api.config-security.com",
+        "ip-check-perf.radar.cloudflare.com",
+        "otlp-http-production.shopifysvc.com",
+        "google.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com",
+        "ct.pinterest.com",
+        "static-tracking.klaviyo.com",
+        "gstatic.com",
+        "fonts.gstatic.com",
+        "csp.withgoogle.com",
+        "ogads-pa.clients6.google.com",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "static.zdassets.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.tiktok.com"
+      ],
+      "bannerReaparece": false,
+      "rechazoEnPrimeraCapa": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_shop_app_essential@.shop.app",
+        "SEARCH_SAMESITE@.google.com",
+        "AEC@.google.com",
+        "__Secure-STRP@.google.com",
+        "NID@.google.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 15,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "localization",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "cart_currency",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_shopify_essential",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_shopify_analytics",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_shopify_marketing",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__blockify::first-access-url",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "geoip-inline-faabaa-2.myshopify.com",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__blockify::analyzer",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "shopify_client_id",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "localization",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cart_currency",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_shopify_essential",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_shopify_analytics",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_shopify_marketing",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__blockify::first-access-url",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "geoip-inline-faabaa-2.myshopify.com",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__blockify::analyzer",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "shopify_client_id",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "localization",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cart_currency",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_shopify_essential",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_shopify_analytics",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_shopify_marketing",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__blockify::first-access-url",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "geoip-inline-faabaa-2.myshopify.com",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__blockify::analyzer",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "shopify_client_id",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "localization",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cart_currency",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_shopify_essential",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_shopify_analytics",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_shopify_marketing",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "octane%2Fv2%2Flast_assistant_quiz_id",
+      "dominio": ".cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "octane%2Fv2%2Flast_assistant_quiz_id",
+      "dominio": ".www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "octane%2Fshopify%2Fuid",
+      "dominio": ".cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "octane%2Fshopify%2Fuid",
+      "dominio": ".www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "geoip-inline-faabaa-2.myshopify.com",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__blockify::first-access-url",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__blockify::analyzer",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "shopify_client_id",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_pin_unauth",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "localization",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cart_currency",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_shopify_essential",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_shopify_analytics",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_shopify_marketing",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "octane%2Fv2%2Flast_assistant_quiz_id",
+      "dominio": ".cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "octane%2Fv2%2Flast_assistant_quiz_id",
+      "dominio": ".www.cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "octane%2Fshopify%2Fuid",
+      "dominio": ".cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "octane%2Fshopify%2Fuid",
+      "dominio": ".www.cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__blockify::first-access-url",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "geoip-inline-faabaa-2.myshopify.com",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__blockify::analyzer",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "shopify_client_id",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "localization",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cart_currency",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_shopify_essential",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_shopify_analytics",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_shopify_marketing",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__blockify::first-access-url",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "geoip-inline-faabaa-2.myshopify.com",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__blockify::analyzer",
+      "dominio": "www.cafebritt.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "shopify_client_id",
+      "dominio": "www.cafebritt.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 15,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 61.2,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

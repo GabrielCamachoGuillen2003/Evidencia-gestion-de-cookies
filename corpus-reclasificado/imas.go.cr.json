@@ -1,0 +1,2453 @@
+{
+  "sitio": "imas.go.cr",
+  "url": "https://www.imas.go.cr",
+  "auditadoEn": "2026-11-04T23:39:34.933Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.imas.go.cr",
+      "instante": "2026-11-04T23:37:36.867Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560258.117765,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560258.117854,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560258.117877,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560258.117919,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560258.11794,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560258.117992,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".imas.go.cr",
+          "path": "/",
+          "expires": 1809560258.118014,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809387460.593303,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809387460.593503,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809387460.593599,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809387460.593671,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_KR46XYZNHL",
+          "domain": ".imas.go.cr",
+          "path": "/",
+          "expires": 1828395462.616811,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".imas.go.cr",
+          "path": "/",
+          "expires": 1828395462.617417,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387463,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387463,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387463,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387463,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387463,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387463,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387463,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387463,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".imas.go.cr",
+          "path": "/",
+          "expires": 1809387463,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794440264.256842,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "uw-icon-locales",
+          "uw-uid",
+          "radRandom",
+          "radAgSig",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "fonts.googleapis.com",
+        "cdn.jsdelivr.net",
+        "ajax.googleapis.com",
+        "i1.ytimg.com",
+        "s7.addthis.com",
+        "googletagmanager.com",
+        "unpkg.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "v2.zopim.com",
+        "cdn.userway.org",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "google-analytics.com",
+        "api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "s7.addthis.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.imas.go.cr",
+      "instante": "2026-11-04T23:37:57.604Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560277.974781,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560277.974967,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560277.975063,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560277.975153,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560277.975229,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560277.975315,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".imas.go.cr",
+          "path": "/",
+          "expires": 1809560277.975409,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387478.446995,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387478.447019,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387478.447063,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387478.447108,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793837278.640146,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387478,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387479,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387479,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387479,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387479,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387479,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm9d9fa",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835610,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft9d9fa",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835610,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl9d9fa",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835610,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 65
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "validate.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "60e2ffcde781.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "cas.avalon.perfdrive.com",
+        "1028dc082a76.w.hcaptcha.com",
+        "api.hcaptcha.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.imas.go.cr",
+      "instante": "2026-11-04T23:38:13.921Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560294.291725,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560294.291804,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560294.29184,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560294.29188,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560294.291918,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560294.29195,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".imas.go.cr",
+          "path": "/",
+          "expires": 1809560294.291983,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387494.769911,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387494.769938,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387494.769989,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387494.770012,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793837294.873065,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387495,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387495,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387495,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387495,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387495,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387495,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfmdf5f0",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835626,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbftdf5f0",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835626,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcldf5f0",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835626,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 65
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "validate.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "908614eb08da.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "ffb4d3a655c0.w.hcaptcha.com",
+        "api.hcaptcha.com",
+        "cas.avalon.perfdrive.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.imas.go.cr",
+      "instante": "2026-11-04T23:38:30.210Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560310.584265,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560310.584372,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560310.584434,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560310.584481,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560310.584525,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560310.584562,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".imas.go.cr",
+          "path": "/",
+          "expires": 1809560310.584607,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387510.985439,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387510.985505,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387510.985529,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387510.985552,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793837311.068497,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387511,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387511,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387511,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387511,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387511,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387511,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm5fd7f",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835643,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft5fd7f",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835643,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl5fd7f",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835643,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 65
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "validate.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "ffef15559e1a.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "a510bada4d80.w.hcaptcha.com",
+        "api.hcaptcha.com",
+        "cas.avalon.perfdrive.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.imas.go.cr",
+      "instante": "2026-11-04T23:38:46.356Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809387530.212186,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809387530.212285,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809387530.212328,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809387530.212359,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".imas.go.cr",
+          "path": "/",
+          "expires": 1828395531.871322,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387532,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794440332.820896,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387533,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387533,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387533,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387533,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387533,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387533,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809387533,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".imas.go.cr",
+          "path": "/",
+          "expires": 1809387533,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "__uzma",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560347.365428,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560347.365694,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560347.36583,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560347.365955,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560347.36607,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.imas.go.cr",
+          "path": "/",
+          "expires": 1809560347.366185,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".imas.go.cr",
+          "path": "/",
+          "expires": 1809560347.36631,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387547.759159,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387547.759191,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387547.759225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809387547.759263,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_ga_KR46XYZNHL",
+          "domain": ".imas.go.cr",
+          "path": "/",
+          "expires": 1828395547.817229,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "path": "/",
+          "expires": 1793837347.883143,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387548,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cflb",
+          "domain": "api2.hcaptcha.com",
+          "path": "/",
+          "expires": 1793837348.428061,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 40
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387548,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387548,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387548,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387548,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809387548,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm1a691",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835673,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft1a691",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835673,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl1a691",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793835673,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 65
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "fonts.googleapis.com",
+        "cdn.jsdelivr.net",
+        "ajax.googleapis.com",
+        "i1.ytimg.com",
+        "s7.addthis.com",
+        "googletagmanager.com",
+        "unpkg.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "google.com",
+        "i.ytimg.com",
+        "jnn-pa.googleapis.com",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "cdn.userway.org",
+        "ekr.zdassets.com",
+        "google-analytics.com",
+        "api.userway.org",
+        "validate.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "b92b5a03442c.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "4ab01863b101.w.hcaptcha.com",
+        "api2.hcaptcha.com",
+        "cas.avalon.perfdrive.com"
+      ],
+      "peticionesRastreo": [
+        "s7.addthis.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.imas.go.cr",
+      "instante": "2026-11-04T23:39:17.083Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.imas.go.cr",
+          "expires": 1809560357.537419,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.imas.go.cr",
+          "expires": 1809560357.53752,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.imas.go.cr",
+          "expires": 1809560357.537643,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809387567.879154,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809387567.879236,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hcaptcha.com",
+          "expires": 1793837357.998984,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "expires": 1809387568,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "expires": 1809387568,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809387568,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809387568,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm132ac",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793835683,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft132ac",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793835683,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl132ac",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793835683,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 65
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.imas.go.cr",
+          "expires": 1809560367.386854,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.imas.go.cr",
+          "expires": 1809560367.38717,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.imas.go.cr",
+          "expires": 1809560367.387357,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 83
+        },
+        {
+          "name": "uzmx",
+          "domain": ".imas.go.cr",
+          "expires": 1809560367.387556,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809387567.879277,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809387567.879326,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809387568,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809387568,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm24996",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793835693,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft24996",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793835693,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl24996",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793835693,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 65
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "validate.perfdrive.com",
+        "hcaptcha.com",
+        "cdn.perfdrive.com",
+        "cas.avalon.perfdrive.com",
+        "f229188dec91.w.hcaptcha.com",
+        "newassets.hcaptcha.com",
+        "9d9549510ac6.w.hcaptcha.com",
+        "api.hcaptcha.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "__Secure-YNID@.youtube.com",
+        "YSC@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "_ga_KR46XYZNHL@.imas.go.cr",
+        "_ga@.imas.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 24,
+        "rastreadoresEnE0": 8
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__uzma",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmb",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzme",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmc",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmd",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmf",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "uzmx",
+      "dominio": ".imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__ssds",
+      "dominio": ".www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmaj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmbj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmcj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmdj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmlj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmfj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "uzmxj",
+      "dominio": ".imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzma",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmb",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzme",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmc",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmd",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmf",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "uzmx",
+      "dominio": ".imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzma",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmb",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzme",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmc",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmd",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmf",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "uzmx",
+      "dominio": ".imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzma",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmb",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzme",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmc",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmd",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmf",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "uzmx",
+      "dominio": ".imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__ssds",
+      "dominio": ".www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmaj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmbj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmcj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmdj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmlj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmfj0",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "uzmxj",
+      "dominio": ".imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzma",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmb",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzme",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmc",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmd",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmf",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "uzmx",
+      "dominio": ".imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzma",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmb",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzme",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmc",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmd",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmf",
+      "dominio": "www.imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "uzmx",
+      "dominio": ".imas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 22,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 38.7,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.604Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

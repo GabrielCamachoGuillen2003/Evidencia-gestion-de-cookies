@@ -1,0 +1,14 @@
+# 10 sitios YA auditados, re-medidos en otra fecha.
+# Auditar a una carpeta DISTINTA: sirven para el coeficiente de variación
+# entre repeticiones, y si se escriben sobre el corpus se pierde el par.
+
+https://cfia.or.cr
+https://crhoy.com
+https://www.autostar.cr
+https://www.hacienda.go.cr
+https://www.inder.go.cr
+https://www.kolbi.cr
+https://www.meic.go.cr
+https://www.purdymotor.com
+https://www.ucr.ac.cr
+https://www.utn.ac.cr

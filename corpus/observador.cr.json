@@ -1,0 +1,1218 @@
+{
+  "sitio": "observador.cr",
+  "url": "https://observador.cr",
+  "auditadoEn": "2026-11-06T03:36:11.869Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://observador.cr",
+      "instante": "2026-11-06T03:33:20.556Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_32ECM889B5",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1828496001.490979,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1828496001.766873,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1794022401,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_gtag_UA_148364432_1",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1793936061,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632005,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1825472005,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "__gads",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632005,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632005,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1809488005,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828496006.66727,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "observador.exchangeRate.v1"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "app.okflow.io",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "securepubads.g.doubleclick.net",
+        "fundingchoicesmessages.google.com",
+        "cm.g.doubleclick.net",
+        "ep1.adtrafficquality.google",
+        "23ffc5f2bcc22d74ca8913df6037c18e.safeframe.googlesyndication.com",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "pagead2.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "fonts.googleapis.com",
+        "imasdk.googleapis.com",
+        "fonts.gstatic.com",
+        "gcdn.2mdn.net",
+        "googleads.g.doubleclick.net",
+        "googletagservices.com",
+        "rr2---sn-hp57knks.c.2mdn.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "securepubads.g.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "23ffc5f2bcc22d74ca8913df6037c18e.safeframe.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "googleads.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://observador.cr",
+      "instante": "2026-11-06T03:33:36.304Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_32ECM889B5",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1828496017.088359,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1828496017.255237,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1794022417,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_gtag_UA_148364432_1",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1793936077,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__gads",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632020,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632020,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1809488020,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632020,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1825472020,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828496021.368365,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "observador.exchangeRate.v1"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "app.okflow.io",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "securepubads.g.doubleclick.net",
+        "fundingchoicesmessages.google.com",
+        "cm.g.doubleclick.net",
+        "ep1.adtrafficquality.google",
+        "e6b9b9513bee4f7b94b76fcc2b4018a7.safeframe.googlesyndication.com",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "pagead2.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "fonts.googleapis.com",
+        "imasdk.googleapis.com",
+        "fonts.gstatic.com",
+        "gcdn.2mdn.net",
+        "googleads.g.doubleclick.net",
+        "googletagservices.com",
+        "rr3---sn-hp57kn6y.c.2mdn.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "securepubads.g.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "e6b9b9513bee4f7b94b76fcc2b4018a7.safeframe.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://observador.cr",
+      "instante": "2026-11-06T03:34:03.646Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_32ECM889B5",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1828496044.337189,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1828496044.512541,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1794022444,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_gtag_UA_148364432_1",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1793936104,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793936947.075244,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632047,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1825472047,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "__gads",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632047,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632047,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1809488047,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "observador.exchangeRate.v1"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "app.okflow.io",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "securepubads.g.doubleclick.net",
+        "fundingchoicesmessages.google.com",
+        "cm.g.doubleclick.net",
+        "ep1.adtrafficquality.google",
+        "12c2a11d72a332136046a4186cf2a2cd.safeframe.googlesyndication.com",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "securepubads.g.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "12c2a11d72a332136046a4186cf2a2cd.safeframe.googlesyndication.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://observador.cr",
+      "instante": "2026-11-06T03:34:42.739Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_32ECM889B5",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1828496083.509401,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1828496083.671536,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1794022483,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_gtag_UA_148364432_1",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1793936143,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632087,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1825472087,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "__gads",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632086,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632086,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1809488086,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828496087.80506,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "observador.exchangeRate.v1"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "app.okflow.io",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "securepubads.g.doubleclick.net",
+        "fundingchoicesmessages.google.com",
+        "cm.g.doubleclick.net",
+        "ep1.adtrafficquality.google",
+        "acbaa80e71b67865ab3da66230348088.safeframe.googlesyndication.com",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "pagead2.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "fonts.googleapis.com",
+        "imasdk.googleapis.com",
+        "fonts.gstatic.com",
+        "gcdn.2mdn.net",
+        "googleads.g.doubleclick.net",
+        "googletagservices.com",
+        "rr4---sn-u1hp55-5c.c.2mdn.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "securepubads.g.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "acbaa80e71b67865ab3da66230348088.safeframe.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://observador.cr",
+      "instante": "2026-11-06T03:35:08.304Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gid",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1794022523,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_gtag_UA_148364432_1",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1793936169,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793937011.280058,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632112,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1825472113,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        },
+        {
+          "name": "__gads",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632112,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1827632112,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1809488112,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "_ga_32ECM889B5",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1828496123.301106,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".observador.cr",
+          "path": "/",
+          "expires": 1828496123.320381,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "observador.exchangeRate.v1"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "app.okflow.io",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "securepubads.g.doubleclick.net",
+        "fundingchoicesmessages.google.com",
+        "cm.g.doubleclick.net",
+        "ep1.adtrafficquality.google",
+        "79639679dc90e940b07b3debcc12e526.safeframe.googlesyndication.com",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "securepubads.g.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "79639679dc90e940b07b3debcc12e526.safeframe.googlesyndication.com",
+        "pagead2.googlesyndication.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://observador.cr",
+      "instante": "2026-11-06T03:35:32.414Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gid",
+          "domain": ".observador.cr",
+          "expires": 1794022564,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_gtag_UA_148364432_1",
+          "domain": ".observador.cr",
+          "expires": 1793936193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__gads",
+          "domain": ".observador.cr",
+          "expires": 1827632136,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".observador.cr",
+          "expires": 1827632136,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".observador.cr",
+          "expires": 1809488136,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828496137.286169,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "_ga_32ECM889B5",
+          "domain": ".observador.cr",
+          "expires": 1828496164.888788,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".observador.cr",
+          "expires": 1828496164.908802,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "FCCDCF",
+          "domain": ".observador.cr",
+          "expires": 1827632167,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 156
+        },
+        {
+          "name": "FCNEC",
+          "domain": ".observador.cr",
+          "expires": 1825472167,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 122
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "app.okflow.io",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "securepubads.g.doubleclick.net",
+        "fundingchoicesmessages.google.com",
+        "cm.g.doubleclick.net",
+        "ep1.adtrafficquality.google",
+        "215e0e0e4c2fb3a4af3542733315c9b9.safeframe.googlesyndication.com",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "pagead2.googlesyndication.com",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com",
+        "securepubads.g.doubleclick.net",
+        "cm.g.doubleclick.net",
+        "215e0e0e4c2fb3a4af3542733315c9b9.safeframe.googlesyndication.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_32ECM889B5@.observador.cr",
+        "_ga@.observador.cr",
+        "_gid@.observador.cr",
+        "_gat_gtag_UA_148364432_1@.observador.cr",
+        "IDE@.doubleclick.net"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 10,
+        "rastreadoresEnE0": 10
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "FCCDCF",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "FCNEC",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__gads",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__gpi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__eoi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gads",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gpi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__eoi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "FCCDCF",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "FCNEC",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "FCCDCF",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "FCNEC",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__gads",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__gpi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__eoi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "FCCDCF",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "FCNEC",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__gads",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__gpi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__eoi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "FCCDCF",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "FCNEC",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__gads",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__gpi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__eoi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__gads",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__gpi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__eoi",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "FCCDCF",
+      "dominio": ".observador.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "FCNEC",
+      "dominio": ".observador.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 10,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 50,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

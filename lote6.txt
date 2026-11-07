@@ -1,0 +1,29 @@
+# Lote 6 — ampliación del corpus hasta 300 sitios auditables.
+# Reparto equitativo entre sector público y privado, conforme al marco
+# declarado en la Sección 3.5.2 del informe. Ninguno de estos dominios
+# aparece en los lotes 1 a 5: la comprobación de solapamiento se hizo
+# contra la unión de todas las listas enviadas a auditar.
+#
+# ── Sector público: cantones aún no representados ──────────────────────
+muniatenas.go.cr
+municarrillo.go.cr
+munibagaces.go.cr
+muniperezzeledon.go.cr
+munisanramon.go.cr
+munigolfito.go.cr
+munitalamanca.go.cr
+munilimon.go.cr
+municoronado.go.cr
+muniguarco.go.cr
+#
+# ── Sector privado: finanzas, industria, medios y cámaras ──────────────
+popularenlinea.fi.cr
+cajadeande.fi.cr
+coopesparta.fi.cr
+numar.com
+durman.com
+matra.co.cr
+elpais.cr
+amprensa.com
+canatur.org
+cicr.com

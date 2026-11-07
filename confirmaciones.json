@@ -1,0 +1,1754 @@
+{
+  "cnp.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:12:07.493Z"
+  },
+  "dota.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:12:46.676Z"
+  },
+  "incofer.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:16:24.038Z"
+  },
+  "casapres.go.cr": {
+    "banner": null,
+    "error": null,
+    "en": "2026-11-06T02:17:11.483Z"
+  },
+  "munigarabito.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:17:50.607Z"
+  },
+  "cne.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:18:27.046Z"
+  },
+  "nandayure.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:19:16.630Z"
+  },
+  "munipalmares.go.cr": {
+    "banner": true,
+    "error": null,
+    "en": "2026-11-06T02:19:44.901Z"
+  },
+  "rree.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:20:14.004Z"
+  },
+  "muniesparza.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:21:05.084Z"
+  },
+  "minae.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:22:41.659Z"
+  },
+  "escazu.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:23:15.840Z"
+  },
+  "munibuenosaires.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:24:34.896Z"
+  },
+  "mopt.go.cr": {
+    "banner": null,
+    "error": null,
+    "en": "2026-11-06T02:25:04.070Z"
+  },
+  "turrubares.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:25:30.898Z"
+  },
+  "muniparaiso.go.cr": {
+    "banner": true,
+    "error": null,
+    "en": "2026-11-06T02:26:02.226Z"
+  },
+  "munisanisidro.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:26:38.280Z"
+  },
+  "racsa.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:27:16.658Z"
+  },
+  "mtss.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:27:41.175Z"
+  },
+  "sarapiqui.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:28:38.451Z"
+  },
+  "conavi.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:29:07.334Z"
+  },
+  "monteverde.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:29:36.533Z"
+  },
+  "dhr.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:30:04.624Z"
+  },
+  "muniquepos.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:30:33.333Z"
+  },
+  "asamblea.go.cr": {
+    "banner": true,
+    "error": null,
+    "en": "2026-11-06T02:31:47.588Z"
+  },
+  "muniorotina.go.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:32:36.481Z"
+  },
+  "libreriainternacional.com": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:33:07.266Z"
+  },
+  "visitcostarica.com": {
+    "banner": true,
+    "error": null,
+    "en": "2026-11-06T02:33:39.247Z"
+  },
+  "davivienda.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:34:10.275Z"
+  },
+  "ulatina.ac.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:34:34.794Z"
+  },
+  "sardimar.com": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:35:07.581Z"
+  },
+  "tigo.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:35:33.223Z"
+  },
+  "liberty.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:35:57.963Z"
+  },
+  "castrocarazo.ac.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:37:00.614Z"
+  },
+  "arenal.net": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:37:39.947Z"
+  },
+  "ufidelitas.ac.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:38:10.290Z"
+  },
+  "revistaeka.com": {
+    "banner": null,
+    "error": null,
+    "en": "2026-11-06T02:38:37.268Z"
+  },
+  "medicos.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:39:21.039Z"
+  },
+  "claro.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:39:49.460Z"
+  },
+  "mucap.fi.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:40:22.345Z"
+  },
+  "aliss.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:40:54.927Z"
+  },
+  "grupomutual.fi.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:41:38.674Z"
+  },
+  "crhoy.com": {
+    "banner": true,
+    "error": null,
+    "en": "2026-11-06T02:42:03.708Z"
+  },
+  "scotiabankcr.com": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:42:58.524Z"
+  },
+  "elmundo.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:43:45.590Z"
+  },
+  "pozuelo.com": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:44:13.221Z"
+  },
+  "sysde.com": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:44:55.981Z"
+  },
+  "costaricaexpeditions.com": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:45:23.928Z"
+  },
+  "coopeande.fi.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:45:51.754Z"
+  },
+  "walmart.co.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:46:19.661Z"
+  },
+  "medismart.cr": {
+    "banner": null,
+    "error": null,
+    "en": "2026-11-06T02:46:46.168Z"
+  },
+  "assanet.com": {
+    "banner": true,
+    "error": null,
+    "en": "2026-11-06T02:47:38.591Z"
+  },
+  "autostar.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:48:06.628Z"
+  },
+  "una.ac.cr": {
+    "banner": false,
+    "error": null,
+    "en": "2026-11-06T02:49:00.614Z"
+  },
+  "abangares.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.8,
+    "en": "2026-11-06T21:03:34.657Z"
+  },
+  "abogados.or.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.4,
+    "en": "2026-11-06T21:04:18.848Z"
+  },
+  "acosta.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.3,
+    "en": "2026-11-06T21:04:39.243Z"
+  },
+  "aeris.cr": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:05:08.957Z"
+  },
+  "ameliarueda.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:05:32.298Z"
+  },
+  "aresep.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.4,
+    "en": "2026-11-06T21:09:47.584Z"
+  },
+  "asembis.org": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:10:06.520Z"
+  },
+  "aserri.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.2,
+    "en": "2026-11-06T21:10:34.417Z"
+  },
+  "automercado.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 13.2,
+    "en": "2026-11-06T21:10:50.498Z"
+  },
+  "autopitscr.com": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 12.2,
+    "en": "2026-11-06T21:11:06.175Z"
+  },
+  "aya.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.8,
+    "en": "2026-11-06T21:12:27.023Z"
+  },
+  "baccredomatic.com": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 12.6,
+    "en": "2026-11-06T21:12:49.681Z"
+  },
+  "baldihotsprings.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.1,
+    "en": "2026-11-06T21:13:11.264Z"
+  },
+  "bancobcr.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:13:56.621Z"
+  },
+  "bancobct.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:14:13.159Z"
+  },
+  "cafebritt.com": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 8.9,
+    "en": "2026-11-06T21:14:44.427Z"
+  },
+  "capris.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 14.5,
+    "en": "2026-11-06T21:15:03.657Z"
+  },
+  "catie.ac.cr": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 12.8,
+    "en": "2026-11-06T21:16:15.084Z"
+  },
+  "ccpa.or.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.3,
+    "en": "2026-11-06T21:16:41.584Z"
+  },
+  "cemaco.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:17:50.490Z"
+  },
+  "cfia.or.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9,
+    "en": "2026-11-06T21:18:56.755Z"
+  },
+  "cimahospital.com": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 9.2,
+    "en": "2026-11-06T21:19:59.868Z"
+  },
+  "cinde.org": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10,
+    "en": "2026-11-06T21:20:46.719Z"
+  },
+  "clinicabiblica.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.1,
+    "en": "2026-11-06T21:22:36.999Z"
+  },
+  "cnfl.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16,
+    "en": "2026-11-06T21:22:55.227Z"
+  },
+  "colfar.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.3,
+    "en": "2026-11-06T21:23:03.752Z"
+  },
+  "colper.or.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.1,
+    "en": "2026-11-06T21:23:14.722Z"
+  },
+  "colypro.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.8,
+    "en": "2026-11-06T21:23:30.072Z"
+  },
+  "comex.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 28.3,
+    "en": "2026-11-06T21:23:59.508Z"
+  },
+  "construplaza.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.8,
+    "en": "2026-11-06T21:25:03.767Z"
+  },
+  "coocique.fi.cr": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 7.1,
+    "en": "2026-11-06T21:25:14.404Z"
+  },
+  "coopeagri.co.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.5,
+    "en": "2026-11-06T21:26:25.535Z"
+  },
+  "coopealfaroruiz.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.7,
+    "en": "2026-11-06T21:26:59.677Z"
+  },
+  "coopealianza.fi.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 17.8,
+    "en": "2026-11-06T21:27:30.625Z"
+  },
+  "coopeatenas.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.8,
+    "en": "2026-11-06T21:27:48.425Z"
+  },
+  "coopebanpo.fi.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.2,
+    "en": "2026-11-06T21:27:57.600Z"
+  },
+  "coopecaja.fi.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 29.7,
+    "en": "2026-11-06T21:28:28.270Z"
+  },
+  "coopedota.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.1,
+    "en": "2026-11-06T21:28:47.000Z"
+  },
+  "coopeguanacaste.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.5,
+    "en": "2026-11-06T21:29:09.263Z"
+  },
+  "coopejudicial.fi.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.7,
+    "en": "2026-11-06T21:29:20.356Z"
+  },
+  "coopemapro.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 13.2,
+    "en": "2026-11-06T21:29:37.679Z"
+  },
+  "coopesanramon.fi.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.9,
+    "en": "2026-11-06T21:29:58.398Z"
+  },
+  "coopeservidores.fi.cr": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 9.2,
+    "en": "2026-11-06T21:30:08.642Z"
+  },
+  "coopetarrazu.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.7,
+    "en": "2026-11-06T21:30:25.193Z"
+  },
+  "coopeuna.fi.cr": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:30:41.634Z"
+  },
+  "coopevictoria.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.8,
+    "en": "2026-11-06T21:30:57.286Z"
+  },
+  "corredores.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.5,
+    "en": "2026-11-06T21:31:17.985Z"
+  },
+  "costaricamedios.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.5,
+    "en": "2026-11-06T21:31:27.394Z"
+  },
+  "credecoop.fi.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 12.4,
+    "en": "2026-11-06T21:31:40.975Z"
+  },
+  "cronicasdelsur.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 13.6,
+    "en": "2026-11-06T21:31:57.672Z"
+  },
+  "crowe.cr": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:32:51.573Z"
+  },
+  "curridabat.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 11.1,
+    "en": "2026-11-06T21:33:03.838Z"
+  },
+  "delfino.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:33:22.461Z"
+  },
+  "desamparados.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.9,
+    "en": "2026-11-06T21:33:33.141Z"
+  },
+  "dgsc.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.1,
+    "en": "2026-11-06T21:33:42.617Z"
+  },
+  "diarioextra.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:34:00.031Z"
+  },
+  "dospinos.com": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 7.4,
+    "en": "2026-11-06T21:34:12.381Z"
+  },
+  "earth.ac.cr": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 7.2,
+    "en": "2026-11-06T21:34:21.022Z"
+  },
+  "elfinancierocr.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:34:39.080Z"
+  },
+  "elperiodicocr.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:34:57.523Z"
+  },
+  "establishmentlabs.com": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 12.4,
+    "en": "2026-11-06T21:35:43.420Z"
+  },
+  "eurohogar.co.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 12,
+    "en": "2026-11-06T21:35:57.299Z"
+  },
+  "farmacialista.com": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 15.9,
+    "en": "2026-11-06T21:36:14.346Z"
+  },
+  "ferreteriabrenes.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.3,
+    "en": "2026-11-06T21:36:50.572Z"
+  },
+  "fifco.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.5,
+    "en": "2026-11-06T21:37:02.403Z"
+  },
+  "fischelenlinea.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.3,
+    "en": "2026-11-06T21:37:13.231Z"
+  },
+  "flores.go.cr": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 7.6,
+    "en": "2026-11-06T21:37:28.100Z"
+  },
+  "flysansa.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.3,
+    "en": "2026-11-06T21:37:41.005Z"
+  },
+  "fodesaf.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.8,
+    "en": "2026-11-06T21:37:51.788Z"
+  },
+  "gbm.net": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 11.5,
+    "en": "2026-11-06T21:38:04.383Z"
+  },
+  "geologia.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.6,
+    "en": "2026-11-06T21:38:16.075Z"
+  },
+  "gobiernolocalosa.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:38:34.330Z"
+  },
+  "gollo.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:38:51.444Z"
+  },
+  "grupoislita.com": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 6.8,
+    "en": "2026-11-06T21:39:08.064Z"
+  },
+  "guacimo.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.9,
+    "en": "2026-11-06T21:40:30.730Z"
+  },
+  "holcim.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.4,
+    "en": "2026-11-06T21:41:11.048Z"
+  },
+  "hospitalcima.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 12.4,
+    "en": "2026-11-06T21:41:28.280Z"
+  },
+  "iafa.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 22.7,
+    "en": "2026-11-06T21:41:51.752Z"
+  },
+  "icoder.go.cr": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 9.5,
+    "en": "2026-11-06T21:42:06.412Z"
+  },
+  "imagenesmedicasdrchavarriaestrada.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.9,
+    "en": "2026-11-06T21:42:15.857Z"
+  },
+  "imn.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.9,
+    "en": "2026-11-06T21:42:36.973Z"
+  },
+  "importadoramonge.com": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:43:18.009Z"
+  },
+  "inamu.go.cr": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 6.8,
+    "en": "2026-11-06T21:43:42.189Z"
+  },
+  "incae.edu": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.3,
+    "en": "2026-11-06T21:43:52.312Z"
+  },
+  "incopesca.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 12.1,
+    "en": "2026-11-06T21:44:05.263Z"
+  },
+  "inder.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.7,
+    "en": "2026-11-06T21:44:14.926Z"
+  },
+  "infocoop.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 13.1,
+    "en": "2026-11-06T21:44:28.821Z"
+  },
+  "japdeva.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.6,
+    "en": "2026-11-06T21:44:40.441Z"
+  },
+  "jasec.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 13.1,
+    "en": "2026-11-06T21:44:54.416Z"
+  },
+  "kolbi.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9,
+    "en": "2026-11-06T21:45:04.455Z"
+  },
+  "labin.net": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 17.6,
+    "en": "2026-11-06T21:45:23.017Z"
+  },
+  "laboratoriospaez.com": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:48:18.219Z"
+  },
+  "lacostacr.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.2,
+    "en": "2026-11-06T21:48:29.356Z"
+  },
+  "larepublica.net": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8,
+    "en": "2026-11-06T21:48:58.020Z"
+  },
+  "lateja.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:49:15.316Z"
+  },
+  "launion.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:49:32.684Z"
+  },
+  "mag.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.2,
+    "en": "2026-11-06T21:49:57.695Z"
+  },
+  "masxmenos.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.8,
+    "en": "2026-11-06T21:50:16.091Z"
+  },
+  "maxipali.co.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:50:33.118Z"
+  },
+  "mcj.go.cr": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 7.5,
+    "en": "2026-11-06T21:50:42.517Z"
+  },
+  "meic.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:51:17.807Z"
+  },
+  "micit.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 12.1,
+    "en": "2026-11-06T21:51:46.248Z"
+  },
+  "micitt.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.5,
+    "en": "2026-11-06T21:52:23.576Z"
+  },
+  "mideplan.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 11.7,
+    "en": "2026-11-06T21:52:45.443Z"
+  },
+  "migracion.go.cr": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:53:24.329Z"
+  },
+  "ministeriodesalud.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 11.6,
+    "en": "2026-11-06T21:53:36.683Z"
+  },
+  "mivah.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.2,
+    "en": "2026-11-06T21:53:46.781Z"
+  },
+  "monge.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.3,
+    "en": "2026-11-06T21:53:59.379Z"
+  },
+  "montanadefuego.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.4,
+    "en": "2026-11-06T21:54:16.932Z"
+  },
+  "montesdeoca.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.7,
+    "en": "2026-11-06T21:54:27.045Z"
+  },
+  "montesdeoro.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.9,
+    "en": "2026-11-06T21:54:40.601Z"
+  },
+  "monumental.co.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.3,
+    "en": "2026-11-06T21:54:53.766Z"
+  },
+  "mora.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.9,
+    "en": "2026-11-06T21:55:05.955Z"
+  },
+  "moravia.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.2,
+    "en": "2026-11-06T21:55:43.524Z"
+  },
+  "msj.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9,
+    "en": "2026-11-06T21:56:01.717Z"
+  },
+  "multimax.net": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:56:19.177Z"
+  },
+  "multiplazas.com": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T21:56:36.327Z"
+  },
+  "munialajuela.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.1,
+    "en": "2026-11-06T21:56:48.205Z"
+  },
+  "munialvarado.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 23,
+    "en": "2026-11-06T21:57:12.179Z"
+  },
+  "munibarva.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.9,
+    "en": "2026-11-06T21:57:28.879Z"
+  },
+  "municanas.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.5,
+    "en": "2026-11-06T21:57:38.660Z"
+  },
+  "municorredores.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.7,
+    "en": "2026-11-06T21:57:57.585Z"
+  },
+  "municotobrus.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.9,
+    "en": "2026-11-06T21:58:06.578Z"
+  },
+  "munigoicoechea.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 11.1,
+    "en": "2026-11-06T21:58:18.848Z"
+  },
+  "muniguatuso.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.2,
+    "en": "2026-11-06T21:58:36.036Z"
+  },
+  "munihojancha.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.9,
+    "en": "2026-11-06T21:58:46.101Z"
+  },
+  "munijimenez.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.7,
+    "en": "2026-11-06T21:58:56.698Z"
+  },
+  "munilacruz.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.8,
+    "en": "2026-11-06T21:59:09.986Z"
+  },
+  "muniliberia.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.2,
+    "en": "2026-11-06T21:59:22.058Z"
+  },
+  "muniloschiles.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.9,
+    "en": "2026-11-06T21:59:48.164Z"
+  },
+  "munimontesdeoro.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 6.8,
+    "en": "2026-11-06T22:00:05.903Z"
+  },
+  "munipoas.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.3,
+    "en": "2026-11-06T22:00:17.921Z"
+  },
+  "munipococi.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 13.6,
+    "en": "2026-11-06T22:00:32.953Z"
+  },
+  "munipuntarenas.go.cr": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 7,
+    "en": "2026-11-06T22:00:42.095Z"
+  },
+  "muniriocuarto.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.4,
+    "en": "2026-11-06T22:00:51.893Z"
+  },
+  "munisantodomingo.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.3,
+    "en": "2026-11-06T22:01:33.274Z"
+  },
+  "munisarchi.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T22:03:43.546Z"
+  },
+  "munitarrazu.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 14.2,
+    "en": "2026-11-06T22:03:58.809Z"
+  },
+  "munitibas.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.9,
+    "en": "2026-11-06T22:04:11.161Z"
+  },
+  "muniturrialba.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.5,
+    "en": "2026-11-06T22:04:22.607Z"
+  },
+  "muniupala.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T22:04:51.610Z"
+  },
+  "museocostarica.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T22:05:11.493Z"
+  },
+  "musmanni.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.2,
+    "en": "2026-11-06T22:05:21.703Z"
+  },
+  "nacion.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T22:05:41.088Z"
+  },
+  "naranjo.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 11.3,
+    "en": "2026-11-06T22:05:53.628Z"
+  },
+  "nicoya.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.7,
+    "en": "2026-11-06T22:06:04.582Z"
+  },
+  "noticiasrepretel.com": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T22:06:21.653Z"
+  },
+  "observador.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 11.8,
+    "en": "2026-11-06T22:07:07.017Z"
+  },
+  "oceanicadeseguros.com": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 20.3,
+    "en": "2026-11-06T22:07:42.353Z"
+  },
+  "officedepot.co.cr": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 26.5,
+    "en": "2026-11-06T22:08:09.828Z"
+  },
+  "oreamuno.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.5,
+    "en": "2026-11-06T22:08:20.407Z"
+  },
+  "orotina.go.cr": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 7.1,
+    "en": "2026-11-06T22:08:28.493Z"
+  },
+  "pani.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.2,
+    "en": "2026-11-06T22:08:38.920Z"
+  },
+  "periodicomensaje.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.8,
+    "en": "2026-11-06T22:08:50.221Z"
+  },
+  "pgr.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.2,
+    "en": "2026-11-06T22:09:02.130Z"
+  },
+  "presidencia.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.9,
+    "en": "2026-11-06T22:09:57.913Z"
+  },
+  "pricesmart.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.5,
+    "en": "2026-11-06T22:10:08.474Z"
+  },
+  "procomer.com": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 16.7,
+    "en": "2026-11-06T22:10:26.207Z"
+  },
+  "puntarenas.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.5,
+    "en": "2026-11-06T22:10:44.790Z"
+  },
+  "purdymotor.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.9,
+    "en": "2026-11-06T22:11:13.777Z"
+  },
+  "puriscal.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.5,
+    "en": "2026-11-06T22:11:34.519Z"
+  },
+  "radioreloj.co.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.8,
+    "en": "2026-11-06T22:11:43.669Z"
+  },
+  "recope.go.cr": {
+    "banner": false,
+    "error": "page.goto: Timeout 25000ms exceeded.",
+    "esperaSeg": 32.2,
+    "en": "2026-11-06T22:12:20.567Z"
+  },
+  "repretel.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.4,
+    "en": "2026-11-06T22:12:30.016Z"
+  },
+  "republicamedia.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T22:12:47.778Z"
+  },
+  "revistasumma.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.5,
+    "en": "2026-11-06T22:12:57.092Z"
+  },
+  "riocuarto.go.cr": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 7.2,
+    "en": "2026-11-06T22:13:05.237Z"
+  },
+  "rnpdigital.com": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 8.1,
+    "en": "2026-11-06T22:13:22.705Z"
+  },
+  "sanmateo.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.8,
+    "en": "2026-11-06T22:13:33.622Z"
+  },
+  "santaana.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.6,
+    "en": "2026-11-06T22:13:45.160Z"
+  },
+  "santabarbara.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.8,
+    "en": "2026-11-06T22:13:57.375Z"
+  },
+  "santacruz.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.9,
+    "en": "2026-11-06T22:14:08.635Z"
+  },
+  "selvaverde.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.7,
+    "en": "2026-11-06T22:14:20.492Z"
+  },
+  "semanariouniversidad.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.7,
+    "en": "2026-11-06T22:14:39.597Z"
+  },
+  "senara.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 12.4,
+    "en": "2026-11-06T22:14:54.886Z"
+  },
+  "senasa.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T22:15:17.439Z"
+  },
+  "sfe.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.7,
+    "en": "2026-11-06T22:16:00.792Z"
+  },
+  "sicop.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.2,
+    "en": "2026-11-06T22:16:12.519Z"
+  },
+  "sinac.go.cr": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 7,
+    "en": "2026-11-06T22:16:20.440Z"
+  },
+  "sinaes.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 12.4,
+    "en": "2026-11-06T22:16:38.120Z"
+  },
+  "sinirube.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.2,
+    "en": "2026-11-06T22:16:47.486Z"
+  },
+  "siquirres.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 11.4,
+    "en": "2026-11-06T22:17:06.334Z"
+  },
+  "sutel.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16,
+    "en": "2026-11-06T22:19:13.186Z"
+  },
+  "swisstravelcr.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.7,
+    "en": "2026-11-06T22:19:39.248Z"
+  },
+  "tabacon.com": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 16.7,
+    "en": "2026-11-06T22:20:02.525Z"
+  },
+  "teatronacional.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.6,
+    "en": "2026-11-06T22:20:17.589Z"
+  },
+  "tec.ac.cr": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 8.5,
+    "en": "2026-11-06T22:20:30.249Z"
+  },
+  "teletica.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 13.8,
+    "en": "2026-11-06T22:20:59.956Z"
+  },
+  "teleticaradio.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 28.2,
+    "en": "2026-11-06T22:21:31.756Z"
+  },
+  "terramall.co.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 12.4,
+    "en": "2026-11-06T22:21:58.445Z"
+  },
+  "ticonexion.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9,
+    "en": "2026-11-06T22:22:25.430Z"
+  },
+  "tienda.pequenomundo.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.3,
+    "en": "2026-11-06T22:22:37.439Z"
+  },
+  "tilaran.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.5,
+    "en": "2026-11-06T22:22:49.230Z"
+  },
+  "tse.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.9,
+    "en": "2026-11-06T22:23:02.503Z"
+  },
+  "uaca.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.2,
+    "en": "2026-11-06T22:25:09.132Z"
+  },
+  "uam.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T22:25:44.653Z"
+  },
+  "ubl.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.3,
+    "en": "2026-11-06T22:26:55.975Z"
+  },
+  "ucatolica.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 8.8,
+    "en": "2026-11-06T22:27:07.305Z"
+  },
+  "ucem.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.4,
+    "en": "2026-11-06T22:27:27.279Z"
+  },
+  "ucenfotec.ac.cr": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 13.3,
+    "en": "2026-11-06T22:28:13.164Z"
+  },
+  "uci.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.3,
+    "en": "2026-11-06T22:28:31.164Z"
+  },
+  "ucr.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 11.4,
+    "en": "2026-11-06T22:28:47.229Z"
+  },
+  "ucreativa.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.2,
+    "en": "2026-11-06T22:29:02.708Z"
+  },
+  "uia.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T22:29:20.484Z"
+  },
+  "uisil.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T22:29:39.521Z"
+  },
+  "ulacit.ac.cr": {
+    "banner": null,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T22:30:12.693Z"
+  },
+  "ulicori.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.2,
+    "en": "2026-11-06T22:30:39.451Z"
+  },
+  "uned.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.4,
+    "en": "2026-11-06T22:30:56.740Z"
+  },
+  "universal.co.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.6,
+    "en": "2026-11-06T22:31:14.438Z"
+  },
+  "usanmarcos.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.9,
+    "en": "2026-11-06T22:31:23.510Z"
+  },
+  "utn.ac.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16,
+    "en": "2026-11-06T22:31:42.303Z"
+  },
+  "veinsa.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.1,
+    "en": "2026-11-06T22:31:59.857Z"
+  },
+  "vozdeguanacaste.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.1,
+    "en": "2026-11-06T22:32:14.373Z"
+  },
+  "zarcero.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.8,
+    "en": "2026-11-06T22:32:25.235Z"
+  },
+  "avenidaescazu.com": {
+    "banner": null,
+    "error": "page.goto: Timeout 25000ms exceeded.",
+    "esperaSeg": 44.8,
+    "en": "2026-11-06T22:53:46.708Z"
+  },
+  "bccr.fi.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://bccr.fi.cr/",
+    "esperaSeg": 6.7,
+    "en": "2026-11-06T22:53:56.081Z"
+  },
+  "belen.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT at https://belen.go.cr/",
+    "esperaSeg": 6.4,
+    "en": "2026-11-06T22:56:11.975Z"
+  },
+  "bomberos.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://bomberos.go.cr/",
+    "esperaSeg": 6.9,
+    "en": "2026-11-06T22:56:19.997Z"
+  },
+  "ccss.sa.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_CONNECTION_TIMED_OUT at https://ccss.sa.cr/",
+    "esperaSeg": 44.5,
+    "en": "2026-11-06T22:57:05.552Z"
+  },
+  "cenat.ac.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_CONNECTION_TIMED_OUT at https://cenat.ac.cr/",
+    "esperaSeg": 45.3,
+    "en": "2026-11-06T22:57:52.151Z"
+  },
+  "cgr.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_CONNECTION_REFUSED at https://cgr.go.cr/",
+    "esperaSeg": 9.5,
+    "en": "2026-11-06T22:58:04.226Z"
+  },
+  "conare.ac.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_CONNECTION_TIMED_OUT at https://conare.ac.cr/",
+    "esperaSeg": 44.4,
+    "en": "2026-11-06T22:58:51.334Z"
+  },
+  "coopenae.fi.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://coopenae.fi.cr/",
+    "esperaSeg": 7.5,
+    "en": "2026-11-06T22:59:05.084Z"
+  },
+  "grecia.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://grecia.go.cr/",
+    "esperaSeg": 6.6,
+    "en": "2026-11-06T22:59:20.068Z"
+  },
+  "grupomonge.com": {
+    "banner": null,
+    "error": "page.goto: Timeout 25000ms exceeded.",
+    "esperaSeg": 66.1,
+    "en": "2026-11-06T23:00:29.774Z"
+  },
+  "hacienda.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_CONNECTION_REFUSED at https://hacienda.go.cr/",
+    "esperaSeg": 9.7,
+    "en": "2026-11-06T23:00:51.538Z"
+  },
+  "heredia.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT at https://heredia.go.cr/",
+    "esperaSeg": 9,
+    "en": "2026-11-06T23:01:07.594Z"
+  },
+  "imas.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_CONNECTION_RESET at https://imas.go.cr/",
+    "esperaSeg": 6.7,
+    "en": "2026-11-06T23:01:23.005Z"
+  },
+  "imprentanacional.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://imprentanacional.go.cr/",
+    "esperaSeg": 6.6,
+    "en": "2026-11-06T23:01:32.311Z"
+  },
+  "ina.ac.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://ina.ac.cr/",
+    "esperaSeg": 7,
+    "en": "2026-11-06T23:01:46.239Z"
+  },
+  "lafise.com": {
+    "banner": null,
+    "error": "page.goto: net::ERR_CONNECTION_REFUSED at https://lafise.com/",
+    "esperaSeg": 9,
+    "en": "2026-11-06T23:01:58.231Z"
+  },
+  "mep.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_TOO_MANY_REDIRECTS at https://mep.go.cr/",
+    "esperaSeg": 6.7,
+    "en": "2026-11-06T23:02:18.189Z"
+  },
+  "munialajuelita.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_TOO_MANY_REDIRECTS at https://munialajuelita.go.cr/",
+    "esperaSeg": 6.5,
+    "en": "2026-11-06T23:02:27.202Z"
+  },
+  "poder-judicial.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_CONNECTION_TIMED_OUT at https://poder-judicial.go.cr/",
+    "esperaSeg": 45.9,
+    "en": "2026-11-06T23:03:18.915Z"
+  },
+  "puntaleona.com": {
+    "banner": null,
+    "error": "page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://puntaleona.com/",
+    "esperaSeg": 7.1,
+    "en": "2026-11-06T23:03:37.416Z"
+  },
+  "setena.go.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://setena.go.cr/",
+    "esperaSeg": 37.8,
+    "en": "2026-11-06T23:04:19.223Z"
+  },
+  "sugef.fi.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://sugef.fi.cr/",
+    "esperaSeg": 7.6,
+    "en": "2026-11-06T23:04:50.428Z"
+  },
+  "sugese.fi.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://sugese.fi.cr/",
+    "esperaSeg": 7.9,
+    "en": "2026-11-06T23:05:00.646Z"
+  },
+  "sugeval.fi.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_CONNECTION_TIMED_OUT at https://sugeval.fi.cr/",
+    "esperaSeg": 45.7,
+    "en": "2026-11-06T23:05:50.401Z"
+  },
+  "supen.fi.cr": {
+    "banner": null,
+    "error": "page.goto: net::ERR_CONNECTION_TIMED_OUT at https://supen.fi.cr/",
+    "esperaSeg": 45.2,
+    "en": "2026-11-06T23:06:41.609Z"
+  },
+  "amprensa.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.5,
+    "en": "2026-11-06T23:50:38.471Z"
+  },
+  "cajadeande.fi.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 9.4,
+    "en": "2026-11-06T23:50:51.127Z"
+  },
+  "canatur.org": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 15.2,
+    "en": "2026-11-06T23:51:08.605Z"
+  },
+  "cicr.com": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 7.8,
+    "en": "2026-11-06T23:51:24.503Z"
+  },
+  "matra.co.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 10.1,
+    "en": "2026-11-06T23:53:13.420Z"
+  },
+  "muniguarco.go.cr": {
+    "banner": false,
+    "error": null,
+    "esperaSeg": 16.6,
+    "en": "2026-11-06T23:53:57.356Z"
+  },
+  "durman.com": {
+    "banner": true,
+    "error": null,
+    "esperaSeg": 27.1,
+    "en": "2026-11-07T00:14:28.463Z"
+  }
+}

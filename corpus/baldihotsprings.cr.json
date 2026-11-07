@@ -1,0 +1,798 @@
+{
+  "sitio": "baldihotsprings.cr",
+  "url": "https://www.baldihotsprings.cr",
+  "auditadoEn": "2026-11-06T03:45:14.476Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.baldihotsprings.cr",
+      "instante": "2026-11-06T03:43:02.715Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "www.baldihotsprings.cr",
+          "path": "/",
+          "expires": 1794109383.772151,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1801712585,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.baldihotsprings.cr",
+          "path": "/",
+          "expires": 1794022984.961275,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793937485.309263,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1828496585.282031,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_8WEY3J73G6",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1828496585.290049,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "litespeed_docref",
+          "litespeed_reloaded"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.baldihotsprings.cr",
+      "instante": "2026-11-06T03:43:18.947Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "www.baldihotsprings.cr",
+          "path": "/",
+          "expires": 1794109399.980553,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1801712601,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.baldihotsprings.cr",
+          "path": "/",
+          "expires": 1794023001.327795,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_ga",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1828496601.411507,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_8WEY3J73G6",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1828496601.419133,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793937501.527301,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "litespeed_docref",
+          "litespeed_reloaded"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.baldihotsprings.cr",
+      "instante": "2026-11-06T03:43:39.099Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "www.baldihotsprings.cr",
+          "path": "/",
+          "expires": 1794109419.913781,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1801712621,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.baldihotsprings.cr",
+          "path": "/",
+          "expires": 1794023020.882249,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793937521.109222,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1828496621.243658,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_8WEY3J73G6",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1828496621.252289,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "litespeed_docref",
+          "litespeed_reloaded"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "google.co.cr",
+        "analytics.google.com",
+        "stats.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.baldihotsprings.cr",
+      "instante": "2026-11-06T03:44:03.711Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "www.baldihotsprings.cr",
+          "path": "/",
+          "expires": 1794109444.754223,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1801712646,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.baldihotsprings.cr",
+          "path": "/",
+          "expires": 1794023045.642618,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793937546.117913,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1828496646.22813,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_8WEY3J73G6",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1828496646.235563,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "litespeed_docref",
+          "litespeed_reloaded"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "google.co.cr",
+        "analytics.google.com",
+        "stats.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.baldihotsprings.cr",
+      "instante": "2026-11-06T03:44:23.532Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "www.baldihotsprings.cr",
+          "path": "/",
+          "expires": 1794109464.43035,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1801712665,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.baldihotsprings.cr",
+          "path": "/",
+          "expires": 1794023079.857563,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_ga",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1828496679.975676,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_8WEY3J73G6",
+          "domain": ".baldihotsprings.cr",
+          "path": "/",
+          "expires": 1828496679.979331,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828496680.055607,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": [
+          "litespeed_docref",
+          "litespeed_reloaded"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "google.co.cr",
+        "analytics.google.com",
+        "stats.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.baldihotsprings.cr",
+      "instante": "2026-11-06T03:44:48.949Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_lscache_vary",
+          "domain": "www.baldihotsprings.cr",
+          "expires": 1794109489.728417,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 2,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".baldihotsprings.cr",
+          "expires": 1801712691,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "wp-wpml_current_language",
+          "domain": "www.baldihotsprings.cr",
+          "expires": 1794023107.457081,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_ga",
+          "domain": ".baldihotsprings.cr",
+          "expires": 1828496707.577547,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_8WEY3J73G6",
+          "domain": ".baldihotsprings.cr",
+          "expires": 1828496707.580866,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828496707.667853,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "analytics.google.com",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "test_cookie@.doubleclick.net",
+        "_ga@.baldihotsprings.cr",
+        "_ga_8WEY3J73G6@.baldihotsprings.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 6,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_lscache_vary",
+      "dominio": "www.baldihotsprings.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".baldihotsprings.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.baldihotsprings.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_lscache_vary",
+      "dominio": "www.baldihotsprings.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".baldihotsprings.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.baldihotsprings.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_lscache_vary",
+      "dominio": "www.baldihotsprings.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".baldihotsprings.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.baldihotsprings.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_lscache_vary",
+      "dominio": "www.baldihotsprings.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".baldihotsprings.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.baldihotsprings.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_lscache_vary",
+      "dominio": "www.baldihotsprings.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".baldihotsprings.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.baldihotsprings.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_lscache_vary",
+      "dominio": "www.baldihotsprings.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".baldihotsprings.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "wp-wpml_current_language",
+      "dominio": "www.baldihotsprings.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 6,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 50,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

@@ -1,0 +1,1900 @@
+{
+  "sitio": "davivienda.cr",
+  "url": "https://www.davivienda.cr",
+  "auditadoEn": "2026-11-05T00:53:05.525Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.davivienda.cr",
+      "instante": "2026-11-05T00:50:33.277Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "visid_incap_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1825312041,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "nlbi_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "incap_ses_1697_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "rxVisitor",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 45
+        },
+        {
+          "name": "dtSa",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "nlbi_2912212_2147483392",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "reese84",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1796431840.072875,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 622
+        },
+        {
+          "name": "rxvt",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 27
+        },
+        {
+          "name": "dtPC",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1828399840.689466,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1793926240,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-40633715-1",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1793839900,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gid",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1793926240,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1828399840.92479,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_2EEKL9WZ42",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1828399840.933642,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1801615841,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801615841.841569,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "reese84",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "dtSa",
+          "rxVisitor",
+          "rxvt",
+          "rxvisitid"
+        ]
+      },
+      "terceros": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.davivienda.cr",
+      "instante": "2026-11-05T00:50:54.607Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "visid_incap_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1825312037,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "nlbi_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "incap_ses_1697_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "rxVisitor",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 45
+        },
+        {
+          "name": "dtSa",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "nlbi_2912212_2147483392",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "reese84",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1796431860.98325,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 626
+        },
+        {
+          "name": "rxvt",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 27
+        },
+        {
+          "name": "dtPC",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 52
+        },
+        {
+          "name": "_ga",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1828399861.588749,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1793926261,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-40633715-1",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1793839921,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gid",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1793926261,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1828399861.794287,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_2EEKL9WZ42",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1828399861.804084,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1801615862,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801615862.455499,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "reese84",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "dtSa",
+          "rxVisitor",
+          "rxvt",
+          "rxvisitid"
+        ]
+      },
+      "terceros": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.davivienda.cr",
+      "instante": "2026-11-05T00:51:18.081Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "visid_incap_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1825312037,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "nlbi_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "incap_ses_1697_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "rxVisitor",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 45
+        },
+        {
+          "name": "dtSa",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "nlbi_2912212_2147483392",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "reese84",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1796431885.350999,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 626
+        },
+        {
+          "name": "rxvt",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 27
+        },
+        {
+          "name": "dtPC",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1828399886.326391,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1793926286,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-40633715-1",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1793839946,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gid",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1793926286,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1828399886.603626,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_2EEKL9WZ42",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1828399886.614914,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1801615886,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801615887.144574,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "reese84",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "dtSa",
+          "rxVisitor",
+          "rxvt",
+          "rxvisitid"
+        ]
+      },
+      "terceros": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.davivienda.cr",
+      "instante": "2026-11-05T00:51:44.793Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "visid_incap_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1825312038,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "nlbi_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "incap_ses_1697_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "rxVisitor",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 45
+        },
+        {
+          "name": "dtSa",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "nlbi_2912212_2147483392",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "reese84",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1796431911.010972,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 626
+        },
+        {
+          "name": "rxvt",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 27
+        },
+        {
+          "name": "dtPC",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1828399911.568452,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1793926311,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-40633715-1",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1793839971,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gid",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1793926311,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1828399911.814899,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_2EEKL9WZ42",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1828399911.825557,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1801615912,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801615912.575851,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "reese84",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "dtSa",
+          "rxVisitor",
+          "rxvt",
+          "rxvisitid"
+        ]
+      },
+      "terceros": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.davivienda.cr",
+      "instante": "2026-11-05T00:52:07.736Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "visid_incap_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1825312038,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "nlbi_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "incap_ses_1697_2912212",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "rxVisitor",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 45
+        },
+        {
+          "name": "dtSa",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "reese84",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1796431948.853761,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 630
+        },
+        {
+          "name": "rxvt",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 27
+        },
+        {
+          "name": "dtPC",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1828399935.456243,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1793926335,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-40633715-1",
+          "domain": ".bienvenido.davivienda.cr",
+          "path": "/",
+          "expires": 1793839995,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gid",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1793926335,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1828399935.670213,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_fbp",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1801615936,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801615936.325873,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_2EEKL9WZ42",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": 1828399948.57201,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "nlbi_2912212_2147483392",
+          "domain": ".davivienda.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "reese84",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": [
+          "dtSa",
+          "rxVisitor",
+          "rxvt",
+          "rxvisitid"
+        ]
+      },
+      "terceros": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.davivienda.cr",
+      "instante": "2026-11-05T00:52:37.722Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "visid_incap_2912212",
+          "domain": ".davivienda.cr",
+          "expires": 1825312037,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 364,
+          "valorLongitud": 64
+        },
+        {
+          "name": "nlbi_2912212",
+          "domain": ".davivienda.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "incap_ses_1697_2912212",
+          "domain": ".davivienda.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 56
+        },
+        {
+          "name": "dtCookie",
+          "domain": ".davivienda.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "JSESSIONID",
+          "domain": "bienvenido.davivienda.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 37
+        },
+        {
+          "name": "rxVisitor",
+          "domain": ".davivienda.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 45
+        },
+        {
+          "name": "dtSa",
+          "domain": ".davivienda.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga",
+          "domain": ".bienvenido.davivienda.cr",
+          "expires": 1828399983.379287,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".bienvenido.davivienda.cr",
+          "expires": 1793926383,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-40633715-1",
+          "domain": ".bienvenido.davivienda.cr",
+          "expires": 1793840026,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gid",
+          "domain": ".davivienda.cr",
+          "expires": 1793926383,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_fbp",
+          "domain": ".davivienda.cr",
+          "expires": 1801615983,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801615967.525667,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "incap-resubmit-token",
+          "domain": "bienvenido.davivienda.cr",
+          "expires": 1793840036.30782,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 57
+        },
+        {
+          "name": "reese84",
+          "domain": ".bienvenido.davivienda.cr",
+          "expires": 1796431982.364903,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 634
+        },
+        {
+          "name": "nlbi_2912212_2147483392",
+          "domain": ".davivienda.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "rxvt",
+          "domain": ".davivienda.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 27
+        },
+        {
+          "name": "dtPC",
+          "domain": ".davivienda.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".davivienda.cr",
+          "expires": 1828399983.587628,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_2EEKL9WZ42",
+          "domain": ".davivienda.cr",
+          "expires": 1828399983.594341,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "facebook.com",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "facebook.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga@.bienvenido.davivienda.cr",
+        "_gid@.bienvenido.davivienda.cr",
+        "_gat_UA-40633715-1@.bienvenido.davivienda.cr",
+        "_gid@.davivienda.cr",
+        "_ga@.davivienda.cr",
+        "_ga_2EEKL9WZ42@.davivienda.cr",
+        "_fbp@.davivienda.cr",
+        "fr@.facebook.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 19,
+        "rastreadoresEnE0": 5
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "visid_incap_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "nlbi_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "incap_ses_1697_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "dtCookie",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "rxVisitor",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "dtSa",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "nlbi_2912212_2147483392",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "reese84",
+      "dominio": ".bienvenido.davivienda.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "rxvt",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "dtPC",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "visid_incap_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "nlbi_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "incap_ses_1697_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "dtCookie",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "rxVisitor",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "dtSa",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "nlbi_2912212_2147483392",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "reese84",
+      "dominio": ".bienvenido.davivienda.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "rxvt",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "dtPC",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "visid_incap_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "nlbi_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "incap_ses_1697_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "dtCookie",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "rxVisitor",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "dtSa",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "nlbi_2912212_2147483392",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "reese84",
+      "dominio": ".bienvenido.davivienda.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "rxvt",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "dtPC",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "visid_incap_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "nlbi_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "incap_ses_1697_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "dtCookie",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "rxVisitor",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "dtSa",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "nlbi_2912212_2147483392",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "reese84",
+      "dominio": ".bienvenido.davivienda.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "rxvt",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "dtPC",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "visid_incap_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "nlbi_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "incap_ses_1697_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "dtCookie",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "rxVisitor",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "dtSa",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "reese84",
+      "dominio": ".bienvenido.davivienda.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "rxvt",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "dtPC",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "nlbi_2912212_2147483392",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "visid_incap_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "nlbi_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "incap_ses_1697_2912212",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "dtCookie",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "rxVisitor",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "dtSa",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "incap-resubmit-token",
+      "dominio": "bienvenido.davivienda.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "reese84",
+      "dominio": ".bienvenido.davivienda.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "nlbi_2912212_2147483392",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "rxvt",
+      "dominio": ".davivienda.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "dtPC",
+      "dominio": ".davivienda.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 19,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 53,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

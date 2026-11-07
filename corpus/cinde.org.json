@@ -1,0 +1,1267 @@
+{
+  "sitio": "cinde.org",
+  "url": "https://www.cinde.org",
+  "auditadoEn": "2026-11-06T03:53:18.284Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.cinde.org",
+      "instante": "2026-11-06T03:50:41.847Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_cinde_session",
+          "domain": "www.cinde.org",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 374
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".apollo.io",
+          "path": "/",
+          "expires": 1793938843.478245,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga_92HZENEWNY",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497044.003128,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497044.259175,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1801713044,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_MVC5VRSJ3D",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497044.258708,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "prism_652636465",
+          "domain": "prism.app-us1.com",
+          "path": "/",
+          "expires": 1796529044.380939,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "prism_652636465",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1796529044,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825473044.410297,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794023444.410375,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793938844.410415,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828497044.61123,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "66318302e785d004226d3bd2_eventQueue",
+          "_gcl_ls",
+          "66318302e785d004226d3bd2_canTrack",
+          "apolloAnonId",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "assets.apollo.io",
+        "aplo-evnt.com",
+        "snap.licdn.com",
+        "analytics.ahrefs.com",
+        "diffuser-cdn.app-us1.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com",
+        "prism.app-us1.com",
+        "trackcmp.net",
+        "acsbapp.com",
+        "cdn.acsbapp.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "snap.licdn.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.cinde.org",
+      "instante": "2026-11-06T03:51:00.987Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_cinde_session",
+          "domain": "www.cinde.org",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 386
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".apollo.io",
+          "path": "/",
+          "expires": 1793938862.461791,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "prism_652636465",
+          "domain": "prism.app-us1.com",
+          "path": "/",
+          "expires": 1796529063.530263,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "prism_652636465",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1796529063,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825473063.596239,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794023463.5963,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793938863.596338,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_92HZENEWNY",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497063.651231,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497063.75695,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1801713064,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_MVC5VRSJ3D",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497063.756539,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828497064.129418,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "66318302e785d004226d3bd2_eventQueue",
+          "_gcl_ls",
+          "66318302e785d004226d3bd2_canTrack",
+          "apolloAnonId",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "assets.apollo.io",
+        "aplo-evnt.com",
+        "snap.licdn.com",
+        "analytics.ahrefs.com",
+        "diffuser-cdn.app-us1.com",
+        "prism.app-us1.com",
+        "px.ads.linkedin.com",
+        "trackcmp.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "acsbapp.com",
+        "cdn.acsbapp.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "snap.licdn.com",
+        "px.ads.linkedin.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.cinde.org",
+      "instante": "2026-11-06T03:51:25.909Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_cinde_session",
+          "domain": "www.cinde.org",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 382
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".apollo.io",
+          "path": "/",
+          "expires": 1793938887.167068,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "prism_652636465",
+          "domain": "prism.app-us1.com",
+          "path": "/",
+          "expires": 1796529087.767417,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "prism_652636465",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1796529087,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825473087.906296,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794023487.90637,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793938887.906407,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_ga_92HZENEWNY",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497087.973592,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497088.078166,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1801713088,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 23
+        },
+        {
+          "name": "_ga_MVC5VRSJ3D",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497088.077596,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793937988.386499,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "66318302e785d004226d3bd2_eventQueue",
+          "_gcl_ls",
+          "66318302e785d004226d3bd2_canTrack",
+          "apolloAnonId",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "assets.apollo.io",
+        "aplo-evnt.com",
+        "snap.licdn.com",
+        "analytics.ahrefs.com",
+        "diffuser-cdn.app-us1.com",
+        "prism.app-us1.com",
+        "px.ads.linkedin.com",
+        "trackcmp.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "acsbapp.com",
+        "cdn.acsbapp.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "snap.licdn.com",
+        "px.ads.linkedin.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.cinde.org",
+      "instante": "2026-11-06T03:51:56.588Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_cinde_session",
+          "domain": "www.cinde.org",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 378
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".apollo.io",
+          "path": "/",
+          "expires": 1793938917.842858,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 197
+        },
+        {
+          "name": "prism_652636465",
+          "domain": "prism.app-us1.com",
+          "path": "/",
+          "expires": 1796529118.368885,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga_92HZENEWNY",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497118.394465,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497118.543964,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1801713118,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "prism_652636465",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1796529118,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga_MVC5VRSJ3D",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497118.543574,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794023518.789061,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825473118.78897,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793938918.789114,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828497118.964013,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "66318302e785d004226d3bd2_eventQueue",
+          "_gcl_ls",
+          "66318302e785d004226d3bd2_canTrack",
+          "apolloAnonId",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "assets.apollo.io",
+        "aplo-evnt.com",
+        "snap.licdn.com",
+        "analytics.ahrefs.com",
+        "diffuser-cdn.app-us1.com",
+        "prism.app-us1.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com",
+        "trackcmp.net",
+        "acsbapp.com",
+        "cdn.acsbapp.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "snap.licdn.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "px.ads.linkedin.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.cinde.org",
+      "instante": "2026-11-06T03:52:20.327Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".apollo.io",
+          "path": "/",
+          "expires": 1793938941.810669,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "prism_652636465",
+          "domain": "prism.app-us1.com",
+          "path": "/",
+          "expires": 1796529160.187413,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "prism_652636465",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1796529160,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794023542.546209,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825473142.546135,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793938942.546246,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497160.008845,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1801713143,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828497143.056987,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_cinde_session",
+          "domain": "www.cinde.org",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 390
+        },
+        {
+          "name": "_ga_92HZENEWNY",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497159.969395,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_MVC5VRSJ3D",
+          "domain": ".cinde.org",
+          "path": "/",
+          "expires": 1828497160.008523,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "66318302e785d004226d3bd2_eventQueue",
+          "_gcl_ls",
+          "66318302e785d004226d3bd2_canTrack",
+          "apolloAnonId",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "assets.apollo.io",
+        "aplo-evnt.com",
+        "snap.licdn.com",
+        "analytics.ahrefs.com",
+        "diffuser-cdn.app-us1.com",
+        "prism.app-us1.com",
+        "px.ads.linkedin.com",
+        "trackcmp.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "google.co.cr",
+        "ad.doubleclick.net",
+        "acsbapp.com",
+        "cdn.acsbapp.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "snap.licdn.com",
+        "px.ads.linkedin.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.cinde.org",
+      "instante": "2026-11-06T03:52:49.174Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".apollo.io",
+          "expires": 1793938970.485644,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "prism_652636465",
+          "domain": "prism.app-us1.com",
+          "expires": 1796529191.573433,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "prism_652636465",
+          "domain": ".cinde.org",
+          "expires": 1796529191,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "expires": 1825473171.320675,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "expires": 1794023571.320776,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "expires": 1793938971.320817,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga",
+          "domain": ".cinde.org",
+          "expires": 1828497191.35391,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cinde.org",
+          "expires": 1801713171,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828497171.867275,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_cinde_session",
+          "domain": "www.cinde.org",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 382
+        },
+        {
+          "name": "_ga_92HZENEWNY",
+          "domain": ".cinde.org",
+          "expires": 1828497191.311123,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga_MVC5VRSJ3D",
+          "domain": ".cinde.org",
+          "expires": 1828497191.353568,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "assets.apollo.io",
+        "snap.licdn.com",
+        "analytics.ahrefs.com",
+        "diffuser-cdn.app-us1.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "px.ads.linkedin.com",
+        "prism.app-us1.com",
+        "aplo-evnt.com",
+        "google.co.cr",
+        "trackcmp.net",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "snap.licdn.com",
+        "googleads.g.doubleclick.net",
+        "px.ads.linkedin.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_92HZENEWNY@.cinde.org",
+        "_ga@.cinde.org",
+        "_ga_MVC5VRSJ3D@.cinde.org",
+        "prism_652636465@prism.app-us1.com",
+        "bcookie@.linkedin.com",
+        "lidc@.linkedin.com",
+        "IDE@.doubleclick.net"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 12,
+        "rastreadoresEnE0": 6
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_cinde_session",
+      "dominio": "www.cinde.org"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "prism_652636465",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_cinde_session",
+      "dominio": "www.cinde.org"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "prism_652636465",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_cinde_session",
+      "dominio": "www.cinde.org"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "prism_652636465",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_cinde_session",
+      "dominio": "www.cinde.org"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "prism_652636465",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "prism_652636465",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_cinde_session",
+      "dominio": "www.cinde.org"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "prism_652636465",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".cinde.org"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_cinde_session",
+      "dominio": "www.cinde.org"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 12,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 25,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

@@ -1,0 +1,656 @@
+{
+  "sitio": "cnfl.go.cr",
+  "url": "https://www.cnfl.go.cr",
+  "auditadoEn": "2026-11-06T03:55:45.443Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.cnfl.go.cr",
+      "instante": "2026-11-06T03:53:18.348Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "9c096e128a509bab51e24d69d4181a08",
+          "domain": "www.cnfl.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.cnfl.go.cr",
+          "path": "/",
+          "expires": 1793980398.928306,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".cnfl.go.cr",
+          "path": "/",
+          "expires": 1828497199.285547,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_W4TKFC0H9N",
+          "domain": ".cnfl.go.cr",
+          "path": "/",
+          "expires": 1828497199.296239,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "maxcdn.bootstrapcdn.com",
+        "code.jquery.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "apps.mypurecloud.com",
+        "api-cdn.mypurecloud.com",
+        "seal.atlas.globalsign.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.cnfl.go.cr",
+      "instante": "2026-11-06T03:53:37.161Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "9c096e128a509bab51e24d69d4181a08",
+          "domain": "www.cnfl.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.cnfl.go.cr",
+          "path": "/",
+          "expires": 1793980417.645681,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_W4TKFC0H9N",
+          "domain": ".cnfl.go.cr",
+          "path": "/",
+          "expires": 1828497218.110922,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".cnfl.go.cr",
+          "path": "/",
+          "expires": 1828497218.111745,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "maxcdn.bootstrapcdn.com",
+        "code.jquery.com",
+        "fonts.googleapis.com",
+        "apps.mypurecloud.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "api-cdn.mypurecloud.com",
+        "js-agent.newrelic.com",
+        "seal.atlas.globalsign.com",
+        "bam.nr-data.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.cnfl.go.cr",
+      "instante": "2026-11-06T03:54:00.283Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "9c096e128a509bab51e24d69d4181a08",
+          "domain": "www.cnfl.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.cnfl.go.cr",
+          "path": "/",
+          "expires": 1793980440.944313,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_W4TKFC0H9N",
+          "domain": ".cnfl.go.cr",
+          "path": "/",
+          "expires": 1828497241.33045,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".cnfl.go.cr",
+          "path": "/",
+          "expires": 1828497241.331192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "maxcdn.bootstrapcdn.com",
+        "code.jquery.com",
+        "fonts.googleapis.com",
+        "apps.mypurecloud.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "api-cdn.mypurecloud.com",
+        "js-agent.newrelic.com",
+        "seal.atlas.globalsign.com",
+        "bam.nr-data.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.cnfl.go.cr",
+      "instante": "2026-11-06T03:54:27.826Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "9c096e128a509bab51e24d69d4181a08",
+          "domain": "www.cnfl.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.cnfl.go.cr",
+          "path": "/",
+          "expires": 1793980468.546113,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".cnfl.go.cr",
+          "path": "/",
+          "expires": 1828497268.688216,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_W4TKFC0H9N",
+          "domain": ".cnfl.go.cr",
+          "path": "/",
+          "expires": 1828497268.697973,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "maxcdn.bootstrapcdn.com",
+        "code.jquery.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "apps.mypurecloud.com",
+        "fonts.gstatic.com",
+        "api-cdn.mypurecloud.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.cnfl.go.cr",
+      "instante": "2026-11-06T03:54:50.446Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "9c096e128a509bab51e24d69d4181a08",
+          "domain": "www.cnfl.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.cnfl.go.cr",
+          "path": "/",
+          "expires": 1793980490.979852,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".cnfl.go.cr",
+          "path": "/",
+          "expires": 1828497291.329521,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_W4TKFC0H9N",
+          "domain": ".cnfl.go.cr",
+          "path": "/",
+          "expires": 1828497309.565352,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "maxcdn.bootstrapcdn.com",
+        "code.jquery.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "apps.mypurecloud.com",
+        "api-cdn.mypurecloud.com",
+        "seal.atlas.globalsign.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.cnfl.go.cr",
+      "instante": "2026-11-06T03:55:18.911Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "9c096e128a509bab51e24d69d4181a08",
+          "domain": "www.cnfl.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.cnfl.go.cr",
+          "expires": 1793980519.512758,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".cnfl.go.cr",
+          "expires": 1828497319.749476,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_W4TKFC0H9N",
+          "domain": ".cnfl.go.cr",
+          "expires": 1828497338.239988,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "maxcdn.bootstrapcdn.com",
+        "code.jquery.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "apps.mypurecloud.com",
+        "api-cdn.mypurecloud.com",
+        "seal.atlas.globalsign.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "js-agent.newrelic.com",
+        "bam.nr-data.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga@.cnfl.go.cr",
+        "_ga_W4TKFC0H9N@.cnfl.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 4,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "9c096e128a509bab51e24d69d4181a08",
+      "dominio": "www.cnfl.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.cnfl.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "9c096e128a509bab51e24d69d4181a08",
+      "dominio": "www.cnfl.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.cnfl.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "9c096e128a509bab51e24d69d4181a08",
+      "dominio": "www.cnfl.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.cnfl.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "9c096e128a509bab51e24d69d4181a08",
+      "dominio": "www.cnfl.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.cnfl.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "9c096e128a509bab51e24d69d4181a08",
+      "dominio": "www.cnfl.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.cnfl.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "9c096e128a509bab51e24d69d4181a08",
+      "dominio": "www.cnfl.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.cnfl.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 4,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 50,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

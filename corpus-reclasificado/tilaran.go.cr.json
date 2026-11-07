@@ -1,0 +1,465 @@
+{
+  "sitio": "tilaran.go.cr",
+  "url": "https://tilaran.go.cr",
+  "auditadoEn": "2026-11-05T07:45:41.353Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://tilaran.go.cr",
+      "instante": "2026-11-05T07:43:55.164Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "tilaran.go.cr",
+          "path": "/",
+          "expires": 1793871837.187851,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "laravel_session",
+          "domain": "tilaran.go.cr",
+          "path": "/",
+          "expires": 1793871837.188012,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "showProfileModal"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "fonts.gstatic.com",
+        "translate.google.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://tilaran.go.cr",
+      "instante": "2026-11-05T07:44:07.538Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "tilaran.go.cr",
+          "path": "/",
+          "expires": 1793871848.756477,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "laravel_session",
+          "domain": "tilaran.go.cr",
+          "path": "/",
+          "expires": 1793871848.756562,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "showProfileModal"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "fonts.gstatic.com",
+        "translate.google.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://tilaran.go.cr",
+      "instante": "2026-11-05T07:44:22.807Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "tilaran.go.cr",
+          "path": "/",
+          "expires": 1793871864.022777,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "laravel_session",
+          "domain": "tilaran.go.cr",
+          "path": "/",
+          "expires": 1793871864.022869,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "showProfileModal"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "fonts.gstatic.com",
+        "translate.google.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://tilaran.go.cr",
+      "instante": "2026-11-05T07:44:41.187Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "tilaran.go.cr",
+          "path": "/",
+          "expires": 1793871882.545479,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "laravel_session",
+          "domain": "tilaran.go.cr",
+          "path": "/",
+          "expires": 1793871882.545559,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "showProfileModal"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "fonts.gstatic.com",
+        "translate.google.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://tilaran.go.cr",
+      "instante": "2026-11-05T07:44:55.531Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"close\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "tilaran.go.cr",
+          "path": "/",
+          "expires": 1793871907.618975,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "laravel_session",
+          "domain": "tilaran.go.cr",
+          "path": "/",
+          "expires": 1793871907.619117,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "showProfileModal"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "fonts.gstatic.com",
+        "translate.google.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://tilaran.go.cr",
+      "instante": "2026-11-05T07:45:16.670Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "XSRF-TOKEN",
+          "domain": "tilaran.go.cr",
+          "expires": 1793871934.551384,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        },
+        {
+          "name": "laravel_session",
+          "domain": "tilaran.go.cr",
+          "expires": 1793871934.551778,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 342
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "fonts.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "fonts.gstatic.com",
+        "translate.google.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 2,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "laravel_session",
+      "dominio": "tilaran.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "laravel_session",
+      "dominio": "tilaran.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "laravel_session",
+      "dominio": "tilaran.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "laravel_session",
+      "dominio": "tilaran.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "laravel_session",
+      "dominio": "tilaran.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "laravel_session",
+      "dominio": "tilaran.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 2,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 50,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.855Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

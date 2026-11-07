@@ -1,0 +1,1029 @@
+{
+  "sitio": "hacienda.go.cr",
+  "url": "https://www.hacienda.go.cr",
+  "auditadoEn": "2026-11-04T21:22:39.384Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.hacienda.go.cr",
+      "instante": "2026-11-04T21:20:59.853Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([title*=\"cerrar\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "AKA_A2",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1793830860.294847,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "PIM-SESSION-ID",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "bm_sz",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1793841660.284493,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 461
+        },
+        {
+          "name": "_ga_D2MYCJNBPJ",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1828387261.385215,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1828387261.385892,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_abck",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1825363268.560893,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 843
+        },
+        {
+          "name": "RT",
+          "domain": ".www.hacienda.go.cr",
+          "path": "/",
+          "expires": 1794432068,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 130
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ak_a",
+          "ak_ax"
+        ],
+        "sessionStorage": [
+          "TAB_ID",
+          "PIM-SESSION-ID"
+        ]
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "ajax.googleapis.com",
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "pro.fontawesome.com",
+        "googletagmanager.com",
+        "s.go-mpulse.net",
+        "c.go-mpulse.net",
+        "google-analytics.com",
+        "ace91826.akstat.io"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.hacienda.go.cr",
+      "instante": "2026-11-04T21:21:11.203Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([title*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "AKA_A2",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1793830871.451913,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_D2MYCJNBPJ",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1828387272.401016,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1828387272.401604,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "PIM-SESSION-ID",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "bm_sz",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1793841672.074823,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 461
+        },
+        {
+          "name": "_abck",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1825363279.589585,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 845
+        },
+        {
+          "name": "RT",
+          "domain": ".www.hacienda.go.cr",
+          "path": "/",
+          "expires": 1794432079,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 130
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ak_a",
+          "ak_ax"
+        ],
+        "sessionStorage": [
+          "TAB_ID",
+          "PIM-SESSION-ID"
+        ]
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "ajax.googleapis.com",
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "pro.fontawesome.com",
+        "googletagmanager.com",
+        "s.go-mpulse.net",
+        "c.go-mpulse.net",
+        "google-analytics.com",
+        "acea23fc.akstat.io"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.hacienda.go.cr",
+      "instante": "2026-11-04T21:21:25.209Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([title*=\"cerrar\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "AKA_A2",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1793830885.578699,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "PIM-SESSION-ID",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_ga_D2MYCJNBPJ",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1828387286.559821,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1828387286.560574,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "bm_sz",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1793841685.695276,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 461
+        },
+        {
+          "name": "_abck",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1825363293.879281,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 849
+        },
+        {
+          "name": "RT",
+          "domain": ".www.hacienda.go.cr",
+          "path": "/",
+          "expires": 1794432093,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 130
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ak_a",
+          "ak_ax",
+          "_boomr_akamaiXhrRetry"
+        ],
+        "sessionStorage": [
+          "TAB_ID",
+          "PIM-SESSION-ID"
+        ]
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "ajax.googleapis.com",
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "pro.fontawesome.com",
+        "googletagmanager.com",
+        "s.go-mpulse.net",
+        "google-analytics.com",
+        "c.go-mpulse.net",
+        "acea4743.akstat.io",
+        "trial-eum-clientnsv4-s.akamaihd.net",
+        "trial-eum-clienttons-s.akamaihd.net",
+        "xihxzpf2b7wis2xluhla-p5s4kt-d968ac9de-clientnsv4-s.akamaihd.net",
+        "186-15-124-188_s-186-15-236-139_ts-1793827286-clienttons-s.akamaihd.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.hacienda.go.cr",
+      "instante": "2026-11-04T21:21:41.998Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([title*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "AKA_A2",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1793830902.233028,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "PIM-SESSION-ID",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_ga_D2MYCJNBPJ",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1828387303.196873,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1828387303.197584,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "bm_sz",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1793841702.258041,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 461
+        },
+        {
+          "name": "_abck",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1825363310.583148,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 845
+        },
+        {
+          "name": "RT",
+          "domain": ".www.hacienda.go.cr",
+          "path": "/",
+          "expires": 1794432110,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 130
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ak_a",
+          "ak_ax"
+        ],
+        "sessionStorage": [
+          "TAB_ID",
+          "PIM-SESSION-ID"
+        ]
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "ajax.googleapis.com",
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "pro.fontawesome.com",
+        "googletagmanager.com",
+        "s.go-mpulse.net",
+        "c.go-mpulse.net",
+        "google-analytics.com",
+        "aced3ea7.akstat.io"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.hacienda.go.cr",
+      "instante": "2026-11-04T21:21:55.448Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([title*=\"cerrar\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "AKA_A2",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1793830915.711955,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "PIM-SESSION-ID",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_ga",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1828387316.605799,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "bm_sz",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1793841715.746536,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 469
+        },
+        {
+          "name": "_ga_D2MYCJNBPJ",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1828387326.906585,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_abck",
+          "domain": ".hacienda.go.cr",
+          "path": "/",
+          "expires": 1825363326.937695,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 851
+        },
+        {
+          "name": "RT",
+          "domain": ".www.hacienda.go.cr",
+          "path": "/",
+          "expires": 1794432129,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 130
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ak_a",
+          "ak_ax",
+          "_boomr_akamaiXhrRetry"
+        ],
+        "sessionStorage": [
+          "TAB_ID",
+          "PIM-SESSION-ID"
+        ]
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "ajax.googleapis.com",
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "pro.fontawesome.com",
+        "googletagmanager.com",
+        "s.go-mpulse.net",
+        "c.go-mpulse.net",
+        "google-analytics.com",
+        "ace90bb5.akstat.io",
+        "trial-eum-clientnsv4-s.akamaihd.net",
+        "trial-eum-clienttons-s.akamaihd.net",
+        "xihxzpf2b7wis2xluh7a-p9khra-c6b88a9e2-clientnsv4-s.akamaihd.net",
+        "186-15-124-188_s-186-15-236-136_ts-1793827326-clienttons-s.akamaihd.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.hacienda.go.cr",
+      "instante": "2026-11-04T21:22:16.104Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "AKA_A2",
+          "domain": ".hacienda.go.cr",
+          "expires": 1793830936.363021,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "PIM-SESSION-ID",
+          "domain": ".hacienda.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_ga",
+          "domain": ".hacienda.go.cr",
+          "expires": 1828387337.357788,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "bm_sz",
+          "domain": ".hacienda.go.cr",
+          "expires": 1793841736.080374,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 469
+        },
+        {
+          "name": "_ga_D2MYCJNBPJ",
+          "domain": ".hacienda.go.cr",
+          "expires": 1828387352.243755,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_abck",
+          "domain": ".hacienda.go.cr",
+          "expires": 1825363352.258808,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 843
+        },
+        {
+          "name": "RT",
+          "domain": ".www.hacienda.go.cr",
+          "expires": 1794432154,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 130
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "use.fontawesome.com",
+        "ajax.googleapis.com",
+        "cdn.jsdelivr.net",
+        "cdnjs.cloudflare.com",
+        "pro.fontawesome.com",
+        "googletagmanager.com",
+        "s.go-mpulse.net",
+        "c.go-mpulse.net",
+        "ace9069c.akstat.io",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_D2MYCJNBPJ@.hacienda.go.cr",
+        "_ga@.hacienda.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 7,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "AKA_A2",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "PIM-SESSION-ID",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "bm_sz",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_abck",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "RT",
+      "dominio": ".www.hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "AKA_A2",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "PIM-SESSION-ID",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "bm_sz",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_abck",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "RT",
+      "dominio": ".www.hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "AKA_A2",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "PIM-SESSION-ID",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "bm_sz",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_abck",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "RT",
+      "dominio": ".www.hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "AKA_A2",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "PIM-SESSION-ID",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "bm_sz",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_abck",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "RT",
+      "dominio": ".www.hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "AKA_A2",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "PIM-SESSION-ID",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "bm_sz",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_abck",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "RT",
+      "dominio": ".www.hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "AKA_A2",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "PIM-SESSION-ID",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "bm_sz",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_abck",
+      "dominio": ".hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "RT",
+      "dominio": ".www.hacienda.go.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 7,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 71.4,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.587Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

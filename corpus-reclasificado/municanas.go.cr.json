@@ -1,0 +1,1168 @@
+{
+  "sitio": "municanas.go.cr",
+  "url": "https://municanas.go.cr",
+  "auditadoEn": "2026-11-05T06:12:09.106Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://municanas.go.cr",
+      "instante": "2026-11-05T06:09:51.177Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "27700f3e30c2d1609de4e37a4e8bc3ed",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "wcsid",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "hblid",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": 1828418993.21173,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_oklv",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "_okdetect",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "olfsk",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": 1828418993.156806,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 21
+        },
+        {
+          "name": "_okbk",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 158
+        },
+        {
+          "name": "_ok",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "olark:leapfrog:browserId",
+          "_okdetect"
+        ],
+        "sessionStorage": [
+          "olark_tab:engagedConversationIds",
+          "olark_tab:lastEngagementTimestamp",
+          "olark_tab:browserTabId",
+          "olark_tab:seenConversationIds"
+        ]
+      },
+      "terceros": [
+        "cdn.gtranslate.net",
+        "fonts.googleapis.com",
+        "static.olark.com",
+        "fonts.gstatic.com",
+        "knrpc.olark.com",
+        "api.olark.com",
+        "log.olark.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://municanas.go.cr",
+      "instante": "2026-11-05T06:10:07.770Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "27700f3e30c2d1609de4e37a4e8bc3ed",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "wcsid",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "hblid",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": 1828419009.95526,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_oklv",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "_okdetect",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "olfsk",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": 1828419009.552879,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 21
+        },
+        {
+          "name": "_okbk",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 158
+        },
+        {
+          "name": "_ok",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "olark:leapfrog:browserId",
+          "_okdetect"
+        ],
+        "sessionStorage": [
+          "olark_tab:engagedConversationIds",
+          "olark_tab:lastEngagementTimestamp",
+          "olark_tab:browserTabId",
+          "olark_tab:seenConversationIds"
+        ]
+      },
+      "terceros": [
+        "cdn.gtranslate.net",
+        "fonts.googleapis.com",
+        "static.olark.com",
+        "fonts.gstatic.com",
+        "knrpc.olark.com",
+        "api.olark.com",
+        "log.olark.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://municanas.go.cr",
+      "instante": "2026-11-05T06:10:29.336Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "27700f3e30c2d1609de4e37a4e8bc3ed",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "wcsid",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "hblid",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": 1828419031.307759,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_oklv",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "_okdetect",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "olfsk",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": 1828419031.286415,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 21
+        },
+        {
+          "name": "_okbk",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 158
+        },
+        {
+          "name": "_ok",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "olark:leapfrog:browserId",
+          "_okdetect"
+        ],
+        "sessionStorage": [
+          "olark_tab:engagedConversationIds",
+          "olark_tab:lastEngagementTimestamp",
+          "olark_tab:browserTabId",
+          "olark_tab:seenConversationIds"
+        ]
+      },
+      "terceros": [
+        "cdn.gtranslate.net",
+        "fonts.googleapis.com",
+        "static.olark.com",
+        "fonts.gstatic.com",
+        "knrpc.olark.com",
+        "api.olark.com",
+        "log.olark.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://municanas.go.cr",
+      "instante": "2026-11-05T06:10:55.527Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "27700f3e30c2d1609de4e37a4e8bc3ed",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "wcsid",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "hblid",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": 1828419057.184151,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_oklv",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        },
+        {
+          "name": "_okdetect",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "olfsk",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": 1828419057.167213,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 22
+        },
+        {
+          "name": "_okbk",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 158
+        },
+        {
+          "name": "_ok",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "olark:leapfrog:browserId",
+          "_okdetect"
+        ],
+        "sessionStorage": [
+          "olark_tab:engagedConversationIds",
+          "olark_tab:lastEngagementTimestamp",
+          "olark_tab:browserTabId",
+          "olark_tab:seenConversationIds"
+        ]
+      },
+      "terceros": [
+        "cdn.gtranslate.net",
+        "fonts.googleapis.com",
+        "static.olark.com",
+        "fonts.gstatic.com",
+        "knrpc.olark.com",
+        "api.olark.com",
+        "log.olark.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://municanas.go.cr",
+      "instante": "2026-11-05T06:11:16.155Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "27700f3e30c2d1609de4e37a4e8bc3ed",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "wcsid",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "hblid",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": 1828419092.968499,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_okdetect",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "olfsk",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": 1828419092.634065,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 21
+        },
+        {
+          "name": "_okbk",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 158
+        },
+        {
+          "name": "_ok",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_oklv",
+          "domain": "municanas.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "olark:leapfrog:browserId",
+          "_okdetect"
+        ],
+        "sessionStorage": [
+          "olark_tab:engagedConversationIds",
+          "olark_tab:lastEngagementTimestamp",
+          "olark_tab:browserTabId",
+          "olark_tab:seenConversationIds"
+        ]
+      },
+      "terceros": [
+        "cdn.gtranslate.net",
+        "fonts.googleapis.com",
+        "static.olark.com",
+        "fonts.gstatic.com",
+        "knrpc.olark.com",
+        "api.olark.com",
+        "log.olark.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://municanas.go.cr",
+      "instante": "2026-11-05T06:11:41.633Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "27700f3e30c2d1609de4e37a4e8bc3ed",
+          "domain": "municanas.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "wcsid",
+          "domain": "municanas.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "hblid",
+          "domain": "municanas.go.cr",
+          "expires": 1828419122.432983,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_okdetect",
+          "domain": "municanas.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 93
+        },
+        {
+          "name": "olfsk",
+          "domain": "municanas.go.cr",
+          "expires": 1828419122.314326,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 400,
+          "valorLongitud": 21
+        },
+        {
+          "name": "_okbk",
+          "domain": "municanas.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 158
+        },
+        {
+          "name": "_ok",
+          "domain": "municanas.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "_oklv",
+          "domain": "municanas.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 48
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdn.gtranslate.net",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "static.olark.com",
+        "knrpc.olark.com",
+        "visitor.olark.com",
+        "log.olark.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 8,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "27700f3e30c2d1609de4e37a4e8bc3ed",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "wcsid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "hblid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_oklv",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_okdetect",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "olfsk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_okbk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_ok",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "27700f3e30c2d1609de4e37a4e8bc3ed",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "wcsid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "hblid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_oklv",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_okdetect",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "olfsk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_okbk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_ok",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "27700f3e30c2d1609de4e37a4e8bc3ed",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "wcsid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "hblid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_oklv",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_okdetect",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "olfsk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_okbk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_ok",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "27700f3e30c2d1609de4e37a4e8bc3ed",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "wcsid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "hblid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_oklv",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_okdetect",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "olfsk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_okbk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_ok",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "27700f3e30c2d1609de4e37a4e8bc3ed",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "wcsid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "hblid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_okdetect",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "olfsk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_okbk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_ok",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_oklv",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "27700f3e30c2d1609de4e37a4e8bc3ed",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "wcsid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "hblid",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_okdetect",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "olfsk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_okbk",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_ok",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_oklv",
+      "dominio": "municanas.go.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 8,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 100,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.712Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

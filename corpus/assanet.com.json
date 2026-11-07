@@ -1,0 +1,1511 @@
+{
+  "sitio": "assanet.com",
+  "url": "https://www.assanet.com",
+  "auditadoEn": "2026-11-05T08:01:35.445Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.assanet.com",
+      "instante": "2026-11-05T07:59:12.261Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 2677
+        },
+        "cubrePantalla": true,
+        "texto": "PANAMÁ\n6601-2772\n800-2772\nSUCURSALES\nCONTÁCTENOS\nPRODUCTOS\nRECLAMOS\nSERVICIO AL CLIENTE\nACERCA DE NOSOTROS\nMi ASSAnet\nIngrese a su Cuenta\nUsuario, Cédula o E-mail:\nContraseña:\nIngresar\n¿Olvidó su contraseña?\nSolicitar acceso\n\t\n12345678910\n¡Compra o calcula tus seguros en línea!\n\t\n\t\n\t\n\t\n¡Verifica tu saldo de seguros aquí!\n\t\n\nTipo de Documento\n\n—Por favor, elige una opción—\nCédula (con guiones)\nRUC (con guiones)\nPasaporte\n\n\t\n\nNúmero de Documento\n\n\n\t\n\n \n\n\nLo que dicen nuestros clientes de seguros\n\n0.0\n\nde Satisfacción\n\nLeer Opiniones\n\t\n\n6601-2772\n300-2424\n\t\n \t\nRamon Enrique\n5 de Noviembre de 2026"
+      },
+      "cookies": [
+        {
+          "name": "cee",
+          "domain": ".ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+          "path": "/events/6ef2737c36269af00e1e04b53ac9435ab4efec9473f9f929aff6d68f1ef0b337",
+          "expires": 1801641555.444552,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 55
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809417555.310689,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.assanet.com",
+          "path": "/",
+          "expires": 1793867352.533346,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "prism_225380443",
+          "domain": "prism.app-us1.com",
+          "path": "/",
+          "expires": 1796457553.647811,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "prism_225380443",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1796457553,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1801641554,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_gid",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1793951954,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_dc_gtm_UA-215819-37",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1793865614,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_MKPCK6JH2H",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425554.35996,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425554.360325,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_6BKVYGSE5T",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425554.886591,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1801641555,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866455.316567,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641555.377675,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "_grecaptcha"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "diffuser-cdn.app-us1.com",
+        "fonts.gstatic.com",
+        "prism.app-us1.com",
+        "gstatic.com",
+        "trackcmp.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "analytics.google.com",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.assanet.com",
+      "instante": "2026-11-05T07:59:29.225Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "pulsado «aceptar & navegar»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 2677
+        },
+        "cubrePantalla": true,
+        "texto": "PANAMÁ\n6601-2772\n800-2772\nSUCURSALES\nCONTÁCTENOS\nPRODUCTOS\nRECLAMOS\nSERVICIO AL CLIENTE\nACERCA DE NOSOTROS\nMi ASSAnet\nIngrese a su Cuenta\nUsuario, Cédula o E-mail:\nContraseña:\nIngresar\n¿Olvidó su contraseña?\nSolicitar acceso\n\t\n12345678910\n¡Compra o calcula tus seguros en línea!\n\t\n\t\n\t\n\t\n¡Verifica tu saldo de seguros aquí!\n\t\n\nTipo de Documento\n\n—Por favor, elige una opción—\nCédula (con guiones)\nRUC (con guiones)\nPasaporte\n\n\t\n\nNúmero de Documento\n\n\n\t\n\n \n\n\nLo que dicen nuestros clientes de seguros\n\n0.0\n\nde Satisfacción\n\nLeer Opiniones\n\t\n\n6601-2772\n300-2424\n\t\n \t\nRamon Enrique\n5 de Noviembre de 2026"
+      },
+      "cookies": [
+        {
+          "name": "cee",
+          "domain": ".ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+          "path": "/events/6ef2737c36269af00e1e04b53ac9435ab4efec9473f9f929aff6d68f1ef0b337",
+          "expires": 1801641571.511604,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 55
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809417571.81211,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.assanet.com",
+          "path": "/",
+          "expires": 1793867369.300352,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "prism_225380443",
+          "domain": "prism.app-us1.com",
+          "path": "/",
+          "expires": 1796457570.149828,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "prism_225380443",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1796457570,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1801641570,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_MKPCK6JH2H",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425570.876581,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425570.903216,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1793951970,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_dc_gtm_UA-215819-37",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1793865630,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_fbp",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1801641571,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ga_6BKVYGSE5T",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425571.364865,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866471.432527,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641571.465108,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "aviaCookieConsent",
+          "domain": "www.assanet.com",
+          "path": "/",
+          "expires": 1825401586,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 38
+        },
+        {
+          "name": "aviaPrivacyRefuseCookiesHideBar",
+          "domain": "www.assanet.com",
+          "path": "/",
+          "expires": 1824969586,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 360,
+          "valorLongitud": 4
+        },
+        {
+          "name": "aviaPrivacyEssentialCookiesEnabled",
+          "domain": "www.assanet.com",
+          "path": "/",
+          "expires": 1824969586,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 360,
+          "valorLongitud": 4
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "_grecaptcha"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "diffuser-cdn.app-us1.com",
+        "fonts.gstatic.com",
+        "prism.app-us1.com",
+        "gstatic.com",
+        "trackcmp.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "controlUsado": "aceptar & navegar",
+      "interaccionLograda": true
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.assanet.com",
+      "instante": "2026-11-05T07:59:52.467Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 2677
+        },
+        "cubrePantalla": true,
+        "texto": "PANAMÁ\n6601-2772\n800-2772\nSUCURSALES\nCONTÁCTENOS\nPRODUCTOS\nRECLAMOS\nSERVICIO AL CLIENTE\nACERCA DE NOSOTROS\nMi ASSAnet\nIngrese a su Cuenta\nUsuario, Cédula o E-mail:\nContraseña:\nIngresar\n¿Olvidó su contraseña?\nSolicitar acceso\n\t\n12345678910\n¡Compra o calcula tus seguros en línea!\n\t\n\t\n\t\n\t\n¡Verifica tu saldo de seguros aquí!\n\t\n\nTipo de Documento\n\n—Por favor, elige una opción—\nCédula (con guiones)\nRUC (con guiones)\nPasaporte\n\n\t\n\nNúmero de Documento\n\n\n\t\n\n \n\n\nLo que dicen nuestros clientes de seguros\n\n0.0\n\nde Satisfacción\n\nLeer Opiniones\n\t\n\n6601-2772\n300-2424\n\t\n \t\nManuel Salvador\n5 de Noviembre de 20"
+      },
+      "cookies": [
+        {
+          "name": "cee",
+          "domain": ".ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+          "path": "/events/6ef2737c36269af00e1e04b53ac9435ab4efec9473f9f929aff6d68f1ef0b337",
+          "expires": 1801641594.908746,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 55
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809417595.277013,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.assanet.com",
+          "path": "/",
+          "expires": 1793867392.652142,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "prism_225380443",
+          "domain": "prism.app-us1.com",
+          "path": "/",
+          "expires": 1796457593.564713,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "prism_225380443",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1796457593,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1801641594,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_gid",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1793951994,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_dc_gtm_UA-215819-37",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1793865654,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_MKPCK6JH2H",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425594.396088,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425594.396493,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_fbp",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1801641594,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 35
+        },
+        {
+          "name": "_ga_6BKVYGSE5T",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425594.805009,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641594.856512,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866495.119375,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "_grecaptcha"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "diffuser-cdn.app-us1.com",
+        "fonts.gstatic.com",
+        "prism.app-us1.com",
+        "gstatic.com",
+        "trackcmp.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "analytics.google.com",
+        "google.co.cr",
+        "ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "facebook.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.assanet.com",
+      "instante": "2026-11-05T08:00:20.042Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 2677
+        },
+        "cubrePantalla": true,
+        "texto": "PANAMÁ\n6601-2772\n800-2772\nSUCURSALES\nCONTÁCTENOS\nPRODUCTOS\nRECLAMOS\nSERVICIO AL CLIENTE\nACERCA DE NOSOTROS\nMi ASSAnet\nIngrese a su Cuenta\nUsuario, Cédula o E-mail:\nContraseña:\nIngresar\n¿Olvidó su contraseña?\nSolicitar acceso\n\t\n12345678910\n¡Compra o calcula tus seguros en línea!\n\t\n\t\n\t\n\t\n¡Verifica tu saldo de seguros aquí!\n\t\n\nTipo de Documento\n\n—Por favor, elige una opción—\nCédula (con guiones)\nRUC (con guiones)\nPasaporte\n\n\t\n\nNúmero de Documento\n\n\n\t\n\n \n\n\nLo que dicen nuestros clientes de seguros\n\n0.0\n\nde Satisfacción\n\nLeer Opiniones\n\t\n\n6601-2772\n300-2424\n\t\n \t\nManuel Salvador\n5 de Noviembre de 20"
+      },
+      "cookies": [
+        {
+          "name": "cee",
+          "domain": ".ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+          "path": "/events/6ef2737c36269af00e1e04b53ac9435ab4efec9473f9f929aff6d68f1ef0b337",
+          "expires": 1801641622.500687,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 55
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809417622.784645,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.assanet.com",
+          "path": "/",
+          "expires": 1793867420.118663,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "prism_225380443",
+          "domain": "prism.app-us1.com",
+          "path": "/",
+          "expires": 1796457620.962805,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "prism_225380443",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1796457620,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1801641621,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_MKPCK6JH2H",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425621.592598,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425621.711814,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1793952021,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_dc_gtm_UA-215819-37",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1793865681,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793866522.157037,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_fbp",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1801641622,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ga_6BKVYGSE5T",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425622.272215,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641622.460407,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "_grecaptcha"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "diffuser-cdn.app-us1.com",
+        "fonts.gstatic.com",
+        "prism.app-us1.com",
+        "gstatic.com",
+        "trackcmp.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.assanet.com",
+      "instante": "2026-11-05T08:00:41.489Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 2677
+        },
+        "cubrePantalla": true,
+        "texto": "PANAMÁ\n6601-2772\n800-2772\nSUCURSALES\nCONTÁCTENOS\nPRODUCTOS\nRECLAMOS\nSERVICIO AL CLIENTE\nACERCA DE NOSOTROS\nMi ASSAnet\nIngrese a su Cuenta\nUsuario, Cédula o E-mail:\nContraseña:\nIngresar\n¿Olvidó su contraseña?\nSolicitar acceso\n\t\n12345678910\n¡Compra o calcula tus seguros en línea!\n\t\n\t\n\t\n\t\n¡Verifica tu saldo de seguros aquí!\n\t\n\nTipo de Documento\n\n—Por favor, elige una opción—\nCédula (con guiones)\nRUC (con guiones)\nPasaporte\n\n\t\n\nNúmero de Documento\n\n\n\t\n\n \n\n\nLo que dicen nuestros clientes de seguros\n\n0.0\n\nde Satisfacción\n\nLeer Opiniones\n\t\n\n6601-2772\n300-2424\n\t\n \t\nManuel Salvador\n5 de Noviembre de 20"
+      },
+      "cookies": [
+        {
+          "name": "cee",
+          "domain": ".ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+          "path": "/events/6ef2737c36269af00e1e04b53ac9435ab4efec9473f9f929aff6d68f1ef0b337",
+          "expires": 1801641643.815621,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 55
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809417658.730478,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.assanet.com",
+          "path": "/",
+          "expires": 1793867441.558316,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "prism_225380443",
+          "domain": "prism.app-us1.com",
+          "path": "/",
+          "expires": 1796457658.222075,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "prism_225380443",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1796457658,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1801641643,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_gid",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1793952058,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_dc_gtm_UA-215819-37",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1793865703,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_fbp",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1801641658,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801641643.852376,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_MKPCK6JH2H",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425658.000453,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425658.014627,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_6BKVYGSE5T",
+          "domain": ".assanet.com",
+          "path": "/",
+          "expires": 1828425658.119758,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828425658.23878,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "_grecaptcha"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "googletagmanager.com",
+        "diffuser-cdn.app-us1.com",
+        "fonts.gstatic.com",
+        "prism.app-us1.com",
+        "gstatic.com",
+        "trackcmp.net",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "maps.googleapis.com",
+        "maps.gstatic.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.assanet.com",
+      "instante": "2026-11-05T08:01:06.982Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner REAPARECE (indicio de que la decisión no persistió)"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 0,
+          "w": 1366,
+          "h": 2678
+        },
+        "cubrePantalla": true,
+        "texto": "PANAMÁ\n6601-2772\n800-2772\nSUCURSALES\nCONTÁCTENOS\nPRODUCTOS\nRECLAMOS\nSERVICIO AL CLIENTE\nACERCA DE NOSOTROS\nMi ASSAnet\nIngrese a su Cuenta\nUsuario, Cédula o E-mail:\nContraseña:\nIngresar\n¿Olvidó su contraseña?\nSolicitar acceso\n\t\n12345678910\n¡Compra o calcula tus seguros en línea!\n\t\n\t\n\t\n\t\n¡Verifica tu saldo de seguros aquí!\n\t\n\nTipo de Documento\n\n—Por favor, elige una opción—\nCédula (con guiones)\nRUC (con guiones)\nPasaporte\n\n\t\n\nNúmero de Documento\n\n\n\t\n\n \n\n\nLo que dicen nuestros clientes de seguros\n\n0.0\n\nde Satisfacción\n\nLeer Opiniones\n\t\n\n6601-2772\n300-2424\n\t\n \t\nManuel Salvador\n5 de Noviembre de 20"
+      },
+      "cookies": [
+        {
+          "name": "cee",
+          "domain": ".ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+          "expires": 1801641669.304905,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 55
+        },
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809417689.269495,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.assanet.com",
+          "expires": 1793867467.05732,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "prism_225380443",
+          "domain": "prism.app-us1.com",
+          "expires": 1796457688.680941,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "prism_225380443",
+          "domain": ".assanet.com",
+          "expires": 1796457688,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 30,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".assanet.com",
+          "expires": 1801641668,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_gid",
+          "domain": ".assanet.com",
+          "expires": 1793952088,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_dc_gtm_UA-215819-37",
+          "domain": ".assanet.com",
+          "expires": 1793865728,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_fbp",
+          "domain": ".assanet.com",
+          "expires": 1801641688,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801641669.246909,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_MKPCK6JH2H",
+          "domain": ".assanet.com",
+          "expires": 1828425688.554393,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".assanet.com",
+          "expires": 1828425688.572171,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_6BKVYGSE5T",
+          "domain": ".assanet.com",
+          "expires": 1828425688.672087,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828425688.812779,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "google.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "diffuser-cdn.app-us1.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "prism.app-us1.com",
+        "ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "trackcmp.net",
+        "google.co.cr",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "facebook.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "bannerReaparece": true,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "cee@.ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+        "_GRECAPTCHA@www.google.com",
+        "prism_225380443@prism.app-us1.com",
+        "_gid@.assanet.com",
+        "_ga_MKPCK6JH2H@.assanet.com",
+        "_ga@.assanet.com",
+        "_ga_6BKVYGSE5T@.assanet.com",
+        "_fbp@.assanet.com",
+        "test_cookie@.doubleclick.net",
+        "fr@.facebook.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V4",
+      "gravedad": "Alta",
+      "nombre": "Aceptación implícita por navegación",
+      "evidencia": [
+        "cee@.ca-dabde97266ef4aa092dad9926f87c733.ecs.us-east-1.on.aws",
+        "_GRECAPTCHA@www.google.com",
+        "prism_225380443@prism.app-us1.com",
+        "_gid@.assanet.com",
+        "_fbp@.assanet.com",
+        "fr@.facebook.com",
+        "_ga_MKPCK6JH2H@.assanet.com",
+        "_ga@.assanet.com",
+        "_ga_6BKVYGSE5T@.assanet.com",
+        "IDE@.doubleclick.net"
+      ],
+      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró rechazar en E2, de modo que no hubo decisión que respetar"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "prism_225380443",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_dc_gtm_UA-215819-37",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "prism_225380443",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_dc_gtm_UA-215819-37",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "prism_225380443",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_dc_gtm_UA-215819-37",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "prism_225380443",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_dc_gtm_UA-215819-37",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "prism_225380443",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_dc_gtm_UA-215819-37",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "prism_225380443",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".assanet.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_dc_gtm_UA-215819-37",
+      "dominio": ".assanet.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 2,
+    "cotaSuperior": 2,
+    "criticas": [],
+    "universoReferencia": 17,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [
+      "E1"
+    ],
+    "proporcionIndeterminadas": 20.7,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

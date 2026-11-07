@@ -1,0 +1,593 @@
+{
+  "sitio": "grupomutual.fi.cr",
+  "url": "https://www.grupomutual.fi.cr",
+  "auditadoEn": "2026-11-05T00:59:37.274Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.grupomutual.fi.cr",
+      "instante": "2026-11-05T00:57:40.043Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_28WRJRB1EE",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1828400262.263194,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1828400262.264059,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_fbp",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1801616262,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801616262.569237,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "images.ctfassets.net",
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "www2.gmapi.fi.cr",
+        "graphql.contentful.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.grupomutual.fi.cr",
+      "instante": "2026-11-05T00:57:56.211Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_28WRJRB1EE",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1828400278.380521,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1828400278.381194,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_fbp",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1801616278,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801616278.865211,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "images.ctfassets.net",
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "www2.gmapi.fi.cr",
+        "graphql.contentful.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.grupomutual.fi.cr",
+      "instante": "2026-11-05T00:58:14.161Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_28WRJRB1EE",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1828400296.19491,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1828400296.195566,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_fbp",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1801616296,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801616296.666849,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "images.ctfassets.net",
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "www2.gmapi.fi.cr",
+        "graphql.contentful.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.grupomutual.fi.cr",
+      "instante": "2026-11-05T00:58:33.610Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_28WRJRB1EE",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1828400315.546967,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1828400315.547577,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_fbp",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1801616315,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801616316.096065,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "images.ctfassets.net",
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "www2.gmapi.fi.cr",
+        "graphql.contentful.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.grupomutual.fi.cr",
+      "instante": "2026-11-05T00:58:51.175Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1828400333.250237,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_fbp",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1801616347,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801616333.70189,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_28WRJRB1EE",
+          "domain": ".grupomutual.fi.cr",
+          "path": "/",
+          "expires": 1828400347.268322,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "images.ctfassets.net",
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "www2.gmapi.fi.cr",
+        "graphql.contentful.com",
+        "connect.facebook.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "connect.facebook.net",
+        "stats.g.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.grupomutual.fi.cr",
+      "instante": "2026-11-05T00:59:16.407Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".grupomutual.fi.cr",
+          "expires": 1828400358.509683,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_fbp",
+          "domain": ".grupomutual.fi.cr",
+          "expires": 1801616370,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 35
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801616359.061547,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_28WRJRB1EE",
+          "domain": ".grupomutual.fi.cr",
+          "expires": 1828400370.352727,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "images.ctfassets.net",
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "www2.gmapi.fi.cr",
+        "graphql.contentful.com",
+        "connect.facebook.net",
+        "facebook.com",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "script.crazyegg.com",
+        "connect.facebook.net",
+        "facebook.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_28WRJRB1EE@.grupomutual.fi.cr",
+        "_ga@.grupomutual.fi.cr",
+        "_fbp@.grupomutual.fi.cr",
+        "fr@.facebook.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 4,
+        "rastreadoresEnE0": 5
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 4,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

@@ -1,0 +1,2317 @@
+{
+  "sitio": "sysde.com",
+  "url": "https://sysde.com",
+  "auditadoEn": "2026-11-06T00:43:48.204Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://sysde.com",
+      "instante": "2026-11-06T00:41:32.525Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_5BGJ1B0YZL",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1828485693.720449,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1828485693.770617,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1794012093,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-48968318-1",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1793925753,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_fbp",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1801701694,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "path": "/",
+          "expires": 1793927494.177264,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsadspixel.net",
+          "path": "/",
+          "expires": 1793927494.228348,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801701694.270952,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793927494.52305,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793927494.84975,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793927495.234185,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793927495.47759,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 197
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801701696.175589,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825461696.175877,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794012095.542728,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793927495.542802,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "path": "/",
+          "expires": 1793927495.636974,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796517695.733337,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796517695.733369,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477695,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825461696.007859,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "__hstc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477696,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 86
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477696,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1793927496,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.net",
+          "path": "/",
+          "expires": 1793927503.859655,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "js.hs-analytics.net",
+        "js.usemessages.com",
+        "js.hs-banner.com",
+        "js.hsadspixel.net",
+        "js.hscollectedforms.net",
+        "api.hubspot.com",
+        "app.hubspot.com",
+        "forms.hscollectedforms.net",
+        "api.hubapi.com",
+        "forms.hsforms.com",
+        "snap.licdn.com",
+        "px.ads.linkedin.com",
+        "static.hsappstatic.net",
+        "linkedin.com",
+        "exceptions.hubspot.com",
+        "track.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "api-na1.hubspot.com",
+        "avatars.hubspot.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "js.hs-analytics.net",
+        "api.hubspot.com",
+        "app.hubspot.com",
+        "snap.licdn.com",
+        "px.ads.linkedin.com",
+        "linkedin.com",
+        "exceptions.hubspot.com",
+        "track.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "api-na1.hubspot.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://sysde.com",
+      "instante": "2026-11-06T00:41:49.203Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_5BGJ1B0YZL",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1828485710.357913,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1801701710,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ga",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1828485710.490701,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1794012110,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-48968318-1",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1793925770,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801701710.628673,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "path": "/",
+          "expires": 1793927510.943331,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793927510.955683,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793927510.956199,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsadspixel.net",
+          "path": "/",
+          "expires": 1793927511.004405,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__hstc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477711,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 86
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477711,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1793927511,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793927511.414784,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793927511.544548,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801701712.186652,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825461712.186708,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794012111.725104,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793927511.725138,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "path": "/",
+          "expires": 1793927511.729237,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796517711.8724,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796517711.872424,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825461712.041494,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477712,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.net",
+          "path": "/",
+          "expires": 1793927519.322832,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "js.hs-analytics.net",
+        "js.usemessages.com",
+        "js.hs-banner.com",
+        "js.hsadspixel.net",
+        "js.hscollectedforms.net",
+        "api.hubspot.com",
+        "forms.hscollectedforms.net",
+        "api.hubapi.com",
+        "track.hubspot.com",
+        "forms.hsforms.com",
+        "snap.licdn.com",
+        "app.hubspot.com",
+        "px.ads.linkedin.com",
+        "static.hsappstatic.net",
+        "linkedin.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "api-na1.hubspot.com",
+        "avatars.hubspot.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "js.hs-analytics.net",
+        "api.hubspot.com",
+        "track.hubspot.com",
+        "snap.licdn.com",
+        "app.hubspot.com",
+        "px.ads.linkedin.com",
+        "linkedin.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "api-na1.hubspot.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://sysde.com",
+      "instante": "2026-11-06T00:42:10.109Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_5BGJ1B0YZL",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1828485731.184466,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1828485731.327211,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1794012131,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-48968318-1",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1793925791,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_fbp",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1801701731,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "path": "/",
+          "expires": 1793927531.748886,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793927531.749952,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793927531.756816,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsadspixel.net",
+          "path": "/",
+          "expires": 1793927531.776582,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801701731.799624,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "__hstc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477731,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 86
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477731,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1793927531,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793927531.970528,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793927532.145891,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801701733.019219,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825461733.019368,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794012132.355048,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793927532.355071,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796517732.541448,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796517732.54147,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "path": "/",
+          "expires": 1793927532.614786,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825461732.766794,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477732,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.net",
+          "path": "/",
+          "expires": 1793927540.139786,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "js.hs-analytics.net",
+        "js.usemessages.com",
+        "js.hs-banner.com",
+        "js.hsadspixel.net",
+        "js.hscollectedforms.net",
+        "api.hubspot.com",
+        "api.hubapi.com",
+        "forms.hscollectedforms.net",
+        "track.hubspot.com",
+        "snap.licdn.com",
+        "forms.hsforms.com",
+        "px.ads.linkedin.com",
+        "app.hubspot.com",
+        "static.hsappstatic.net",
+        "linkedin.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "api-na1.hubspot.com",
+        "avatars.hubspot.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "js.hs-analytics.net",
+        "api.hubspot.com",
+        "track.hubspot.com",
+        "snap.licdn.com",
+        "px.ads.linkedin.com",
+        "app.hubspot.com",
+        "linkedin.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "api-na1.hubspot.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://sysde.com",
+      "instante": "2026-11-06T00:42:35.345Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_5BGJ1B0YZL",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1828485756.430587,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1828485756.548905,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1794012156,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-48968318-1",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1793925816,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_fbp",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1801701756,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801701756.836324,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793927556.936569,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793927556.963962,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "path": "/",
+          "expires": 1793927556.96755,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsadspixel.net",
+          "path": "/",
+          "expires": 1793927556.970115,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__hstc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477757,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 86
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477757,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__hssc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1793927557,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793927557.269525,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793927557.446718,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801701758.385467,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825461758.385578,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794012157.662473,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793927557.662495,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796517757.846512,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796517757.846568,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "path": "/",
+          "expires": 1793927557.990434,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825461757.1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477758,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.net",
+          "path": "/",
+          "expires": 1793927565.537378,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "js.hs-analytics.net",
+        "js.usemessages.com",
+        "js.hs-banner.com",
+        "js.hsadspixel.net",
+        "js.hscollectedforms.net",
+        "api.hubapi.com",
+        "api.hubspot.com",
+        "track.hubspot.com",
+        "forms.hscollectedforms.net",
+        "snap.licdn.com",
+        "forms.hsforms.com",
+        "px.ads.linkedin.com",
+        "app.hubspot.com",
+        "linkedin.com",
+        "static.hsappstatic.net",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "api-na1.hubspot.com",
+        "avatars.hubspot.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "js.hs-analytics.net",
+        "api.hubspot.com",
+        "track.hubspot.com",
+        "snap.licdn.com",
+        "px.ads.linkedin.com",
+        "app.hubspot.com",
+        "linkedin.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "api-na1.hubspot.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://sysde.com",
+      "instante": "2026-11-06T00:42:55.551Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gid",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1794012192,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-48968318-1",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1793925836,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_fbp",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1801701792,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "path": "/",
+          "expires": 1793927576.93473,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "path": "/",
+          "expires": 1793927576.93889,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "path": "/",
+          "expires": 1793927576.943274,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsadspixel.net",
+          "path": "/",
+          "expires": 1793927576.953314,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801701776.959483,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "__hstc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477792,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 86
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477792,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "path": "/",
+          "expires": 1793927577.12672,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "path": "/",
+          "expires": 1793927577.299128,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1801701792.81774,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1825461792.817862,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1794012177.447644,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1793927577.447665,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796517777.600207,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "path": "/",
+          "expires": 1796517777.600258,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "path": "/",
+          "expires": 1825461777.778222,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "path": "/",
+          "expires": 1793927578.345057,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1809477793,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.net",
+          "path": "/",
+          "expires": 1793927586.096241,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_5BGJ1B0YZL",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1828485792.607168,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1828485792.610438,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__hssc",
+          "domain": ".sysde.com",
+          "path": "/",
+          "expires": 1793927592,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "li_adsId"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "js.hs-analytics.net",
+        "js.usemessages.com",
+        "js.hs-banner.com",
+        "js.hsadspixel.net",
+        "js.hscollectedforms.net",
+        "api.hubspot.com",
+        "api.hubapi.com",
+        "track.hubspot.com",
+        "forms.hscollectedforms.net",
+        "snap.licdn.com",
+        "forms.hsforms.com",
+        "px.ads.linkedin.com",
+        "app.hubspot.com",
+        "linkedin.com",
+        "static.hsappstatic.net",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "api-na1.hubspot.com",
+        "avatars.hubspot.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "google-analytics.com",
+        "facebook.com",
+        "js.hs-analytics.net",
+        "api.hubspot.com",
+        "track.hubspot.com",
+        "snap.licdn.com",
+        "px.ads.linkedin.com",
+        "app.hubspot.com",
+        "linkedin.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com",
+        "api-na1.hubspot.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://sysde.com",
+      "instante": "2026-11-06T00:43:21.683Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gid",
+          "domain": ".sysde.com",
+          "expires": 1794012221,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-48968318-1",
+          "domain": ".sysde.com",
+          "expires": 1793925862,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_fbp",
+          "domain": ".sysde.com",
+          "expires": 1801701821,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801701803.068973,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-banner.com",
+          "expires": 1793927603.273822,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsadspixel.net",
+          "expires": 1793927603.277959,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hs-analytics.net",
+          "expires": 1793927603.279453,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".usemessages.com",
+          "expires": 1793927603.28225,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__hstc",
+          "domain": ".sysde.com",
+          "expires": 1809477821,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 86
+        },
+        {
+          "name": "hubspotutk",
+          "domain": ".sysde.com",
+          "expires": 1809477821,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__hssrc",
+          "domain": ".sysde.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.com",
+          "expires": 1793927603.608781,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsforms.com",
+          "expires": 1793927603.62347,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "li_sugr",
+          "domain": ".linkedin.com",
+          "expires": 1801701821.461734,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "bcookie",
+          "domain": ".linkedin.com",
+          "expires": 1825461821.461809,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 42
+        },
+        {
+          "name": "lidc",
+          "domain": ".linkedin.com",
+          "expires": 1794012203.849953,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 108
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".linkedin.com",
+          "expires": 1793927603.849976,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "UserMatchHistory",
+          "domain": ".linkedin.com",
+          "expires": 1796517803.990766,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 78
+        },
+        {
+          "name": "AnalyticsSyncHistory",
+          "domain": ".linkedin.com",
+          "expires": 1796517803.990803,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 30,
+          "valorLongitud": 86
+        },
+        {
+          "name": "bscookie",
+          "domain": ".www.linkedin.com",
+          "expires": 1825461804.15297,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 88
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hsappstatic.net",
+          "expires": 1793927604.276281,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "messagesUtk",
+          "domain": ".sysde.com",
+          "expires": 1809477822,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 32
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".hubspot.net",
+          "expires": 1793927611.977261,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_ga_5BGJ1B0YZL",
+          "domain": ".sysde.com",
+          "expires": 1828485821.267399,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".sysde.com",
+          "expires": 1828485821.270265,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__hssc",
+          "domain": ".sysde.com",
+          "expires": 1793927621,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "js.hs-analytics.net",
+        "js.usemessages.com",
+        "js.hs-banner.com",
+        "js.hsadspixel.net",
+        "js.hscollectedforms.net",
+        "google-analytics.com",
+        "api.hubspot.com",
+        "api.hubapi.com",
+        "forms.hscollectedforms.net",
+        "facebook.com",
+        "snap.licdn.com",
+        "px.ads.linkedin.com",
+        "forms.hsforms.com",
+        "track.hubspot.com",
+        "app.hubspot.com",
+        "static.hsappstatic.net",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "js.hs-analytics.net",
+        "google-analytics.com",
+        "api.hubspot.com",
+        "facebook.com",
+        "snap.licdn.com",
+        "px.ads.linkedin.com",
+        "track.hubspot.com",
+        "app.hubspot.com",
+        "exceptions.hubspot.com",
+        "metrics-fe-na1.hubspot.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_5BGJ1B0YZL@.sysde.com",
+        "_ga@.sysde.com",
+        "_gid@.sysde.com",
+        "_gat_UA-48968318-1@.sysde.com",
+        "_fbp@.sysde.com",
+        "fr@.facebook.com",
+        "li_sugr@.linkedin.com",
+        "bcookie@.linkedin.com",
+        "lidc@.linkedin.com",
+        "UserMatchHistory@.linkedin.com",
+        "AnalyticsSyncHistory@.linkedin.com",
+        "bscookie@.www.linkedin.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 26,
+        "rastreadoresEnE0": 14
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "messagesUtk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__hstc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "hubspotutk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__hssrc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__hssc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__hstc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "hubspotutk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__hssrc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__hssc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "messagesUtk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__hstc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "hubspotutk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__hssrc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__hssc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "messagesUtk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__hstc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "hubspotutk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__hssrc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__hssc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "messagesUtk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__hstc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "hubspotutk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__hssrc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "messagesUtk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__hssc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__hstc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "hubspotutk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__hssrc",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "messagesUtk",
+      "dominio": ".sysde.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__hssc",
+      "dominio": ".sysde.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 26,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 19.2,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

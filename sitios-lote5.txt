@@ -1,0 +1,140 @@
+# Lote 5 — completar hacia los 300
+#
+# Estrategia: en los lotes 2 a 4 los dominios institucionales (.go.cr, .or.cr),
+# financieros (.fi.cr) y académicos (.ac.cr) sobrevivieron mucho mejor que los
+# .com de empresa, que fallaron en más de la mitad de los casos. Este lote se
+# concentra en los primeros para elevar el rendimiento por candidato.
+#
+# PASAR POR verificar.js ANTES de auditar.
+
+# ─── Público · Instituciones no cubiertas ─────────────────────────────────
+https://www.setena.go.cr
+https://www.aduanas.go.cr
+https://www.bomberos.go.cr
+https://www.pgr.go.cr
+https://www.rnpdigital.com
+https://www.registronacional.go.cr
+https://www.cnfl.go.cr
+https://www.incopesca.go.cr
+https://www.inder.go.cr
+https://www.infocoop.go.cr
+https://www.iafa.go.cr
+https://www.invu.go.cr
+https://www.dinadeco.go.cr
+https://www.conape.go.cr
+https://www.fodesaf.go.cr
+https://www.sinirube.go.cr
+https://www.meic.go.cr
+https://www.tramitesagiles.go.cr
+https://www.mer-link.co.cr
+https://www.sicop.go.cr
+https://www.hacienda.go.cr
+https://www.cfia.or.cr
+https://www.dgsc.go.cr
+https://www.sfe.go.cr
+https://www.senara.go.cr
+https://www.geo.go.cr
+https://www.laboratoriolanamme.ucr.ac.cr
+https://www.conicit.go.cr
+https://www.micitt.go.cr
+https://www.oij.poder-judicial.go.cr
+
+# ─── Público · Colegios profesionales ─────────────────────────────────────
+https://www.colypro.com
+https://www.enfermeras.cr
+https://www.colfar.com
+https://www.cpicr.cr
+https://www.ccpa.or.cr
+https://www.colegiodeperiodistas.or.cr
+https://www.cpcecr.com
+https://www.colegiodepsicologos.or.cr
+https://www.colegiodeabogados.cr
+https://www.veterinarios.or.cr
+https://www.colegiodetrabajosocial.or.cr
+https://www.codea.or.cr
+
+# ─── Financiero · Cooperativas y mutuales ─────────────────────────────────
+https://www.coopeuna.fi.cr
+https://www.coopecaja.fi.cr
+https://www.coopejudicial.fi.cr
+https://www.coopeande5.fi.cr
+https://www.coopeatenas.com
+https://www.coopesanramon.fi.cr
+https://www.coopetarrazu.com
+https://www.coopesantos.com
+https://www.coopelesca.com
+https://www.coopebanpo.fi.cr
+https://www.coopesparta.fi.cr
+https://www.coopemapro.com
+https://www.coopeamistad.fi.cr
+https://www.coopealfaroruiz.com
+https://www.coopesancarlos.fi.cr
+https://www.coopeorotina.fi.cr
+
+# ─── Academia ─────────────────────────────────────────────────────────────
+https://www.conare.ac.cr
+https://www.sinaes.ac.cr
+https://www.catie.ac.cr
+https://www.earth.ac.cr
+https://www.incae.edu
+https://www.uci.ac.cr
+https://www.cinde.org
+https://www.uned.ac.cr
+https://www.ucr.ac.cr
+https://www.itcr.ac.cr
+https://www.utn.ac.cr
+https://www.cenat.ac.cr
+https://www.conicit.ac.cr
+
+# ─── Medios y comunicación ────────────────────────────────────────────────
+https://observador.cr
+https://www.radiomonumental.cr
+https://www.radioactual.cr
+https://www.telecable.cr
+https://www.qteti.com
+https://www.crhoy.com
+https://www.noticiascr.net
+https://www.lateja.cr
+https://www.alcanceinformativo.cr
+https://www.costaricamedios.cr
+
+# ─── Empresa y servicios ──────────────────────────────────────────────────
+https://www.musmanni.com
+https://www.numar.com
+https://www.florida.cr
+https://www.holcim.cr
+https://www.cemex.cr
+https://www.epa.cr
+https://www.grupomonge.com
+https://www.autostar.cr
+https://www.purdymotor.com
+https://www.gruponacion.cr
+https://www.correosdecostarica.cr
+https://www.kolbi.cr
+https://www.sykes.com
+https://www.establishmentlabs.com
+https://www.bridgestone.cr
+
+# ─── Turismo y hotelería ──────────────────────────────────────────────────
+https://www.puntaleona.com
+https://www.montanadefuego.com
+https://www.baldihotsprings.cr
+https://www.hotelbyblos.com
+https://www.parqueviva.cr
+https://www.pargueterramall.com
+https://www.terramall.co.cr
+https://www.multiplazas.com
+https://www.cityplace.cr
+https://www.avenidaescazu.com
+
+# ─── Salud privada ────────────────────────────────────────────────────────
+https://www.clinicajerusalem.com
+https://www.hospitaldelatrinidad.com
+https://www.clinicazurqui.com
+https://www.laboratoriossanjose.cr
+https://www.innovamedica.cr
+https://www.clinicasanrafael.cr
+https://www.farmaciasanjose.cr
+https://www.farmaciasunidas.cr
+https://www.saludtotal.cr
+https://www.clinicadelsur.cr

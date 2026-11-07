@@ -1,0 +1,1882 @@
+{
+  "sitio": "tse.go.cr",
+  "url": "https://www.tse.go.cr",
+  "auditadoEn": "2026-11-04T21:31:40.531Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.tse.go.cr",
+      "instante": "2026-11-04T21:29:58.724Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552599.229256,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552599.229336,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552599.229367,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552599.229393,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552599.22942,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552599.229446,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".tse.go.cr",
+          "path": "/",
+          "expires": 1809552599.229477,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "_ga_EMVSBHTSQQ",
+          "domain": ".tse.go.cr",
+          "path": "/",
+          "expires": 1828387800.473067,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".tse.go.cr",
+          "path": "/",
+          "expires": 1828387800.473845,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "__ssds",
+          "domain": ".www.tse.go.cr",
+          "path": "/",
+          "expires": 1809379801,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr0",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809379801,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj0",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809379801,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj0",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809379801,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj0",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809379801,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj0",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809379801,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmlj0",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809379801,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__uzmfj0",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809379801,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmxj",
+          "domain": ".tse.go.cr",
+          "path": "/",
+          "expires": 1809379801,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 80
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "radAgSig",
+          "radRandom"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.jsdelivr.net",
+        "i.creativecommons.org",
+        "googletagmanager.com",
+        "licensebuttons.net",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.tse.go.cr",
+      "instante": "2026-11-04T21:30:15.556Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552615.809747,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552615.80981,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552615.809833,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552615.809882,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552615.809903,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552615.809939,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".tse.go.cr",
+          "path": "/",
+          "expires": 1809552615.809961,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379816.254037,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379816.254064,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379816.254089,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379816.254114,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379816,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379816,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379816,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379816,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379816,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379816,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm65ff8",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827948,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft65ff8",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827948,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl65ff8",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827948,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "cdn.perfdrive.com",
+        "fonts.googleapis.com",
+        "cas.avalon.perfdrive.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.tse.go.cr",
+      "instante": "2026-11-04T21:30:32.060Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552632.329057,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552632.329119,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552632.329144,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552632.329164,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552632.329205,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552632.329225,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".tse.go.cr",
+          "path": "/",
+          "expires": 1809552632.329264,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379832.653025,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379832.653052,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379832.653075,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379832.653097,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379832,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379833,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379833,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379833,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379833,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379833,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfmea69f",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827964,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbftea69f",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827964,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfclea69f",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827964,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "cdn.perfdrive.com",
+        "cas.avalon.perfdrive.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.tse.go.cr",
+      "instante": "2026-11-04T21:30:48.486Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552648.741787,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552648.741869,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552648.741902,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552648.741929,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552648.741956,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552648.741989,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".tse.go.cr",
+          "path": "/",
+          "expires": 1809552648.742028,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379849.099984,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379849.100064,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379849.10013,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379849.100181,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379849,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379849,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379849,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379849,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379849,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379849,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfmb2526",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827981,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbftb2526",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827981,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfclb2526",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827981,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "cdn.perfdrive.com",
+        "cas.avalon.perfdrive.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.tse.go.cr",
+      "instante": "2026-11-04T21:31:04.859Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento sin tocar el banner; sin enlaces internos navegables"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552665.11306,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552665.113312,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552665.113426,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552665.113527,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552665.113634,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.tse.go.cr",
+          "path": "/",
+          "expires": 1809552665.113733,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "uzmx",
+          "domain": ".tse.go.cr",
+          "path": "/",
+          "expires": 1809552665.113839,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 80
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379865.45508,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379865.455125,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379865.455149,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1809379865.455183,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379865,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379866,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379866,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379866,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379866,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "path": "/",
+          "expires": 1809379866,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfmba68b",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827999,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbftba68b",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827999,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfclba68b",
+          "domain": "validate.perfdrive.com",
+          "path": "/",
+          "expires": 1793827999,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "cdn.perfdrive.com",
+        "fonts.googleapis.com",
+        "cas.avalon.perfdrive.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.tse.go.cr",
+      "instante": "2026-11-04T21:31:22.690Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__uzma",
+          "domain": "www.tse.go.cr",
+          "expires": 1809552682.948993,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "www.tse.go.cr",
+          "expires": 1809552682.949104,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzme",
+          "domain": "www.tse.go.cr",
+          "expires": 1809552682.949154,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 4
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "validate.perfdrive.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "__uzma",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809379893.373651,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmb",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809379893.37376,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__ssds",
+          "domain": ".perfdrive.com",
+          "expires": 1809379893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 1
+        },
+        {
+          "name": "__ssuzjsr2",
+          "domain": ".perfdrive.com",
+          "expires": 1809379893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 9
+        },
+        {
+          "name": "__uzmaj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809379893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__uzmbj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809379893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfmc2f00",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793828009,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbftc2f00",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793828009,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfclc2f00",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793828009,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        },
+        {
+          "name": "__uzmc",
+          "domain": "www.tse.go.cr",
+          "expires": 1809552693.19624,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "www.tse.go.cr",
+          "expires": 1809552693.196338,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmf",
+          "domain": "www.tse.go.cr",
+          "expires": 1809552693.196402,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 84
+        },
+        {
+          "name": "uzmx",
+          "domain": ".tse.go.cr",
+          "expires": 1809552693.196449,
+          "secure": false,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 182,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__uzmc",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809379893.373825,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmd",
+          "domain": "validate.perfdrive.com",
+          "expires": 1809379893.373877,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "__uzmcj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809379893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 12
+        },
+        {
+          "name": "__uzmdj2",
+          "domain": ".perfdrive.com",
+          "expires": 1809379893,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 10
+        },
+        {
+          "name": "cbfm8a718",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793828019,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbft8a718",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793828019,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "cbfcl8a718",
+          "domain": "validate.perfdrive.com",
+          "expires": 1793828019,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 25
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "validate.perfdrive.com",
+        "captcha.perfdrive.com",
+        "cdn.perfdrive.com",
+        "cas.avalon.perfdrive.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_EMVSBHTSQQ@.tse.go.cr",
+        "_ga@.tse.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 18,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__uzma",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmb",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzme",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmc",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmd",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmf",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "uzmx",
+      "dominio": ".tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__ssds",
+      "dominio": ".www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__ssuzjsr0",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmaj0",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmbj0",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmcj0",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmdj0",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmlj0",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__uzmfj0",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "uzmxj",
+      "dominio": ".tse.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzma",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmb",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzme",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmc",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmd",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__uzmf",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "uzmx",
+      "dominio": ".tse.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzma",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmb",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzme",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmc",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmd",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__uzmf",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "uzmx",
+      "dominio": ".tse.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzma",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmb",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzme",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmc",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmd",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__uzmf",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "uzmx",
+      "dominio": ".tse.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzma",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmb",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzme",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmc",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmd",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__uzmf",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "uzmx",
+      "dominio": ".tse.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzma",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmb",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzme",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmc",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmd",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__uzmf",
+      "dominio": "www.tse.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "uzmx",
+      "dominio": ".tse.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 21,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 40.5,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

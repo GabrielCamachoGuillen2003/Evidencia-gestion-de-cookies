@@ -1,0 +1,516 @@
+{
+  "sitio": "munitarrazu.go.cr",
+  "url": "https://munitarrazu.go.cr",
+  "auditadoEn": "2026-11-05T07:05:19.441Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://munitarrazu.go.cr",
+      "instante": "2026-11-05T07:02:43.331Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 707,
+          "w": 1366,
+          "h": 62
+        },
+        "cubrePantalla": false,
+        "texto": "Usamos cookies para asegurar que te damos la mejor experiencia en nuestra web. Si continúas usando este sitio, asumiremos que estás de acuerdo con ello.OK"
+      },
+      "cookies": [
+        {
+          "name": "_ga_DJVB0VGZCL",
+          "domain": ".munitarrazu.go.cr",
+          "path": "/",
+          "expires": 1828422165.692702,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".munitarrazu.go.cr",
+          "path": "/",
+          "expires": 1828422165.693193,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "maps.google.com",
+        "google.com",
+        "google-analytics.com",
+        "maps.gstatic.com",
+        "maps.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://munitarrazu.go.cr",
+      "instante": "2026-11-05T07:03:00.879Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 707,
+          "w": 1366,
+          "h": 62
+        },
+        "cubrePantalla": false,
+        "texto": "Usamos cookies para asegurar que te damos la mejor experiencia en nuestra web. Si continúas usando este sitio, asumiremos que estás de acuerdo con ello.OK"
+      },
+      "cookies": [
+        {
+          "name": "_ga_DJVB0VGZCL",
+          "domain": ".munitarrazu.go.cr",
+          "path": "/",
+          "expires": 1828422182.760981,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".munitarrazu.go.cr",
+          "path": "/",
+          "expires": 1828422182.761558,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "maps.google.com",
+        "google.com",
+        "google-analytics.com",
+        "maps.gstatic.com",
+        "maps.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://munitarrazu.go.cr",
+      "instante": "2026-11-05T07:03:24.994Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 707,
+          "w": 1366,
+          "h": 62
+        },
+        "cubrePantalla": false,
+        "texto": "Usamos cookies para asegurar que te damos la mejor experiencia en nuestra web. Si continúas usando este sitio, asumiremos que estás de acuerdo con ello.OK"
+      },
+      "cookies": [
+        {
+          "name": "_ga_DJVB0VGZCL",
+          "domain": ".munitarrazu.go.cr",
+          "path": "/",
+          "expires": 1828422206.847263,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".munitarrazu.go.cr",
+          "path": "/",
+          "expires": 1828422206.847789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "maps.google.com",
+        "google.com",
+        "google-analytics.com",
+        "maps.gstatic.com",
+        "maps.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://munitarrazu.go.cr",
+      "instante": "2026-11-05T07:03:56.791Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 707,
+          "w": 1366,
+          "h": 62
+        },
+        "cubrePantalla": false,
+        "texto": "Usamos cookies para asegurar que te damos la mejor experiencia en nuestra web. Si continúas usando este sitio, asumiremos que estás de acuerdo con ello.OK"
+      },
+      "cookies": [
+        {
+          "name": "_ga_DJVB0VGZCL",
+          "domain": ".munitarrazu.go.cr",
+          "path": "/",
+          "expires": 1828422238.459481,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".munitarrazu.go.cr",
+          "path": "/",
+          "expires": 1828422238.460229,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "maps.google.com",
+        "google.com",
+        "google-analytics.com",
+        "maps.gstatic.com",
+        "maps.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://munitarrazu.go.cr",
+      "instante": "2026-11-05T07:04:19.788Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 707,
+          "w": 1366,
+          "h": 62
+        },
+        "cubrePantalla": false,
+        "texto": "Usamos cookies para asegurar que te damos la mejor experiencia en nuestra web. Si continúas usando este sitio, asumiremos que estás de acuerdo con ello.OK"
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".munitarrazu.go.cr",
+          "path": "/",
+          "expires": 1828422261.732284,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_DJVB0VGZCL",
+          "domain": ".munitarrazu.go.cr",
+          "path": "/",
+          "expires": 1828422276.827039,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports",
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "maps.google.com",
+        "google.com",
+        "maps.gstatic.com",
+        "maps.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://munitarrazu.go.cr",
+      "instante": "2026-11-05T07:04:46.043Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner REAPARECE (indicio de que la decisión no persistió)"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 707,
+          "w": 1366,
+          "h": 62
+        },
+        "cubrePantalla": false,
+        "texto": "Usamos cookies para asegurar que te damos la mejor experiencia en nuestra web. Si continúas usando este sitio, asumiremos que estás de acuerdo con ello.OK"
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".munitarrazu.go.cr",
+          "expires": 1828422287.866367,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_DJVB0VGZCL",
+          "domain": ".munitarrazu.go.cr",
+          "expires": 1828422312.553287,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "maps.google.com",
+        "google.com",
+        "static.cloudflareinsights.com",
+        "maps.gstatic.com",
+        "maps.googleapis.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.cloudflareinsights.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": true,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_DJVB0VGZCL@.munitarrazu.go.cr",
+        "_ga@.munitarrazu.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V4",
+      "gravedad": "Alta",
+      "nombre": "Aceptación implícita por navegación",
+      "evidencia": [
+        "_ga@.munitarrazu.go.cr",
+        "_ga_DJVB0VGZCL@.munitarrazu.go.cr"
+      ],
+      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 2,
+    "cotaSuperior": 2,
+    "criticas": [],
+    "universoReferencia": 2,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.738Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

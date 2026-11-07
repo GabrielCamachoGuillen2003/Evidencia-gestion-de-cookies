@@ -1,0 +1,790 @@
+{
+  "sitio": "construplaza.com",
+  "url": "https://www.construplaza.com",
+  "auditadoEn": "2026-11-06T01:05:13.573Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.construplaza.com",
+      "instante": "2026-11-06T01:02:36.172Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ALGOLIA",
+          "domain": "www.construplaza.com",
+          "path": "/",
+          "expires": 1809478957,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1801702957,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "g_state",
+          "domain": "www.construplaza.com",
+          "path": "/",
+          "expires": 1809478957,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 140
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927857.974138,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1828486957.985263,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_WVJQEDSLMC",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1828486957.992913,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.jsdelivr.net",
+        "kit.fontawesome.com",
+        "accounts.google.com",
+        "googletagmanager.com",
+        "ka-p.fontawesome.com",
+        "fonts.gstatic.com",
+        "mucjnsqczh-dsn.algolia.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "insights.algolia.io",
+        "dpbfouxy1lg2q.cloudfront.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.construplaza.com",
+      "instante": "2026-11-06T01:02:52.460Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ALGOLIA",
+          "domain": "www.construplaza.com",
+          "path": "/",
+          "expires": 1809478973,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1801702974,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "g_state",
+          "domain": "www.construplaza.com",
+          "path": "/",
+          "expires": 1809478973,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 140
+        },
+        {
+          "name": "_ga",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1828486974.160089,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_WVJQEDSLMC",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1828486974.167442,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927874.271055,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.jsdelivr.net",
+        "kit.fontawesome.com",
+        "accounts.google.com",
+        "googletagmanager.com",
+        "ka-p.fontawesome.com",
+        "fonts.gstatic.com",
+        "mucjnsqczh-dsn.algolia.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "insights.algolia.io",
+        "dpbfouxy1lg2q.cloudfront.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.construplaza.com",
+      "instante": "2026-11-06T01:03:21.296Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ALGOLIA",
+          "domain": "www.construplaza.com",
+          "path": "/",
+          "expires": 1809479002,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1801703002,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "g_state",
+          "domain": "www.construplaza.com",
+          "path": "/",
+          "expires": 1809479002,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 140
+        },
+        {
+          "name": "_ga",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1828487002.980786,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_WVJQEDSLMC",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1828487002.987927,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927904.114145,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.jsdelivr.net",
+        "kit.fontawesome.com",
+        "accounts.google.com",
+        "googletagmanager.com",
+        "ka-p.fontawesome.com",
+        "fonts.gstatic.com",
+        "mucjnsqczh-dsn.algolia.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "insights.algolia.io",
+        "dpbfouxy1lg2q.cloudfront.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.construplaza.com",
+      "instante": "2026-11-06T01:04:03.264Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ALGOLIA",
+          "domain": "www.construplaza.com",
+          "path": "/",
+          "expires": 1809479044,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1801703044,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "g_state",
+          "domain": "www.construplaza.com",
+          "path": "/",
+          "expires": 1809479044,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 140
+        },
+        {
+          "name": "_ga",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1828487045.032122,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_WVJQEDSLMC",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1828487045.040558,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927945.066486,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.jsdelivr.net",
+        "kit.fontawesome.com",
+        "accounts.google.com",
+        "googletagmanager.com",
+        "ka-p.fontawesome.com",
+        "fonts.gstatic.com",
+        "mucjnsqczh-dsn.algolia.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "insights.algolia.io",
+        "dpbfouxy1lg2q.cloudfront.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "play.google.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.construplaza.com",
+      "instante": "2026-11-06T01:04:30.613Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ALGOLIA",
+          "domain": "www.construplaza.com",
+          "path": "/",
+          "expires": 1809479071,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1801703072,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "g_state",
+          "domain": "www.construplaza.com",
+          "path": "/",
+          "expires": 1809479071,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 140
+        },
+        {
+          "name": "_ga",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1828487072.38847,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793927972.534223,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_WVJQEDSLMC",
+          "domain": ".construplaza.com",
+          "path": "/",
+          "expires": 1828487086.423643,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "aws-waf-token",
+          "domain": ".www.construplaza.com",
+          "path": "/",
+          "expires": 1794272688,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 4,
+          "valorLongitud": 422
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "awswaf_token_refresh_timestamp",
+          "_gcl_ls",
+          "awswaf_session_storage",
+          "aws_waf_referrer"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "cdn.jsdelivr.net",
+        "kit.fontawesome.com",
+        "accounts.google.com",
+        "googletagmanager.com",
+        "ka-p.fontawesome.com",
+        "fonts.gstatic.com",
+        "mucjnsqczh-dsn.algolia.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "insights.algolia.io",
+        "dpbfouxy1lg2q.cloudfront.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "play.google.com",
+        "8f146f1430fb.26067ad6.us-east-1.token.awswaf.com",
+        "8f146f1430fb.26067ad6.us-east-1.captcha.awswaf.com",
+        "static.captcha.awswaf.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.construplaza.com",
+      "instante": "2026-11-06T01:04:56.149Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "aws-waf-token",
+          "domain": ".www.construplaza.com",
+          "expires": 1794272708,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 4,
+          "valorLongitud": 422
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "8f146f1430fb.26067ad6.us-east-1.token.awswaf.com",
+        "8f146f1430fb.26067ad6.us-east-1.captcha.awswaf.com",
+        "static.captcha.awswaf.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "test_cookie@.doubleclick.net",
+        "_ga@.construplaza.com",
+        "_ga_WVJQEDSLMC@.construplaza.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 6,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_ALGOLIA",
+      "dominio": "www.construplaza.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".construplaza.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "g_state",
+      "dominio": "www.construplaza.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_ALGOLIA",
+      "dominio": "www.construplaza.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".construplaza.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "g_state",
+      "dominio": "www.construplaza.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_ALGOLIA",
+      "dominio": "www.construplaza.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".construplaza.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "g_state",
+      "dominio": "www.construplaza.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_ALGOLIA",
+      "dominio": "www.construplaza.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".construplaza.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "g_state",
+      "dominio": "www.construplaza.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_ALGOLIA",
+      "dominio": "www.construplaza.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".construplaza.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "g_state",
+      "dominio": "www.construplaza.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "aws-waf-token",
+      "dominio": ".www.construplaza.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "aws-waf-token",
+      "dominio": ".www.construplaza.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 6,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 53.1,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

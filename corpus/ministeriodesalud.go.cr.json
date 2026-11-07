@@ -1,0 +1,711 @@
+{
+  "sitio": "ministeriodesalud.go.cr",
+  "url": "https://www.ministeriodesalud.go.cr",
+  "auditadoEn": "2026-11-04T21:49:38.215Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.ministeriodesalud.go.cr",
+      "instante": "2026-11-04T21:46:42.400Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "f07cd9bc765e28c0a463c4a45c4c4967",
+          "domain": "www.ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "WMF-Uniq",
+          "domain": ".upload.wikimedia.org",
+          "path": "/",
+          "expires": 1825358559.455759,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 64
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1793872006.407897,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_01P7V8S0Y0",
+          "domain": ".ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1828388807.380836,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1828388807.381637,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "reappear-popup-178",
+          "uw-uid",
+          "uw-icon-locales",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "upload.wikimedia.org",
+        "cdn.userway.org",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "api.userway.org",
+        "google-analytics.com",
+        "cdn77.api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.ministeriodesalud.go.cr",
+      "instante": "2026-11-04T21:47:04.519Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "f07cd9bc765e28c0a463c4a45c4c4967",
+          "domain": "www.ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "WMF-Uniq",
+          "domain": ".upload.wikimedia.org",
+          "path": "/",
+          "expires": 1825358581.44473,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 64
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1793872027.410101,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_01P7V8S0Y0",
+          "domain": ".ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1828388828.294139,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1828388828.294861,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "reappear-popup-178",
+          "uw-uid",
+          "uw-icon-locales",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "upload.wikimedia.org",
+        "cdn.userway.org",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "api.userway.org",
+        "google-analytics.com",
+        "cdn77.api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.ministeriodesalud.go.cr",
+      "instante": "2026-11-04T21:47:35.343Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "f07cd9bc765e28c0a463c4a45c4c4967",
+          "domain": "www.ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "WMF-Uniq",
+          "domain": ".upload.wikimedia.org",
+          "path": "/",
+          "expires": 1825358612.32791,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 64
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1793872058.389642,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_01P7V8S0Y0",
+          "domain": ".ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1828388859.31805,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1828388859.31882,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "reappear-popup-178",
+          "uw-uid",
+          "uw-icon-locales",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "upload.wikimedia.org",
+        "cdn.userway.org",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "api.userway.org",
+        "google-analytics.com",
+        "cdn77.api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.ministeriodesalud.go.cr",
+      "instante": "2026-11-04T21:48:08.925Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "f07cd9bc765e28c0a463c4a45c4c4967",
+          "domain": "www.ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "WMF-Uniq",
+          "domain": ".upload.wikimedia.org",
+          "path": "/",
+          "expires": 1825358646.167403,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 64
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1793872092.049233,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_01P7V8S0Y0",
+          "domain": ".ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1828388892.98138,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1828388892.982035,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "reappear-popup-178",
+          "uw-uid",
+          "uw-icon-locales",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "upload.wikimedia.org",
+        "cdn.userway.org",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "api.userway.org",
+        "google-analytics.com",
+        "cdn77.api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.ministeriodesalud.go.cr",
+      "instante": "2026-11-04T21:48:35.004Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "f07cd9bc765e28c0a463c4a45c4c4967",
+          "domain": "www.ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "WMF-Uniq",
+          "domain": ".upload.wikimedia.org",
+          "path": "/",
+          "expires": 1825358671.814967,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 64
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1793872117.667119,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1828388918.692158,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_01P7V8S0Y0",
+          "domain": ".ministeriodesalud.go.cr",
+          "path": "/",
+          "expires": 1828388937.028139,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "sppbActiveColorMode",
+          "reappear-popup-178",
+          "uw-uid",
+          "uw-icon-locales",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "upload.wikimedia.org",
+        "cdn.userway.org",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "api.userway.org",
+        "google-analytics.com",
+        "cdn77.api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.ministeriodesalud.go.cr",
+      "instante": "2026-11-04T21:49:06.204Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "f07cd9bc765e28c0a463c4a45c4c4967",
+          "domain": "www.ministeriodesalud.go.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        },
+        {
+          "name": "WMF-Uniq",
+          "domain": ".upload.wikimedia.org",
+          "expires": 1825358703.169788,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 64
+        },
+        {
+          "name": "sppb_user_timezone",
+          "domain": "www.ministeriodesalud.go.cr",
+          "expires": 1793872149.387571,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga",
+          "domain": ".ministeriodesalud.go.cr",
+          "expires": 1828388950.317943,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_01P7V8S0Y0",
+          "domain": ".ministeriodesalud.go.cr",
+          "expires": 1828388971.358048,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "upload.wikimedia.org",
+        "cdn.userway.org",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "api.userway.org",
+        "cdn77.api.userway.org",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "WMF-Uniq@.upload.wikimedia.org",
+        "_ga_01P7V8S0Y0@.ministeriodesalud.go.cr",
+        "_ga@.ministeriodesalud.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 5,
+        "rastreadoresEnE0": 3
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "f07cd9bc765e28c0a463c4a45c4c4967",
+      "dominio": "www.ministeriodesalud.go.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.ministeriodesalud.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "f07cd9bc765e28c0a463c4a45c4c4967",
+      "dominio": "www.ministeriodesalud.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.ministeriodesalud.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "f07cd9bc765e28c0a463c4a45c4c4967",
+      "dominio": "www.ministeriodesalud.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.ministeriodesalud.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "f07cd9bc765e28c0a463c4a45c4c4967",
+      "dominio": "www.ministeriodesalud.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.ministeriodesalud.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "f07cd9bc765e28c0a463c4a45c4c4967",
+      "dominio": "www.ministeriodesalud.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.ministeriodesalud.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "f07cd9bc765e28c0a463c4a45c4c4967",
+      "dominio": "www.ministeriodesalud.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sppb_user_timezone",
+      "dominio": "www.ministeriodesalud.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 5,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 40,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

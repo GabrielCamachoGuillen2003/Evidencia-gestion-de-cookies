@@ -1,0 +1,819 @@
+{
+  "sitio": "scotiabankcr.com",
+  "url": "https://www.scotiabankcr.com",
+  "auditadoEn": "2026-11-05T00:50:33.225Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.scotiabankcr.com",
+      "instante": "2026-11-05T00:48:32.829Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "Scotiabank Costa Rica_Language",
+          "domain": "www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "ARRAffinity",
+          "domain": ".www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "ARRAffinitySameSite",
+          "domain": ".www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": 1801615714,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "s_fid",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": 1828399714.697437,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 33
+        },
+        {
+          "name": "s_cc",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "spr-chat-user-id-6053668c302f3e51e5a294eb_app_100248705",
+          "_gcl_ls",
+          "spr-chat-token-6053668c302f3e51e5a294eb_app_100248705",
+          "spr-chat-state-A_6aebd25f0e897397ca1e0f86"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "davibank.cr",
+        "cdnjs.cloudflare.com",
+        "assets.adobedtm.com",
+        "cdn.aglty.io",
+        "googletagmanager.com",
+        "az416426.vo.msecnd.net",
+        "prod2-live-chat.sprinklr.com",
+        "service.maxymiser.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "live-chat-static.sprinklr.com",
+        "somniture.scotiabank.com"
+      ],
+      "peticionesRastreo": [
+        "assets.adobedtm.com",
+        "googletagmanager.com",
+        "ad.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.scotiabankcr.com",
+      "instante": "2026-11-05T00:48:49.394Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "Scotiabank Costa Rica_Language",
+          "domain": "www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "ARRAffinity",
+          "domain": ".www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "ARRAffinitySameSite",
+          "domain": ".www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": 1801615731,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "s_fid",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": 1828399731.166473,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 33
+        },
+        {
+          "name": "s_cc",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "spr-chat-user-id-6053668c302f3e51e5a294eb_app_100248705",
+          "spr-chat-state-A_6aebd270d1d002533db2da09",
+          "_gcl_ls",
+          "spr-chat-token-6053668c302f3e51e5a294eb_app_100248705"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "davibank.cr",
+        "cdnjs.cloudflare.com",
+        "assets.adobedtm.com",
+        "cdn.aglty.io",
+        "googletagmanager.com",
+        "az416426.vo.msecnd.net",
+        "prod2-live-chat.sprinklr.com",
+        "service.maxymiser.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "live-chat-static.sprinklr.com",
+        "somniture.scotiabank.com"
+      ],
+      "peticionesRastreo": [
+        "assets.adobedtm.com",
+        "googletagmanager.com",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.scotiabankcr.com",
+      "instante": "2026-11-05T00:49:07.686Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "Scotiabank Costa Rica_Language",
+          "domain": "www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "ARRAffinity",
+          "domain": ".www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "ARRAffinitySameSite",
+          "domain": ".www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": 1801615749,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "s_fid",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": 1828399749.666601,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 33
+        },
+        {
+          "name": "s_cc",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "spr-chat-user-id-6053668c302f3e51e5a294eb_app_100248705",
+          "_gcl_ls",
+          "spr-chat-state-A_6aebd2820e897397ca1e1c51",
+          "spr-chat-token-6053668c302f3e51e5a294eb_app_100248705"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "davibank.cr",
+        "cdnjs.cloudflare.com",
+        "assets.adobedtm.com",
+        "cdn.aglty.io",
+        "googletagmanager.com",
+        "az416426.vo.msecnd.net",
+        "prod2-live-chat.sprinklr.com",
+        "live-chat-static.sprinklr.com",
+        "service.maxymiser.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "somniture.scotiabank.com"
+      ],
+      "peticionesRastreo": [
+        "assets.adobedtm.com",
+        "googletagmanager.com",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.scotiabankcr.com",
+      "instante": "2026-11-05T00:49:28.066Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "Scotiabank Costa Rica_Language",
+          "domain": "www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "ARRAffinity",
+          "domain": ".www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "ARRAffinitySameSite",
+          "domain": ".www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": 1801615769,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "s_fid",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": 1828399769.865756,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 33
+        },
+        {
+          "name": "s_cc",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "spr-chat-user-id-6053668c302f3e51e5a294eb_app_100248705",
+          "_gcl_ls",
+          "spr-chat-token-6053668c302f3e51e5a294eb_app_100248705",
+          "spr-chat-state-A_6aebd2960e897397ca1e239c"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "davibank.cr",
+        "cdnjs.cloudflare.com",
+        "assets.adobedtm.com",
+        "cdn.aglty.io",
+        "googletagmanager.com",
+        "az416426.vo.msecnd.net",
+        "prod2-live-chat.sprinklr.com",
+        "live-chat-static.sprinklr.com",
+        "service.maxymiser.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "somniture.scotiabank.com"
+      ],
+      "peticionesRastreo": [
+        "assets.adobedtm.com",
+        "googletagmanager.com",
+        "ad.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.scotiabankcr.com",
+      "instante": "2026-11-05T00:49:46.126Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "Scotiabank Costa Rica_Language",
+          "domain": "www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "s_fid",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": 1828399802.720238,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 33
+        },
+        {
+          "name": "s_cc",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".davibank.cr",
+          "path": "/",
+          "expires": 1801615788,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "ARRAffinity",
+          "domain": ".www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "ARRAffinitySameSite",
+          "domain": ".www.davibank.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "spr-chat-user-id-6053668c302f3e51e5a294eb_app_100248705",
+          "_gcl_ls",
+          "spr-chat-state-A_6aebd2a80e897397ca1e286c",
+          "spr-chat-token-6053668c302f3e51e5a294eb_app_100248705"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "davibank.cr",
+        "cdnjs.cloudflare.com",
+        "assets.adobedtm.com",
+        "cdn.aglty.io",
+        "googletagmanager.com",
+        "az416426.vo.msecnd.net",
+        "prod2-live-chat.sprinklr.com",
+        "live-chat-static.sprinklr.com",
+        "somniture.scotiabank.com",
+        "service.maxymiser.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "dmtags.scotiabank.com"
+      ],
+      "peticionesRastreo": [
+        "assets.adobedtm.com",
+        "googletagmanager.com",
+        "ad.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.scotiabankcr.com",
+      "instante": "2026-11-05T00:50:11.707Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "ASP.NET_SessionId",
+          "domain": "www.davibank.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 24
+        },
+        {
+          "name": "Scotiabank Costa Rica_Language",
+          "domain": "www.davibank.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "s_fid",
+          "domain": ".davibank.cr",
+          "expires": 1828399826.317428,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 33
+        },
+        {
+          "name": "s_cc",
+          "domain": ".davibank.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 4
+        },
+        {
+          "name": "ARRAffinity",
+          "domain": ".www.davibank.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "ARRAffinitySameSite",
+          "domain": ".www.davibank.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".davibank.cr",
+          "expires": 1801615814,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "davibank.cr",
+        "cdnjs.cloudflare.com",
+        "googletagmanager.com",
+        "assets.adobedtm.com",
+        "az416426.vo.msecnd.net",
+        "cdn.aglty.io",
+        "prod2-live-chat.sprinklr.com",
+        "service.maxymiser.net",
+        "google.com",
+        "live-chat-static.sprinklr.com",
+        "somniture.scotiabank.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "assets.adobedtm.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "Scotiabank Costa Rica_Language@www.davibank.cr",
+        "ARRAffinity@.www.davibank.cr",
+        "ARRAffinitySameSite@.www.davibank.cr",
+        "_gcl_au@.davibank.cr",
+        "s_fid@.davibank.cr",
+        "s_cc@.davibank.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 7,
+        "rastreadoresEnE0": 3
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 7,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.818Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

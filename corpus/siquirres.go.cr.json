@@ -1,0 +1,1249 @@
+{
+  "sitio": "siquirres.go.cr",
+  "url": "https://siquirres.go.cr",
+  "auditadoEn": "2026-11-05T07:43:16.752Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://siquirres.go.cr",
+      "instante": "2026-11-05T07:40:40.229Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809416446.326963,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_ga",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1828424444.796477,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1793950844,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1793864504,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416446.354419,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416446.354504,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_022G589850",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1828424445.612744,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794469246.098916,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416445.354281,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416446.354566,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "__zlcmid",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1825400446,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ZD-store",
+          "ZD-suid",
+          "_grecaptcha",
+          "ZD-buid",
+          "__zlcstore"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "google.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "v2.zopim.com",
+        "gstatic.com",
+        "static.zdassets.com",
+        "youtube.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "municipalidaddesiquirres.zendesk.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "jnn-pa.googleapis.com",
+        "rr2---sn-j5caxupj5-nwv6.googlevideo.com",
+        "i.ytimg.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://siquirres.go.cr",
+      "instante": "2026-11-05T07:41:00.044Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809416466.395652,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_ga",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1828424464.563036,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1793950864,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1793864524,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416465.90916,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416465.909251,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_022G589850",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1828424465.418805,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794469265.507578,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        },
+        {
+          "name": "__zlcmid",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1825400465,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416464.908853,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416465.90934,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ZD-store",
+          "ZD-suid",
+          "_grecaptcha",
+          "ZD-buid",
+          "__zlcstore"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "google.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "gstatic.com",
+        "youtube.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "municipalidaddesiquirres.zendesk.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "rr2---sn-j5caxupj5-nwv6.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://siquirres.go.cr",
+      "instante": "2026-11-05T07:41:23.295Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809416488.770756,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_ga",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1828424487.193194,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1793950887,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1793864547,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416488.205752,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416488.205819,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_022G589850",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1828424487.913761,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794469287.97584,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416487.20557,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416488.205872,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__zlcmid",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1825400488,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ZD-store",
+          "ZD-suid",
+          "_grecaptcha",
+          "ZD-buid",
+          "__zlcstore"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "google.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "v2.zopim.com",
+        "gstatic.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "youtube.com",
+        "googletagmanager.com",
+        "municipalidaddesiquirres.zendesk.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "csp.withgoogle.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "rr2---sn-j5caxupj5-nwv6.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://siquirres.go.cr",
+      "instante": "2026-11-05T07:41:52.119Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809416518.310858,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_ga",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1828424516.522994,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1793950916,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1793864576,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416517.684568,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416517.684643,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "_ga_022G589850",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1828424517.396344,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416517.684289,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 295
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416517.684446,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794469317.810696,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        },
+        {
+          "name": "__zlcmid",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1825400518,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ZD-store",
+          "ZD-suid",
+          "_grecaptcha",
+          "ZD-buid",
+          "__zlcstore"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "google.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "gstatic.com",
+        "googletagmanager.com",
+        "ekr.zdassets.com",
+        "youtube.com",
+        "municipalidaddesiquirres.zendesk.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "jnn-pa.googleapis.com",
+        "rr2---sn-j5caxupj5-nwv6.googlevideo.com",
+        "i.ytimg.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "googletagmanager.com",
+        "ekr.zdassets.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://siquirres.go.cr",
+      "instante": "2026-11-05T07:42:14.919Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809416558.304644,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_ga",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1828424557.585417,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1793950957,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1793864598,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416540.52422,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416540.524275,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416539.524022,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809416540.524327,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 42
+        },
+        {
+          "name": "__zlcmid",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1825400558,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "_ga_022G589850",
+          "domain": ".siquirres.go.cr",
+          "path": "/",
+          "expires": 1828424557.678481,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794469357.871139,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ZD-store",
+          "ZD-suid",
+          "_grecaptcha",
+          "ZD-buid",
+          "__zlcstore"
+        ],
+        "sessionStorage": [
+          "wpEmojiSettingsSupports"
+        ]
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "google.com",
+        "google-analytics.com",
+        "fonts.gstatic.com",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "municipalidaddesiquirres.zendesk.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "youtube.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "rr2---sn-j5caxupj5-nwv6.googlevideo.com",
+        "jnn-pa.googleapis.com",
+        "i.ytimg.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://siquirres.go.cr",
+      "instante": "2026-11-05T07:42:46.663Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809416590.494985,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "_ga",
+          "domain": ".siquirres.go.cr",
+          "expires": 1828424589.624062,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".siquirres.go.cr",
+          "expires": 1793950989,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat",
+          "domain": ".siquirres.go.cr",
+          "expires": 1793864630,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "expires": 1809416590.37737,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "expires": 1809416590.37745,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "expires": 1809416571.327096,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "expires": 1809416572.327324,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "__zlcmid",
+          "domain": ".siquirres.go.cr",
+          "expires": 1825400590,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "_ga_022G589850",
+          "domain": ".siquirres.go.cr",
+          "expires": 1828424589.859927,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "expires": 1794469390.04933,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "google.com",
+        "fonts.gstatic.com",
+        "google-analytics.com",
+        "v2.zopim.com",
+        "gstatic.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "municipalidaddesiquirres.zendesk.com",
+        "youtube.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net",
+        "i.ytimg.com",
+        "yt3.ggpht.com",
+        "jnn-pa.googleapis.com",
+        "rr2---sn-j5caxupj5-nwv6.googlevideo.com",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "google-analytics.com",
+        "v2.zopim.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com",
+        "_ga@.siquirres.go.cr",
+        "_gid@.siquirres.go.cr",
+        "_gat@.siquirres.go.cr",
+        "YSC@.youtube.com",
+        "VISITOR_INFO1_LIVE@.youtube.com",
+        "VISITOR_PRIVACY_METADATA@.youtube.com",
+        "_ga_022G589850@.siquirres.go.cr",
+        "__Secure-YNID@.youtube.com",
+        "__Secure-ROLLOUT_TOKEN@.youtube.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 12,
+        "rastreadoresEnE0": 8
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__zlcmid",
+      "dominio": ".siquirres.go.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__zlcmid",
+      "dominio": ".siquirres.go.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__zlcmid",
+      "dominio": ".siquirres.go.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__zlcmid",
+      "dominio": ".siquirres.go.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__zlcmid",
+      "dominio": ".siquirres.go.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__zlcmid",
+      "dominio": ".siquirres.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 12,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 8.3,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

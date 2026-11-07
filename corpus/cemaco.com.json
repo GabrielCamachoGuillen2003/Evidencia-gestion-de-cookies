@@ -1,0 +1,3780 @@
+{
+  "sitio": "cemaco.com",
+  "url": "https://www.cemaco.com",
+  "auditadoEn": "2026-11-05T01:15:04.673Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.cemaco.com",
+      "instante": "2026-11-05T01:12:42.950Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "s",
+          "domain": "recommender.scarabresearch.com",
+          "path": "/merchants/1C98DC558391C56E",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "s",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/merchants/1F3BC6E192D33951",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1793927508,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827537163.996061,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_fbp",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1801617164,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537164,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537164,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793842971,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1825377171,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".cdn.cemaco.com",
+          "path": "/",
+          "expires": 1793842964.777132,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "ABTastySession",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793842964,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "ABTasty",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827969164,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 145
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1794273165.147237,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1794273165.147313,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 315
+        },
+        {
+          "name": "_hjSessionUser_483462",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1825377165,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_483462",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793842965,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "vtexGraphics",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1809393165.573052,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1809393165.572942,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "_ALGOLIA",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1809393165,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 46
+        },
+        {
+          "name": "cfs_id",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1793851965.734783,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_ga",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1828401165.743895,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793927565,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-174180573-1",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793841225,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1801617165,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 71
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793842066.237685,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801617166.136095,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "RT",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1794445966,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 99
+        },
+        {
+          "name": "__apex_test__",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_ga_JFHSLZMHDP",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1828401166.754289,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "fs_lua",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793842966,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 15
+        },
+        {
+          "name": "fs_uid",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1825377168,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 113
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398119.407924,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "scarab.visitor",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398129.528263,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537177,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 89
+        },
+        {
+          "name": "ttcsid_CUL23URC77U0PC8I7GM0",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537177,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "xp",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398129.528339,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 86
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "scarab.visitor",
+          "popularSearchesCachecemaco",
+          "orderQueue",
+          "mega-menu-v2:config",
+          "algoliaSearchBarHistory",
+          "wps-user-session",
+          "_gcl_ls",
+          "cart",
+          "setEmail",
+          "_wp_storage_test",
+          "popularSearchesCachejugueton",
+          "lastExternalReferrerTime",
+          "_fs_lua",
+          "wps-1",
+          "ABTastyData",
+          "analytics:session",
+          "lastExternalReferrer",
+          "orderform",
+          "macoChatDebugLog",
+          "mega-menu-v2:menus",
+          "_fs_uid"
+        ],
+        "sessionStorage": [
+          "ABTastyGeoloc",
+          "wps-browser-session-1",
+          "emarsys_popup_mostrado",
+          "wpsStore",
+          "tt_appInfo",
+          "ABTastySessionHitHistory",
+          "ABTastyUA",
+          "_fs_tab_id",
+          "ABT_IS_TRANS_DATALAYER_CHECKED",
+          "kitlook:utmKits:v1",
+          "cemaco:login-tooltip-dismissed",
+          "tt_sessionId",
+          "wishlist_isAuthenticated",
+          "tt_pixel_session_index",
+          "ABT_IS_DATALAYER_CHECKED",
+          "wishlist_shopperId"
+        ]
+      },
+      "terceros": [
+        "cemacogt.vtexassets.com",
+        "cdn.scarabresearch.com",
+        "analytics.tiktok.com",
+        "code.jquery.com",
+        "static.scarabresearch.com",
+        "try.abtasty.com",
+        "static.hotjar.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "connect.facebook.net",
+        "io.vtex.com.br",
+        "activity-flow.vtex.com",
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "sfo2.digitaloceanspaces.com",
+        "s.go-mpulse.net",
+        "cdn.cloud.weni.ai",
+        "analytics-ipv6.tiktokw.us",
+        "script.hotjar.com",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "c.go-mpulse.net",
+        "dcinfos-cache.abtasty.com",
+        "cemacogt.vteximg.com.br",
+        "google.com",
+        "ad.doubleclick.net",
+        "wztupbgfbl.execute-api.us-east-1.amazonaws.com",
+        "google-analytics.com",
+        "surveystats.hotjar.io",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "google.co.cr",
+        "edge.fullstory.com",
+        "ariane.abtasty.com",
+        "xd-f1cf3d4fdb19408ea770fc6f80817dcb.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "cdn-widgetsrepository.yotpo.com",
+        "rs.fullstory.com",
+        "recommender.scarabresearch.com",
+        "webchannel-content.eservice.emarsys.net",
+        "recommender-eu.scarabresearch.com",
+        "api-cdn.yotpo.com"
+      ],
+      "peticionesRastreo": [
+        "analytics.tiktok.com",
+        "static.hotjar.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "script.hotjar.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "edge.fullstory.com",
+        "facebook.com",
+        "rs.fullstory.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.cemaco.com",
+      "instante": "2026-11-05T01:13:03.072Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "s",
+          "domain": "recommender.scarabresearch.com",
+          "path": "/merchants/1C98DC558391C56E",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "s",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/merchants/1F3BC6E192D33951",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1793927508,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827537184.597791,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_fbp",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1801617184,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537185,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537185,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793842991,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1825377191,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".cdn.cemaco.com",
+          "path": "/",
+          "expires": 1793842985.301805,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1794273185.42262,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1794273185.422698,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 315
+        },
+        {
+          "name": "ABTastySession",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793842985,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "ABTasty",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827969185,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 140
+        },
+        {
+          "name": "_hjSessionUser_483462",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1825377185,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_483462",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793842985,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1809393185.845444,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1809393186.125211,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "vtexGraphics",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "_ga_JFHSLZMHDP",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1828401186.263346,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1801617186,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ALGOLIA",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1809393186,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 46
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801617186.353644,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1828401186.358441,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793927586,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat_UA-174180573-1",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793841246,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cfs_id",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1793851986.458955,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828401186.782307,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "RT",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1794445987,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 99
+        },
+        {
+          "name": "__apex_test__",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398140.171853,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "scarab.visitor",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398150.102796,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 15
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537197,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 89
+        },
+        {
+          "name": "ttcsid_CUL23URC77U0PC8I7GM0",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537197,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "xp",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398150.10287,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 86
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "scarab.visitor",
+          "popularSearchesCachecemaco",
+          "orderQueue",
+          "mega-menu-v2:config",
+          "algoliaSearchBarHistory",
+          "wps-user-session",
+          "_gcl_ls",
+          "cart",
+          "setEmail",
+          "_wp_storage_test",
+          "lastExternalReferrerTime",
+          "popularSearchesCachejugueton",
+          "wps-1",
+          "ABTastyData",
+          "analytics:session",
+          "lastExternalReferrer",
+          "orderform",
+          "macoChatDebugLog",
+          "mega-menu-v2:menus"
+        ],
+        "sessionStorage": [
+          "wishlist_shopperId",
+          "wps-browser-session-1",
+          "emarsys_popup_mostrado",
+          "wpsStore",
+          "ABT_IS_TRANS_DATALAYER_CHECKED",
+          "tt_appInfo",
+          "kitlook:utmKits:v1",
+          "cemaco:login-tooltip-dismissed",
+          "tt_sessionId",
+          "wishlist_isAuthenticated",
+          "tt_pixel_session_index",
+          "ABTastyUA",
+          "ABT_IS_DATALAYER_CHECKED",
+          "ABTastyGeoloc"
+        ]
+      },
+      "terceros": [
+        "cemacogt.vtexassets.com",
+        "cdn.scarabresearch.com",
+        "analytics.tiktok.com",
+        "code.jquery.com",
+        "static.scarabresearch.com",
+        "try.abtasty.com",
+        "static.hotjar.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "connect.facebook.net",
+        "io.vtex.com.br",
+        "activity-flow.vtex.com",
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "sfo2.digitaloceanspaces.com",
+        "s.go-mpulse.net",
+        "cdn.cloud.weni.ai",
+        "script.hotjar.com",
+        "analytics-ipv6.tiktokw.us",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "dcinfos-cache.abtasty.com",
+        "cemacogt.vteximg.com.br",
+        "google.com",
+        "ad.doubleclick.net",
+        "surveystats.hotjar.io",
+        "google-analytics.com",
+        "wztupbgfbl.execute-api.us-east-1.amazonaws.com",
+        "xd-f1cf3d4fdb19408ea770fc6f80817dcb.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "google.co.cr",
+        "c.go-mpulse.net",
+        "ariane.abtasty.com",
+        "cdn-widgetsrepository.yotpo.com",
+        "recommender.scarabresearch.com",
+        "webchannel-content.eservice.emarsys.net",
+        "recommender-eu.scarabresearch.com",
+        "api-cdn.yotpo.com"
+      ],
+      "peticionesRastreo": [
+        "analytics.tiktok.com",
+        "static.hotjar.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "script.hotjar.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "facebook.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.cemaco.com",
+      "instante": "2026-11-05T01:13:26.292Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "s",
+          "domain": "recommender.scarabresearch.com",
+          "path": "/merchants/1C98DC558391C56E",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "s",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/merchants/1F3BC6E192D33951",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1793927293,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827537207.074552,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_fbp",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1801617207,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537207,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537207,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793843014,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1825377214,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".cdn.cemaco.com",
+          "path": "/",
+          "expires": 1793843007.553545,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_hjSessionUser_483462",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1825377207,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_483462",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793843007,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1794273207.815446,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1794273207.815583,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 315
+        },
+        {
+          "name": "ABTastySession",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793843007,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "ABTasty",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827969207,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 145
+        },
+        {
+          "name": "vtexGraphics",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "_ALGOLIA",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1809393208,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 46
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1809393208.682959,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1809393208.682824,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801617208.704184,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1828401208.735913,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793927608,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-174180573-1",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793841268,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cfs_id",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1793852008.891881,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1801617208,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828401209.160881,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "RT",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1794446009,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 99
+        },
+        {
+          "name": "_ga_JFHSLZMHDP",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1828401209.701836,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__apex_test__",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398162.215514,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "scarab.visitor",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398172.515008,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537220,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 89
+        },
+        {
+          "name": "ttcsid_CUL23URC77U0PC8I7GM0",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537220,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "xp",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398172.515126,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 86
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "scarab.visitor",
+          "popularSearchesCachecemaco",
+          "orderQueue",
+          "mega-menu-v2:config",
+          "algoliaSearchBarHistory",
+          "wps-user-session",
+          "_gcl_ls",
+          "cart",
+          "setEmail",
+          "_wp_storage_test",
+          "lastExternalReferrerTime",
+          "popularSearchesCachejugueton",
+          "wps-1",
+          "ABTastyData",
+          "analytics:session",
+          "lastExternalReferrer",
+          "orderform",
+          "macoChatDebugLog",
+          "mega-menu-v2:menus"
+        ],
+        "sessionStorage": [
+          "emarsys_popup_mostrado",
+          "wps-browser-session-1",
+          "ABTastyGeoloc",
+          "wpsStore",
+          "tt_appInfo",
+          "ABTastySessionHitHistory",
+          "ABTastyUA",
+          "ABT_IS_TRANS_DATALAYER_CHECKED",
+          "kitlook:utmKits:v1",
+          "cemaco:login-tooltip-dismissed",
+          "tt_sessionId",
+          "wishlist_isAuthenticated",
+          "tt_pixel_session_index",
+          "ABT_IS_DATALAYER_CHECKED",
+          "wishlist_shopperId"
+        ]
+      },
+      "terceros": [
+        "cemacogt.vtexassets.com",
+        "cdn.scarabresearch.com",
+        "analytics.tiktok.com",
+        "code.jquery.com",
+        "static.scarabresearch.com",
+        "try.abtasty.com",
+        "static.hotjar.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "connect.facebook.net",
+        "io.vtex.com.br",
+        "activity-flow.vtex.com",
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "sfo2.digitaloceanspaces.com",
+        "s.go-mpulse.net",
+        "cdn.cloud.weni.ai",
+        "script.hotjar.com",
+        "analytics-ipv6.tiktokw.us",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "dcinfos-cache.abtasty.com",
+        "cemacogt.vteximg.com.br",
+        "google.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "surveystats.hotjar.io",
+        "wztupbgfbl.execute-api.us-east-1.amazonaws.com",
+        "xd-f1cf3d4fdb19408ea770fc6f80817dcb.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "c.go-mpulse.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "google.co.cr",
+        "ariane.abtasty.com",
+        "cdn-widgetsrepository.yotpo.com",
+        "recommender.scarabresearch.com",
+        "webchannel-content.eservice.emarsys.net",
+        "recommender-eu.scarabresearch.com",
+        "api-cdn.yotpo.com"
+      ],
+      "peticionesRastreo": [
+        "analytics.tiktok.com",
+        "static.hotjar.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "script.hotjar.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "facebook.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.cemaco.com",
+      "instante": "2026-11-05T01:13:51.508Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "s",
+          "domain": "recommender.scarabresearch.com",
+          "path": "/merchants/1C98DC558391C56E",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "s",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/merchants/1F3BC6E192D33951",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1793927293,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827537232.503964,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "_fbp",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1801617232,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537232,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537232,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793843039,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1825377239,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".cdn.cemaco.com",
+          "path": "/",
+          "expires": 1793843033.042487,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1794273233.215338,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1794273233.215442,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 315
+        },
+        {
+          "name": "ABTastySession",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793843033,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "ABTasty",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827969233,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 139
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1809393234.018344,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1809393233.634319,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "vtexGraphics",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "_hjSessionUser_483462",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1825377233,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_483462",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793843033,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_ALGOLIA",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1809393233,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_gid",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793927633,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-174180573-1",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793841293,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801617234.03976,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1828401234.131108,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1801617233,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 70
+        },
+        {
+          "name": "cfs_id",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1793852034.325105,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828401234.65748,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "RT",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1794446034,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 99
+        },
+        {
+          "name": "_ga_JFHSLZMHDP",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1828401235.066601,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__apex_test__",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398187.629901,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "scarab.visitor",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398197.911377,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537245,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 89
+        },
+        {
+          "name": "ttcsid_CUL23URC77U0PC8I7GM0",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537245,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "xp",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398197.911457,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 86
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "scarab.visitor",
+          "popularSearchesCachecemaco",
+          "orderQueue",
+          "mega-menu-v2:config",
+          "algoliaSearchBarHistory",
+          "wps-user-session",
+          "_gcl_ls",
+          "cart",
+          "setEmail",
+          "_wp_storage_test",
+          "lastExternalReferrerTime",
+          "popularSearchesCachejugueton",
+          "wps-1",
+          "ABTastyData",
+          "analytics:session",
+          "lastExternalReferrer",
+          "orderform",
+          "macoChatDebugLog",
+          "mega-menu-v2:menus"
+        ],
+        "sessionStorage": [
+          "emarsys_popup_mostrado",
+          "wps-browser-session-1",
+          "ABTastyGeoloc",
+          "wpsStore",
+          "tt_appInfo",
+          "ABTastySessionHitHistory",
+          "ABTastyUA",
+          "ABT_IS_TRANS_DATALAYER_CHECKED",
+          "kitlook:utmKits:v1",
+          "cemaco:login-tooltip-dismissed",
+          "tt_sessionId",
+          "wishlist_isAuthenticated",
+          "tt_pixel_session_index",
+          "ABT_IS_DATALAYER_CHECKED",
+          "wishlist_shopperId"
+        ]
+      },
+      "terceros": [
+        "cemacogt.vtexassets.com",
+        "cdn.scarabresearch.com",
+        "analytics.tiktok.com",
+        "code.jquery.com",
+        "static.scarabresearch.com",
+        "try.abtasty.com",
+        "static.hotjar.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "connect.facebook.net",
+        "io.vtex.com.br",
+        "activity-flow.vtex.com",
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "sfo2.digitaloceanspaces.com",
+        "s.go-mpulse.net",
+        "cdn.cloud.weni.ai",
+        "analytics-ipv6.tiktokw.us",
+        "script.hotjar.com",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "dcinfos-cache.abtasty.com",
+        "cemacogt.vteximg.com.br",
+        "google.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "xd-f1cf3d4fdb19408ea770fc6f80817dcb.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "c.go-mpulse.net",
+        "wztupbgfbl.execute-api.us-east-1.amazonaws.com",
+        "surveystats.hotjar.io",
+        "ariane.abtasty.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "google.co.cr",
+        "cdn-widgetsrepository.yotpo.com",
+        "recommender.scarabresearch.com",
+        "webchannel-content.eservice.emarsys.net",
+        "recommender-eu.scarabresearch.com",
+        "api-cdn.yotpo.com"
+      ],
+      "peticionesRastreo": [
+        "analytics.tiktok.com",
+        "static.hotjar.com",
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "script.hotjar.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "facebook.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.cemaco.com",
+      "instante": "2026-11-05T01:14:13.754Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "s",
+          "domain": "recommender.scarabresearch.com",
+          "path": "/merchants/1C98DC558391C56E",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "s",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/merchants/1F3BC6E192D33951",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 15
+        },
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1793927489,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1801617273,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 44
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793843074,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1825377274,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827537273.484669,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1794273273.584633,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 315
+        },
+        {
+          "name": "_hjSessionUser_483462",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1825377273,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_483462",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793843055,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".cdn.cemaco.com",
+          "path": "/",
+          "expires": 1793843055.64711,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537274,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537274,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1809393274.079252,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1809393273.923801,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_ALGOLIA",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1809393256,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_gid",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793927674,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat_UA-174180573-1",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793841316,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cfs_id",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1793852056.379025,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801617256.719728,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828401256.72738,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398227.605296,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "scarab.visitor",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398220.000971,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "xp",
+          "domain": "recommender-eu.scarabresearch.com",
+          "path": "/",
+          "expires": 1825398220.001049,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 86
+        },
+        {
+          "name": "RT",
+          "domain": ".www.cemaco.com",
+          "path": "/",
+          "expires": 1794446073,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 92
+        },
+        {
+          "name": "ABTastySession",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1793843073,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "ABTasty",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827969255,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 139
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": 1794273273.584504,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1801617256,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 73
+        },
+        {
+          "name": "vtexGraphics",
+          "domain": "www.cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 13
+        },
+        {
+          "name": "_ga",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1828401274.155341,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_JFHSLZMHDP",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1828401274.207678,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "__apex_test__",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537274,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 100
+        },
+        {
+          "name": "ttcsid_CUL23URC77U0PC8I7GM0",
+          "domain": ".cemaco.com",
+          "path": "/",
+          "expires": 1827537274,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "scarab.visitor",
+          "popularSearchesCachecemaco",
+          "orderQueue",
+          "mega-menu-v2:config",
+          "algoliaSearchBarHistory",
+          "wps-user-session",
+          "_gcl_ls",
+          "cart",
+          "setEmail",
+          "_wp_storage_test",
+          "lastExternalReferrerTime",
+          "popularSearchesCachejugueton",
+          "ABTastyData",
+          "wps-1",
+          "analytics:session",
+          "lastExternalReferrer",
+          "orderform",
+          "macoChatDebugLog",
+          "mega-menu-v2:menus"
+        ],
+        "sessionStorage": [
+          "emarsys_popup_mostrado",
+          "wps-browser-session-1",
+          "ABTastyGeoloc",
+          "wpsStore",
+          "tt_appInfo",
+          "ABTastySessionHitHistory",
+          "ABTastyUA",
+          "ABT_IS_TRANS_DATALAYER_CHECKED",
+          "kitlook:utmKits:v1",
+          "cemaco:login-tooltip-dismissed",
+          "tt_sessionId",
+          "wishlist_isAuthenticated",
+          "tt_pixel_session_index",
+          "ABT_IS_DATALAYER_CHECKED",
+          "wishlist_shopperId"
+        ]
+      },
+      "terceros": [
+        "cemacogt.vtexassets.com",
+        "io.vtex.com.br",
+        "activity-flow.vtex.com",
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "connect.facebook.net",
+        "code.jquery.com",
+        "af-origin.vtex.com",
+        "try.abtasty.com",
+        "cdn.scarabresearch.com",
+        "cdn.jsdelivr.net",
+        "sfo2.digitaloceanspaces.com",
+        "s.go-mpulse.net",
+        "cdn.cloud.weni.ai",
+        "static.scarabresearch.com",
+        "script.hotjar.com",
+        "dcinfos-cache.abtasty.com",
+        "cemacogt.vteximg.com.br",
+        "google.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "rc.vtex.com",
+        "analytics-ipv6.tiktokw.us",
+        "wztupbgfbl.execute-api.us-east-1.amazonaws.com",
+        "surveystats.hotjar.io",
+        "ariane.abtasty.com",
+        "xd-f1cf3d4fdb19408ea770fc6f80817dcb.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "google.co.cr",
+        "c.go-mpulse.net",
+        "cdn-widgetsrepository.yotpo.com",
+        "recommender.scarabresearch.com",
+        "webchannel-content.eservice.emarsys.net",
+        "recommender-eu.scarabresearch.com",
+        "api-cdn.yotpo.com"
+      ],
+      "peticionesRastreo": [
+        "static.hotjar.com",
+        "googletagmanager.com",
+        "analytics.tiktok.com",
+        "connect.facebook.net",
+        "script.hotjar.com",
+        "ad.doubleclick.net",
+        "google-analytics.com",
+        "facebook.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.cemaco.com",
+      "instante": "2026-11-05T01:14:42.550Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "s",
+          "domain": "recommender.scarabresearch.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "s",
+          "domain": "recommender-eu.scarabresearch.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 16
+        },
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.cemaco.com",
+          "expires": 1793927672,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_fbp",
+          "domain": ".cemaco.com",
+          "expires": 1801617297,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".cemaco.com",
+          "expires": 1793843098,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".cemaco.com",
+          "expires": 1825377298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "expires": 1827537297.735524,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "ABTastySession",
+          "domain": ".cemaco.com",
+          "expires": 1793843097,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 49
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.cemaco.com",
+          "expires": 1794273297.850522,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 315
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".cdn.cemaco.com",
+          "expires": 1793843084.379823,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.cemaco.com",
+          "expires": 1809393297.969798,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.cemaco.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "vtexGraphics",
+          "domain": "www.cemaco.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "_hjSessionUser_483462",
+          "domain": ".cemaco.com",
+          "expires": 1825377298,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_483462",
+          "domain": ".cemaco.com",
+          "expires": 1793843084,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".cemaco.com",
+          "expires": 1827537298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".cemaco.com",
+          "expires": 1827537298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.cemaco.com",
+          "expires": 1809393298.070857,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "_ALGOLIA",
+          "domain": "www.cemaco.com",
+          "expires": 1809393284,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_gid",
+          "domain": ".cemaco.com",
+          "expires": 1793927698,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801617285.094629,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_gat_UA-174180573-1",
+          "domain": ".cemaco.com",
+          "expires": 1793841345,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "cfs_id",
+          "domain": "www.cemaco.com",
+          "expires": 1793852085.173878,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828401285.498517,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender.scarabresearch.com",
+          "expires": 1825398251.630434,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "scarab.visitor",
+          "domain": ".cemaco.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 22
+        },
+        {
+          "name": "cdv",
+          "domain": "recommender-eu.scarabresearch.com",
+          "expires": 1825398241.027808,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 16
+        },
+        {
+          "name": "xp",
+          "domain": "recommender-eu.scarabresearch.com",
+          "expires": 1825398241.028173,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 86
+        },
+        {
+          "name": "RT",
+          "domain": ".www.cemaco.com",
+          "expires": 1794446097,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 92
+        },
+        {
+          "name": "ABTasty",
+          "domain": ".cemaco.com",
+          "expires": 1827969284,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 395,
+          "valorLongitud": 145
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.cemaco.com",
+          "expires": 1794273297.850407,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 474
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".cemaco.com",
+          "expires": 1801617284,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga",
+          "domain": ".cemaco.com",
+          "expires": 1828401298.141013,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "fs_lua",
+          "domain": ".cemaco.com",
+          "expires": 1793843098,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 15
+        },
+        {
+          "name": "fs_uid",
+          "domain": ".cemaco.com",
+          "expires": 1825377289,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 113
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".cemaco.com",
+          "expires": 1827537298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "ttcsid_CUL23URC77U0PC8I7GM0",
+          "domain": ".cemaco.com",
+          "expires": 1827537298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "__apex_test__",
+          "domain": ".cemaco.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_ga_JFHSLZMHDP",
+          "domain": ".cemaco.com",
+          "expires": 1828401299.533171,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cemacogt.vtexassets.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "connect.facebook.net",
+        "io.vtex.com.br",
+        "activity-flow.vtex.com",
+        "cdn.scarabresearch.com",
+        "googletagmanager.com",
+        "cdn.jsdelivr.net",
+        "sfo2.digitaloceanspaces.com",
+        "static.hotjar.com",
+        "code.jquery.com",
+        "try.abtasty.com",
+        "analytics.tiktok.com",
+        "s.go-mpulse.net",
+        "cdn.cloud.weni.ai",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "static.scarabresearch.com",
+        "script.hotjar.com",
+        "cemacogt.vteximg.com.br",
+        "google.com",
+        "google-analytics.com",
+        "wztupbgfbl.execute-api.us-east-1.amazonaws.com",
+        "xd-f1cf3d4fdb19408ea770fc6f80817dcb.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "surveystats.hotjar.io",
+        "edge.fullstory.com",
+        "google.co.cr",
+        "rs.fullstory.com",
+        "ariane.abtasty.com",
+        "cdn-widgetsrepository.yotpo.com",
+        "recommender.scarabresearch.com",
+        "webchannel-content.eservice.emarsys.net",
+        "analytics.google.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "script.hotjar.com",
+        "google-analytics.com",
+        "facebook.com",
+        "googleads.g.doubleclick.net",
+        "googleadservices.com",
+        "edge.fullstory.com",
+        "rs.fullstory.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "s@recommender.scarabresearch.com",
+        "s@recommender-eu.scarabresearch.com",
+        "_ttp@.tiktok.com",
+        "_fbp@.cemaco.com",
+        "_tt_enable_cookie@.cemaco.com",
+        "_ttp@.cemaco.com",
+        "_hjSessionUser_483462@.cemaco.com",
+        "_hjSession_483462@.cemaco.com",
+        "_ga@.cemaco.com",
+        "_gid@.cemaco.com",
+        "_gat_UA-174180573-1@.cemaco.com",
+        "test_cookie@.doubleclick.net",
+        "fr@.facebook.com",
+        "_ga_JFHSLZMHDP@.cemaco.com",
+        "cdv@recommender.scarabresearch.com",
+        "cdv@recommender-eu.scarabresearch.com",
+        "xp@recommender-eu.scarabresearch.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 39,
+        "rastreadoresEnE0": 13
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ABTastySession",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ABTasty",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vtex_session",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vtex_segment",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vtexGraphics",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_ALGOLIA",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "cfs_id",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "RT",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__apex_test__",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "fs_lua",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "fs_uid",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "scarab.visitor",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ttcsid",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ttcsid_CUL23URC77U0PC8I7GM0",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vtex_session",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vtex_segment",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ABTastySession",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ABTasty",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vtexGraphics",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_ALGOLIA",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "cfs_id",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "RT",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__apex_test__",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "scarab.visitor",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ttcsid",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ttcsid_CUL23URC77U0PC8I7GM0",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vtex_session",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vtex_segment",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ABTastySession",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ABTasty",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vtexGraphics",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_ALGOLIA",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "cfs_id",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "RT",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__apex_test__",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "scarab.visitor",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ttcsid",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ttcsid_CUL23URC77U0PC8I7GM0",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vtex_session",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vtex_segment",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ABTastySession",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ABTasty",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vtexGraphics",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_ALGOLIA",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "cfs_id",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "RT",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__apex_test__",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "scarab.visitor",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ttcsid",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ttcsid_CUL23URC77U0PC8I7GM0",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vtex_segment",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_ALGOLIA",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "cfs_id",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "scarab.visitor",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "RT",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ABTastySession",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ABTasty",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vtex_session",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vtexGraphics",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__apex_test__",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ttcsid",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ttcsid_CUL23URC77U0PC8I7GM0",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ABTastySession",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vtex_segment",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vtexGraphics",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_ALGOLIA",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "cfs_id",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "scarab.visitor",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "RT",
+      "dominio": ".www.cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ABTasty",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vtex_session",
+      "dominio": "www.cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "fs_lua",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "fs_uid",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ttcsid",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ttcsid_CUL23URC77U0PC8I7GM0",
+      "dominio": ".cemaco.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__apex_test__",
+      "dominio": ".cemaco.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 37,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 52.2,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

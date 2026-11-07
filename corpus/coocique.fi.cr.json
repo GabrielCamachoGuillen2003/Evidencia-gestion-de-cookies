@@ -1,0 +1,1043 @@
+{
+  "sitio": "coocique.fi.cr",
+  "url": "https://coocique.fi.cr",
+  "auditadoEn": "2026-11-05T05:27:26.459Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://coocique.fi.cr",
+      "instante": "2026-11-05T05:25:19.729Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 698,
+          "w": 1366,
+          "h": 70
+        },
+        "cubrePantalla": false,
+        "texto": "Utilizamos cookies para mejorar tu experiencia. Al continuar, aceptas nuestra Política de Privacidad y Términos y Condiciones.\n\nAceptar y Cerrar"
+      },
+      "cookies": [
+        {
+          "name": "_cfuvid",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 113
+        },
+        {
+          "name": "_ga_MS2PYQP4H5",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1828416321.052731,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 81
+        },
+        {
+          "name": "_ga",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1828416321.053535,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1801632321,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793857221.348543,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_fbp",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1801632322,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 35
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801632322.470823,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "LULID",
+          "domain": "chat2-customertouch.i6.inconcert.cloud",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "5B35733BF65B42E691A3C8ED4D08E277_TRANSFER",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "5B35733BF65B42E691A3C8ED4D08E277_MINIMIZED",
+          "5B35733BF65B42E691A3C8ED4D08E277_SESSION",
+          "5B35733BF65B42E691A3C8ED4D08E277_ARGS"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.prod.website-files.com",
+        "ajax.googleapis.com",
+        "d3e54v103j8qbb.cloudfront.net",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "v0-new-project-ihrg6zu0pfo.vercel.app",
+        "fonts.gstatic.com",
+        "webchat-customertouch.i6.inconcert.cloud",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "google.co.cr",
+        "chat2-customertouch.i6.inconcert.cloud",
+        "sl-11a463aaedf44600a99367660fd6fa70.ecs.us-east-1.on.aws",
+        "facebook.com"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://coocique.fi.cr",
+      "instante": "2026-11-05T05:25:36.203Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "pulsado «aceptar y cerrar»"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 698,
+          "w": 1366,
+          "h": 70
+        },
+        "cubrePantalla": false,
+        "texto": "Utilizamos cookies para mejorar tu experiencia. Al continuar, aceptas nuestra Política de Privacidad y Términos y Condiciones.\n\nAceptar y Cerrar"
+      },
+      "cookies": [
+        {
+          "name": "_cfuvid",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        },
+        {
+          "name": "_fbp",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1801632337,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801632337.460021,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "LULID",
+          "domain": "chat2-customertouch.i6.inconcert.cloud",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_ga_MS2PYQP4H5",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1828416338.460791,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 81
+        },
+        {
+          "name": "_ga",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1828416338.461493,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1801632338,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793857238.701116,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "5B35733BF65B42E691A3C8ED4D08E277_TRANSFER",
+          "lastExternalReferrerTime",
+          "_gcl_ls",
+          "5B35733BF65B42E691A3C8ED4D08E277_SESSION",
+          "5B35733BF65B42E691A3C8ED4D08E277_MINIMIZED",
+          "5B35733BF65B42E691A3C8ED4D08E277_ARGS"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.prod.website-files.com",
+        "ajax.googleapis.com",
+        "d3e54v103j8qbb.cloudfront.net",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "v0-new-project-ihrg6zu0pfo.vercel.app",
+        "fonts.gstatic.com",
+        "webchat-customertouch.i6.inconcert.cloud",
+        "sl-11a463aaedf44600a99367660fd6fa70.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "chat2-customertouch.i6.inconcert.cloud",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "facebook.com",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net"
+      ],
+      "controlUsado": "aceptar y cerrar",
+      "interaccionLograda": true
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://coocique.fi.cr",
+      "instante": "2026-11-05T05:26:02.160Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 698,
+          "w": 1366,
+          "h": 70
+        },
+        "cubrePantalla": false,
+        "texto": "Utilizamos cookies para mejorar tu experiencia. Al continuar, aceptas nuestra Política de Privacidad y Términos y Condiciones.\n\nAceptar y Cerrar"
+      },
+      "cookies": [
+        {
+          "name": "_cfuvid",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        },
+        {
+          "name": "_ga_MS2PYQP4H5",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1828416363.225724,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 81
+        },
+        {
+          "name": "_ga",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1828416363.226379,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1801632363,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_fbp",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1801632363,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793857263.489389,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801632363.593053,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "LULID",
+          "domain": "chat2-customertouch.i6.inconcert.cloud",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "5B35733BF65B42E691A3C8ED4D08E277_TRANSFER",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "5B35733BF65B42E691A3C8ED4D08E277_SESSION",
+          "5B35733BF65B42E691A3C8ED4D08E277_MINIMIZED",
+          "5B35733BF65B42E691A3C8ED4D08E277_ARGS"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.prod.website-files.com",
+        "ajax.googleapis.com",
+        "d3e54v103j8qbb.cloudfront.net",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "v0-new-project-ihrg6zu0pfo.vercel.app",
+        "fonts.gstatic.com",
+        "webchat-customertouch.i6.inconcert.cloud",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "sl-11a463aaedf44600a99367660fd6fa70.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "chat2-customertouch.i6.inconcert.cloud",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://coocique.fi.cr",
+      "instante": "2026-11-05T05:26:22.467Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 698,
+          "w": 1366,
+          "h": 70
+        },
+        "cubrePantalla": false,
+        "texto": "Utilizamos cookies para mejorar tu experiencia. Al continuar, aceptas nuestra Política de Privacidad y Términos y Condiciones.\n\nAceptar y Cerrar"
+      },
+      "cookies": [
+        {
+          "name": "_cfuvid",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        },
+        {
+          "name": "_ga_MS2PYQP4H5",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1828416383.7944,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 81
+        },
+        {
+          "name": "_ga",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1828416383.795085,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1801632383,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_fbp",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1801632383,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793857284.032168,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801632384.581028,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "LULID",
+          "domain": "chat2-customertouch.i6.inconcert.cloud",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "5B35733BF65B42E691A3C8ED4D08E277_TRANSFER",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "5B35733BF65B42E691A3C8ED4D08E277_SESSION",
+          "5B35733BF65B42E691A3C8ED4D08E277_MINIMIZED",
+          "5B35733BF65B42E691A3C8ED4D08E277_ARGS"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.prod.website-files.com",
+        "ajax.googleapis.com",
+        "d3e54v103j8qbb.cloudfront.net",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "v0-new-project-ihrg6zu0pfo.vercel.app",
+        "webchat-customertouch.i6.inconcert.cloud",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "sl-11a463aaedf44600a99367660fd6fa70.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "chat2-customertouch.i6.inconcert.cloud",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "facebook.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://coocique.fi.cr",
+      "instante": "2026-11-05T05:26:40.416Z",
+      "error": null,
+      "bitacora": [
+        "banner detectado",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 698,
+          "w": 1366,
+          "h": 70
+        },
+        "cubrePantalla": false,
+        "texto": "Utilizamos cookies para mejorar tu experiencia. Al continuar, aceptas nuestra Política de Privacidad y Términos y Condiciones.\n\nAceptar y Cerrar"
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1828416401.586492,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1801632401,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_fbp",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1801632415,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801632401.849385,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "LULID",
+          "domain": "chat2-customertouch.i6.inconcert.cloud",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_ga_MS2PYQP4H5",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": 1828416415.826571,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 81
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828416415.993814,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".coocique.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "5B35733BF65B42E691A3C8ED4D08E277_TRANSFER",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "5B35733BF65B42E691A3C8ED4D08E277_SESSION",
+          "5B35733BF65B42E691A3C8ED4D08E277_MINIMIZED",
+          "5B35733BF65B42E691A3C8ED4D08E277_ARGS"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdn.prod.website-files.com",
+        "ajax.googleapis.com",
+        "d3e54v103j8qbb.cloudfront.net",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "v0-new-project-ihrg6zu0pfo.vercel.app",
+        "fonts.gstatic.com",
+        "webchat-customertouch.i6.inconcert.cloud",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "sl-11a463aaedf44600a99367660fd6fa70.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "chat2-customertouch.i6.inconcert.cloud",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://coocique.fi.cr",
+      "instante": "2026-11-05T05:27:05.049Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner REAPARECE (indicio de que la decisión no persistió)"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[id*=\"cookie\" i]",
+        "geometria": {
+          "x": 0,
+          "y": 698,
+          "w": 1366,
+          "h": 70
+        },
+        "cubrePantalla": false,
+        "texto": "Utilizamos cookies para mejorar tu experiencia. Al continuar, aceptas nuestra Política de Privacidad y Términos y Condiciones.\n\nAceptar y Cerrar"
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".coocique.fi.cr",
+          "expires": 1801632439,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801632426.677258,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "LULID",
+          "domain": "chat2-customertouch.i6.inconcert.cloud",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 2
+        },
+        {
+          "name": "_ga",
+          "domain": ".coocique.fi.cr",
+          "expires": 1828416427.491959,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".coocique.fi.cr",
+          "expires": 1801632427,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".coocique.fi.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        },
+        {
+          "name": "_ga_MS2PYQP4H5",
+          "domain": ".coocique.fi.cr",
+          "expires": 1828416439.391403,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 81
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828416439.566726,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdn.prod.website-files.com",
+        "ajax.googleapis.com",
+        "d3e54v103j8qbb.cloudfront.net",
+        "fonts.googleapis.com",
+        "connect.facebook.net",
+        "fonts.gstatic.com",
+        "v0-new-project-ihrg6zu0pfo.vercel.app",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "webchat-customertouch.i6.inconcert.cloud",
+        "sl-11a463aaedf44600a99367660fd6fa70.ecs.us-east-1.on.aws",
+        "facebook.com",
+        "chat2-customertouch.i6.inconcert.cloud",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "connect.facebook.net",
+        "googleads.g.doubleclick.net",
+        "facebook.com"
+      ],
+      "bannerReaparece": true,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_MS2PYQP4H5@.coocique.fi.cr",
+        "_ga@.coocique.fi.cr",
+        "test_cookie@.doubleclick.net",
+        "_fbp@.coocique.fi.cr",
+        "fr@.facebook.com",
+        "LULID@chat2-customertouch.i6.inconcert.cloud"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    },
+    {
+      "id": "V4",
+      "gravedad": "Alta",
+      "nombre": "Aceptación implícita por navegación",
+      "evidencia": [
+        "_ga@.coocique.fi.cr",
+        "_fbp@.coocique.fi.cr",
+        "fr@.facebook.com",
+        "LULID@chat2-customertouch.i6.inconcert.cloud",
+        "_ga_MS2PYQP4H5@.coocique.fi.cr",
+        "IDE@.doubleclick.net"
+      ],
+      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró rechazar en E2, de modo que no hubo decisión que respetar"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_cfuvid",
+      "dominio": ".coocique.fi.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".coocique.fi.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_cfuvid",
+      "dominio": ".coocique.fi.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".coocique.fi.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_cfuvid",
+      "dominio": ".coocique.fi.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".coocique.fi.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_cfuvid",
+      "dominio": ".coocique.fi.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".coocique.fi.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".coocique.fi.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_cfuvid",
+      "dominio": ".coocique.fi.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".coocique.fi.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_cfuvid",
+      "dominio": ".coocique.fi.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 2,
+    "cotaSuperior": 2,
+    "criticas": [],
+    "universoReferencia": 8,
+    "bannerDetectado": true,
+    "tratamientosAplicados": [
+      "E1"
+    ],
+    "proporcionIndeterminadas": 25,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

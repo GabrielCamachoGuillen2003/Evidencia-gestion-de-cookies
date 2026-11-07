@@ -1,0 +1,390 @@
+{
+  "sitio": "lacostacr.com",
+  "url": "https://www.lacostacr.com",
+  "auditadoEn": "2026-11-06T01:15:50.121Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.lacostacr.com",
+      "instante": "2026-11-06T01:14:27.570Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([id*=\"close\" i][id*=\"ad\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__dpl",
+          "domain": "www.lacostacr.com",
+          "path": "/",
+          "expires": 1794532169.055669,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 96
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.lacostacr.com",
+          "path": "/",
+          "expires": 1793929469.055736,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.lacostacr.com",
+      "instante": "2026-11-06T01:14:39.918Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([id*=\"close\" i][id*=\"ad\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__dpl",
+          "domain": "www.lacostacr.com",
+          "path": "/",
+          "expires": 1794532179.997732,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 96
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.lacostacr.com",
+          "path": "/",
+          "expires": 1793929479.997801,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.lacostacr.com",
+      "instante": "2026-11-06T01:14:51.830Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([id*=\"close\" i][id*=\"ad\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__dpl",
+          "domain": "www.lacostacr.com",
+          "path": "/",
+          "expires": 1794532191.936715,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 96
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.lacostacr.com",
+          "path": "/",
+          "expires": 1793929491.93682,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.lacostacr.com",
+      "instante": "2026-11-06T01:15:05.217Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([id*=\"close\" i][id*=\"ad\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__dpl",
+          "domain": "www.lacostacr.com",
+          "path": "/",
+          "expires": 1794532205.294963,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 96
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.lacostacr.com",
+          "path": "/",
+          "expires": 1793929505.295025,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.lacostacr.com",
+      "instante": "2026-11-06T01:15:16.886Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([id*=\"close\" i][id*=\"ad\" i])",
+        "sin banner detectable",
+        "desplazamiento sin tocar el banner; sin enlaces internos navegables"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__dpl",
+          "domain": "www.lacostacr.com",
+          "path": "/",
+          "expires": 1794532216.971546,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 96
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".www.lacostacr.com",
+          "path": "/",
+          "expires": 1793929516.971657,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.lacostacr.com",
+      "instante": "2026-11-06T01:15:30.303Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__cf_bm",
+          "domain": ".www.lacostacr.com",
+          "expires": 1793929530.707718,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "__dpl",
+          "domain": "www.lacostacr.com",
+          "expires": 1794532243.087448,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 96
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "fonts.googleapis.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 2,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__dpl",
+      "dominio": "www.lacostacr.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__dpl",
+      "dominio": "www.lacostacr.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__dpl",
+      "dominio": "www.lacostacr.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__dpl",
+      "dominio": "www.lacostacr.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__dpl",
+      "dominio": "www.lacostacr.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__dpl",
+      "dominio": "www.lacostacr.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 2,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 50,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

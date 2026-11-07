@@ -1,0 +1,491 @@
+{
+  "sitio": "muniguarco.go.cr",
+  "url": "https://muniguarco.go.cr",
+  "auditadoEn": "2026-11-06T23:35:47.007Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://muniguarco.go.cr",
+      "instante": "2026-11-06T23:32:34.182Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_VT5TX8SC3V",
+          "domain": ".muniguarco.go.cr",
+          "path": "/",
+          "expires": 1828567956.265431,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".muniguarco.go.cr",
+          "path": "/",
+          "expires": 1828567956.265973,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "muniguarco.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "code.tidio.co"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://muniguarco.go.cr",
+      "instante": "2026-11-06T23:32:54.838Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_VT5TX8SC3V",
+          "domain": ".muniguarco.go.cr",
+          "path": "/",
+          "expires": 1828567977.022399,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".muniguarco.go.cr",
+          "path": "/",
+          "expires": 1828567977.023014,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "muniguarco.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "code.tidio.co"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://muniguarco.go.cr",
+      "instante": "2026-11-06T23:33:21.934Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_VT5TX8SC3V",
+          "domain": ".muniguarco.go.cr",
+          "path": "/",
+          "expires": 1828568003.784775,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".muniguarco.go.cr",
+          "path": "/",
+          "expires": 1828568003.785334,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "muniguarco.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "code.tidio.co"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://muniguarco.go.cr",
+      "instante": "2026-11-06T23:33:53.893Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga_VT5TX8SC3V",
+          "domain": ".muniguarco.go.cr",
+          "path": "/",
+          "expires": 1828568035.904009,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".muniguarco.go.cr",
+          "path": "/",
+          "expires": 1828568035.904598,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "muniguarco.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "code.tidio.co"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://muniguarco.go.cr",
+      "instante": "2026-11-06T23:34:20.353Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".muniguarco.go.cr",
+          "path": "/",
+          "expires": 1828568063.925367,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "muniguarco.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_VT5TX8SC3V",
+          "domain": ".muniguarco.go.cr",
+          "path": "/",
+          "expires": 1828568090.789114,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "elementor"
+        ],
+        "sessionStorage": [
+          "elementor"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "google-analytics.com",
+        "code.tidio.co",
+        "maps.google.com",
+        "google.com",
+        "maps.gstatic.com",
+        "maps.googleapis.com",
+        "fonts.gstatic.com",
+        "connect.facebook.net",
+        "facebook.com",
+        "static.xx.fbcdn.net",
+        "scontent.fsjo12-1.fna.fbcdn.net"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "connect.facebook.net",
+        "facebook.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://muniguarco.go.cr",
+      "instante": "2026-11-06T23:35:08.596Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".muniguarco.go.cr",
+          "expires": 1828568110.676511,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "muniguarco.go.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_VT5TX8SC3V",
+          "domain": ".muniguarco.go.cr",
+          "expires": 1828568138.097573,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "fonts.googleapis.com",
+        "code.tidio.co",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_VT5TX8SC3V@.muniguarco.go.cr",
+        "_ga@.muniguarco.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 3,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 3,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

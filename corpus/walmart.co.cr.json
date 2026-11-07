@@ -1,0 +1,3373 @@
+{
+  "sitio": "walmart.co.cr",
+  "url": "https://www.walmart.co.cr",
+  "auditadoEn": "2026-11-05T01:06:26.353Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.walmart.co.cr",
+      "instante": "2026-11-05T01:04:11.621Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1793926596,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1801616654,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 45
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842454.11473,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376654.115122,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842456,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376656,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794272653.93364,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 475
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794272653.933741,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 318
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842454.114015,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1809392654.911484,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827536654.435503,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1809392654.911644,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "__gads",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536651,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536651,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1809392651,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801616654.803379,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828400655.086762,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536655,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536655,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "tst",
+          "domain": ".pinterest.com",
+          "path": "/",
+          "expires": 1794013455.220584,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 2,
+          "valorLongitud": 151
+        },
+        {
+          "name": "_pin_unauth",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376655,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 70
+        },
+        {
+          "name": "_hjSessionUser_3258143",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376655,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_3258143",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842455,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_pinterest_ct_ua",
+          "domain": ".ct.pinterest.com",
+          "path": "/",
+          "expires": 1825376655.572362,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 192
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1801616658,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 73
+        },
+        {
+          "name": "_ga",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1828400657.653219,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_X64T5F7TCJ",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1828400657.66373,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ttcsid_CSML9GRC77U7NCGBQRC0",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536665,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536665,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_CVDK7HRC77U6RTOFKR60",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536665,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_boomr_akamaiXhrRetry",
+          "spid",
+          "lastExternalReferrerTime",
+          "orderQueue",
+          "analytics:session",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "orderform",
+          "_pin_unauth_ls",
+          "sp_ssid",
+          "tipoDeCambio_cache_v1"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "is_eu",
+          "_wm_maps_api_key_",
+          "sp-variant",
+          "tt_appInfo"
+        ]
+      },
+      "terceros": [
+        "walmartcr.vtexassets.com",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "securepubads.g.doubleclick.net",
+        "io.vtex.com.br",
+        "db.onlinewebfonts.com",
+        "cdn.jsdelivr.net",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "activity-flow.vtex.com",
+        "content.syndigo.com",
+        "s.go-mpulse.net",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "consent.cookiebot.com",
+        "s.pinimg.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "docs.google.com",
+        "sp.vtex.com",
+        "46c8df7a7372e67250f497bcda1d7fc1.safeframe.googlesyndication.com",
+        "doc-0o-00-sheets.googleusercontent.com",
+        "facebook.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "script.hotjar.com",
+        "ct.pinterest.com",
+        "c.go-mpulse.net",
+        "analytics-ipv6.tiktokw.us",
+        "ep1.adtrafficquality.google",
+        "acea94c3.akstat.io",
+        "trial-eum-clientnsv4-s.akamaihd.net",
+        "trial-eum-clienttons-s.akamaihd.net",
+        "ep2.adtrafficquality.google",
+        "186-15-124-188_s-186-15-236-139_ts-1793840653-clienttons-s.akamaihd.net",
+        "xihxzpf2b7wis2xl2ygq-pdfxyq-ee7f89383-clientnsv4-s.akamaihd.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "10837524.fls.doubleclick.net",
+        "googleadservices.com",
+        "16537772.fls.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "consent.cookiebot.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "46c8df7a7372e67250f497bcda1d7fc1.safeframe.googlesyndication.com",
+        "facebook.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "script.hotjar.com",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "10837524.fls.doubleclick.net",
+        "googleadservices.com",
+        "16537772.fls.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.walmart.co.cr",
+      "instante": "2026-11-05T01:04:28.593Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "pulsado «aceptar»"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1793926971,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1801616670,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842472,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376672,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794272669.901093,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 475
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794272669.901197,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 318
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842470.272858,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376670.273178,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842470.272546,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827536670.5515,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1809392671.536588,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "__gads",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536667,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536667,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1809392667,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801616670.933798,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1809392671.536685,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_hjSessionUser_3258143",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376671,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_3258143",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842471,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828400671.276027,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "tst",
+          "domain": ".pinterest.com",
+          "path": "/",
+          "expires": 1794013471.286831,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 2,
+          "valorLongitud": 151
+        },
+        {
+          "name": "_pin_unauth",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376671,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 70
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536671,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536671,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_pinterest_ct_ua",
+          "domain": ".ct.pinterest.com",
+          "path": "/",
+          "expires": 1825376671.723132,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 192
+        },
+        {
+          "name": "RT",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794445471,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 102
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1801616674,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1828400673.815164,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_X64T5F7TCJ",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1828400673.825521,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ttcsid_CSML9GRC77U7NCGBQRC0",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536681,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536681,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_CVDK7HRC77U6RTOFKR60",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536681,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "spid",
+          "lastExternalReferrerTime",
+          "orderQueue",
+          "analytics:session",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "orderform",
+          "sp_ssid",
+          "tipoDeCambio_cache_v1"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "is_eu",
+          "_wm_maps_api_key_",
+          "sp-variant",
+          "tt_appInfo"
+        ]
+      },
+      "terceros": [
+        "walmartcr.vtexassets.com",
+        "securepubads.g.doubleclick.net",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "io.vtex.com.br",
+        "db.onlinewebfonts.com",
+        "cdn.jsdelivr.net",
+        "content.syndigo.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "activity-flow.vtex.com",
+        "s.go-mpulse.net",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "consent.cookiebot.com",
+        "s.pinimg.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "docs.google.com",
+        "sp.vtex.com",
+        "77fd15cfd41e82284f22336f9a65d80e.safeframe.googlesyndication.com",
+        "facebook.com",
+        "script.hotjar.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "c.go-mpulse.net",
+        "ct.pinterest.com",
+        "doc-0o-00-sheets.googleusercontent.com",
+        "analytics-ipv6.tiktokw.us",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "10837524.fls.doubleclick.net",
+        "16537772.fls.doubleclick.net",
+        "googleadservices.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "consent.cookiebot.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "77fd15cfd41e82284f22336f9a65d80e.safeframe.googlesyndication.com",
+        "facebook.com",
+        "script.hotjar.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "consentcdn.cookiebot.com",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "10837524.fls.doubleclick.net",
+        "16537772.fls.doubleclick.net",
+        "googleadservices.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net"
+      ],
+      "controlUsado": "aceptar",
+      "interaccionLograda": true
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.walmart.co.cr",
+      "instante": "2026-11-05T01:04:55.217Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1793927070,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1801616697,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794272696.825595,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 475
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794272696.825695,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 318
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842497.110725,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376697.110936,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842499,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376699,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842497.110449,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827536697.352925,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1809392698.011166,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801616697.707351,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1809392698.011284,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_hjSessionUser_3258143",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376697,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_3258143",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842497,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "__gads",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536694,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536694,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1809392694,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536697,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536697,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "tst",
+          "domain": ".pinterest.com",
+          "path": "/",
+          "expires": 1794013498.106154,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 2,
+          "valorLongitud": 151
+        },
+        {
+          "name": "_pin_unauth",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376698,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 70
+        },
+        {
+          "name": "_pinterest_ct_ua",
+          "domain": ".ct.pinterest.com",
+          "path": "/",
+          "expires": 1825376698.340752,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 192
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828400698.453755,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "RT",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794445498,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 7,
+          "valorLongitud": 102
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1801616701,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 71
+        },
+        {
+          "name": "_ga",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1828400700.575725,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_X64T5F7TCJ",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1828400700.587349,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ttcsid_CSML9GRC77U7NCGBQRC0",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536707,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536707,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_CVDK7HRC77U6RTOFKR60",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536707,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "spid",
+          "lastExternalReferrerTime",
+          "orderQueue",
+          "analytics:session",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "orderform",
+          "sp_ssid",
+          "tipoDeCambio_cache_v1"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "is_eu",
+          "_wm_maps_api_key_",
+          "sp-variant",
+          "tt_appInfo"
+        ]
+      },
+      "terceros": [
+        "walmartcr.vtexassets.com",
+        "securepubads.g.doubleclick.net",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "io.vtex.com.br",
+        "db.onlinewebfonts.com",
+        "cdn.jsdelivr.net",
+        "content.syndigo.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "activity-flow.vtex.com",
+        "s.go-mpulse.net",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "consent.cookiebot.com",
+        "s.pinimg.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "docs.google.com",
+        "sp.vtex.com",
+        "37d5280c2f1cb41eb9a8829dc6c82f7c.safeframe.googlesyndication.com",
+        "doc-0o-00-sheets.googleusercontent.com",
+        "script.hotjar.com",
+        "facebook.com",
+        "consentcdn.cookiebot.com",
+        "c.go-mpulse.net",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "ct.pinterest.com",
+        "analytics-ipv6.tiktokw.us",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "csp.withgoogle.com",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "16537772.fls.doubleclick.net",
+        "10837524.fls.doubleclick.net",
+        "googleadservices.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "consent.cookiebot.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "37d5280c2f1cb41eb9a8829dc6c82f7c.safeframe.googlesyndication.com",
+        "script.hotjar.com",
+        "facebook.com",
+        "consentcdn.cookiebot.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "16537772.fls.doubleclick.net",
+        "10837524.fls.doubleclick.net",
+        "googleadservices.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.walmart.co.cr",
+      "instante": "2026-11-05T01:05:17.283Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1793927070,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1801616719,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842521,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376721,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827536719.376955,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842519.841544,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376719.84187,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794272719.564255,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 475
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794272719.564335,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 318
+        },
+        {
+          "name": "_pin_unauth",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376719,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 70
+        },
+        {
+          "name": "tst",
+          "domain": ".pinterest.com",
+          "path": "/",
+          "expires": 1794013519.587976,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 2,
+          "valorLongitud": 151
+        },
+        {
+          "name": "_pinterest_ct_ua",
+          "domain": ".ct.pinterest.com",
+          "path": "/",
+          "expires": 1825376719.741917,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 192
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842519.841148,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801616719.902858,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1809392720.811966,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "__gads",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536716,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536716,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1809392716,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536720,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536720,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_hjSessionUser_3258143",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376720,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_3258143",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842520,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1809392720.812077,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828400720.771558,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1801616723,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1828400722.663413,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_X64T5F7TCJ",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1828400722.672726,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "ttcsid_CSML9GRC77U7NCGBQRC0",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536730,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536730,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 80
+        },
+        {
+          "name": "ttcsid_CVDK7HRC77U6RTOFKR60",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536730,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "spid",
+          "lastExternalReferrerTime",
+          "orderQueue",
+          "lastExternalReferrer",
+          "analytics:session",
+          "_gcl_ls",
+          "orderform",
+          "tipoDeCambio_cache_v1",
+          "sp_ssid"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "is_eu",
+          "_wm_maps_api_key_",
+          "sp-variant",
+          "tt_appInfo"
+        ]
+      },
+      "terceros": [
+        "walmartcr.vtexassets.com",
+        "securepubads.g.doubleclick.net",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "io.vtex.com.br",
+        "db.onlinewebfonts.com",
+        "cdn.jsdelivr.net",
+        "content.syndigo.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "activity-flow.vtex.com",
+        "s.go-mpulse.net",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "consent.cookiebot.com",
+        "s.pinimg.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "docs.google.com",
+        "c.go-mpulse.net",
+        "ct.pinterest.com",
+        "doc-0o-00-sheets.googleusercontent.com",
+        "script.hotjar.com",
+        "facebook.com",
+        "consentcdn.cookiebot.com",
+        "690108a858b160a08537bda61160bc58.safeframe.googlesyndication.com",
+        "sp.vtex.com",
+        "analytics-ipv6.tiktokw.us",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "ep1.adtrafficquality.google",
+        "acef22bf.akstat.io",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "16537772.fls.doubleclick.net",
+        "10837524.fls.doubleclick.net",
+        "googleadservices.com",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "consent.cookiebot.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "script.hotjar.com",
+        "facebook.com",
+        "consentcdn.cookiebot.com",
+        "690108a858b160a08537bda61160bc58.safeframe.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "16537772.fls.doubleclick.net",
+        "10837524.fls.doubleclick.net",
+        "googleadservices.com",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.walmart.co.cr",
+      "instante": "2026-11-05T01:05:36.124Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1793927070,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1801616754,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842556,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376756,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794272753.791539,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 318
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842553.915617,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376753.915896,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842553.915319,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "path": "/",
+          "expires": 1827536753.745811,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1809392754.485026,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "__gads",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536734,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536734,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1809392734,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801616738.370762,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.walmart.co.cr",
+          "path": "/",
+          "expires": 1809392754.485156,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536754,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536754,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "tst",
+          "domain": ".pinterest.com",
+          "path": "/",
+          "expires": 1794013538.803784,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 2,
+          "valorLongitud": 151
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828400738.979546,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "_hjSession_3258143",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1793842539,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_ga",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1828400741.324823,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "YSC",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_INFO1_LIVE",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809392753.787104,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 11
+        },
+        {
+          "name": "VISITOR_PRIVACY_METADATA",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809392753.787154,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 20
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.walmart.co.cr",
+          "path": "/",
+          "expires": 1794272753.79144,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 475
+        },
+        {
+          "name": "_pin_unauth",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376754,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 70
+        },
+        {
+          "name": "_hjSessionUser_3258143",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1825376754,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_pinterest_ct_ua",
+          "domain": ".ct.pinterest.com",
+          "path": "/",
+          "expires": 1825376754.17221,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 192
+        },
+        {
+          "name": "__Secure-YNID",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809392754.190789,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 294
+        },
+        {
+          "name": "__Secure-ROLLOUT_TOKEN",
+          "domain": ".youtube.com",
+          "path": "/",
+          "expires": 1809392754.190903,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 44
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536754,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "ttcsid_CSML9GRC77U7NCGBQRC0",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536754,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "ttcsid_CVDK7HRC77U6RTOFKR60",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1827536754,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1801616741,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 71
+        },
+        {
+          "name": "_ga_X64T5F7TCJ",
+          "domain": ".walmart.co.cr",
+          "path": "/",
+          "expires": 1828400756.200518,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_boomr_akamaiXhrRetry",
+          "spid",
+          "lastExternalReferrerTime",
+          "orderQueue",
+          "analytics:session",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "orderform",
+          "_pin_unauth_ls",
+          "sp_ssid",
+          "tipoDeCambio_cache_v1"
+        ],
+        "sessionStorage": [
+          "tt_sessionId",
+          "tt_pixel_session_index",
+          "is_eu",
+          "_wm_maps_api_key_",
+          "sp-variant",
+          "tt_appInfo"
+        ]
+      },
+      "terceros": [
+        "walmartcr.vtexassets.com",
+        "securepubads.g.doubleclick.net",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "io.vtex.com.br",
+        "db.onlinewebfonts.com",
+        "cdn.jsdelivr.net",
+        "content.syndigo.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "activity-flow.vtex.com",
+        "s.go-mpulse.net",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "consent.cookiebot.com",
+        "s.pinimg.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "docs.google.com",
+        "sp.vtex.com",
+        "eacabae278e8a0b1fdfc0fac333ffd83.safeframe.googlesyndication.com",
+        "doc-0o-00-sheets.googleusercontent.com",
+        "facebook.com",
+        "consentcdn.cookiebot.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "c.go-mpulse.net",
+        "ct.pinterest.com",
+        "script.hotjar.com",
+        "analytics-ipv6.tiktokw.us",
+        "ep1.adtrafficquality.google",
+        "acea478f.akstat.io",
+        "trial-eum-clientnsv4-s.akamaihd.net",
+        "trial-eum-clienttons-s.akamaihd.net",
+        "ep2.adtrafficquality.google",
+        "186-15-124-188_s-186-15-236-136_ts-1793840736-clienttons-s.akamaihd.net",
+        "xihxzpf2b7wja2xl2zqa-p39wur-9c209865c-clientnsv4-s.akamaihd.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "googleadservices.com",
+        "10837524.fls.doubleclick.net",
+        "16537772.fls.doubleclick.net",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "google.co.cr",
+        "googleads.g.doubleclick.net",
+        "adservice.google.com",
+        "youtube.com",
+        "fonts.gstatic.com",
+        "static.doubleclick.net",
+        "rr4---sn-j5caxupj5-nwv6.googlevideo.com",
+        "i.ytimg.com",
+        "yt3.ggpht.com",
+        "gstatic.com",
+        "jnn-pa.googleapis.com",
+        "acea1876.akstat.io"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "consent.cookiebot.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "eacabae278e8a0b1fdfc0fac333ffd83.safeframe.googlesyndication.com",
+        "facebook.com",
+        "consentcdn.cookiebot.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "script.hotjar.com",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "googleadservices.com",
+        "10837524.fls.doubleclick.net",
+        "16537772.fls.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "static.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.walmart.co.cr",
+      "instante": "2026-11-05T01:06:02.643Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "VtexWorkspace",
+          "domain": "www.walmart.co.cr",
+          "expires": 1793927134,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 1,
+          "valorLongitud": 10
+        },
+        {
+          "name": "_fbp",
+          "domain": ".walmart.co.cr",
+          "expires": 1801616779,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 46
+        },
+        {
+          "name": "VtexRCSessionIdv7",
+          "domain": ".walmart.co.cr",
+          "expires": 1793842582,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "VtexRCMacIdv7",
+          "domain": ".walmart.co.cr",
+          "expires": 1825376782,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "vtex_segment",
+          "domain": "www.walmart.co.cr",
+          "expires": 1794272779.584956,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 318
+        },
+        {
+          "name": "vtex-search-session",
+          "domain": ".walmart.co.cr",
+          "expires": 1793842579.607365,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "vtex-search-anonymous",
+          "domain": ".walmart.co.cr",
+          "expires": 1825376779.607707,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 32
+        },
+        {
+          "name": "sp-variant",
+          "domain": ".walmart.co.cr",
+          "expires": 1793842579.60704,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 9
+        },
+        {
+          "name": "checkout.vtex.com",
+          "domain": ".www.walmart.co.cr",
+          "expires": 1809392780.679019,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 180,
+          "valorLongitud": 39
+        },
+        {
+          "name": "CheckoutLocale",
+          "domain": ".www.walmart.co.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 5
+        },
+        {
+          "name": "_ttp",
+          "domain": ".tiktok.com",
+          "expires": 1827536779.544098,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 41
+        },
+        {
+          "name": "CheckoutOrderFormOwnership",
+          "domain": ".www.walmart.co.cr",
+          "expires": 1809392780.67916,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 180,
+          "valorLongitud": 0
+        },
+        {
+          "name": "__gads",
+          "domain": ".walmart.co.cr",
+          "expires": 1827536761,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 83
+        },
+        {
+          "name": "__gpi",
+          "domain": ".walmart.co.cr",
+          "expires": 1827536761,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "__eoi",
+          "domain": ".walmart.co.cr",
+          "expires": 1809392761,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 77
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801616765.325362,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_tt_enable_cookie",
+          "domain": ".walmart.co.cr",
+          "expires": 1827536779,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ttp",
+          "domain": ".walmart.co.cr",
+          "expires": 1827536779,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 46
+        },
+        {
+          "name": "_hjSession_3258143",
+          "domain": ".walmart.co.cr",
+          "expires": 1793842565,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "tst",
+          "domain": ".pinterest.com",
+          "expires": 1794013565.558646,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 2,
+          "valorLongitud": 151
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828400765.830879,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "_ga",
+          "domain": ".walmart.co.cr",
+          "expires": 1828400768.369104,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "vtex_session",
+          "domain": "www.walmart.co.cr",
+          "expires": 1794272779.584853,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 5,
+          "valorLongitud": 475
+        },
+        {
+          "name": "_hjSessionUser_3258143",
+          "domain": ".walmart.co.cr",
+          "expires": 1825376779,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_pin_unauth",
+          "domain": ".walmart.co.cr",
+          "expires": 1825376779,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 70
+        },
+        {
+          "name": "_pinterest_ct_ua",
+          "domain": ".ct.pinterest.com",
+          "expires": 1825376779.842504,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 192
+        },
+        {
+          "name": "ttcsid",
+          "domain": ".walmart.co.cr",
+          "expires": 1827536780,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 84
+        },
+        {
+          "name": "ttcsid_CSML9GRC77U7NCGBQRC0",
+          "domain": ".walmart.co.cr",
+          "expires": 1827536780,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "ttcsid_CVDK7HRC77U6RTOFKR60",
+          "domain": ".walmart.co.cr",
+          "expires": 1827536780,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".walmart.co.cr",
+          "expires": 1801616768,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 72
+        },
+        {
+          "name": "_ga_X64T5F7TCJ",
+          "domain": ".walmart.co.cr",
+          "expires": 1828400781.917793,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "walmartcr.vtexassets.com",
+        "securepubads.g.doubleclick.net",
+        "capi-automation.s3.us-east-2.amazonaws.com",
+        "db.onlinewebfonts.com",
+        "cdn.jsdelivr.net",
+        "content.syndigo.com",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "io.vtex.com.br",
+        "activity-flow.vtex.com",
+        "s.go-mpulse.net",
+        "rc.vtex.com",
+        "af-origin.vtex.com",
+        "consent.cookiebot.com",
+        "s.pinimg.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "consentcdn.cookiebot.com",
+        "script.hotjar.com",
+        "facebook.com",
+        "sp.vtex.com",
+        "ct.pinterest.com",
+        "5625efdc7767a91f046e017286f49559.safeframe.googlesyndication.com",
+        "c.go-mpulse.net",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "ep1.adtrafficquality.google",
+        "ep2.adtrafficquality.google",
+        "google.com",
+        "aced3ea7.akstat.io",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "16537772.fls.doubleclick.net",
+        "10837524.fls.doubleclick.net",
+        "googleadservices.com",
+        "analytics.google.com",
+        "adservice.google.com",
+        "googleads.g.doubleclick.net",
+        "google.co.cr"
+      ],
+      "peticionesRastreo": [
+        "securepubads.g.doubleclick.net",
+        "googletagmanager.com",
+        "connect.facebook.net",
+        "consent.cookiebot.com",
+        "static.hotjar.com",
+        "analytics.tiktok.com",
+        "consentcdn.cookiebot.com",
+        "script.hotjar.com",
+        "facebook.com",
+        "5625efdc7767a91f046e017286f49559.safeframe.googlesyndication.com",
+        "tpc.googlesyndication.com",
+        "pagead2.googlesyndication.com",
+        "ad.doubleclick.net",
+        "8907543.fls.doubleclick.net",
+        "16537772.fls.doubleclick.net",
+        "10837524.fls.doubleclick.net",
+        "googleadservices.com",
+        "googleads.g.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_fbp@.walmart.co.cr",
+        "_ttp@.tiktok.com",
+        "fr@.facebook.com",
+        "IDE@.doubleclick.net",
+        "_tt_enable_cookie@.walmart.co.cr",
+        "_ttp@.walmart.co.cr",
+        "tst@.pinterest.com",
+        "_hjSessionUser_3258143@.walmart.co.cr",
+        "_hjSession_3258143@.walmart.co.cr",
+        "_pinterest_ct_ua@.ct.pinterest.com",
+        "_ga@.walmart.co.cr",
+        "_ga_X64T5F7TCJ@.walmart.co.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró rechazar en E2, de modo que no hubo decisión que respetar"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 31,
+        "rastreadoresEnE0": 19
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vtex-search-session",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vtex_session",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "vtex_segment",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sp-variant",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__gads",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__gpi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "__eoi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_pin_unauth",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_gcl_au",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ttcsid_CSML9GRC77U7NCGBQRC0",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ttcsid",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "ttcsid_CVDK7HRC77U6RTOFKR60",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vtex_session",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vtex_segment",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vtex-search-session",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sp-variant",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gads",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__gpi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__eoi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_pin_unauth",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_gcl_au",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ttcsid_CSML9GRC77U7NCGBQRC0",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ttcsid",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "ttcsid_CVDK7HRC77U6RTOFKR60",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vtex_session",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vtex_segment",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vtex-search-session",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sp-variant",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__gads",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__gpi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__eoi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_pin_unauth",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_gcl_au",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ttcsid_CSML9GRC77U7NCGBQRC0",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ttcsid",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "ttcsid_CVDK7HRC77U6RTOFKR60",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vtex-search-session",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vtex_session",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "vtex_segment",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_pin_unauth",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sp-variant",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__gads",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__gpi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__eoi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_gcl_au",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ttcsid_CSML9GRC77U7NCGBQRC0",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ttcsid",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "ttcsid_CVDK7HRC77U6RTOFKR60",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vtex_segment",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vtex-search-session",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sp-variant",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__gads",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__gpi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__eoi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "vtex_session",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_pin_unauth",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ttcsid",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ttcsid_CSML9GRC77U7NCGBQRC0",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "ttcsid_CVDK7HRC77U6RTOFKR60",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_gcl_au",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "VtexWorkspace",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "VtexRCSessionIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "VtexRCMacIdv7",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vtex_segment",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vtex-search-session",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vtex-search-anonymous",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sp-variant",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "checkout.vtex.com",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "CheckoutLocale",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "CheckoutOrderFormOwnership",
+      "dominio": ".www.walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__gads",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__gpi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__eoi",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "vtex_session",
+      "dominio": "www.walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_pin_unauth",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ttcsid",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ttcsid_CSML9GRC77U7NCGBQRC0",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "ttcsid_CVDK7HRC77U6RTOFKR60",
+      "dominio": ".walmart.co.cr"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_gcl_au",
+      "dominio": ".walmart.co.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 32,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [
+      "E1"
+    ],
+    "proporcionIndeterminadas": 59.1,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

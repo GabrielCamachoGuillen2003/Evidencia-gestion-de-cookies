@@ -1,0 +1,908 @@
+{
+  "sitio": "teatronacional.go.cr",
+  "url": "https://www.teatronacional.go.cr",
+  "auditadoEn": "2026-11-05T09:30:45.707Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.teatronacional.go.cr",
+      "instante": "2026-11-05T09:28:10.126Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1801646891,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801646892.064721,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1828430893.484016,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1793957293,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1793870953,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_ga_CYRG4WQZED",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1828430894.16607,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794475695.502425,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "uw-uid",
+          "uw-icon-locales",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "translate.google.com",
+        "cdn.userway.org",
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "mpc-prod-27-s6uit34pua-uk.a.run.app",
+        "facebook.com",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "seal.digicert.com",
+        "static.zdassets.com",
+        "googletagmanager.com",
+        "ekr.zdassets.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "api.userway.org",
+        "fonts.gstatic.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "facebook.com",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "static.zdassets.com",
+        "googletagmanager.com",
+        "ekr.zdassets.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.teatronacional.go.cr",
+      "instante": "2026-11-05T09:28:30.549Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1801646911,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ga",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1828430911.76278,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1793957311,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1793870971,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801646911.98411,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794475712.360936,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        },
+        {
+          "name": "_ga_CYRG4WQZED",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1828430912.398487,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "uw-uid",
+          "uw-icon-locales",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "translate.google.com",
+        "cdn.userway.org",
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "seal.digicert.com",
+        "static.zdassets.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "ekr.zdassets.com",
+        "mpc-prod-27-s6uit34pua-uk.a.run.app",
+        "facebook.com",
+        "api.userway.org",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "facebook.com",
+        "googletagmanager.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.teatronacional.go.cr",
+      "instante": "2026-11-05T09:28:54.214Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_ga",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1828430935.480898,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gid",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1793957335,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1793870995,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_fbp",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1801646935,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801646935.757325,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_CYRG4WQZED",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1828430936.105312,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794475736.269747,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "uw-uid",
+          "uw-icon-locales",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "translate.google.com",
+        "cdn.userway.org",
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "seal.digicert.com",
+        "static.zdassets.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "mpc-prod-27-s6uit34pua-uk.a.run.app",
+        "facebook.com",
+        "api.userway.org",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "fonts.gstatic.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "static.zdassets.com",
+        "facebook.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.teatronacional.go.cr",
+      "instante": "2026-11-05T09:29:25.278Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1801646966,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ga",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1828430966.795813,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1793957366,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_gat",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1793871026,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801646966.96353,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "_ga_CYRG4WQZED",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1828430967.44051,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794475767.662359,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrer",
+          "lastExternalReferrerTime",
+          "uw-uid",
+          "uw-icon-locales",
+          "uw-tunings-checksum",
+          "uw-tunings"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "translate.google.com",
+        "cdn.userway.org",
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "seal.digicert.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "api.userway.org",
+        "mpc-prod-27-s6uit34pua-uk.a.run.app",
+        "facebook.com",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "facebook.com",
+        "googletagmanager.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.teatronacional.go.cr",
+      "instante": "2026-11-05T09:29:48.084Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1801647004,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 37
+        },
+        {
+          "name": "_ga",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1828431004.036286,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1793957404,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1793871049,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "path": "/",
+          "expires": 1801646989.566885,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "path": "/",
+          "expires": 1794475789.981254,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        },
+        {
+          "name": "ZEUSPHP",
+          "domain": "www.teatronacional.go.cr",
+          "path": "/",
+          "expires": 1797327003.992099,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 40,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_CYRG4WQZED",
+          "domain": ".teatronacional.go.cr",
+          "path": "/",
+          "expires": 1828431004.127827,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.teatronacional.go.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrerTime",
+          "uw-icon-locales",
+          "uw-tunings",
+          "lastExternalReferrer",
+          "uw-uid",
+          "uw-tunings-checksum",
+          "__zlcstore"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "use.fontawesome.com",
+        "translate.google.com",
+        "cdn.userway.org",
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "seal.digicert.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "mpc-prod-27-s6uit34pua-uk.a.run.app",
+        "facebook.com",
+        "api.userway.org",
+        "fonts.gstatic.com",
+        "googletagmanager.com",
+        "translate-pa.googleapis.com"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "facebook.com",
+        "googletagmanager.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.teatronacional.go.cr",
+      "instante": "2026-11-05T09:30:13.271Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_fbp",
+          "domain": ".teatronacional.go.cr",
+          "expires": 1801647038,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".teatronacional.go.cr",
+          "expires": 1828431038.519749,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gid",
+          "domain": ".teatronacional.go.cr",
+          "expires": 1793957438,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".teatronacional.go.cr",
+          "expires": 1793871074,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "fr",
+          "domain": ".facebook.com",
+          "expires": 1801647014.747134,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 90,
+          "valorLongitud": 66
+        },
+        {
+          "name": "AWSALBCORS",
+          "domain": "widget-mediator.zopim.com",
+          "expires": 1794475815.359576,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 124
+        },
+        {
+          "name": "_ga_CYRG4WQZED",
+          "domain": ".teatronacional.go.cr",
+          "expires": 1828431038.609825,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "use.fontawesome.com",
+        "translate.google.com",
+        "cdn.userway.org",
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "seal.digicert.com",
+        "mpc-prod-27-s6uit34pua-uk.a.run.app",
+        "facebook.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "translate.googleapis.com",
+        "fonts.gstatic.com",
+        "translate-pa.googleapis.com",
+        "api.userway.org"
+      ],
+      "peticionesRastreo": [
+        "static.cloudflareinsights.com",
+        "connect.facebook.net",
+        "v2.zopim.com",
+        "google-analytics.com",
+        "facebook.com",
+        "static.zdassets.com",
+        "ekr.zdassets.com",
+        "googletagmanager.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_fbp@.teatronacional.go.cr",
+        "fr@.facebook.com",
+        "_ga@.teatronacional.go.cr",
+        "_gid@.teatronacional.go.cr",
+        "_gat@.teatronacional.go.cr",
+        "_ga_CYRG4WQZED@.teatronacional.go.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 7,
+        "rastreadoresEnE0": 8
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E4",
+      "cookie": "ZEUSPHP",
+      "dominio": "www.teatronacional.go.cr"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 7,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 2.3,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

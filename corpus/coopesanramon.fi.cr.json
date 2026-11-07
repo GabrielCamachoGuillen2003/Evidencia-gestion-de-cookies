@@ -1,0 +1,458 @@
+{
+  "sitio": "coopesanramon.fi.cr",
+  "url": "https://www.coopesanramon.fi.cr",
+  "auditadoEn": "2026-11-06T04:16:32.508Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.coopesanramon.fi.cr",
+      "instante": "2026-11-06T04:14:30.188Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809490473.179933,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.coopesanramon.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "tAE",
+          "tC",
+          "tMQ",
+          "tTE",
+          "t3D",
+          "tnsApp",
+          "tTf",
+          "tADu",
+          "tADe",
+          "tPL",
+          "tTDe",
+          "_grecaptcha",
+          "tTDu"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "use.fontawesome.com",
+        "google.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.coopesanramon.fi.cr",
+      "instante": "2026-11-06T04:14:46.897Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809490489.862983,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.coopesanramon.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "tAE",
+          "tC",
+          "tMQ",
+          "tTE",
+          "t3D",
+          "tnsApp",
+          "tTf",
+          "tADu",
+          "tADe",
+          "tPL",
+          "tTDe",
+          "_grecaptcha",
+          "tTDu"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "use.fontawesome.com",
+        "google.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.coopesanramon.fi.cr",
+      "instante": "2026-11-06T04:15:05.449Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809490509.476279,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.coopesanramon.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "tAE",
+          "tC",
+          "tMQ",
+          "tTE",
+          "t3D",
+          "tnsApp",
+          "tTf",
+          "tADu",
+          "tADe",
+          "tPL",
+          "tTDe",
+          "_grecaptcha",
+          "tTDu"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "use.fontawesome.com",
+        "google.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.coopesanramon.fi.cr",
+      "instante": "2026-11-06T04:15:25.979Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809490529.378775,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.coopesanramon.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "tAE",
+          "tC",
+          "tMQ",
+          "tTE",
+          "t3D",
+          "tnsApp",
+          "tTf",
+          "tADu",
+          "tADe",
+          "tPL",
+          "tTDe",
+          "_grecaptcha",
+          "tTDu"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "use.fontawesome.com",
+        "google.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.coopesanramon.fi.cr",
+      "instante": "2026-11-06T04:15:44.264Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "path": "/recaptcha",
+          "expires": 1809490562.23886,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.coopesanramon.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "tAE",
+          "tC",
+          "tMQ",
+          "tTE",
+          "t3D",
+          "tnsApp",
+          "tTf",
+          "tADu",
+          "tADe",
+          "tPL",
+          "tTDe",
+          "_grecaptcha",
+          "tTDu"
+        ],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "use.fontawesome.com",
+        "google.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "gstatic.com"
+      ],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.coopesanramon.fi.cr",
+      "instante": "2026-11-06T04:16:10.686Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_GRECAPTCHA",
+          "domain": "www.google.com",
+          "expires": 1809490586.294505,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 180,
+          "valorLongitud": 89
+        },
+        {
+          "name": "PHPSESSID",
+          "domain": "www.coopesanramon.fi.cr",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 26
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdnjs.cloudflare.com",
+        "use.fontawesome.com",
+        "google.com",
+        "fonts.googleapis.com",
+        "gstatic.com",
+        "fonts.gstatic.com"
+      ],
+      "peticionesRastreo": [],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_GRECAPTCHA@www.google.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 2,
+        "rastreadoresEnE0": 0
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 2,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

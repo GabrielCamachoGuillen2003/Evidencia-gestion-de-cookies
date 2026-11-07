@@ -1,0 +1,722 @@
+{
+  "sitio": "lafise.com",
+  "url": "https://www.lafise.com",
+  "auditadoEn": "2026-11-05T08:50:31.298Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.lafise.com",
+      "instante": "2026-11-05T08:48:24.675Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__SecureTS0126a2a0013ebd7c",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS0187692a",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "_hjSessionUser_6698297",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": 1825404506,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_6698297",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": 1793870306,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "hjActiveViewportIds"
+        ],
+        "sessionStorage": [
+          "hjViewportId"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "cdn.jsdelivr.net",
+        "dashboard.chatfuel.com",
+        "vc.hotjar.io",
+        "content.hotjar.io",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "pagead2.googlesyndication.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.lafise.com",
+      "instante": "2026-11-05T08:48:41.326Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__SecureTS0126a2a0013ebd7c",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS0187692a",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "_hjSessionUser_6698297",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": 1825404523,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_6698297",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": 1793870323,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "hjActiveViewportIds"
+        ],
+        "sessionStorage": [
+          "hjViewportId"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "cdn.jsdelivr.net",
+        "dashboard.chatfuel.com",
+        "content.hotjar.io",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.lafise.com",
+      "instante": "2026-11-05T08:49:00.763Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__SecureTS0126a2a0013ebd7c",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS0187692a",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "_hjSessionUser_6698297",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": 1825404542,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_6698297",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": 1793870342,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "cdn.jsdelivr.net",
+        "dashboard.chatfuel.com",
+        "script.hotjar.com",
+        "vc.hotjar.io",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.lafise.com",
+      "instante": "2026-11-05T08:49:22.641Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__SecureTS0126a2a0013ebd7c",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS0187692a",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "_hjSessionUser_6698297",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": 1825404564,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        },
+        {
+          "name": "_hjSession_6698297",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": 1793870364,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "hjActiveViewportIds"
+        ],
+        "sessionStorage": [
+          "hjViewportId"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "cdn.jsdelivr.net",
+        "dashboard.chatfuel.com",
+        "script.hotjar.com",
+        "content.hotjar.io",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.lafise.com",
+      "instante": "2026-11-05T08:49:41.452Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__SecureTS0126a2a0013ebd7c",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS0187692a",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "_hjSession_6698297",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": 1793870383,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_hjSessionUser_6698297",
+          "domain": ".lafise.com",
+          "path": "/",
+          "expires": 1825404598,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [],
+        "sessionStorage": []
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "cdn.jsdelivr.net",
+        "dashboard.chatfuel.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "script.hotjar.com",
+        "pagead2.googlesyndication.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.lafise.com",
+      "instante": "2026-11-05T08:50:08.062Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "__SecureTS0126a2a0013ebd7c",
+          "domain": ".lafise.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS01dc4fc6",
+          "domain": "www.lafise.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "TS0187692a",
+          "domain": ".lafise.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 106
+        },
+        {
+          "name": "_hjSession_6698297",
+          "domain": ".lafise.com",
+          "expires": 1793870409,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 148
+        },
+        {
+          "name": "_hjSessionUser_6698297",
+          "domain": ".lafise.com",
+          "expires": 1825404624,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 116
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "cdn.jsdelivr.net",
+        "dashboard.chatfuel.com",
+        "pagead2.googlesyndication.com",
+        "script.hotjar.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "static.hotjar.com",
+        "pagead2.googlesyndication.com",
+        "script.hotjar.com"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_hjSessionUser_6698297@.lafise.com",
+        "_hjSession_6698297@.lafise.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 5,
+        "rastreadoresEnE0": 4
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__SecureTS0126a2a0013ebd7c",
+      "dominio": ".lafise.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.lafise.com"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "TS0187692a",
+      "dominio": ".lafise.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__SecureTS0126a2a0013ebd7c",
+      "dominio": ".lafise.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.lafise.com"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "TS0187692a",
+      "dominio": ".lafise.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__SecureTS0126a2a0013ebd7c",
+      "dominio": ".lafise.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.lafise.com"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "TS0187692a",
+      "dominio": ".lafise.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__SecureTS0126a2a0013ebd7c",
+      "dominio": ".lafise.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.lafise.com"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "TS0187692a",
+      "dominio": ".lafise.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__SecureTS0126a2a0013ebd7c",
+      "dominio": ".lafise.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.lafise.com"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "TS0187692a",
+      "dominio": ".lafise.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__SecureTS0126a2a0013ebd7c",
+      "dominio": ".lafise.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "TS01dc4fc6",
+      "dominio": "www.lafise.com"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "TS0187692a",
+      "dominio": ".lafise.com"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 5,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 60,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  }
+}

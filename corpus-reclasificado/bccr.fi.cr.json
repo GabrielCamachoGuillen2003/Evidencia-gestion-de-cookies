@@ -1,0 +1,682 @@
+{
+  "sitio": "bccr.fi.cr",
+  "url": "https://www.bccr.fi.cr",
+  "auditadoEn": "2026-11-04T23:21:21.368Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.bccr.fi.cr",
+      "instante": "2026-11-04T23:19:25.911Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "affinity",
+          "domain": "www.bccr.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_9KRQWC36FT",
+          "domain": ".bccr.fi.cr",
+          "path": "/",
+          "expires": 1828394367.066486,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".bccr.fi.cr",
+          "path": "/",
+          "expires": 1828394367.067009,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "BIGipServerpool_bccrprod",
+          "domain": "chatbot.bccr.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "NOW-REQUESTOR-CHAT-POPOVER",
+          "__nxui__unified_cache__version",
+          "bccr_cookie_consent",
+          "now-icon-cache"
+        ],
+        "sessionStorage": [
+          "__nxui__unified_cache__version"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.bccr.fi.cr",
+      "instante": "2026-11-04T23:19:37.848Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "affinity",
+          "domain": "www.bccr.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_9KRQWC36FT",
+          "domain": ".bccr.fi.cr",
+          "path": "/",
+          "expires": 1828394378.757549,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".bccr.fi.cr",
+          "path": "/",
+          "expires": 1828394378.758282,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "BIGipServerpool_bccrprod",
+          "domain": "chatbot.bccr.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "NOW-REQUESTOR-CHAT-POPOVER",
+          "__nxui__unified_cache__version",
+          "bccr_cookie_consent",
+          "now-icon-cache"
+        ],
+        "sessionStorage": [
+          "__nxui__unified_cache__version"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.bccr.fi.cr",
+      "instante": "2026-11-04T23:19:54.726Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "affinity",
+          "domain": "www.bccr.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_9KRQWC36FT",
+          "domain": ".bccr.fi.cr",
+          "path": "/",
+          "expires": 1828394395.717605,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".bccr.fi.cr",
+          "path": "/",
+          "expires": 1828394395.718257,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "BIGipServerpool_bccrprod",
+          "domain": "chatbot.bccr.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "NOW-REQUESTOR-CHAT-POPOVER",
+          "__nxui__unified_cache__version",
+          "bccr_cookie_consent",
+          "now-icon-cache"
+        ],
+        "sessionStorage": [
+          "__nxui__unified_cache__version"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.bccr.fi.cr",
+      "instante": "2026-11-04T23:20:16.568Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "affinity",
+          "domain": "www.bccr.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_9KRQWC36FT",
+          "domain": ".bccr.fi.cr",
+          "path": "/",
+          "expires": 1828394417.456797,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "_ga",
+          "domain": ".bccr.fi.cr",
+          "path": "/",
+          "expires": 1828394417.457456,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "BIGipServerpool_bccrprod",
+          "domain": "chatbot.bccr.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "NOW-REQUESTOR-CHAT-POPOVER",
+          "__nxui__unified_cache__version",
+          "bccr_cookie_consent",
+          "now-icon-cache"
+        ],
+        "sessionStorage": [
+          "__nxui__unified_cache__version"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.bccr.fi.cr",
+      "instante": "2026-11-04T23:20:32.607Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "affinity",
+          "domain": "www.bccr.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga",
+          "domain": ".bccr.fi.cr",
+          "path": "/",
+          "expires": 1828394433.542526,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "BIGipServerpool_bccrprod",
+          "domain": "chatbot.bccr.fi.cr",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_9KRQWC36FT",
+          "domain": ".bccr.fi.cr",
+          "path": "/",
+          "expires": 1828394443.766298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "NOW-REQUESTOR-CHAT-POPOVER",
+          "__nxui__unified_cache__version",
+          "bccr_cookie_consent",
+          "now-icon-cache"
+        ],
+        "sessionStorage": [
+          "__nxui__unified_cache__version"
+        ]
+      },
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "google-analytics.com",
+        "seal.atlas.globalsign.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.bccr.fi.cr",
+      "instante": "2026-11-04T23:20:52.975Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner REAPARECE (indicio de que la decisión no persistió)"
+      ],
+      "banner": {
+        "presente": true,
+        "selector": "[class*=\"cookie\" i]",
+        "geometria": {
+          "x": 16,
+          "y": 568,
+          "w": 1334,
+          "h": 184
+        },
+        "cubrePantalla": false,
+        "texto": "Este sitio utiliza cookies esenciales para su funcionamiento y de terceras partes para análisis estadístico anónimo del tráfico web. Si continúa navegando, consideramos que acepta su uso. Puede conocer más en nuestra Política de uso de datos.\n\n×"
+      },
+      "cookies": [
+        {
+          "name": "affinity",
+          "domain": "www.bccr.fi.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga",
+          "domain": ".bccr.fi.cr",
+          "expires": 1828394453.933508,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "BIGipServerpool_bccrprod",
+          "domain": "chatbot.bccr.fi.cr",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 32
+        },
+        {
+          "name": "_ga_9KRQWC36FT",
+          "domain": ".bccr.fi.cr",
+          "expires": 1828394474.282471,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "google.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "seal.atlas.globalsign.com",
+        "google-analytics.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com"
+      ],
+      "bannerReaparece": true,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_ga_9KRQWC36FT@.bccr.fi.cr",
+        "_ga@.bccr.fi.cr"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 4,
+        "rastreadoresEnE0": 2
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "affinity",
+      "dominio": "www.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "BIGipServerpool_bccrprod",
+      "dominio": "chatbot.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "affinity",
+      "dominio": "www.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "BIGipServerpool_bccrprod",
+      "dominio": "chatbot.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "affinity",
+      "dominio": "www.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "BIGipServerpool_bccrprod",
+      "dominio": "chatbot.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "affinity",
+      "dominio": "www.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "BIGipServerpool_bccrprod",
+      "dominio": "chatbot.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "affinity",
+      "dominio": "www.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "BIGipServerpool_bccrprod",
+      "dominio": "chatbot.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "affinity",
+      "dominio": "www.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "BIGipServerpool_bccrprod",
+      "dominio": "chatbot.bccr.fi.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 4,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 50,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.424Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

@@ -1,0 +1,39 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Navegadores de Playwright: se instalan con `npx playwright install chromium`
+.cache/
+ms-playwright/
+
+# ── Capturas de pantalla de los seis escenarios ────────────────────────────
+# El auditor guarda una captura por escenario y por sitio: 1 669 imágenes que
+# suman 812 MB, frente a los 10 MB de las fichas JSON que contienen los datos.
+# No se publican por tamaño, y no hacen falta: las observaciones están en las
+# fichas, y quien quiera las imágenes las regenera corriendo el auditor sobre
+# las mismas listas de dominios.
+#
+# Las 23 capturas de los sitios con aviso de cookies confirmado SÍ se publican,
+# en evidencia-banners/: son las que sostienen la afirmación de que ese sitio
+# concreto pide consentimiento, y esa no se puede dar por buena sin la imagen.
+corpus/*.png
+corpus-rep2/*.png
+corpus-reclasificado/*.png
+
+# Carpetas de trabajo que se regeneran con los programas del repositorio.
+# Las fichas JSON del corpus NO se ignoran: son la evidencia.
+clasificado/
+corpus-descartados/
+*-descartados.txt
+reintentar.txt
+revisar-en-chrome.txt
+submuestra-pendientes.txt
+solo-durman.txt
+
+# Respaldos automáticos
+confirmaciones-respaldo.json
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store

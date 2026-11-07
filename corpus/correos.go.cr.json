@@ -1,0 +1,146 @@
+{
+  "sitio": "correos.go.cr",
+  "url": "https://www.correos.go.cr",
+  "auditadoEn": "2026-11-04T23:50:59.501Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.correos.go.cr",
+      "instante": "2026-11-04T23:50:21.881Z",
+      "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.correos.go.cr/",
+      "bitacora": [
+        "primer intento fallido (page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.correos.go.cr/); reintento con ritmo reducido"
+      ],
+      "banner": null,
+      "cookies": [],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": []
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.correos.go.cr",
+      "instante": "2026-11-04T23:50:29.492Z",
+      "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.correos.go.cr/",
+      "bitacora": [
+        "primer intento fallido (page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.correos.go.cr/); reintento con ritmo reducido"
+      ],
+      "banner": null,
+      "cookies": [],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": []
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.correos.go.cr",
+      "instante": "2026-11-04T23:50:36.964Z",
+      "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.correos.go.cr/",
+      "bitacora": [
+        "primer intento fallido (page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.correos.go.cr/); reintento con ritmo reducido"
+      ],
+      "banner": null,
+      "cookies": [],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": []
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.correos.go.cr",
+      "instante": "2026-11-04T23:50:44.398Z",
+      "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.correos.go.cr/",
+      "bitacora": [
+        "primer intento fallido (page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.correos.go.cr/); reintento con ritmo reducido"
+      ],
+      "banner": null,
+      "cookies": [],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": []
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.correos.go.cr",
+      "instante": "2026-11-04T23:50:51.858Z",
+      "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.correos.go.cr/",
+      "bitacora": [
+        "primer intento fallido (page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.correos.go.cr/); reintento con ritmo reducido"
+      ],
+      "banner": null,
+      "cookies": [],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": []
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.correos.go.cr",
+      "instante": "2026-11-04T23:50:59.315Z",
+      "error": "page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.correos.go.cr/",
+      "bitacora": [],
+      "banner": null,
+      "cookies": [],
+      "almacenamiento": {},
+      "terceros": [],
+      "peticionesRastreo": [],
+      "bannerReaparece": null
+    }
+  },
+  "violaciones": [],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 0,
+        "rastreadoresEnE0": 0
+      }
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [],
+  "resumen": {
+    "violacionesConfirmadas": 0,
+    "cotaSuperior": 0,
+    "criticas": [],
+    "universoReferencia": 0,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
+    "codificable": false
+  }
+}

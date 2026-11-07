@@ -1,0 +1,1797 @@
+{
+  "sitio": "usanmarcos.ac.cr",
+  "url": "https://www.usanmarcos.ac.cr",
+  "auditadoEn": "2026-11-05T09:33:54.707Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://www.usanmarcos.ac.cr",
+      "instante": "2026-11-05T09:31:26.288Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1801647087,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzrcdn.openai.com",
+          "path": "/",
+          "expires": 1793872888.135933,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzrcdn.openai.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        },
+        {
+          "name": "__obref",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1825407088.150835,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431088.411513,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_ZW38GG6NWR",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431088.434795,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ce.s",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1825407088,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 17
+        },
+        {
+          "name": "FPID",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431088.936466,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 65
+        },
+        {
+          "name": "FPAU",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1801647087.936655,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "FPLC",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793943088.93659,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 140
+        },
+        {
+          "name": "FPGSID",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793872888.9367,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 59
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827567088.969238,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".bat.bing.com",
+          "path": "/",
+          "expires": 1794475888.969318,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_uetsid",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793957489,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 52
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828431089.291911,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "_uetvid",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1827567089,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 89
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809682289.944558,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 307
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzr.openai.com",
+          "path": "/",
+          "expires": 1793872890.150052,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzr.openai.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_uetvid",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "_uetvid_exp",
+          "_uetsid",
+          "_uetsid_exp"
+        ],
+        "sessionStorage": [
+          "oaiq_cs:2SkWTG9p1KQvQoWv8TVq6z",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "bzrcdn.openai.com",
+        "script.crazyegg.com",
+        "news.google.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "unpkg.com",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "google.co.cr",
+        "10230023.fls.doubleclick.net",
+        "gstatic.com",
+        "stats.g.doubleclick.net",
+        "adservice.google.com",
+        "play.google.com",
+        "bzr.openai.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "10230023.fls.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://www.usanmarcos.ac.cr",
+      "instante": "2026-11-05T09:31:42.638Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "pulsado «acepto términos y condiciones»"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1801647104,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzrcdn.openai.com",
+          "path": "/",
+          "expires": 1793872904.436731,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzrcdn.openai.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 113
+        },
+        {
+          "name": "__obref",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1825407104.454344,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ce.s",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1825407104,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 17
+        },
+        {
+          "name": "_ga",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431104.812295,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "FPID",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431120.724164,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 65
+        },
+        {
+          "name": "FPAU",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1801647103.724289,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827567106.105264,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".bat.bing.com",
+          "path": "/",
+          "expires": 1794475906.105326,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "FPLC",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793943105.130961,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 136
+        },
+        {
+          "name": "FPGSID",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793872905.131061,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 59
+        },
+        {
+          "name": "_uetsid",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793957505,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_uetvid",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1827567105,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 88
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828431105.596138,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzr.openai.com",
+          "path": "/",
+          "expires": 1793872905.868342,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzr.openai.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809682305.923595,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        },
+        {
+          "name": "_ga_ZW38GG6NWR",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431120.3184,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".programas.usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793872920.826983,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "ce_bot_detector",
+          "lastExternalReferrerTime",
+          "_uetvid_exp",
+          "_uetsid_exp",
+          "_uetvid",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "_uetsid"
+        ],
+        "sessionStorage": [
+          "oaiq_cs:2SkWTG9p1KQvQoWv8TVq6z",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "bzrcdn.openai.com",
+        "script.crazyegg.com",
+        "news.google.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "unpkg.com",
+        "gstatic.com",
+        "10230023.fls.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "google.co.cr",
+        "stats.g.doubleclick.net",
+        "adservice.google.com",
+        "play.google.com",
+        "bzr.openai.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "10230023.fls.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "controlUsado": "acepto términos y condiciones",
+      "interaccionLograda": true
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://www.usanmarcos.ac.cr",
+      "instante": "2026-11-05T09:32:06.453Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1801647128,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzrcdn.openai.com",
+          "path": "/",
+          "expires": 1793872928.159974,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzrcdn.openai.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        },
+        {
+          "name": "__obref",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1825407128.220711,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431128.520996,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_ZW38GG6NWR",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431128.546061,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ce.s",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1825407128,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 17
+        },
+        {
+          "name": "FPID",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431128.734293,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 71
+        },
+        {
+          "name": "FPAU",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1801647127.73444,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "FPLC",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793943128.734389,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 138
+        },
+        {
+          "name": "FPGSID",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793872928.734484,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 59
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827567130.191155,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".bat.bing.com",
+          "path": "/",
+          "expires": 1794475930.191218,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828431129.202155,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "_uetsid",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793957529,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_uetvid",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1827567129,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 89
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzr.openai.com",
+          "path": "/",
+          "expires": 1793872929.654015,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzr.openai.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809682329.665827,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 307
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_uetvid",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "_uetvid_exp",
+          "_uetsid",
+          "_uetsid_exp"
+        ],
+        "sessionStorage": [
+          "oaiq_cs:2SkWTG9p1KQvQoWv8TVq6z",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "bzrcdn.openai.com",
+        "script.crazyegg.com",
+        "news.google.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "unpkg.com",
+        "gstatic.com",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "google.co.cr",
+        "stats.g.doubleclick.net",
+        "10230023.fls.doubleclick.net",
+        "adservice.google.com",
+        "play.google.com",
+        "bzr.openai.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "10230023.fls.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://www.usanmarcos.ac.cr",
+      "instante": "2026-11-05T09:32:35.957Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1801647157,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzrcdn.openai.com",
+          "path": "/",
+          "expires": 1793872957.701726,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzrcdn.openai.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        },
+        {
+          "name": "__obref",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1825407157.751469,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431158.053407,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_ZW38GG6NWR",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431158.074655,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ce.s",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1825407158,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 17
+        },
+        {
+          "name": "FPID",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431158.356972,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "FPAU",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1801647158.357122,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "FPLC",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793943158.357074,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 142
+        },
+        {
+          "name": "FPGSID",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793872958.357186,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 59
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827567158.412851,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".bat.bing.com",
+          "path": "/",
+          "expires": 1794475958.412931,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_uetsid",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793957558,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 53
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828431158.586913,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "_uetvid",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1827567158,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 88
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzr.openai.com",
+          "path": "/",
+          "expires": 1793872959.163805,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 197
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzr.openai.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 112
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809682359.206574,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_uetvid",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "lastExternalReferrerTime",
+          "_uetvid_exp",
+          "_uetsid",
+          "_uetsid_exp"
+        ],
+        "sessionStorage": [
+          "oaiq_cs:2SkWTG9p1KQvQoWv8TVq6z",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "bzrcdn.openai.com",
+        "script.crazyegg.com",
+        "news.google.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "unpkg.com",
+        "gstatic.com",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "google.co.cr",
+        "10230023.fls.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "play.google.com",
+        "adservice.google.com",
+        "bzr.openai.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "10230023.fls.doubleclick.net",
+        "stats.g.doubleclick.net"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://www.usanmarcos.ac.cr",
+      "instante": "2026-11-05T09:32:57.893Z",
+      "error": null,
+      "bitacora": [
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1801647179,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzrcdn.openai.com",
+          "path": "/",
+          "expires": 1793872979.686245,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzrcdn.openai.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 113
+        },
+        {
+          "name": "__obref",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1825407179.737851,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431180.008507,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "FPID",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431194.888369,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 69
+        },
+        {
+          "name": "FPAU",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1801647179.888453,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "FPLC",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793943180.224479,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 136
+        },
+        {
+          "name": "FPGSID",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793872980.224577,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 59
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827567181.656946,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".bat.bing.com",
+          "path": "/",
+          "expires": 1794475981.657002,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828431180.729244,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzr.openai.com",
+          "path": "/",
+          "expires": 1793872981.15619,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 196
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzr.openai.com",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 111
+        },
+        {
+          "name": "_ga_ZW38GG6NWR",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1828431194.76139,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_uetsid",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1793957594,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 52
+        },
+        {
+          "name": "_ce.s",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1825407194,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 17
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "path": "/",
+          "expires": 1809682381.211881,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        },
+        {
+          "name": "_uetvid",
+          "domain": ".usanmarcos.ac.cr",
+          "path": "/",
+          "expires": 1827567195,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 88
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "lastExternalReferrerTime",
+          "_uetvid_exp",
+          "_uetsid_exp",
+          "_uetvid",
+          "lastExternalReferrer",
+          "_gcl_ls",
+          "_uetsid"
+        ],
+        "sessionStorage": [
+          "oaiq_cs:2SkWTG9p1KQvQoWv8TVq6z",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "bzrcdn.openai.com",
+        "script.crazyegg.com",
+        "news.google.com",
+        "google.com",
+        "ad.doubleclick.net",
+        "unpkg.com",
+        "googleads.g.doubleclick.net",
+        "analytics.google.com",
+        "google.co.cr",
+        "stats.g.doubleclick.net",
+        "10230023.fls.doubleclick.net",
+        "gstatic.com",
+        "adservice.google.com",
+        "play.google.com",
+        "bzr.openai.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "stats.g.doubleclick.net",
+        "10230023.fls.doubleclick.net"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://www.usanmarcos.ac.cr",
+      "instante": "2026-11-05T09:33:23.681Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_gcl_au",
+          "domain": ".usanmarcos.ac.cr",
+          "expires": 1801647205,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzrcdn.openai.com",
+          "expires": 1793873005.46478,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 199
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzrcdn.openai.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 114
+        },
+        {
+          "name": "__obref",
+          "domain": ".usanmarcos.ac.cr",
+          "expires": 1825407205.478724,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_ga",
+          "domain": ".usanmarcos.ac.cr",
+          "expires": 1828431205.794686,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "FPID",
+          "domain": ".usanmarcos.ac.cr",
+          "expires": 1828431228.16119,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 69
+        },
+        {
+          "name": "FPAU",
+          "domain": ".usanmarcos.ac.cr",
+          "expires": 1801647205.161285,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "FPLC",
+          "domain": ".usanmarcos.ac.cr",
+          "expires": 1793943206.016997,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 144
+        },
+        {
+          "name": "FPGSID",
+          "domain": ".usanmarcos.ac.cr",
+          "expires": 1793873006.017087,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 0,
+          "valorLongitud": 59
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "expires": 1827567207.174951,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".bat.bing.com",
+          "expires": 1794476007.175008,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828431206.443557,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 67
+        },
+        {
+          "name": "__cf_bm",
+          "domain": ".bzr.openai.com",
+          "expires": 1793873006.925567,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 198
+        },
+        {
+          "name": "_cfuvid",
+          "domain": ".bzr.openai.com",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 113
+        },
+        {
+          "name": "_ga_ZW38GG6NWR",
+          "domain": ".usanmarcos.ac.cr",
+          "expires": 1828431228.018793,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_uetsid",
+          "domain": ".usanmarcos.ac.cr",
+          "expires": 1793957628,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ce.s",
+          "domain": ".usanmarcos.ac.cr",
+          "expires": 1825407228,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Strict",
+          "duracionDias": 365,
+          "valorLongitud": 17
+        },
+        {
+          "name": "NID",
+          "domain": ".google.com",
+          "expires": 1809682406.440832,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 183,
+          "valorLongitud": 308
+        },
+        {
+          "name": "_uetvid",
+          "domain": ".usanmarcos.ac.cr",
+          "expires": 1827567228,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 390,
+          "valorLongitud": 89
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "bzrcdn.openai.com",
+        "script.crazyegg.com",
+        "news.google.com",
+        "google.com",
+        "unpkg.com",
+        "ad.doubleclick.net",
+        "10230023.fls.doubleclick.net",
+        "googleads.g.doubleclick.net",
+        "google.co.cr",
+        "gstatic.com",
+        "adservice.google.com",
+        "play.google.com",
+        "bzr.openai.com"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "bat.bing.com",
+        "connect.facebook.net",
+        "script.crazyegg.com",
+        "ad.doubleclick.net",
+        "10230023.fls.doubleclick.net",
+        "googleads.g.doubleclick.net"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_gcl_au@.usanmarcos.ac.cr",
+        "_cfuvid@.bzrcdn.openai.com",
+        "_ga@.usanmarcos.ac.cr",
+        "_ga_ZW38GG6NWR@.usanmarcos.ac.cr",
+        "_ce.s@.usanmarcos.ac.cr",
+        "FPID@.usanmarcos.ac.cr",
+        "FPAU@.usanmarcos.ac.cr",
+        "FPLC@.usanmarcos.ac.cr",
+        "MUID@.bing.com",
+        "MR@.bat.bing.com",
+        "_uetsid@.usanmarcos.ac.cr",
+        "IDE@.doubleclick.net",
+        "_uetvid@.usanmarcos.ac.cr",
+        "NID@.google.com",
+        "_cfuvid@.bzr.openai.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró rechazar en E2, de modo que no hubo decisión que respetar"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 19,
+        "rastreadoresEnE0": 8
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "__obref",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "FPGSID",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "__obref",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "FPGSID",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "__obref",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "FPGSID",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "__obref",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "FPGSID",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "__obref",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "FPGSID",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "__obref",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "FPGSID",
+      "dominio": ".usanmarcos.ac.cr",
+      "regla": "RC-6",
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 20,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [
+      "E1"
+    ],
+    "proporcionIndeterminadas": 10.4,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.887Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}

@@ -1,0 +1,2398 @@
+{
+  "sitio": "fischelenlinea.com",
+  "url": "https://fischelenlinea.com",
+  "auditadoEn": "2026-11-06T00:35:41.443Z",
+  "escenarios": {
+    "E0": {
+      "escenario": "E0",
+      "url": "https://fischelenlinea.com",
+      "instante": "2026-11-06T00:33:53.536Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "ninguna interacción con el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_dokka_vid",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461233.437403,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "sf-data-intell-subject",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461234,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "sf-ins-ssid",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1793927035,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 50
+        },
+        {
+          "name": "sf-ins-pv-id",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_evga_8a94",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485235.149104,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 35
+        },
+        {
+          "name": "_sfid_aa12",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485234.790299,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 302
+        },
+        {
+          "name": "AWSALBTGCORS",
+          "domain": "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+          "path": "/",
+          "expires": 1794530035.239926,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 180
+        },
+        {
+          "name": "_gid",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1794011638,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1793925298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825461238.694073,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1801701238,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_T0LVDD3EXT",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485238.93152,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485239.374969,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_clck",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461239,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793926139.27597,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_ga_LD4MP3LKG1",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485239.374516,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827621239.479488,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794530039.479549,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827621239.479574,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827621239.574083,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794530039.574124,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793925839.574145,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1793927039.876006,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_clsk",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1794011639,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "InsightRecommenderJourney_74a00063-4e0a-c9bb-454d-7f4268fec307",
+          "DecPageMetadata_74a00063-4e0a-c9bb-454d-7f4268fec307"
+        ],
+        "sessionStorage": [
+          "sessionTemporal",
+          "LastPageUrl",
+          "announcementClosed",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdn.evgnet.com",
+        "cdn.jsdelivr.net",
+        "cdn.insight.sitefinity.com",
+        "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+        "api.insight.sitefinity.com",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "c.bing.com",
+        "h.clarity.ms",
+        "google.co.cr",
+        "cm.teads.tv",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "t.teads.tv"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "c.bing.com",
+        "h.clarity.ms",
+        "cm.teads.tv",
+        "stats.g.doubleclick.net",
+        "t.teads.tv"
+      ]
+    },
+    "E1": {
+      "escenario": "E1",
+      "url": "https://fischelenlinea.com",
+      "instante": "2026-11-06T00:34:05.182Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó control de aceptación"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_dokka_vid",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461246.049241,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "sf-data-intell-subject",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461247,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "sf-ins-ssid",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1793927047,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 50
+        },
+        {
+          "name": "sf-ins-pv-id",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_evga_8a94",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485247.803801,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 35
+        },
+        {
+          "name": "_sfid_aa12",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485247.42801,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 302
+        },
+        {
+          "name": "AWSALBTGCORS",
+          "domain": "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+          "path": "/",
+          "expires": 1794530047.89313,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 180
+        },
+        {
+          "name": "_gid",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1794011650,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1793925310,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825461250.915766,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1801701251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_T0LVDD3EXT",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485251.04703,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485251.473049,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793926151.312552,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_clck",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461251,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_ga_LD4MP3LKG1",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485251.472547,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1793927051.736828,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827621251.634325,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794530051.634392,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827621251.634417,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827621251.734566,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794530051.734607,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793925851.734626,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_clsk",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1794011651,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "InsightRecommenderJourney_74a00063-4e0a-c9bb-454d-7f4268fec307",
+          "DecPageMetadata_74a00063-4e0a-c9bb-454d-7f4268fec307"
+        ],
+        "sessionStorage": [
+          "sessionTemporal",
+          "LastPageUrl",
+          "announcementClosed",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdn.evgnet.com",
+        "cdn.jsdelivr.net",
+        "cdn.insight.sitefinity.com",
+        "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+        "api.insight.sitefinity.com",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "google.co.cr",
+        "c.bing.com",
+        "cm.teads.tv",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "i.clarity.ms",
+        "t.teads.tv"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "c.bing.com",
+        "cm.teads.tv",
+        "stats.g.doubleclick.net",
+        "i.clarity.ms",
+        "t.teads.tv"
+      ],
+      "interaccionLograda": false
+    },
+    "E2": {
+      "escenario": "E2",
+      "url": "https://fischelenlinea.com",
+      "instante": "2026-11-06T00:34:21.249Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_dokka_vid",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461261.59763,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "sf-data-intell-subject",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461261,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "sf-ins-ssid",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1793927062,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 50
+        },
+        {
+          "name": "sf-ins-pv-id",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_evga_8a94",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485262.232467,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 35
+        },
+        {
+          "name": "_sfid_aa12",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485261.931762,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 302
+        },
+        {
+          "name": "AWSALBTGCORS",
+          "domain": "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+          "path": "/",
+          "expires": 1794530062.321749,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 180
+        },
+        {
+          "name": "_gid",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1794011665,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1793925325,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825461265.512786,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1801701265,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_ga_T0LVDD3EXT",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485265.729006,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485266.183989,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793926165.974706,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_clck",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461266,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_LD4MP3LKG1",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485266.183402,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827621267.25433,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794530067.254391,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827621267.254415,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827621266.343492,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794530066.343535,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793925866.343555,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1793927066.567984,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_clsk",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1794011666,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "InsightRecommenderJourney_74a00063-4e0a-c9bb-454d-7f4268fec307",
+          "DecPageMetadata_74a00063-4e0a-c9bb-454d-7f4268fec307"
+        ],
+        "sessionStorage": [
+          "sessionTemporal",
+          "LastPageUrl",
+          "announcementClosed",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdn.evgnet.com",
+        "cdn.jsdelivr.net",
+        "cdn.insight.sitefinity.com",
+        "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+        "api.insight.sitefinity.com",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "c.bing.com",
+        "google.co.cr",
+        "cm.teads.tv",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "b.clarity.ms",
+        "t.teads.tv"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "c.bing.com",
+        "cm.teads.tv",
+        "stats.g.doubleclick.net",
+        "b.clarity.ms",
+        "t.teads.tv"
+      ],
+      "interaccionLograda": false
+    },
+    "E3": {
+      "escenario": "E3",
+      "url": "https://fischelenlinea.com",
+      "instante": "2026-11-06T00:34:39.220Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "no se localizó panel de preferencias — evaluación manual"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_dokka_vid",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461279.649296,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "sf-data-intell-subject",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461279,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "sf-ins-ssid",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1793927080,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 50
+        },
+        {
+          "name": "sf-ins-pv-id",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "_evga_8a94",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485280.421444,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 35
+        },
+        {
+          "name": "_sfid_aa12",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485280.04071,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 302
+        },
+        {
+          "name": "AWSALBTGCORS",
+          "domain": "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+          "path": "/",
+          "expires": 1794530080.51593,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 180
+        },
+        {
+          "name": "_gid",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1794011683,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1793925343,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825461283.465068,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1801701283,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_ga_T0LVDD3EXT",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485283.622789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485284.055507,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "test_cookie",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1793926183.882446,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 18
+        },
+        {
+          "name": "_clck",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461283,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "_ga_LD4MP3LKG1",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485284.054969,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1793927084.456662,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827621285.204797,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794530085.20486,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827621285.204887,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827621284.323076,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794530084.323116,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793925884.323135,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "_clsk",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1794011684,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "InsightRecommenderJourney_74a00063-4e0a-c9bb-454d-7f4268fec307",
+          "DecPageMetadata_74a00063-4e0a-c9bb-454d-7f4268fec307"
+        ],
+        "sessionStorage": [
+          "sessionTemporal",
+          "LastPageUrl",
+          "announcementClosed",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdn.evgnet.com",
+        "cdn.jsdelivr.net",
+        "cdn.insight.sitefinity.com",
+        "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+        "api.insight.sitefinity.com",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "google.co.cr",
+        "c.bing.com",
+        "cm.teads.tv",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "b.clarity.ms",
+        "t.teads.tv"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "c.bing.com",
+        "cm.teads.tv",
+        "stats.g.doubleclick.net",
+        "b.clarity.ms",
+        "t.teads.tv"
+      ],
+      "interaccionLograda": false
+    },
+    "E4": {
+      "escenario": "E4",
+      "url": "https://fischelenlinea.com",
+      "instante": "2026-11-06T00:34:53.329Z",
+      "error": null,
+      "bitacora": [
+        "cerrado aviso superpuesto ([aria-label*=\"cerrar\" i])",
+        "sin banner detectable",
+        "desplazamiento y navegación interna sin tocar el banner"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_dokka_vid",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461293.686513,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "sf-data-intell-subject",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461293,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "sf-ins-ssid",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": 1793927104,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_evga_8a94",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485304.809902,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 35
+        },
+        {
+          "name": "_sfid_aa12",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485304.652131,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 302
+        },
+        {
+          "name": "_gid",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1794011707,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_gat",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1793925357,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "path": "/",
+          "expires": 1825461297.604906,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1801701298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 25
+        },
+        {
+          "name": "_clck",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1825461298,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 27
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1793927107.956499,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "path": "/",
+          "expires": 1827621299.466234,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1794530099.466312,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "path": "/",
+          "expires": 1827621299.466338,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "path": "/",
+          "expires": 1827621298.576781,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1794530098.576852,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "path": "/",
+          "expires": 1793925898.576888,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "sf-ins-pv-id",
+          "domain": "fischelenlinea.com",
+          "path": "/",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "AWSALBTGCORS",
+          "domain": "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+          "path": "/",
+          "expires": 1794530104.92493,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 180
+        },
+        {
+          "name": "_ga_T0LVDD3EXT",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485307.707306,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 53
+        },
+        {
+          "name": "_ga",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485307.746124,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_ga_LD4MP3LKG1",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1828485307.745789,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "path": "/",
+          "expires": 1828485307.898664,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clsk",
+          "domain": ".fischelenlinea.com",
+          "path": "/",
+          "expires": 1794011708,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 56
+        }
+      ],
+      "almacenamiento": {
+        "localStorage": [
+          "_gcl_ls",
+          "InsightRecommenderJourney_74a00063-4e0a-c9bb-454d-7f4268fec307",
+          "DecPageMetadata_74a00063-4e0a-c9bb-454d-7f4268fec307"
+        ],
+        "sessionStorage": [
+          "sessionTemporal",
+          "LastPageUrl",
+          "announcementClosed",
+          "_cltk"
+        ]
+      },
+      "terceros": [
+        "cdn.evgnet.com",
+        "cdn.jsdelivr.net",
+        "cdn.insight.sitefinity.com",
+        "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+        "api.insight.sitefinity.com",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "ad.doubleclick.net",
+        "c.bing.com",
+        "google.co.cr",
+        "o.clarity.ms",
+        "analytics.google.com",
+        "stats.g.doubleclick.net",
+        "cm.teads.tv",
+        "t.teads.tv"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "scripts.clarity.ms",
+        "c.clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "ad.doubleclick.net",
+        "c.bing.com",
+        "o.clarity.ms",
+        "stats.g.doubleclick.net",
+        "cm.teads.tv",
+        "t.teads.tv"
+      ]
+    },
+    "E5": {
+      "escenario": "E5",
+      "url": "https://fischelenlinea.com",
+      "instante": "2026-11-06T00:35:13.773Z",
+      "error": null,
+      "bitacora": [
+        "acto 1 — NO SE ENCONTRÓ CONTROL DE RECHAZO — requiere evaluación manual",
+        "acto 2 — revisita: el banner no reaparece"
+      ],
+      "banner": {
+        "presente": false
+      },
+      "cookies": [
+        {
+          "name": "_dokka_vid",
+          "domain": "fischelenlinea.com",
+          "expires": 1825461313.127622,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 24
+        },
+        {
+          "name": "sf-data-intell-subject",
+          "domain": "fischelenlinea.com",
+          "expires": 1825461314,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "sf-ins-ssid",
+          "domain": "fischelenlinea.com",
+          "expires": 1793927134,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_evga_8a94",
+          "domain": ".fischelenlinea.com",
+          "expires": 1828485334.714106,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 35
+        },
+        {
+          "name": "_sfid_aa12",
+          "domain": ".fischelenlinea.com",
+          "expires": 1828485334.421608,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 302
+        },
+        {
+          "name": "_gid",
+          "domain": ".fischelenlinea.com",
+          "expires": 1794011737,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 26
+        },
+        {
+          "name": "_gat",
+          "domain": ".fischelenlinea.com",
+          "expires": 1793925378,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "CLID",
+          "domain": "www.clarity.ms",
+          "expires": 1825461318.167464,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 365,
+          "valorLongitud": 50
+        },
+        {
+          "name": "_gcl_au",
+          "domain": ".fischelenlinea.com",
+          "expires": 1801701318,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 90,
+          "valorLongitud": 24
+        },
+        {
+          "name": "_clck",
+          "domain": ".fischelenlinea.com",
+          "expires": 1825461318,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 365,
+          "valorLongitud": 28
+        },
+        {
+          "name": "MUID",
+          "domain": ".bing.com",
+          "expires": 1827621318.830739,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.bing.com",
+          "expires": 1794530118.830822,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "SRM_B",
+          "domain": ".c.bing.com",
+          "expires": 1827621318.830848,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "SM",
+          "domain": ".c.clarity.ms",
+          "expires": -1,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "MUID",
+          "domain": ".clarity.ms",
+          "expires": 1827621318.986209,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 390,
+          "valorLongitud": 32
+        },
+        {
+          "name": "MR",
+          "domain": ".c.clarity.ms",
+          "expires": 1794530118.986262,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 1
+        },
+        {
+          "name": "ANONCHK",
+          "domain": ".c.clarity.ms",
+          "expires": 1793925918.986289,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 1
+        },
+        {
+          "name": "tfpsi",
+          "domain": ".fischelenlinea.com",
+          "expires": 1793927137.728711,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "sf-ins-pv-id",
+          "domain": "fischelenlinea.com",
+          "expires": -1,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 0,
+          "valorLongitud": 36
+        },
+        {
+          "name": "AWSALBTGCORS",
+          "domain": "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+          "expires": 1794530134.81085,
+          "secure": true,
+          "httpOnly": false,
+          "sameSite": "None",
+          "duracionDias": 7,
+          "valorLongitud": 180
+        },
+        {
+          "name": "_ga_T0LVDD3EXT",
+          "domain": ".fischelenlinea.com",
+          "expires": 1828485337.496684,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 54
+        },
+        {
+          "name": "_ga",
+          "domain": ".fischelenlinea.com",
+          "expires": 1828485337.540722,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 27
+        },
+        {
+          "name": "_ga_LD4MP3LKG1",
+          "domain": ".fischelenlinea.com",
+          "expires": 1828485337.540207,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 400,
+          "valorLongitud": 45
+        },
+        {
+          "name": "IDE",
+          "domain": ".doubleclick.net",
+          "expires": 1828485337.690448,
+          "secure": true,
+          "httpOnly": true,
+          "sameSite": "None",
+          "duracionDias": 400,
+          "valorLongitud": 64
+        },
+        {
+          "name": "_clsk",
+          "domain": ".fischelenlinea.com",
+          "expires": 1794011737,
+          "secure": false,
+          "httpOnly": false,
+          "sameSite": "Lax",
+          "duracionDias": 1,
+          "valorLongitud": 55
+        }
+      ],
+      "almacenamiento": {},
+      "terceros": [
+        "cdn.evgnet.com",
+        "cdn.jsdelivr.net",
+        "cdn.insight.sitefinity.com",
+        "f55685555553en3fzm3n3n3s091551437.us-5.evergage.com",
+        "api.insight.sitefinity.com",
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "google.com",
+        "analytics.google.com",
+        "cm.teads.tv",
+        "t.teads.tv",
+        "google.co.cr",
+        "scripts.clarity.ms",
+        "t.clarity.ms"
+      ],
+      "peticionesRastreo": [
+        "googletagmanager.com",
+        "google-analytics.com",
+        "clarity.ms",
+        "script.crazyegg.com",
+        "p.teads.tv",
+        "googleads.g.doubleclick.net",
+        "cm.teads.tv",
+        "t.teads.tv",
+        "scripts.clarity.ms",
+        "t.clarity.ms"
+      ],
+      "bannerReaparece": false,
+      "interaccionLograda": false
+    }
+  },
+  "violaciones": [
+    {
+      "id": "V1",
+      "gravedad": "Alta",
+      "nombre": "Instalación previa al consentimiento",
+      "evidencia": [
+        "_sfid_aa12@.fischelenlinea.com",
+        "_gid@.fischelenlinea.com",
+        "_gat@.fischelenlinea.com",
+        "CLID@www.clarity.ms",
+        "_gcl_au@.fischelenlinea.com",
+        "_ga_T0LVDD3EXT@.fischelenlinea.com",
+        "_ga@.fischelenlinea.com",
+        "_clck@.fischelenlinea.com",
+        "test_cookie@.doubleclick.net",
+        "_ga_LD4MP3LKG1@.fischelenlinea.com",
+        "MUID@.bing.com",
+        "MR@.c.bing.com",
+        "SRM_B@.c.bing.com",
+        "SM@.c.clarity.ms",
+        "MUID@.clarity.ms",
+        "MR@.c.clarity.ms",
+        "ANONCHK@.c.clarity.ms",
+        "_clsk@.fischelenlinea.com"
+      ],
+      "regla": "cookies no esenciales presentes en E0"
+    }
+  ],
+  "violacionesNoEvaluables": [
+    {
+      "id": "V2",
+      "motivo": "no se logró aceptar en E1, de modo que no hay universo de referencia"
+    },
+    {
+      "id": "V3",
+      "motivo": "no se logró completar una selección granular en E3"
+    },
+    {
+      "id": "V5",
+      "motivo": "no se logró rechazar en el primer acto de E5, de modo que no hay decisión cuya persistencia medir"
+    },
+    {
+      "id": "V6",
+      "motivo": "sin rechazo previo no puede valorarse la revocación"
+    }
+  ],
+  "revisionManualRequerida": [
+    {
+      "regla": "C1",
+      "asunto": "no se detectó banner en ningún escenario",
+      "queHacer": "Abrir el sitio en ventana privada y confirmar a mano. Si se confirma que no existe banner, R03, R13 y R14 reciben nivel 0. Si el sitio tampoco instala cookies no esenciales, aplica en cambio la regla C7 y esos requisitos son no aplicables.",
+      "pistas": {
+        "cookiesEnE0": 25,
+        "rastreadoresEnE0": 14
+      }
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E1",
+      "queHacer": "Reproducir E1 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E2",
+      "queHacer": "Reproducir E2 a mano y codificar el resultado, o confirmar que el control no existe."
+    },
+    {
+      "regla": "C1",
+      "asunto": "no se completó el tratamiento de E3",
+      "queHacer": "Reproducir E3 a mano y codificar el resultado, o confirmar que el control no existe."
+    }
+  ],
+  "pendientesDeEvaluacionManual": [
+    {
+      "id": "V7",
+      "nombre": "Discrepancia entre declaración y realidad",
+      "modo": "manual",
+      "razon": "requiere contrastar el inventario observado contra la política de cookies"
+    },
+    {
+      "id": "V8",
+      "nombre": "Discrepancia entre la cadena TCF y el comportamiento",
+      "modo": "mixto",
+      "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
+    }
+  ],
+  "cookiesIndeterminadas": [
+    {
+      "escenario": "E0",
+      "cookie": "_dokka_vid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sf-data-intell-subject",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sf-ins-ssid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "sf-ins-pv-id",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "_evga_8a94",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E0",
+      "cookie": "tfpsi",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_dokka_vid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sf-data-intell-subject",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sf-ins-ssid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "sf-ins-pv-id",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "_evga_8a94",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E1",
+      "cookie": "tfpsi",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_dokka_vid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sf-data-intell-subject",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sf-ins-ssid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "sf-ins-pv-id",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "_evga_8a94",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E2",
+      "cookie": "tfpsi",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_dokka_vid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sf-data-intell-subject",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sf-ins-ssid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "sf-ins-pv-id",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "_evga_8a94",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E3",
+      "cookie": "tfpsi",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_dokka_vid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sf-data-intell-subject",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sf-ins-ssid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "_evga_8a94",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "tfpsi",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E4",
+      "cookie": "sf-ins-pv-id",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_dokka_vid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sf-data-intell-subject",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sf-ins-ssid",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "_evga_8a94",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "tfpsi",
+      "dominio": ".fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    },
+    {
+      "escenario": "E5",
+      "cookie": "sf-ins-pv-id",
+      "dominio": "fischelenlinea.com",
+      "regla": "RC-6",
+      "motivo": "ninguna regla resuelve; no se imputa violación"
+    }
+  ],
+  "resumen": {
+    "violacionesConfirmadas": 1,
+    "cotaSuperior": 1,
+    "criticas": [],
+    "universoReferencia": 25,
+    "bannerDetectado": false,
+    "tratamientosAplicados": [],
+    "proporcionIndeterminadas": 24,
+    "superaUmbralIndeterminadas": true,
+    "codificable": false
+  },
+  "reclasificadoEn": "2026-11-07T00:33:38.569Z",
+  "basesDeClasificacion": {
+    "F1": {
+      "nombre": "Open Cookie Database",
+      "url": "https://github.com/jkwakman/Open-Cookie-Database",
+      "descargada": "2026-11-06",
+      "sha256_16": "ed4836ea285719d7",
+      "entradas": 2288
+    },
+    "F2": {
+      "nombre": "Disconnect Tracking Protection",
+      "url": "https://github.com/disconnectme/disconnect-tracking-protection",
+      "descargada": "2026-11-06",
+      "sha256_16": "fa5669770b45d78b",
+      "dominios": 4438
+    }
+  }
+}
