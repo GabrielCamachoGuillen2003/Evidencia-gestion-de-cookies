@@ -4711,7 +4711,7 @@
         "_ga_3R5SJEDWK4@.puntaleona.com",
         "_ga_6D67095DL4@.puntaleona.com"
       ],
-      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+      "regla": "cookies no esenciales en E4 tras navegar sin tocar el banner"
     }
   ],
   "violacionesNoEvaluables": [
@@ -4775,7 +4775,7 @@
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T02:07:19.228Z",
+  "reclasificadoEn": "2026-11-07T02:28:38.225Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

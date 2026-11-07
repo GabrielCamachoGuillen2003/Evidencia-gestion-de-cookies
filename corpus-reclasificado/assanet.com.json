@@ -1362,7 +1362,7 @@
         "_ga_6BKVYGSE5T@.assanet.com",
         "IDE@.doubleclick.net"
       ],
-      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+      "regla": "cookies no esenciales en E4 tras navegar sin tocar el banner"
     }
   ],
   "violacionesNoEvaluables": [
@@ -1423,7 +1423,7 @@
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T02:07:18.820Z",
+  "reclasificadoEn": "2026-11-07T02:28:37.802Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

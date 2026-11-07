@@ -671,7 +671,7 @@
         "_ga@.mcj.go.cr",
         "_ga_D6839P2BV2@.mcj.go.cr"
       ],
-      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+      "regla": "cookies no esenciales en E4 tras navegar sin tocar el banner"
     },
     {
       "id": "V5",
@@ -730,7 +730,7 @@
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T02:07:19.107Z",
+  "reclasificadoEn": "2026-11-07T02:28:38.096Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

@@ -1,0 +1,756 @@
+{
+  "autopitscr.com": {
+    "cookies": "https://www.grupoq.com/docs/politica-privacidad-datos.pdf",
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:37:41.614Z",
+    "enlacesRevisados": 222
+  },
+  "catie.ac.cr": {
+    "cookies": null,
+    "privacidad": "https://www.catie.ac.cr/politica-de-proteccion-de-datos-y-privacidad/",
+    "error": null,
+    "en": "2026-11-07T02:37:53.259Z",
+    "enlacesRevisados": 124
+  },
+  "baccredomatic.com": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:38:00.421Z",
+    "enlacesRevisados": 17
+  },
+  "durman.com": {
+    "cookies": "https://durman.com/aviso-de-cookies/",
+    "privacidad": "https://durman.com/aviso-de-privacidad/",
+    "error": null,
+    "en": "2026-11-07T02:38:06.238Z",
+    "enlacesRevisados": 603
+  },
+  "assanet.com": {
+    "cookies": "https://www.assanet.com/privacidad-proteccion-de-datos/",
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:38:13.472Z",
+    "enlacesRevisados": 225
+  },
+  "coocique.fi.cr": {
+    "cookies": null,
+    "privacidad": "https://coocique.fi.cr/privacidad",
+    "error": null,
+    "en": "2026-11-07T02:38:19.347Z",
+    "enlacesRevisados": 78
+  },
+  "dospinos.com": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:38:24.067Z",
+    "enlacesRevisados": 29
+  },
+  "tabacon.com": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:38:27.962Z",
+    "enlacesRevisados": 132
+  },
+  "ucenfotec.ac.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:38:33.631Z",
+    "enlacesRevisados": 134
+  },
+  "arenal.net": {
+    "cookies": null,
+    "privacidad": "https://www.arenal.net/privacy-policy",
+    "error": null,
+    "en": "2026-11-07T02:38:39.604Z",
+    "enlacesRevisados": 162
+  },
+  "aya.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:38:44.411Z",
+    "enlacesRevisados": 3
+  },
+  "cgr.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_CONNECTION_REFUSED at https://cgr.go.cr/",
+    "en": "2026-11-07T02:38:49.555Z"
+  },
+  "cnfl.go.cr": {
+    "cookies": "https://www.cnfl.go.cr/interes/informativo-general/politicas-terminos-condiciones/cookies",
+    "privacidad": "https://www.cnfl.go.cr/interes/informativo-general/politicas-terminos-condiciones/privacidad-seguridad",
+    "error": null,
+    "en": "2026-11-07T02:38:52.124Z",
+    "enlacesRevisados": 177
+  },
+  "cnp.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:38:57.457Z",
+    "enlacesRevisados": 243
+  },
+  "comex.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: Timeout 25000ms exceeded.",
+    "en": "2026-11-07T02:39:06.466Z"
+  },
+  "conavi.go.cr": {
+    "cookies": "https://conavi.go.cr/aboutCookies",
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:39:31.549Z",
+    "enlacesRevisados": 77
+  },
+  "coopeatenas.com": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:39:39.562Z",
+    "enlacesRevisados": 79
+  },
+  "dhr.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:39:47.243Z",
+    "enlacesRevisados": 146
+  },
+  "earth.ac.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:39:52.263Z",
+    "enlacesRevisados": 2
+  },
+  "flysansa.com": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:39:56.626Z",
+    "enlacesRevisados": 406
+  },
+  "fodesaf.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:40:01.466Z",
+    "enlacesRevisados": 1
+  },
+  "hacienda.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_CONNECTION_REFUSED at https://hacienda.go.cr/",
+    "en": "2026-11-07T02:40:05.313Z"
+  },
+  "heredia.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT at https://heredia.go.cr/",
+    "en": "2026-11-07T02:40:07.846Z"
+  },
+  "iafa.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:40:08.125Z",
+    "enlacesRevisados": 205
+  },
+  "imn.ac.cr": {
+    "cookies": "https://www.imn.ac.cr/web/imn/cookies",
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:40:14.370Z",
+    "enlacesRevisados": 86
+  },
+  "imprentanacional.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://imprentanacional.go.cr/",
+    "en": "2026-11-07T02:40:19.421Z"
+  },
+  "japdeva.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:40:19.553Z",
+    "enlacesRevisados": 54
+  },
+  "libreriainternacional.com": {
+    "cookies": null,
+    "privacidad": "https://www.libreriainternacional.com/politicas-de-privacidad-y-seguridad/",
+    "error": null,
+    "en": "2026-11-07T02:40:27.787Z",
+    "enlacesRevisados": 943
+  },
+  "meic.go.cr": {
+    "cookies": null,
+    "privacidad": "https://www.meic.go.cr/tramites-y-servicios/documentos-y-tramites-de-interes/proteccion-de-datos/",
+    "error": null,
+    "en": "2026-11-07T02:40:33.875Z",
+    "enlacesRevisados": 310
+  },
+  "mep.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_TOO_MANY_REDIRECTS at https://mep.go.cr/",
+    "en": "2026-11-07T02:40:42.204Z"
+  },
+  "montesdeoca.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:40:42.410Z",
+    "enlacesRevisados": 192
+  },
+  "mopt.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:40:47.677Z",
+    "enlacesRevisados": 0
+  },
+  "mtss.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:40:52.053Z",
+    "enlacesRevisados": 1
+  },
+  "munialajuela.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:40:55.953Z",
+    "enlacesRevisados": 265
+  },
+  "muniorotina.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:41:00.717Z",
+    "enlacesRevisados": 214
+  },
+  "pgr.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:41:06.655Z",
+    "enlacesRevisados": 95
+  },
+  "poder-judicial.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_CONNECTION_TIMED_OUT at https://poder-judicial.go.cr/",
+    "en": "2026-11-07T02:41:11.965Z"
+  },
+  "republicamedia.com": {
+    "cookies": null,
+    "privacidad": "https://republicamedia.com/privacy-policy/",
+    "error": null,
+    "en": "2026-11-07T02:41:33.132Z",
+    "enlacesRevisados": 74
+  },
+  "rree.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:41:42.532Z",
+    "enlacesRevisados": 1
+  },
+  "senara.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:41:46.371Z",
+    "enlacesRevisados": 153
+  },
+  "setena.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://setena.go.cr/",
+    "en": "2026-11-07T02:41:54.517Z"
+  },
+  "sinac.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:42:03.792Z",
+    "enlacesRevisados": 0
+  },
+  "sugef.fi.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://sugef.fi.cr/",
+    "en": "2026-11-07T02:42:07.584Z"
+  },
+  "supen.fi.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_CONNECTION_TIMED_OUT at https://supen.fi.cr/",
+    "en": "2026-11-07T02:42:07.734Z"
+  },
+  "tienda.pequenomundo.com": {
+    "cookies": null,
+    "privacidad": "https://www.cloudflare.com/es-es/privacypolicy/",
+    "error": null,
+    "en": "2026-11-07T02:42:28.989Z",
+    "enlacesRevisados": 2
+  },
+  "tse.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:42:32.873Z",
+    "enlacesRevisados": 0
+  },
+  "ucr.ac.cr": {
+    "cookies": null,
+    "privacidad": "https://www.ucr.ac.cr/actividades/2026/11/06/curso-de-extension-proteccion-de-datos-personales-en-costa-rica.html",
+    "error": null,
+    "en": "2026-11-07T02:42:37.911Z",
+    "enlacesRevisados": 905
+  },
+  "uned.ac.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:42:42.903Z",
+    "enlacesRevisados": 0
+  },
+  "icoder.go.cr": {
+    "cookies": null,
+    "privacidad": "https://icoder.go.cr/contactenos/politica-de-privacidad-y-seguridad",
+    "error": null,
+    "en": "2026-11-07T02:42:47.526Z",
+    "enlacesRevisados": 99
+  },
+  "ccss.sa.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_CONNECTION_TIMED_OUT at https://ccss.sa.cr/",
+    "en": "2026-11-07T02:42:53.311Z"
+  },
+  "coopetarrazu.com": {
+    "cookies": null,
+    "privacidad": "https://www.cloudflare.com/es-es/privacypolicy/",
+    "error": null,
+    "en": "2026-11-07T02:43:14.496Z",
+    "enlacesRevisados": 2
+  },
+  "coopeuna.fi.cr": {
+    "cookies": null,
+    "privacidad": "https://coopeuna.fi.cr/lander#!",
+    "error": null,
+    "en": "2026-11-07T02:43:18.447Z",
+    "enlacesRevisados": 2
+  },
+  "inamu.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:43:22.398Z",
+    "enlacesRevisados": 1
+  },
+  "infocoop.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:43:26.216Z",
+    "enlacesRevisados": 125
+  },
+  "lafise.com": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_CONNECTION_REFUSED at https://lafise.com/",
+    "en": "2026-11-07T02:43:36.787Z"
+  },
+  "moravia.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:43:39.477Z",
+    "enlacesRevisados": 185
+  },
+  "multiplazas.com": {
+    "cookies": null,
+    "privacidad": "https://multiplazas.com/lander#!",
+    "error": null,
+    "en": "2026-11-07T02:43:45.344Z",
+    "enlacesRevisados": 2
+  },
+  "munialajuelita.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_TOO_MANY_REDIRECTS at https://munialajuelita.go.cr/",
+    "en": "2026-11-07T02:43:49.266Z"
+  },
+  "revistaeka.com": {
+    "cookies": null,
+    "privacidad": "https://revistaeka.com/lander#!",
+    "error": null,
+    "en": "2026-11-07T02:43:49.469Z",
+    "enlacesRevisados": 2
+  },
+  "rnpdigital.com": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:43:54.408Z",
+    "enlacesRevisados": 1
+  },
+  "sugeval.fi.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_CONNECTION_TIMED_OUT at https://sugeval.fi.cr/",
+    "en": "2026-11-07T02:43:58.410Z"
+  },
+  "crhoy.com": {
+    "cookies": "https://www.cookiebot.com/es/que-significa-impulsada-por-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2",
+    "privacidad": "https://crhoy.com/politicas-de-privacidad",
+    "error": null,
+    "en": "2026-11-07T02:44:19.984Z",
+    "enlacesRevisados": 252
+  },
+  "farmacialista.com": {
+    "cookies": "https://farmacialista.com/politica-de-cookies/",
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:44:24.271Z",
+    "enlacesRevisados": 81
+  },
+  "aeris.cr": {
+    "cookies": "https://aeris.cr/politica-de-cookies/",
+    "privacidad": "https://www.aeris.cr/politica-de-privacidad/",
+    "error": null,
+    "en": "2026-11-07T02:44:34.377Z",
+    "enlacesRevisados": 43
+  },
+  "crowe.cr": {
+    "cookies": null,
+    "privacidad": "https://www.cloudflare.com/es-es/privacypolicy/",
+    "error": null,
+    "en": "2026-11-07T02:44:40.994Z",
+    "enlacesRevisados": 2
+  },
+  "bccr.fi.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:44:44.972Z",
+    "enlacesRevisados": 0
+  },
+  "geologia.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:44:48.928Z",
+    "enlacesRevisados": 169
+  },
+  "procomer.com": {
+    "cookies": "https://wordpress.org/plugins/gdpr-cookie-compliance/",
+    "privacidad": "https://procomer.com/politica-de-privacidad/",
+    "error": null,
+    "en": "2026-11-07T02:44:56.996Z",
+    "enlacesRevisados": 138
+  },
+  "tec.ac.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:45:03.000Z",
+    "enlacesRevisados": 221
+  },
+  "munipococi.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:45:09.319Z",
+    "enlacesRevisados": 325
+  },
+  "coopevictoria.com": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:45:15.883Z",
+    "enlacesRevisados": 51
+  },
+  "corredores.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:45:21.208Z",
+    "enlacesRevisados": 2
+  },
+  "mideplan.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:45:27.055Z",
+    "enlacesRevisados": 218
+  },
+  "municotobrus.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:45:36.842Z",
+    "enlacesRevisados": 92
+  },
+  "munitibas.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:45:41.978Z",
+    "enlacesRevisados": 89
+  },
+  "visitcostarica.com": {
+    "cookies": "https://cookiepedia.co.uk/giving-consent-to-cookies",
+    "privacidad": "https://es.visitcostarica.com/privacy-policy",
+    "error": null,
+    "en": "2026-11-07T02:45:46.689Z",
+    "enlacesRevisados": 136
+  },
+  "acosta.go.cr": {
+    "cookies": "https://acosta.go.cr/articulo/422/uso-de-cookies",
+    "privacidad": "https://acosta.go.cr/articulo/421/politica-de-privacidad",
+    "error": null,
+    "en": "2026-11-07T02:45:52.290Z",
+    "enlacesRevisados": 77
+  },
+  "bomberos.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://bomberos.go.cr/",
+    "en": "2026-11-07T02:45:57.395Z"
+  },
+  "cne.go.cr": {
+    "cookies": null,
+    "privacidad": "https://www.cloudflare.com/es-es/privacypolicy/",
+    "error": null,
+    "en": "2026-11-07T02:45:57.688Z",
+    "enlacesRevisados": 2
+  },
+  "coopeservidores.fi.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:46:01.531Z",
+    "enlacesRevisados": 0
+  },
+  "grecia.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://grecia.go.cr/",
+    "en": "2026-11-07T02:46:21.557Z"
+  },
+  "lacostacr.com": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:46:21.697Z",
+    "enlacesRevisados": 30
+  },
+  "migracion.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:46:27.370Z",
+    "enlacesRevisados": 0
+  },
+  "minae.go.cr": {
+    "cookies": null,
+    "privacidad": "https://www.cloudflare.com/es-es/privacypolicy/",
+    "error": null,
+    "en": "2026-11-07T02:46:31.143Z",
+    "enlacesRevisados": 2
+  },
+  "mucap.fi.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:46:35.202Z",
+    "enlacesRevisados": 0
+  },
+  "municanas.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:46:38.986Z",
+    "enlacesRevisados": 227
+  },
+  "munigarabito.go.cr": {
+    "cookies": null,
+    "privacidad": "https://munigarabito.go.cr/articulo/68/politicas-de-privacidad",
+    "error": null,
+    "en": "2026-11-07T02:46:44.464Z",
+    "enlacesRevisados": 133
+  },
+  "munijimenez.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:46:49.599Z",
+    "enlacesRevisados": 134
+  },
+  "muniloschiles.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:46:56.169Z",
+    "enlacesRevisados": 131
+  },
+  "munipoas.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:47:02.727Z",
+    "enlacesRevisados": 214
+  },
+  "munisarchi.go.cr": {
+    "cookies": null,
+    "privacidad": "https://munisarchi.go.cr/articulo/66/politica-de-privacidad",
+    "error": null,
+    "en": "2026-11-07T02:47:08.922Z",
+    "enlacesRevisados": 145
+  },
+  "muniturrialba.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:47:13.594Z",
+    "enlacesRevisados": 167
+  },
+  "sanmateo.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:47:19.537Z",
+    "enlacesRevisados": 83
+  },
+  "santabarbara.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:47:25.486Z",
+    "enlacesRevisados": 160
+  },
+  "santacruz.go.cr": {
+    "cookies": "https://santacruz.go.cr/articulo/7/uso-de-cookies",
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:47:30.835Z",
+    "enlacesRevisados": 197
+  },
+  "senasa.go.cr": {
+    "cookies": null,
+    "privacidad": "https://www.senasa.go.cr/politica-de-privacidad-seguridad-y-uso?ml=1",
+    "error": null,
+    "en": "2026-11-07T02:47:35.814Z",
+    "enlacesRevisados": 462
+  },
+  "tilaran.go.cr": {
+    "cookies": "https://tilaran.go.cr/articulo/44/uso-de-cookies",
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:48:01.719Z",
+    "enlacesRevisados": 107
+  },
+  "turrubares.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:48:06.309Z",
+    "enlacesRevisados": 96
+  },
+  "elmundo.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:48:12.917Z",
+    "enlacesRevisados": 222
+  },
+  "escazu.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:48:24.163Z",
+    "enlacesRevisados": 267
+  },
+  "racsa.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:48:45.363Z",
+    "enlacesRevisados": 369
+  },
+  "purdymotor.com": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:48:50.321Z",
+    "enlacesRevisados": 1
+  },
+  "asamblea.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:48:55.267Z",
+    "enlacesRevisados": 0
+  },
+  "mcj.go.cr": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:48:59.133Z",
+    "enlacesRevisados": 121
+  },
+  "flores.go.cr": {
+    "cookies": "https://cookieadmin.net/?utm_source=wpplugin&utm_medium=footer",
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:49:03.759Z",
+    "enlacesRevisados": 113
+  },
+  "oreamuno.go.cr": {
+    "cookies": "https://oreamuno.go.cr/articulo/44/declaracion-del-uso-de-cookies",
+    "privacidad": "https://oreamuno.go.cr/articulo/43/politica-de-privacidad",
+    "error": null,
+    "en": "2026-11-07T02:49:21.472Z",
+    "enlacesRevisados": 108
+  },
+  "munipalmares.go.cr": {
+    "cookies": "https://munipalmares.go.cr/index.php?option=com_content&view=article&layout=edit&id=115",
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:49:25.855Z",
+    "enlacesRevisados": 119
+  },
+  "muniparaiso.go.cr": {
+    "cookies": "https://muniparaiso.go.cr/articulo/115/declaracion-del-uso-de-cookies",
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:49:30.596Z",
+    "enlacesRevisados": 136
+  },
+  "ferreteriabrenes.com": {
+    "cookies": "https://www.ferreteriabrenes.com/ECOMMERCE/PoliticasCookies",
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:49:35.476Z",
+    "enlacesRevisados": 244
+  },
+  "establishmentlabs.com": {
+    "cookies": null,
+    "privacidad": null,
+    "error": null,
+    "en": "2026-11-07T02:49:39.540Z",
+    "enlacesRevisados": 0
+  }
+}

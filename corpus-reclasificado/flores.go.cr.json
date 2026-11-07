@@ -405,7 +405,7 @@
       "evidencia": [
         "uc_session@.dropboxusercontent.com"
       ],
-      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+      "regla": "cookies no esenciales en E4 tras navegar sin tocar el banner"
     },
     {
       "id": "V5",
@@ -465,7 +465,7 @@
     "superaUmbralIndeterminadas": false,
     "codificable": true
   },
-  "reclasificadoEn": "2026-11-07T02:07:18.991Z",
+  "reclasificadoEn": "2026-11-07T02:28:37.982Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

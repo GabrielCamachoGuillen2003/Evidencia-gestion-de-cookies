@@ -645,7 +645,7 @@
         "_ga@.pequenomundo.com",
         "_ga_CHNHC509E3@.pequenomundo.com"
       ],
-      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+      "regla": "cookies no esenciales en E4 tras navegar sin tocar el banner"
     }
   ],
   "violacionesNoEvaluables": [
@@ -709,7 +709,7 @@
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T02:07:19.293Z",
+  "reclasificadoEn": "2026-11-07T02:28:38.315Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

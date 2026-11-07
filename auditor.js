@@ -447,17 +447,31 @@ const ESCENARIOS = {
   },
 
   // E4 — ignorar el banner y navegar: ¿trata la navegación como aceptación?
-  E4: async (page) => {
+  E4: async (page, res) => {
     await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight / 2));
     await dormir(1500);
+    // El guardia de tipo no es cosmético: en un elemento <a> dentro de un SVG,
+    // la propiedad href devuelve un SVGAnimatedString y no una cadena, de modo
+    // que startsWith lanza y tumba el escenario entero. Sin él, cualquier sitio
+    // con un logotipo vectorial enlazado quedaría sin datos en E4.
     const enlaces = await page.$$eval('a[href]', (as, origen) =>
-      as.map((a) => a.href).filter((h) => h.startsWith(origen) && !h.includes('#')).slice(0, 10),
-      new URL(page.url()).origin);
+      as.map((a) => a.href)
+        .filter((h) => typeof h === 'string' && h.startsWith(origen) && !h.includes('#'))
+        .slice(0, 10),
+      new URL(page.url()).origin).catch(() => []);
+    // Se deja constancia de si la navegación llegó a ocurrir. V4 afirma que el
+    // sitio trata la NAVEGACIÓN como aceptación: sin navegación esa violación
+    // no puede imputarse, igual que V2 no se imputa sin un rechazo efectivo.
     if (enlaces.length) {
-      await page.goto(enlaces[0], { waitUntil: 'domcontentloaded', timeout: CFG.timeoutNavegacion }).catch(() => {});
+      let fue = true;
+      await page.goto(enlaces[0], { waitUntil: 'domcontentloaded', timeout: CFG.timeoutNavegacion })
+        .catch(() => { fue = false; });
       await dormir(CFG.esperaCarga);
-      return ['desplazamiento y navegación interna sin tocar el banner'];
+      res.navegacionLograda = fue;
+      return [fue ? 'desplazamiento y navegación interna sin tocar el banner'
+                  : 'desplazamiento sin tocar el banner; la navegación interna falló'];
     }
+    res.navegacionLograda = false;
     return ['desplazamiento sin tocar el banner; sin enlaces internos navegables'];
   },
 };
@@ -607,10 +621,20 @@ function derivarViolaciones(E, hostSitio) {
       requiereConfirmacionManual: true });
   }
 
-  // V4 — aceptación implícita por navegación
-  if (E.E4 && ne.E4 && ne.E4.size && E.E4.banner && E.E4.banner.presente) {
+  // V4 — aceptación implícita por navegación.
+  // Exige que la navegación haya ocurrido de verdad. Un sitio sin enlaces
+  // internos navegables deja a E4 reducido a cargar y desplazarse, y entonces
+  // no hay navegación que el sitio pueda estar tratando como aceptación: la
+  // situación es no evaluable, no un incumplimiento. En las fichas anteriores a
+  // esta corrección el indicador no existe y se deduce de la bitácora.
+  const navegoE4 = E.E4 && (E.E4.navegacionLograda === true ||
+    (E.E4.navegacionLograda === undefined &&
+     (E.E4.bitacora || []).some((l) => /navegación interna sin tocar el banner/.test(l))));
+  if (E.E4 && E.E4.banner && E.E4.banner.presente && !navegoE4) {
+    omitidas.push({ id: 'V4', motivo: 'E4 no llegó a navegar: sin enlaces internos o la navegación falló' });
+  } else if (navegoE4 && ne.E4 && ne.E4.size && E.E4.banner && E.E4.banner.presente) {
     V.push({ id: 'V4', gravedad: 'Alta', nombre: 'Aceptación implícita por navegación',
-      evidencia: [...ne.E4.keys()], regla: 'cookies no esenciales en E4 sin interacción con el banner' });
+      evidencia: [...ne.E4.keys()], regla: 'cookies no esenciales en E4 tras navegar sin tocar el banner' });
   }
 
   // V5 — no persistencia de la decisión. Solo tiene sentido si en el acto 1 de

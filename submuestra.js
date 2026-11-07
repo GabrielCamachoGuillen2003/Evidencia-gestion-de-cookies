@@ -74,7 +74,28 @@ if (limpiar && inexistentes.length) {
 }
 
 // ── 2. Submuestra de verificación ──────────────────────────────────────────
-const sector = (s) => /\.go\.cr$|\.sa\.cr$|\.or\.cr$/.test(s) ? 'público' : 'privado';
+/**
+ * Sector según la definición de la Sección 3.5.2 del informe, que incluye en el
+ * sector público las universidades y entes educativos ESTATALES. La regla
+ * anterior se guiaba solo por el dominio y dejaba a la UCR, la UNA, el TEC y la
+ * UNED del lado privado, al revés de lo que el marco define. No afecta al
+ * hallazgo principal, que no se desglosa por sector, pero sí a cualquier
+ * comparación entre sectores: con la regla vieja esa comparación diría algo
+ * distinto de lo que el marco declara estar comparando.
+ *
+ * Los dominios .or.cr son colegios profesionales y asociaciones: entes públicos
+ * no estatales. Se mantienen en público porque así los cuenta el marco.
+ */
+const UNIVERSIDADES_ESTATALES = new Set([
+  'ucr.ac.cr', 'una.ac.cr', 'tec.ac.cr', 'itcr.ac.cr', 'uned.ac.cr', 'utn.ac.cr',
+  'ina.ac.cr', 'conare.ac.cr', 'cenat.ac.cr', 'sinaes.ac.cr', 'imn.ac.cr',
+]);
+const sector = (s) => {
+  const h = String(s).replace(/^www\./, '').toLowerCase();
+  if (/\.go\.cr$|\.sa\.cr$|\.or\.cr$/.test(h)) return 'público';
+  if (UNIVERSIDADES_ESTATALES.has(h)) return 'público';
+  return 'privado';
+};
 const porSector = { 'público': [], 'privado': [] };
 for (const f of validos) porSector[sector(f.d.sitio)].push(f.d.sitio);
 

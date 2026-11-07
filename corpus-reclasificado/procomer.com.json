@@ -2011,7 +2011,7 @@
         "fr@.facebook.com",
         "_ga_JKR8WWHTRJ@.procomer.com"
       ],
-      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+      "regla": "cookies no esenciales en E4 tras navegar sin tocar el banner"
     },
     {
       "id": "V5",
@@ -2188,7 +2188,7 @@
     "superaUmbralIndeterminadas": false,
     "codificable": true
   },
-  "reclasificadoEn": "2026-11-07T02:07:19.225Z",
+  "reclasificadoEn": "2026-11-07T02:28:38.221Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

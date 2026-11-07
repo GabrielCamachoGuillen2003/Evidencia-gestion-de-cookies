@@ -432,7 +432,7 @@
         "_ga@.munitarrazu.go.cr",
         "_ga_DJVB0VGZCL@.munitarrazu.go.cr"
       ],
-      "regla": "cookies no esenciales en E4 sin interacción con el banner"
+      "regla": "cookies no esenciales en E4 tras navegar sin tocar el banner"
     }
   ],
   "violacionesNoEvaluables": [
@@ -496,7 +496,7 @@
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T02:07:19.176Z",
+  "reclasificadoEn": "2026-11-07T02:28:38.168Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",
