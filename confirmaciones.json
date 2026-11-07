@@ -1555,15 +1555,17 @@
   },
   "avenidaescazu.com": {
     "banner": null,
-    "error": "page.goto: Timeout 25000ms exceeded.",
-    "esperaSeg": 44.8,
-    "en": "2026-11-06T22:53:46.708Z"
+    "error": "page.goto: Timeout 40000ms exceeded.",
+    "esperaSeg": 87.4,
+    "en": "2026-11-07T01:53:01.536Z",
+    "via": "chrome-sistema"
   },
   "bccr.fi.cr": {
     "banner": null,
     "error": "page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://bccr.fi.cr/",
-    "esperaSeg": 6.7,
-    "en": "2026-11-06T22:53:56.081Z"
+    "esperaSeg": 8.4,
+    "en": "2026-11-07T01:53:14.011Z",
+    "via": "chrome-sistema"
   },
   "belen.go.cr": {
     "banner": null,

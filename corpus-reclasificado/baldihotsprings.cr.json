@@ -696,24 +696,10 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "_lscache_vary",
-      "dominio": "www.baldihotsprings.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "wp-wpml_current_language",
       "dominio": "www.baldihotsprings.cr",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_lscache_vary",
-      "dominio": "www.baldihotsprings.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E1",
@@ -724,24 +710,10 @@
     },
     {
       "escenario": "E2",
-      "cookie": "_lscache_vary",
-      "dominio": "www.baldihotsprings.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "wp-wpml_current_language",
       "dominio": "www.baldihotsprings.cr",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_lscache_vary",
-      "dominio": "www.baldihotsprings.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E3",
@@ -752,24 +724,10 @@
     },
     {
       "escenario": "E4",
-      "cookie": "_lscache_vary",
-      "dominio": "www.baldihotsprings.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
       "cookie": "wp-wpml_current_language",
       "dominio": "www.baldihotsprings.cr",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_lscache_vary",
-      "dominio": "www.baldihotsprings.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E5",
@@ -786,11 +744,11 @@
     "universoReferencia": 6,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 33.3,
+    "proporcionIndeterminadas": 16.7,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.416Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.832Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

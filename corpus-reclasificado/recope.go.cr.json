@@ -1018,92 +1018,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "TS01962a22",
-      "dominio": ".www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "TS01962a22",
-      "dominio": ".www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "TS01962a22",
-      "dominio": ".www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "TS01962a22",
-      "dominio": ".www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "TS01962a22",
-      "dominio": ".www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "TS01962a22",
-      "dominio": ".www.recope.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 1,
     "cotaSuperior": 1,
@@ -1111,11 +1026,11 @@
     "universoReferencia": 10,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 20,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.798Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.236Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

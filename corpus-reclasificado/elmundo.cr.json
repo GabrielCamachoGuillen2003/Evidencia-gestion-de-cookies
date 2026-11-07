@@ -2566,20 +2566,6 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E2",
-      "cookie": "_pubcid",
-      "dominio": ".elmundo.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cto_bundle",
-      "dominio": ".elmundo.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "_ht_s",
       "dominio": ".elmundo.cr",
       "regla": "RC-6",
@@ -2594,20 +2580,6 @@
     },
     {
       "escenario": "E3",
-      "cookie": "_pubcid",
-      "dominio": ".elmundo.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "cto_bundle",
-      "dominio": ".elmundo.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
       "cookie": "_ht_s",
       "dominio": ".elmundo.cr",
       "regla": "RC-6",
@@ -2616,34 +2588,6 @@
     {
       "escenario": "E3",
       "cookie": "_ht_v",
-      "dominio": ".elmundo.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_pubcid",
-      "dominio": ".elmundo.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "cto_bundle",
-      "dominio": ".elmundo.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_pubcid",
-      "dominio": ".elmundo.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cto_bundle",
       "dominio": ".elmundo.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -2656,11 +2600,11 @@
     "universoReferencia": 0,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 6.6,
+    "proporcionIndeterminadas": 2.2,
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.555Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.974Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

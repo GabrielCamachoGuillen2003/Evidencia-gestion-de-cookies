@@ -2080,6 +2080,7 @@
         "__gads@.amprensa.com",
         "__gpi@.amprensa.com",
         "FCCDCF@.amprensa.com",
+        "_pubcid@.amprensa.com",
         "_ga_EK8LR2CS7F@.amprensa.com",
         "iuid@.mygaru.com",
         "_cc_dc@.crwdcntrl.net",
@@ -2088,6 +2089,7 @@
         "panoramaId_expiry@.amprensa.com",
         "uid@.criteo.com",
         "cto_bundle@.criteo.com",
+        "cto_bundle@.amprensa.com",
         "FCNEC@.amprensa.com"
       ],
       "regla": "cookies no esenciales presentes en E0"
@@ -2151,92 +2153,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "_pubcid",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "cto_bundle",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_pubcid",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "cto_bundle",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_pubcid",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cto_bundle",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_pubcid",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "cto_bundle",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_pubcid",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "cto_bundle",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_pubcid",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cto_bundle",
-      "dominio": ".amprensa.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 1,
     "cotaSuperior": 1,
@@ -2244,11 +2161,11 @@
     "universoReferencia": 16,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 8.4,
+    "proporcionIndeterminadas": 0,
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.397Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.812Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

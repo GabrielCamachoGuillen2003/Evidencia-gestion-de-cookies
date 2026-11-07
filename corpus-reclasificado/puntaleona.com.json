@@ -4635,6 +4635,7 @@
         "VISITOR_INFO1_LIVE@.youtube.com",
         "VISITOR_PRIVACY_METADATA@.youtube.com",
         "_gcl_au@.puntaleona.com",
+        "sjrn_ccid@www.puntaleona.com",
         "cid@.sojern.com",
         "_ga@.puntaleona.com",
         "IDE@.doubleclick.net",
@@ -4762,78 +4763,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.puntaleona.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.puntaleona.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "sjrn_ccid",
-      "dominio": "www.puntaleona.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.puntaleona.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "sjrn_ccid",
-      "dominio": "www.puntaleona.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.puntaleona.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.puntaleona.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "sjrn_ccid",
-      "dominio": "www.puntaleona.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.puntaleona.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "sjrn_ccid",
-      "dominio": "www.puntaleona.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 2,
     "cotaSuperior": 2,
@@ -4841,11 +4771,11 @@
     "universoReferencia": 81,
     "bannerDetectado": true,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 2.8,
+    "proporcionIndeterminadas": 0,
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.790Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.228Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

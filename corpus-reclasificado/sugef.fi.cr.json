@@ -921,38 +921,10 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "www.sugef.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "TS01a64ce1",
-      "dominio": ".www.sugef.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
       "cookie": "fontresize",
       "dominio": "www.sugef.fi.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "www.sugef.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "TS01a64ce1",
-      "dominio": ".www.sugef.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E1",
@@ -963,20 +935,6 @@
     },
     {
       "escenario": "E2",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "www.sugef.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "TS01a64ce1",
-      "dominio": ".www.sugef.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
       "cookie": "fontresize",
       "dominio": "www.sugef.fi.cr",
       "regla": "RC-6",
@@ -984,38 +942,10 @@
     },
     {
       "escenario": "E3",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "www.sugef.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "TS01a64ce1",
-      "dominio": ".www.sugef.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
       "cookie": "fontresize",
       "dominio": "www.sugef.fi.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "www.sugef.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "TS01a64ce1",
-      "dominio": ".www.sugef.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E4",
@@ -1032,11 +962,11 @@
     "universoReferencia": 11,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 27.3,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 9.1,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.832Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.270Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

@@ -18009,19 +18009,28 @@
       "evidencia": [
         "sync@.3lift.com",
         "compass_uid@.elfinancierocr.com",
+        "RT@.elfinancierocr.com",
         "_gcl_au@.elfinancierocr.com",
         "1459_u@.newsroom.bi",
         "1459_s@.newsroom.bi",
         "1459_lv@.newsroom.bi",
         "1459_ut@.newsroom.bi",
+        "_pcid@.elfinancierocr.com",
         "_pk_id.2.77e6@www.elfinancierocr.com",
         "_pk_ses.2.77e6@www.elfinancierocr.com",
+        "__browsiSessionID@www.elfinancierocr.com",
+        "__tbc@.elfinancierocr.com",
         "__pat@.elfinancierocr.com",
         "__pvi@.elfinancierocr.com",
+        "_pctx@.elfinancierocr.com",
+        "xbc@.elfinancierocr.com",
         "_ga@.elfinancierocr.com",
         "_gid@.elfinancierocr.com",
         "_dc_gtm_UA-3958088-1@.elfinancierocr.com",
+        "___nrbic@.elfinancierocr.com",
+        "___nrbi@.elfinancierocr.com",
         "FPLC@.elfinancierocr.com",
+        "FPGSID@.elfinancierocr.com",
         "cnx_userId@.connatix.com",
         "_fbp@.elfinancierocr.com",
         "fr@.facebook.com",
@@ -18301,428 +18310,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "AKA_A2",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "RT",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "_pcid",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "__tbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "_pctx",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "xbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "___nrbic",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "___nrbi",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "FPGSID",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "AKA_A2",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "RT",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_pcid",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "__tbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_pctx",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "xbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "___nrbic",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "___nrbi",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "FPGSID",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "AKA_A2",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "RT",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_pcid",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "__tbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_pctx",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "xbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "___nrbic",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "___nrbi",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "FPGSID",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "AKA_A2",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "RT",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_pcid",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "__tbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_pctx",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "xbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "___nrbic",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "___nrbi",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "FPGSID",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "AKA_A2",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_pcid",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_pctx",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "___nrbi",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "FPGSID",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "___nrbic",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "RT",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "__tbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "xbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "AKA_A2",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_pcid",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_pctx",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "FPGSID",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "___nrbi",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "___nrbic",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "RT",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "__tbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "xbc",
-      "dominio": ".elfinancierocr.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 1,
     "cotaSuperior": 1,
@@ -18730,11 +18318,11 @@
     "universoReferencia": 239,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 4,
+    "proporcionIndeterminadas": 0,
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.549Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.969Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

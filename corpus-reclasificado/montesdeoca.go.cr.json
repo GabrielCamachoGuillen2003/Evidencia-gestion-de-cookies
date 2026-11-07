@@ -618,24 +618,10 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "montesdeoca.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
       "cookie": "fontresize",
       "dominio": "montesdeoca.go.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "montesdeoca.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E1",
@@ -646,24 +632,10 @@
     },
     {
       "escenario": "E2",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "montesdeoca.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
       "cookie": "fontresize",
       "dominio": "montesdeoca.go.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "montesdeoca.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E3",
@@ -674,24 +646,10 @@
     },
     {
       "escenario": "E4",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "montesdeoca.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
       "cookie": "fontresize",
       "dominio": "montesdeoca.go.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "montesdeoca.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E5",
@@ -708,11 +666,11 @@
     "universoReferencia": 5,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 40,
+    "proporcionIndeterminadas": 20,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.691Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.127Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

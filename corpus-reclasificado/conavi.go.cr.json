@@ -1038,148 +1038,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "COOKIE_SUPPORT",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "GUEST_LANGUAGE_ID",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "LFR_SESSION_STATE_20103",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "COOKIE_SUPPORT",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "GUEST_LANGUAGE_ID",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "LFR_SESSION_STATE_20103",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "COOKIE_SUPPORT",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "GUEST_LANGUAGE_ID",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "LFR_SESSION_STATE_20103",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "COOKIE_SUPPORT",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "GUEST_LANGUAGE_ID",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "LFR_SESSION_STATE_20103",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "COOKIE_SUPPORT",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "GUEST_LANGUAGE_ID",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "LFR_SESSION_STATE_20103",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "GUEST_LANGUAGE_ID",
-      "dominio": "conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "laravel-session",
-      "dominio": "portal.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "COOKIE_SUPPORT",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "GUEST_LANGUAGE_ID",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "LFR_SESSION_STATE_20103",
-      "dominio": "www.conavi.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 1,
     "cotaSuperior": 1,
@@ -1187,11 +1046,11 @@
     "universoReferencia": 11,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 29,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.477Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.892Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

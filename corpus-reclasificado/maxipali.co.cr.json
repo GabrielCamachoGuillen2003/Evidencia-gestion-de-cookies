@@ -2432,6 +2432,7 @@
         "fr@.facebook.com",
         "_tt_enable_cookie@.maxipali.co.cr",
         "_ttp@.maxipali.co.cr",
+        "RT@.www.maxipali.co.cr",
         "ttcsid_CSN2VG3C77UAJKLLQP30@.maxipali.co.cr",
         "ttcsid@.maxipali.co.cr",
         "_gcl_au@.maxipali.co.cr",
@@ -2502,20 +2503,6 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "VtexRCSessionIdv7",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "VtexRCMacIdv7",
       "dominio": ".maxipali.co.cr",
       "regla": "RC-6",
@@ -2523,77 +2510,7 @@
     },
     {
       "escenario": "E0",
-      "cookie": "vtex_session",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "vtex_segment",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "vtex-search-session",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "sp-variant",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "RT",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "VtexRCSessionIdv7",
       "dominio": ".maxipali.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -2607,98 +2524,7 @@
     },
     {
       "escenario": "E1",
-      "cookie": "vtex_session",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "vtex_segment",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "vtex-search-session",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
       "cookie": "sp-variant",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "vtex_session",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "vtex_segment",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "vtex-search-session",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "VtexRCSessionIdv7",
       "dominio": ".maxipali.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -2718,48 +2544,6 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E2",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "RT",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "VtexRCSessionIdv7",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E3",
       "cookie": "VtexRCMacIdv7",
       "dominio": ".maxipali.co.cr",
@@ -2768,77 +2552,7 @@
     },
     {
       "escenario": "E3",
-      "cookie": "vtex_session",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "vtex-search-session",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
       "cookie": "sp-variant",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "vtex_segment",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "RT",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "VtexRCSessionIdv7",
       "dominio": ".maxipali.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -2852,77 +2566,7 @@
     },
     {
       "escenario": "E4",
-      "cookie": "vtex-search-session",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
       "cookie": "sp-variant",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "RT",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "vtex_session",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "vtex_segment",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "VtexRCSessionIdv7",
       "dominio": ".maxipali.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -2936,64 +2580,8 @@
     },
     {
       "escenario": "E5",
-      "cookie": "vtex-search-session",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
       "cookie": "sp-variant",
       "dominio": ".maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "RT",
-      "dominio": ".www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "vtex_session",
-      "dominio": "www.maxipali.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "vtex_segment",
-      "dominio": "www.maxipali.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     }
@@ -3005,11 +2593,11 @@
     "universoReferencia": 26,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 43,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 7.3,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.669Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.105Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

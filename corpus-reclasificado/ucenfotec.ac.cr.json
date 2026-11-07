@@ -2293,6 +2293,7 @@
       "gravedad": "Alta",
       "nombre": "Instalación previa al consentimiento",
       "evidencia": [
+        "gclid@ucenfotec.ac.cr",
         "WMF-Uniq@.upload.wikimedia.org",
         "li_sugr@.linkedin.com",
         "bcookie@.linkedin.com",
@@ -2306,6 +2307,14 @@
         "_tt_enable_cookie@.ucenfotec.ac.cr",
         "_ttp@.ucenfotec.ac.cr",
         "test_cookie@.doubleclick.net",
+        "pys_cd@.ucenfotec.ac.cr",
+        "pys_session_limit@.ucenfotec.ac.cr",
+        "pys_start_session@.ucenfotec.ac.cr",
+        "pys_first_visit@.ucenfotec.ac.cr",
+        "pysTrafficSource@.ucenfotec.ac.cr",
+        "pys_landing_page@.ucenfotec.ac.cr",
+        "last_pysTrafficSource@.ucenfotec.ac.cr",
+        "last_pys_landing_page@.ucenfotec.ac.cr",
         "_ga_P5TZKMF26X@.ucenfotec.ac.cr",
         "_fbp@.ucenfotec.ac.cr",
         "fr@.facebook.com",
@@ -2319,6 +2328,7 @@
       "gravedad": "Alta",
       "nombre": "Aceptación implícita por navegación",
       "evidencia": [
+        "gclid@ucenfotec.ac.cr",
         "WMF-Uniq@.upload.wikimedia.org",
         "_ga@.ucenfotec.ac.cr",
         "li_sugr@.linkedin.com",
@@ -2329,6 +2339,14 @@
         "AnalyticsSyncHistory@.linkedin.com",
         "bscookie@.www.linkedin.com",
         "_ttp@.tiktok.com",
+        "pys_cd@.ucenfotec.ac.cr",
+        "pys_session_limit@.ucenfotec.ac.cr",
+        "pys_start_session@.ucenfotec.ac.cr",
+        "pys_first_visit@.ucenfotec.ac.cr",
+        "pysTrafficSource@.ucenfotec.ac.cr",
+        "pys_landing_page@.ucenfotec.ac.cr",
+        "last_pysTrafficSource@.ucenfotec.ac.cr",
+        "last_pys_landing_page@.ucenfotec.ac.cr",
         "_tt_enable_cookie@.ucenfotec.ac.cr",
         "_ttp@.ucenfotec.ac.cr",
         "_fbp@.ucenfotec.ac.cr",
@@ -2385,386 +2403,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "gclid",
-      "dominio": "ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_cd",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_session_limit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_start_session",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_first_visit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "gclid",
-      "dominio": "ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_cd",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_session_limit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_start_session",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_first_visit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "gclid",
-      "dominio": "ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_cd",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_session_limit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_start_session",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_first_visit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "gclid",
-      "dominio": "ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_cd",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_session_limit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_start_session",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_first_visit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "gclid",
-      "dominio": "ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_cd",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_session_limit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_start_session",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_first_visit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "gclid",
-      "dominio": "ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_cd",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_session_limit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_start_session",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_first_visit",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".ucenfotec.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 2,
     "cotaSuperior": 2,
@@ -2774,11 +2413,11 @@
     "tratamientosAplicados": [
       "E1"
     ],
-    "proporcionIndeterminadas": 32,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.867Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.308Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

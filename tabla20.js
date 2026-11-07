@@ -19,6 +19,7 @@
 const fs = require('fs');
 const path = require('path');
 const { clasificar, noEsenciales, esPrimeraParte } = require('./auditor.js');
+const RC7 = require('./rc7.js');
 
 const CORPUS = process.argv[2] || 'corpus';
 const ESC = ['E0', 'E1', 'E2', 'E3', 'E4', 'E5'];
@@ -30,7 +31,7 @@ const clavesDe = (e) => new Set(((e && e.cookies) || []).map((c) => `${c.name}@$
 const hubo = (e) => !!(e && e.interaccionLograda === true);
 
 const acc = {};
-for (const id of ESC) acc[id] = { sitios: 0, total: 0, primera: 0, terceros: 0, noEsen: 0, indet: 0 };
+for (const id of ESC) acc[id] = { sitios: 0, total: 0, primera: 0, terceros: 0, noEsen: 0, indet: 0, artef: 0 };
 const violaciones = {};
 let nFichas = 0, conCookies = 0, sinCookies = 0, noAuditables = 0;
 
@@ -57,6 +58,7 @@ for (const f of fs.readdirSync(CORPUS).filter((x) => x.endsWith('.json'))) {
     const ne = noEsenciales(e, host, aparecenAlAceptar);
     acc[id].noEsen += ne.size;
     for (const c of cookies) {
+      if (RC7.esArtefacto(c)) { acc[id].artef++; continue; }
       const h = (c.domain || '').replace(/^\./, '');
       if (esPrimeraParte(h, host)) acc[id].primera++; else acc[id].terceros++;
       const k = clasificar(c, host, aparecenAlAceptar.has(`${c.name}@${c.domain}`));
@@ -84,6 +86,8 @@ console.log('  respondieron en cada uno.');
 
 const tot = ESC.reduce((s, id) => s + acc[id].total, 0);
 const ind = ESC.reduce((s, id) => s + acc[id].indet, 0);
+const art = ESC.reduce((s, id) => s + acc[id].artef, 0);
+const base = tot - art;
 console.log('\n' + linea);
 console.log('BASE DEL CORPUS');
 console.log(linea);
@@ -92,7 +96,9 @@ console.log(`  no auditables (todos los esc.)     ${noAuditables}`);
 console.log(`  instalan al menos una cookie       ${conCookies}`);
 console.log(`  no instalan ninguna (regla C7)     ${sinCookies}`);
 console.log(`  cookies observadas en total        ${tot}`);
-console.log(`  indeterminadas (RC-6)              ${ind}   ${tot ? n2(100 * ind / tot) + ' %' : ''}`);
+console.log(`  artefactos sin nombre (RC-0)       ${art}`);
+console.log(`  base clasificable                  ${base}`);
+console.log(`  indeterminadas (RC-6)              ${ind}   ${base ? n2(100 * ind / base) + ' %' : ''}   de la base`);
 
 console.log('\n' + linea);
 console.log('VIOLACIONES POR TIPO');

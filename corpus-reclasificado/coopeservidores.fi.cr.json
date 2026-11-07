@@ -365,120 +365,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "visid_incap_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "incap_ses_1697_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "___utmvc",
-      "dominio": "www.coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "visid_incap_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "incap_ses_1697_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "___utmvc",
-      "dominio": "www.coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "visid_incap_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "incap_ses_1697_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "___utmvc",
-      "dominio": "www.coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "visid_incap_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "incap_ses_1697_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "visid_incap_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "incap_ses_1697_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "___utmvc",
-      "dominio": "www.coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "visid_incap_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "incap_ses_1697_2219056",
-      "dominio": ".coopeservidores.fi.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 0,
     "cotaSuperior": 0,
@@ -486,11 +373,11 @@
     "universoReferencia": 3,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 100,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.498Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.915Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

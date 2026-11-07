@@ -1546,8 +1546,18 @@
       "nombre": "Instalación previa al consentimiento",
       "evidencia": [
         "svSession@.www.imagenesmedicasdrchavarriaestrada.com",
+        "poptin_wix_cart_total_value@www.imagenesmedicasdrchavarriaestrada.com",
         "_gcl_au@.imagenesmedicasdrchavarriaestrada.com",
-        "test_cookie@.doubleclick.net"
+        "test_cookie@.doubleclick.net",
+        "poptin_old_user@www.imagenesmedicasdrchavarriaestrada.com",
+        "poptin_user_id@www.imagenesmedicasdrchavarriaestrada.com",
+        "poptin_previous_url@www.imagenesmedicasdrchavarriaestrada.com",
+        "poptin_user_ip@www.imagenesmedicasdrchavarriaestrada.com",
+        "poptin_user_country_code@www.imagenesmedicasdrchavarriaestrada.com",
+        "poptin_session_account_2bf13fe7a6735@www.imagenesmedicasdrchavarriaestrada.com",
+        "poptin_c_visitor@www.imagenesmedicasdrchavarriaestrada.com",
+        "poptin_session@www.imagenesmedicasdrchavarriaestrada.com",
+        "poptin_last_visit@www.imagenesmedicasdrchavarriaestrada.com"
       ],
       "regla": "cookies no esenciales presentes en E0"
     }
@@ -1640,76 +1650,6 @@
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
-      "escenario": "E0",
-      "cookie": "poptin_wix_cart_total_value",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "poptin_old_user",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "poptin_user_id",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "poptin_previous_url",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "poptin_user_ip",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "poptin_user_country_code",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "poptin_session_account_2bf13fe7a6735",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "poptin_c_visitor",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "poptin_session",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "poptin_last_visit",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E1",
       "cookie": "ssr-caching",
       "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
@@ -1736,76 +1676,6 @@
       "dominio": ".www.imagenesmedicasdrchavarriaestrada.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "poptin_wix_cart_total_value",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "poptin_old_user",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "poptin_user_id",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "poptin_previous_url",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "poptin_user_ip",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "poptin_user_country_code",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "poptin_session_account_2bf13fe7a6735",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "poptin_c_visitor",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "poptin_session",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "poptin_last_visit",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E2",
@@ -1836,76 +1706,6 @@
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
-      "escenario": "E2",
-      "cookie": "poptin_wix_cart_total_value",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "poptin_old_user",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "poptin_user_id",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "poptin_previous_url",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "poptin_user_ip",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "poptin_user_country_code",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "poptin_session_account_2bf13fe7a6735",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "poptin_c_visitor",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "poptin_session",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "poptin_last_visit",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E3",
       "cookie": "ssr-caching",
       "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
@@ -1934,76 +1734,6 @@
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
-      "escenario": "E3",
-      "cookie": "poptin_wix_cart_total_value",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "poptin_old_user",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "poptin_user_id",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "poptin_previous_url",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "poptin_user_ip",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "poptin_user_country_code",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "poptin_session_account_2bf13fe7a6735",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "poptin_c_visitor",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "poptin_session",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "poptin_last_visit",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E4",
       "cookie": "server-session-bind",
       "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
@@ -2023,76 +1753,6 @@
       "dominio": ".www.imagenesmedicasdrchavarriaestrada.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "poptin_wix_cart_total_value",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "poptin_old_user",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "poptin_user_id",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "poptin_previous_url",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "poptin_user_ip",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "poptin_user_country_code",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "poptin_session_account_2bf13fe7a6735",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "poptin_c_visitor",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "poptin_session",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "poptin_last_visit",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E4",
@@ -2121,76 +1781,6 @@
       "dominio": ".www.imagenesmedicasdrchavarriaestrada.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "poptin_wix_cart_total_value",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "poptin_old_user",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "poptin_user_id",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "poptin_previous_url",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "poptin_user_ip",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "poptin_user_country_code",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "poptin_session_account_2bf13fe7a6735",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "poptin_c_visitor",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "poptin_session",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "poptin_last_visit",
-      "dominio": "www.imagenesmedicasdrchavarriaestrada.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E5",
@@ -2207,11 +1797,11 @@
     "universoReferencia": 19,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 73.7,
+    "proporcionIndeterminadas": 21.1,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.599Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.024Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

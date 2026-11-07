@@ -381,50 +381,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "muni_acosta_session",
-      "dominio": "acosta.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "muni_acosta_session",
-      "dominio": "acosta.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "muni_acosta_session",
-      "dominio": "acosta.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "muni_acosta_session",
-      "dominio": "acosta.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "muni_acosta_session",
-      "dominio": "acosta.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "muni_acosta_session",
-      "dominio": "acosta.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 0,
     "cotaSuperior": 0,
@@ -432,11 +389,11 @@
     "universoReferencia": 2,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 50,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.385Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.799Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

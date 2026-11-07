@@ -2080,34 +2080,6 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E1",
-      "cookie": "mage-cache-storage",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "mage-cache-storage-section-invalidation",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "mage-cache-sessid",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "mage-messages",
-      "dominio": "www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
       "cookie": "recently_viewed_product",
       "dominio": ".www.libreriainternacional.com",
       "regla": "RC-6",
@@ -2138,34 +2110,6 @@
       "escenario": "E1",
       "cookie": "product_data_storage",
       "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "mage-cache-storage",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "mage-cache-storage-section-invalidation",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "mage-cache-sessid",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "mage-messages",
-      "dominio": "www.libreriainternacional.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
@@ -2206,34 +2150,6 @@
     },
     {
       "escenario": "E3",
-      "cookie": "mage-cache-storage",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "mage-cache-storage-section-invalidation",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "mage-cache-sessid",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "mage-messages",
-      "dominio": "www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
       "cookie": "recently_viewed_product",
       "dominio": ".www.libreriainternacional.com",
       "regla": "RC-6",
@@ -2264,34 +2180,6 @@
       "escenario": "E3",
       "cookie": "product_data_storage",
       "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "mage-cache-storage",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "mage-cache-storage-section-invalidation",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "mage-cache-sessid",
-      "dominio": ".www.libreriainternacional.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "mage-messages",
-      "dominio": "www.libreriainternacional.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
@@ -2338,11 +2226,11 @@
     "universoReferencia": 30,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 25.4,
+    "proporcionIndeterminadas": 14.1,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.661Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.097Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

@@ -1043,34 +1043,6 @@
     },
     {
       "escenario": "E0",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "TS00000000076",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "TS016663fa",
-      "dominio": ".www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "TSb2d031e2029",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "TSPD_101_DID",
       "dominio": "www.meic.go.cr",
       "regla": "RC-6",
@@ -1078,21 +1050,7 @@
     },
     {
       "escenario": "E0",
-      "cookie": "TSb2d031e2077",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "TSPD_101",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "TS40a39dcb027",
       "dominio": "www.meic.go.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -1106,34 +1064,6 @@
     },
     {
       "escenario": "E1",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "TS00000000076",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "TS016663fa",
-      "dominio": ".www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "TSb2d031e2029",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
       "cookie": "TSPD_101_DID",
       "dominio": "www.meic.go.cr",
       "regla": "RC-6",
@@ -1141,21 +1071,7 @@
     },
     {
       "escenario": "E1",
-      "cookie": "TSb2d031e2077",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
       "cookie": "TSPD_101",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "TS40a39dcb027",
       "dominio": "www.meic.go.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -1169,34 +1085,6 @@
     },
     {
       "escenario": "E2",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "TS00000000076",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "TS016663fa",
-      "dominio": ".www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "TSb2d031e2029",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "TSPD_101_DID",
       "dominio": "www.meic.go.cr",
       "regla": "RC-6",
@@ -1204,21 +1092,7 @@
     },
     {
       "escenario": "E2",
-      "cookie": "TSb2d031e2077",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "TSPD_101",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "TS40a39dcb027",
       "dominio": "www.meic.go.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -1232,34 +1106,6 @@
     },
     {
       "escenario": "E3",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "TS00000000076",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "TS016663fa",
-      "dominio": ".www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "TSb2d031e2029",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
       "cookie": "TSPD_101_DID",
       "dominio": "www.meic.go.cr",
       "regla": "RC-6",
@@ -1267,21 +1113,7 @@
     },
     {
       "escenario": "E3",
-      "cookie": "TSb2d031e2077",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
       "cookie": "TSPD_101",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "TS40a39dcb027",
       "dominio": "www.meic.go.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -1295,34 +1127,6 @@
     },
     {
       "escenario": "E4",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "TS016663fa",
-      "dominio": ".www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "TS00000000076",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "TSb2d031e2029",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
       "cookie": "TSPD_101_DID",
       "dominio": "www.meic.go.cr",
       "regla": "RC-6",
@@ -1331,34 +1135,6 @@
     {
       "escenario": "E4",
       "cookie": "TSPD_101",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "TS40a39dcb027",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "TSb2d031e2077",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "f5avraaaaaaaaaaaaaaaa_session_",
-      "dominio": "www.meic.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "TS40a39dcb027",
       "dominio": "www.meic.go.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -1371,11 +1147,11 @@
     "universoReferencia": 13,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 74.6,
+    "proporcionIndeterminadas": 23.8,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.674Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.111Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

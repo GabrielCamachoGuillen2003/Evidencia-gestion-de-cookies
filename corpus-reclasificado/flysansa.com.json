@@ -970,53 +970,11 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E0",
-      "cookie": "nlbi_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "visid_incap_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "incap_ses_1698_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E1",
       "cookie": "csrf_token",
       "dominio": ".flysansa.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "nlbi_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "visid_incap_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "incap_ses_1698_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E2",
@@ -1026,53 +984,11 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E2",
-      "cookie": "nlbi_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "visid_incap_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "incap_ses_1698_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E3",
       "cookie": "csrf_token",
       "dominio": ".flysansa.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "nlbi_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "visid_incap_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "incap_ses_1698_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E4",
@@ -1082,53 +998,11 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E4",
-      "cookie": "nlbi_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "visid_incap_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "incap_ses_1698_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E5",
       "cookie": "csrf_token",
       "dominio": ".flysansa.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "nlbi_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "visid_incap_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "incap_ses_1698_2435458",
-      "dominio": ".flysansa.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     }
   ],
   "resumen": {
@@ -1138,11 +1012,11 @@
     "universoReferencia": 9,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 45.3,
+    "proporcionIndeterminadas": 11.3,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.572Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.992Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

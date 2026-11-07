@@ -29,7 +29,8 @@ Recolección de noviembre de 2026.
 | Instalan al menos una cookie | 258 |
 | No instalan ninguna | 43 |
 | Instalación previa al consentimiento (V1) | 233 — 90,3 % de los que instalan |
-| Cookies observadas | 22 458 |
+| Cookies observadas | 22 458 (263 artefactos sin nombre, base 22 195) |
+| Cookies indeterminadas | 1 498 — **6,7 %**, bajo el umbral del 10 % |
 
 La proporción de sitios sin mecanismo **no está extrapolada**: procede del examen
 visual, sitio por sitio, de 251 interfaces. El detector automático se emplea para
@@ -140,6 +141,34 @@ De Disconnect se excluyen las categorías *Anti-fraud* y *ConsentManagers*: la
 prevención de fraude y las propias plataformas de consentimiento no son rastreo, y
 contarlas como tal penalizaría precisamente a los sitios que sí preguntan.
 
+Cuando ninguna de las dos bases resuelve un nombre, interviene la regla **RC-7**,
+que adjudica por plataforma. Se incorporó tras el levantamiento, por el mismo
+procedimiento de ampliación del manual con que se incorporó RC-5b durante el
+piloto, y responde a una constatación empírica: las cookies sin resolver no eran
+cientos de casos independientes, sino un número reducido de plataformas cuyas
+cookies comparten un prefijo. El agrupamiento se derivó de los datos y la
+adjudicación de cada grupo se ancla en el [Dictamen 4/2012 del Grupo de Trabajo
+del Artículo 29](https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2012/wp194_es.pdf),
+que fija la lista de supuestos exentos del artículo 5.3 de la Directiva ePrivacy.
+
+| Grupo | Plataformas | Clasificación |
+|---|---|---|
+| RC-7a | F5/Shape, BIG-IP, Imperva, Cloudflare, Akamai, balanceadores | esencial |
+| RC-7b | Liferay, CakePHP, Laravel, WordPress, Magento, VTEX, ASP.NET | esencial |
+| RC-7c | Complianz, CookieYes, SAP Commerce | esencial |
+| RC-7d | PixelYourSite, Criteo, Prebid, FullStory, Piano, New Relic, mPulse, GA4 de primera parte | **no esencial** |
+
+RC-7 se evalúa después de RC-1, RC-2 y RC-3 —el catálogo explícito y la condición
+de tercero son evidencia más fuerte— y antes de RC-5. Ese último orden no es
+arbitrario: una cookie de sesión de Liferay es persistente y de alta entropía, y
+RC-5 la declararía no esencial por error si se evaluara primero.
+
+Una cookie **sin nombre** queda fuera del denominador por la regla RC-0: no
+almacena nada, luego no puede rastrear ni ser necesaria. Son cabeceras
+`Set-Cookie` malformadas, 263 apariciones en el corpus, y contarlas como
+indeterminadas inflaba un indicador de incertidumbre con algo que no lo es. La
+regla es general y no se escribió para ningún sitio en particular.
+
 Las categorías *Functional* y *Personalization* de la primera base **no se
 imputan**. La exención del artículo 5.3 de la Directiva ePrivacy alcanza solo a lo
 estrictamente necesario, y que una cookie sea funcional no basta para situarla
@@ -153,12 +182,15 @@ no reciben violación alguna.
 ```
 auditor.js          recolección de los seis escenarios y derivación de violaciones
 listas.js           bases públicas importadas, con procedencia y huella
+rc7.js              regla RC-7: adjudicación por plataforma, con su fundamento
 verificar.js        comprobación previa de dominios
 confirmar.js        asistente de verificación visual (ciega)
+confirmar-chrome.js el mismo asistente, con el Chrome del sistema
 acierto.js          validez concurrente: acierto, sensibilidad, especificidad
 clasificar.js       reparto por carpetas y triaje de los no verificables
 reclasificar.js     reclasificación sobre el corpus ya recogido
 indeterminadas.js   análisis de las cookies que ninguna regla resuelve
+familias.js         agrupa las indeterminadas por familia de plataforma
 evidencia.js        capturas de los sitios con aviso confirmado
 reintentar.js       devuelve a la cola las mediciones fallidas
 submuestra.js       depuración del marco y submuestra con semilla fija
@@ -217,11 +249,22 @@ otras: uno que solo quitara sería un sesgo.
 con semilla declarada (20261105) mediante un generador xorshift32. `Math.random()`
 no sirve para esto: nadie podría repetir la selección.
 
-**Las cookies indeterminadas no reciben violación.** Tras aplicar las bases
-públicas, el 18,7 % de las cookies observadas sigue sin resolverse, por encima del
-umbral del 10 % previsto. Como a una cookie indeterminada no se le imputa nada,
-esta proporción no introduce falsos positivos: vuelve conservadoras las cifras de
-violación, que deben leerse como cotas inferiores.
+**Las cookies indeterminadas no reciben violación.** En la primera lectura del
+corpus, el 28,2 % quedó sin resolver. Dos medidas posteriores lo redujeron al
+**6,7 %** sin volver a recoger un solo dato: importar las bases públicas en lugar
+de las listas escritas a mano, y la regla RC-7, que adjudica por plataforma con
+fundamento en el Dictamen 4/2012 del Grupo de Trabajo del Artículo 29. Lo que
+permanece indeterminado es personalización de interfaz e idioma, cuya exención
+exige acreditar que el usuario eligió el ajuste y que dura la sesión: ninguna de
+las dos cosas puede establecerse por observación instrumentada. Como a una cookie
+indeterminada no se le imputa nada, esa proporción no introduce falsos positivos;
+vuelve conservadoras las cifras de violación, que son cotas inferiores.
+
+**Reclasificar no disparó los incumplimientos.** La reasignación de 4 826 cookies
+movió el recuento de sitios con V1 de 229 a 233, y esos cuatro vinieron de las
+bases públicas, no de RC-7. Es la comprobación que importa: si una regla que
+reinterpreta una cuarta parte del corpus hubiera hecho saltar las violaciones,
+habría motivo para sospechar que se diseñó para producir ese efecto.
 
 ---
 

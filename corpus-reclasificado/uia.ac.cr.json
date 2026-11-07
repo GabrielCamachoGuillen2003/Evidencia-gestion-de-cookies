@@ -933,6 +933,7 @@
       "nombre": "Instalación previa al consentimiento",
       "evidencia": [
         "crmcsr@crm.zoho.com",
+        "gclid@uia.ac.cr",
         "_ga_CKFQVCG90D@.uia.ac.cr",
         "_fbp@.uia.ac.cr",
         "_gid@.uia.ac.cr",
@@ -1003,50 +1004,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "gclid",
-      "dominio": "uia.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "gclid",
-      "dominio": "uia.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "gclid",
-      "dominio": "uia.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "gclid",
-      "dominio": "uia.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "gclid",
-      "dominio": "uia.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "gclid",
-      "dominio": "uia.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 1,
     "cotaSuperior": 1,
@@ -1054,11 +1012,11 @@
     "universoReferencia": 10,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 10,
+    "proporcionIndeterminadas": 0,
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.874Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.316Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

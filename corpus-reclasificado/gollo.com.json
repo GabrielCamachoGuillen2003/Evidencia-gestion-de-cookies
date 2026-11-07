@@ -4300,27 +4300,6 @@
     },
     {
       "escenario": "E0",
-      "cookie": "mage-cache-storage",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "mage-cache-storage-section-invalidation",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "mage-customer-login",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "_bss_form_key",
       "dominio": ".www.gollo.com",
       "regla": "RC-6",
@@ -4388,13 +4367,6 @@
       "dominio": ".www.gollo.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "mage-messages",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E0",
@@ -4446,20 +4418,6 @@
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
-      "escenario": "E0",
-      "cookie": "X-Magento-Vary",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "section_data_ids",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E1",
       "cookie": "USESSID",
       "dominio": "www.gollo.com",
@@ -4469,27 +4427,6 @@
     {
       "escenario": "E1",
       "cookie": "requestId",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "mage-cache-storage",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "mage-cache-storage-section-invalidation",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "mage-customer-login",
       "dominio": "www.gollo.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -4563,20 +4500,6 @@
       "dominio": ".www.gollo.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "mage-messages",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "X-Magento-Vary",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E1",
@@ -4628,13 +4551,6 @@
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
-      "escenario": "E1",
-      "cookie": "section_data_ids",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E2",
       "cookie": "USESSID",
       "dominio": "www.gollo.com",
@@ -4644,27 +4560,6 @@
     {
       "escenario": "E2",
       "cookie": "requestId",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "mage-cache-storage",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "mage-cache-storage-section-invalidation",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "mage-customer-login",
       "dominio": "www.gollo.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -4735,20 +4630,6 @@
     {
       "escenario": "E2",
       "cookie": "private_content_version",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "section_data_ids",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "mage-messages",
       "dominio": "www.gollo.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
@@ -4818,27 +4699,6 @@
     },
     {
       "escenario": "E3",
-      "cookie": "mage-cache-storage",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "mage-cache-storage-section-invalidation",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "mage-customer-login",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
       "cookie": "_bss_form_key",
       "dominio": ".www.gollo.com",
       "regla": "RC-6",
@@ -4909,20 +4769,6 @@
     },
     {
       "escenario": "E3",
-      "cookie": "section_data_ids",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "mage-messages",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
       "cookie": "kndctr_F73040EA6299DAC90A495C32_AdobeOrg_identity",
       "dominio": ".gollo.com",
       "regla": "RC-6",
@@ -4973,27 +4819,6 @@
     {
       "escenario": "E4",
       "cookie": "USESSID",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "mage-cache-storage",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "mage-cache-storage-section-invalidation",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "mage-customer-login",
       "dominio": "www.gollo.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -5057,13 +4882,6 @@
     {
       "escenario": "E4",
       "cookie": "private_content_version",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "mage-messages",
       "dominio": "www.gollo.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
@@ -5126,31 +4944,10 @@
     },
     {
       "escenario": "E4",
-      "cookie": "mage-cache-sessid",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
       "cookie": "wpnViewcount",
       "dominio": "www.gollo.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "X-Magento-Vary",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "section_data_ids",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E5",
@@ -5162,27 +4959,6 @@
     {
       "escenario": "E5",
       "cookie": "requestId",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "mage-cache-storage",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "mage-cache-storage-section-invalidation",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "mage-customer-login",
       "dominio": "www.gollo.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -5245,13 +5021,6 @@
     },
     {
       "escenario": "E5",
-      "cookie": "mage-messages",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
       "cookie": "kndctr_F73040EA6299DAC90A495C32_AdobeOrg_identity",
       "dominio": ".gollo.com",
       "regla": "RC-6",
@@ -5301,20 +5070,6 @@
     },
     {
       "escenario": "E5",
-      "cookie": "mage-cache-sessid",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "X-Magento-Vary",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
       "cookie": "wpnViewcount",
       "dominio": "www.gollo.com",
       "regla": "RC-6",
@@ -5323,13 +5078,6 @@
     {
       "escenario": "E5",
       "cookie": "private_content_version",
-      "dominio": "www.gollo.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "section_data_ids",
       "dominio": "www.gollo.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
@@ -5342,11 +5090,11 @@
     "universoReferencia": 53,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 46.2,
+    "proporcionIndeterminadas": 35.1,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.580Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.002Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

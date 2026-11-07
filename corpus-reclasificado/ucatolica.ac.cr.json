@@ -902,13 +902,6 @@
     },
     {
       "escenario": "E0",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "www.ucatolica.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
       "cookie": "__RequestVerificationToken",
       "dominio": "www.ucatolica.ac.cr",
       "regla": "RC-6",
@@ -927,13 +920,6 @@
       "dominio": "www.ucatolica.ac.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "www.ucatolica.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E1",
@@ -958,13 +944,6 @@
     },
     {
       "escenario": "E2",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "www.ucatolica.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
       "cookie": "__RequestVerificationToken",
       "dominio": "www.ucatolica.ac.cr",
       "regla": "RC-6",
@@ -983,13 +962,6 @@
       "dominio": "www.ucatolica.ac.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "www.ucatolica.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E3",
@@ -1011,13 +983,6 @@
       "dominio": "www.ucatolica.ac.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "www.ucatolica.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E4",
@@ -1039,13 +1004,6 @@
       "dominio": "www.ucatolica.ac.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": ".ASPXANONYMOUS",
-      "dominio": "www.ucatolica.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E5",
@@ -1062,11 +1020,11 @@
     "universoReferencia": 9,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 44.4,
+    "proporcionIndeterminadas": 33.3,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.863Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.304Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

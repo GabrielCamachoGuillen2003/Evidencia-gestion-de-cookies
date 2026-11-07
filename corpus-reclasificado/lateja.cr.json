@@ -23209,14 +23209,22 @@
         "rxs_p_adaptmx@.plusoneads.com",
         "rxs_b_krushmedia@.plusoneads.com",
         "compass_uid@.lateja.cr",
+        "RT@.lateja.cr",
         "_gcl_au@.lateja.cr",
         "1459_u@.newsroom.bi",
         "1459_s@.newsroom.bi",
         "1459_lv@.newsroom.bi",
         "1459_ut@.newsroom.bi",
+        "_pcid@.lateja.cr",
+        "__browsiSessionID@www.lateja.cr",
+        "__tbc@.lateja.cr",
         "__pat@.lateja.cr",
         "__pvi@.lateja.cr",
+        "_pctx@.lateja.cr",
+        "xbc@.lateja.cr",
         "_ga@.lateja.cr",
+        "___nrbic@.lateja.cr",
+        "___nrbi@.lateja.cr",
         "FPID@.lateja.cr",
         "_fbp@.lateja.cr",
         "cnx_userId@.connatix.com",
@@ -23243,6 +23251,7 @@
         "IDE@.doubleclick.net",
         "otad_red@.ottadvisors.com",
         "otad_key@.ottadvisors.com",
+        "_pubcid@.lateja.cr",
         "_ga_YS2SSEQKK1@.lateja.cr",
         "sa-user-id@sync.srv.stackadapt.com",
         "sa-user-id@.srv.stackadapt.com",
@@ -23428,6 +23437,8 @@
         "_ym_uid@www.lateja.cr",
         "3pi@.id5-sync.com",
         "rxid@.plusoneads.com",
+        "cto_bundle@.lateja.cr",
+        "cto_bidid@.lateja.cr",
         "amuid2@.a-mx.com",
         "amuid2_p@.a-mx.com",
         "amdt_t@.a-mx.com",
@@ -23585,76 +23596,6 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "AKA_A2",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "RT",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "_pcid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "__tbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "_pctx",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "xbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "___nrbic",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "___nrbi",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "_pubcid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "nvq_hid",
       "dominio": "www.lateja.cr",
       "regla": "RC-6",
@@ -23664,90 +23605,6 @@
       "escenario": "E0",
       "cookie": "_ym_uid_cst",
       "dominio": "www.lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "cto_bundle",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "cto_bidid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "AKA_A2",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "RT",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_pcid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "__tbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_pctx",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "xbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "___nrbic",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "___nrbi",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_pubcid",
-      "dominio": ".lateja.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
@@ -23766,90 +23623,6 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E1",
-      "cookie": "cto_bundle",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "cto_bidid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "AKA_A2",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "RT",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_pcid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "___nrbic",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "___nrbi",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "__tbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_pctx",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "xbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_pubcid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E2",
       "cookie": "nvq_hid",
       "dominio": "www.lateja.cr",
@@ -23860,20 +23633,6 @@
       "escenario": "E2",
       "cookie": "_ym_uid_cst",
       "dominio": "www.lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cto_bundle",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cto_bidid",
-      "dominio": ".lateja.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
@@ -23886,69 +23645,6 @@
     },
     {
       "escenario": "E3",
-      "cookie": "AKA_A2",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "RT",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_pcid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "__tbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_pctx",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "xbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "___nrbic",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "___nrbi",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
       "cookie": "lotame_domain_check",
       "dominio": ".lateja.cr",
       "regla": "RC-6",
@@ -23956,13 +23652,6 @@
     },
     {
       "escenario": "E3",
-      "cookie": "_pubcid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
       "cookie": "nvq_hid",
       "dominio": "www.lateja.cr",
       "regla": "RC-6",
@@ -23983,62 +23672,6 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E3",
-      "cookie": "cto_bundle",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "cto_bidid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "AKA_A2",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_pcid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_pctx",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "___nrbi",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_pubcid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E4",
       "cookie": "panoramaIdType",
       "dominio": ".lateja.cr",
@@ -24047,34 +23680,6 @@
     },
     {
       "escenario": "E4",
-      "cookie": "___nrbic",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "RT",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "__tbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "xbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
       "cookie": "nvq_hid",
       "dominio": "www.lateja.cr",
       "regla": "RC-6",
@@ -24088,62 +23693,6 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E4",
-      "cookie": "cto_bundle",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "cto_bidid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "AKA_A2",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_pcid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_pctx",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "__browsiSessionID",
-      "dominio": "www.lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "___nrbi",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_pubcid",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E5",
       "cookie": "_ym_uid_cst",
       "dominio": "www.lateja.cr",
@@ -24152,50 +23701,8 @@
     },
     {
       "escenario": "E5",
-      "cookie": "___nrbic",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "RT",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "__tbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "xbc",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
       "cookie": "nvq_hid",
       "dominio": "www.lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cto_bundle",
-      "dominio": ".lateja.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cto_bidid",
-      "dominio": ".lateja.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
@@ -24214,11 +23721,11 @@
     "universoReferencia": 357,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 4.6,
+    "proporcionIndeterminadas": 0.9,
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.652Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.087Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

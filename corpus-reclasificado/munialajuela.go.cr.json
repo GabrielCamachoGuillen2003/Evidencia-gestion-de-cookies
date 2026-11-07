@@ -664,13 +664,6 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "__cf_ob",
-      "dominio": "www.munialajuela.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "MuniAlajuela",
       "dominio": "www.munialajuela.go.cr",
       "regla": "RC-6",
@@ -685,13 +678,6 @@
     },
     {
       "escenario": "E1",
-      "cookie": "__cf_ob",
-      "dominio": "www.munialajuela.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
       "cookie": "MuniAlajuela",
       "dominio": "www.munialajuela.go.cr",
       "regla": "RC-6",
@@ -706,13 +692,6 @@
     },
     {
       "escenario": "E2",
-      "cookie": "__cf_ob",
-      "dominio": "www.munialajuela.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "MuniAlajuela",
       "dominio": "www.munialajuela.go.cr",
       "regla": "RC-6",
@@ -727,13 +706,6 @@
     },
     {
       "escenario": "E3",
-      "cookie": "__cf_ob",
-      "dominio": "www.munialajuela.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
       "cookie": "MuniAlajuela",
       "dominio": "www.munialajuela.go.cr",
       "regla": "RC-6",
@@ -748,13 +720,6 @@
     },
     {
       "escenario": "E4",
-      "cookie": "__cf_ob",
-      "dominio": "www.munialajuela.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
       "cookie": "MuniAlajuela",
       "dominio": "www.munialajuela.go.cr",
       "regla": "RC-6",
@@ -763,13 +728,6 @@
     {
       "escenario": "E4",
       "cookie": "HASH_MuniAlajuela",
-      "dominio": "www.munialajuela.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "__cf_ob",
       "dominio": "www.munialajuela.go.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -796,11 +754,11 @@
     "universoReferencia": 6,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 50,
+    "proporcionIndeterminadas": 33.3,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.707Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.143Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

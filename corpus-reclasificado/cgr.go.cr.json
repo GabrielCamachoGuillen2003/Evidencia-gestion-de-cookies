@@ -559,24 +559,10 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "cookiesession1",
-      "dominio": "cgrwebchat2.cgr.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "lz_userid",
       "dominio": "cgrwebchat2.cgr.go.cr",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "cookiesession1",
-      "dominio": "cgrwebchat2.cgr.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E1",
@@ -587,24 +573,10 @@
     },
     {
       "escenario": "E2",
-      "cookie": "cookiesession1",
-      "dominio": "cgrwebchat2.cgr.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "lz_userid",
       "dominio": "cgrwebchat2.cgr.go.cr",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "cookiesession1",
-      "dominio": "cgrwebchat2.cgr.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E3",
@@ -615,24 +587,10 @@
     },
     {
       "escenario": "E4",
-      "cookie": "cookiesession1",
-      "dominio": "cgrwebchat2.cgr.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
       "cookie": "lz_userid",
       "dominio": "cgrwebchat2.cgr.go.cr",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cookiesession1",
-      "dominio": "cgrwebchat2.cgr.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E5",
@@ -649,11 +607,11 @@
     "universoReferencia": 4,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 50,
+    "proporcionIndeterminadas": 25,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.451Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.868Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

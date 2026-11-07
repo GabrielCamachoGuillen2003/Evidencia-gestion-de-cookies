@@ -2795,34 +2795,6 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "vtex-search-session",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "VtexRCSessionIdv7",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "VtexRCMacIdv7",
       "dominio": ".walmart.co.cr",
       "regla": "RC-6",
@@ -2830,56 +2802,7 @@
     },
     {
       "escenario": "E0",
-      "cookie": "vtex_session",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "vtex_segment",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "sp-variant",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "VtexRCSessionIdv7",
       "dominio": ".walmart.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -2893,98 +2816,7 @@
     },
     {
       "escenario": "E1",
-      "cookie": "vtex_session",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "vtex_segment",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "vtex-search-session",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
       "cookie": "sp-variant",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "vtex_session",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "vtex_segment",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "vtex-search-session",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "VtexRCSessionIdv7",
       "dominio": ".walmart.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -3004,41 +2836,6 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E2",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "VtexRCSessionIdv7",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E3",
       "cookie": "VtexRCMacIdv7",
       "dominio": ".walmart.co.cr",
@@ -3047,70 +2844,7 @@
     },
     {
       "escenario": "E3",
-      "cookie": "vtex-search-session",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "vtex_session",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "vtex_segment",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
       "cookie": "sp-variant",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "VtexRCSessionIdv7",
       "dominio": ".walmart.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -3124,70 +2858,7 @@
     },
     {
       "escenario": "E4",
-      "cookie": "vtex_segment",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "vtex-search-session",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
       "cookie": "sp-variant",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "vtex_session",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "VtexRCSessionIdv7",
       "dominio": ".walmart.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -3201,57 +2872,8 @@
     },
     {
       "escenario": "E5",
-      "cookie": "vtex_segment",
-      "dominio": "www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "vtex-search-session",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "vtex-search-anonymous",
-      "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
       "cookie": "sp-variant",
       "dominio": ".walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.walmart.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "vtex_session",
-      "dominio": "www.walmart.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     }
@@ -3265,11 +2887,11 @@
     "tratamientosAplicados": [
       "E1"
     ],
-    "proporcionIndeterminadas": 34.2,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 6.2,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.896Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.338Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

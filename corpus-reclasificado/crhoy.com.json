@@ -3693,6 +3693,7 @@
         "_fbp@.crhoy.com",
         "__gads@.crhoy.com",
         "__gpi@.crhoy.com",
+        "_pubcid@.crhoy.com",
         "IDE@.doubleclick.net",
         "i@.openx.net",
         "A3@.yahoo.com",
@@ -3701,12 +3702,15 @@
         "_cc_id@.crhoy.com",
         "panoramaId_expiry@.crhoy.com",
         "cto_bundle@.criteo.com",
+        "cto_bundle@.crhoy.com",
         "iuid@.mygaru.com",
         "pd@.openx.net",
         "IDSYNC@.analytics.yahoo.com",
         "uid@.turn.com",
         "TDID@.adsrvr.org",
         "TDCPM@.adsrvr.org",
+        "___nrbic@.crhoy.com",
+        "___nrbi@.crhoy.com",
         "compass_uid@.crhoy.com",
         "_ttp@.tiktok.com",
         "CLID@www.clarity.ms",
@@ -3739,6 +3743,7 @@
         "_fbp@.crhoy.com",
         "__gads@.crhoy.com",
         "__gpi@.crhoy.com",
+        "_pubcid@.crhoy.com",
         "IDE@.doubleclick.net",
         "uid@.criteo.com",
         "i@.openx.net",
@@ -3747,12 +3752,14 @@
         "_cc_id@.crhoy.com",
         "panoramaId_expiry@.crhoy.com",
         "cto_bundle@.criteo.com",
+        "cto_bundle@.crhoy.com",
         "iuid@.mygaru.com",
         "pd@.openx.net",
         "IDSYNC@.analytics.yahoo.com",
         "TDID@.adsrvr.org",
         "uid@.turn.com",
         "TDCPM@.adsrvr.org",
+        "___nrbi@.crhoy.com",
         "compass_uid@.crhoy.com",
         "_ttp@.tiktok.com",
         "CLID@www.clarity.ms",
@@ -3771,6 +3778,7 @@
         "MUID@.clarity.ms",
         "MR@.c.clarity.ms",
         "ANONCHK@.c.clarity.ms",
+        "___nrbic@.crhoy.com",
         "_clsk@.crhoy.com",
         "ttcsid@.crhoy.com",
         "ttcsid_D4O704JC77UDQ79J0HAG@.crhoy.com"
@@ -3830,48 +3838,6 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "_pubcid",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "connectId",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "cto_bundle",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "___nrbic",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "___nrbi",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_pubcid",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
       "cookie": "connectId",
       "dominio": ".crhoy.com",
       "regla": "RC-6",
@@ -3879,28 +3845,7 @@
     },
     {
       "escenario": "E1",
-      "cookie": "cto_bundle",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "___nrbic",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "___nrbi",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_pubcid",
+      "cookie": "connectId",
       "dominio": ".crhoy.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -3913,64 +3858,8 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E2",
-      "cookie": "cto_bundle",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "___nrbic",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "___nrbi",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_pubcid",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "___nrbic",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "___nrbi",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E3",
       "cookie": "connectId",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "cto_bundle",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_pubcid",
       "dominio": ".crhoy.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -3983,57 +3872,8 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E4",
-      "cookie": "cto_bundle",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "___nrbi",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "___nrbic",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_pubcid",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E5",
       "cookie": "connectId",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cto_bundle",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "___nrbi",
-      "dominio": ".crhoy.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "___nrbic",
       "dominio": ".crhoy.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -4046,11 +3886,11 @@
     "universoReferencia": 45,
     "bannerDetectado": true,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 11.2,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 2.2,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.510Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.927Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

@@ -20,13 +20,14 @@ const fs = require('fs');
 const path = require('path');
 const { derivarViolaciones } = require('./auditor.js');
 const L = require('./listas.js');
+const RC7 = require('./rc7.js');
 
 const CORPUS = process.argv.find((a, i) => i > 1 && !a.startsWith('--')) || 'corpus';
 const APLICAR = process.argv.includes('--aplicar');
 const DESTINO = CORPUS.replace(/[\/\\]$/, '') + '-reclasificado';
 const ESC = ['E0', 'E1', 'E2', 'E3', 'E4', 'E5'];
 
-let fichas = 0, cookiesTot = 0;
+let fichas = 0, cookiesTot = 0, artefactos = 0;
 let indAntes = 0, indDespues = 0, funcionales = 0;
 const vAntes = {}, vDespues = {};
 const movidos = [];
@@ -41,6 +42,9 @@ for (const f of fs.readdirSync(CORPUS).filter((x) => x.endsWith('.json'))) {
 
   const total = ESC.reduce((n, e) => n + ((d.escenarios[e] || {}).cookies || []).length, 0);
   cookiesTot += total;
+  for (const e of ESC) {
+    for (const c of ((d.escenarios[e] || {}).cookies || [])) if (RC7.esArtefacto(c)) artefactos++;
+  }
   indAntes += (d.cookiesIndeterminadas || []).length;
   for (const v of d.violaciones || []) vAntes[v.id] = (vAntes[v.id] || 0) + 1;
 
@@ -86,12 +90,15 @@ console.log(`  F1  ${L.PROCEDENCIA.F1.nombre}  ·  ${L.PROCEDENCIA.F1.entradas} 
 console.log(`  F2  ${L.PROCEDENCIA.F2.nombre}  ·  ${L.PROCEDENCIA.F2.dominios} dominios  ·  ${L.PROCEDENCIA.F2.descargada}`);
 console.log(`\n  fichas procesadas        ${fichas}`);
 console.log(`  cookies observadas       ${cookiesTot}   (ninguna se vuelve a recoger)`);
+console.log(`  artefactos (RC-0)        ${artefactos}   cookies sin nombre: no almacenan nada`);
+const BASE = cookiesTot - artefactos;
+console.log(`  base de clasificación    ${BASE}`);
 
 console.log('\n' + linea);
 console.log('COOKIES INDETERMINADAS (regla RC-6)');
 console.log(linea);
-console.log(`  antes   ${String(indAntes).padStart(6)}   ${pc(indAntes, cookiesTot)}`);
-console.log(`  después ${String(indDespues).padStart(6)}   ${pc(indDespues, cookiesTot)}   umbral 10 %  ${indDespues / cookiesTot <= 0.1 ? '✓' : '✗'}`);
+console.log(`  antes   ${String(indAntes).padStart(6)}   ${pc(indAntes, cookiesTot)}   sobre las ${cookiesTot} observadas`);
+console.log(`  después ${String(indDespues).padStart(6)}   ${pc(indDespues, BASE)}   sobre las ${BASE} clasificables   umbral 10 %  ${indDespues / BASE <= 0.1 ? '✓' : '✗'}`);
 const dif = indAntes - indDespues;
 if (dif >= 0) console.log(`  resueltas por las bases  ${dif}   ${pc(dif, indAntes || 1)} de las que había`);
 else console.log(`  aparecen ${-dif} indeterminadas más: las reglas nuevas dejan sin`);

@@ -2740,12 +2740,17 @@
       "nombre": "Instalación previa al consentimiento",
       "evidencia": [
         "X-AB@sc-static.net",
+        "trackerUnomiSessionId@www.visitcostarica.com",
+        "tracker-context-profile-id@.visitcostarica.com",
+        "trackerUnomiSessionId@es.visitcostarica.com",
         "uid@.turn.com",
         "bito@.bidr.io",
         "bitoIsSecure@.bidr.io",
         "_scid@.visitcostarica.com",
         "_scid_r@.visitcostarica.com",
         "cid@.sojern.com",
+        "trackerUnomiAnonymous@es.visitcostarica.com",
+        "sjrn_ccid@es.visitcostarica.com",
         "TDID@.adsrvr.org",
         "XANDR_PANID@.adnxs.com",
         "uuid2@.adnxs.com",
@@ -2774,12 +2779,17 @@
       "evidencia": [
         "X-AB@sc-static.net",
         "_GRECAPTCHA@www.google.com",
+        "trackerUnomiSessionId@www.visitcostarica.com",
+        "tracker-context-profile-id@.visitcostarica.com",
+        "trackerUnomiSessionId@es.visitcostarica.com",
         "uid@.turn.com",
         "bito@.bidr.io",
         "bitoIsSecure@.bidr.io",
         "_scid@.visitcostarica.com",
         "_scid_r@.visitcostarica.com",
         "cid@.sojern.com",
+        "trackerUnomiAnonymous@es.visitcostarica.com",
+        "sjrn_ccid@es.visitcostarica.com",
         "TDID@.adsrvr.org",
         "XANDR_PANID@.adnxs.com",
         "uuid2@.adnxs.com",
@@ -2808,12 +2818,17 @@
       "nombre": "Aceptación implícita por navegación",
       "evidencia": [
         "X-AB@sc-static.net",
+        "trackerUnomiSessionId@www.visitcostarica.com",
+        "tracker-context-profile-id@.visitcostarica.com",
+        "trackerUnomiSessionId@es.visitcostarica.com",
         "uid@.turn.com",
         "_scid@.visitcostarica.com",
         "bito@.bidr.io",
         "bitoIsSecure@.bidr.io",
+        "trackerUnomiAnonymous@es.visitcostarica.com",
         "cid@.sojern.com",
         "TDID@.adsrvr.org",
+        "sjrn_ccid@es.visitcostarica.com",
         "sc_at@.snapchat.com",
         "TDCPM@.adsrvr.org",
         "C@.adform.net",
@@ -2842,11 +2857,16 @@
       "evidencia": [
         "el banner reaparece en la revisita",
         "X-AB@sc-static.net",
+        "trackerUnomiSessionId@www.visitcostarica.com",
+        "tracker-context-profile-id@.visitcostarica.com",
+        "trackerUnomiSessionId@es.visitcostarica.com",
         "uid@.turn.com",
         "bito@.bidr.io",
         "bitoIsSecure@.bidr.io",
         "_scid@.visitcostarica.com",
+        "trackerUnomiAnonymous@es.visitcostarica.com",
         "cid@.sojern.com",
+        "sjrn_ccid@es.visitcostarica.com",
         "TDID@.adsrvr.org",
         "TDCPM@.adsrvr.org",
         "C@.adform.net",
@@ -2900,80 +2920,10 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "www.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "tracker-context-profile-id",
-      "dominio": ".visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "trackerUnomiAnonymous",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "sjrn_ccid",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "OptanonAlertBoxClosed",
       "dominio": ".visitcostarica.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "www.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "tracker-context-profile-id",
-      "dominio": ".visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "trackerUnomiAnonymous",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "sjrn_ccid",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E1",
@@ -2984,80 +2934,10 @@
     },
     {
       "escenario": "E2",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "www.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "tracker-context-profile-id",
-      "dominio": ".visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "trackerUnomiAnonymous",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "sjrn_ccid",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "OptanonAlertBoxClosed",
       "dominio": ".visitcostarica.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "www.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "tracker-context-profile-id",
-      "dominio": ".visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "trackerUnomiAnonymous",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "sjrn_ccid",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E3",
@@ -3068,41 +2948,6 @@
     },
     {
       "escenario": "E4",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "www.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "tracker-context-profile-id",
-      "dominio": ".visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "trackerUnomiAnonymous",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "sjrn_ccid",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
       "cookie": "OptanonAlertBoxClosed",
       "dominio": ".visitcostarica.com",
       "regla": "RC-6",
@@ -3110,59 +2955,10 @@
     },
     {
       "escenario": "E5",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "www.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "tracker-context-profile-id",
-      "dominio": ".visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "trackerUnomiSessionId",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "trackerUnomiAnonymous",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "sjrn_ccid",
-      "dominio": "es.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
       "cookie": "OptanonAlertBoxClosed",
       "dominio": ".visitcostarica.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "trackerUnomiAnonymous",
-      "dominio": "www.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "sjrn_ccid",
-      "dominio": "www.visitcostarica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     }
   ],
   "resumen": {
@@ -3177,11 +2973,11 @@
       "E2",
       "E3"
     ],
-    "proporcionIndeterminadas": 19.3,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 3,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.892Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.334Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

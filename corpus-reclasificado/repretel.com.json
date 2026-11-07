@@ -2513,8 +2513,11 @@
       "gravedad": "Alta",
       "nombre": "Instalación previa al consentimiento",
       "evidencia": [
+        "___nrbic@.repretel.com",
+        "___nrbi@.repretel.com",
         "compass_uid@.repretel.com",
         "_ga@.repretel.com",
+        "_pubcid@.repretel.com",
         "9622_u@.newsroom.bi",
         "9622_s@.newsroom.bi",
         "9622_lv@.newsroom.bi",
@@ -2603,48 +2606,6 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "___nrbic",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "___nrbi",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "_pbjs_userid_consent_data",
-      "dominio": "www.repretel.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "_pubcid",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "___nrbic",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "___nrbi",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
       "cookie": "_pbjs_userid_consent_data",
       "dominio": "www.repretel.com",
       "regla": "RC-6",
@@ -2652,24 +2613,10 @@
     },
     {
       "escenario": "E1",
-      "cookie": "_pubcid",
-      "dominio": ".repretel.com",
+      "cookie": "_pbjs_userid_consent_data",
+      "dominio": "www.repretel.com",
       "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "___nrbic",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "___nrbi",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
+      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E2",
@@ -2679,46 +2626,11 @@
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
-      "escenario": "E2",
-      "cookie": "_pubcid",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "___nrbic",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "___nrbi",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E3",
       "cookie": "_pbjs_userid_consent_data",
       "dominio": "www.repretel.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_pubcid",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "___nrbi",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E4",
@@ -2728,46 +2640,11 @@
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
-      "escenario": "E4",
-      "cookie": "_pubcid",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "___nrbic",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "___nrbi",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E5",
       "cookie": "_pbjs_userid_consent_data",
       "dominio": "www.repretel.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_pubcid",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "___nrbic",
-      "dominio": ".repretel.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     }
   ],
   "resumen": {
@@ -2777,11 +2654,11 @@
     "universoReferencia": 30,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 13.3,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 3.3,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.801Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.238Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

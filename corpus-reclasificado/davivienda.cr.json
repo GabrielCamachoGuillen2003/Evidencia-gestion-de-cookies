@@ -1587,66 +1587,10 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "visid_incap_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "nlbi_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "incap_ses_1697_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "nlbi_2912212_2147483392",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
       "cookie": "reese84",
       "dominio": ".bienvenido.davivienda.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "visid_incap_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "nlbi_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "incap_ses_1697_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "nlbi_2912212_2147483392",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E1",
@@ -1657,66 +1601,10 @@
     },
     {
       "escenario": "E2",
-      "cookie": "visid_incap_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "nlbi_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "incap_ses_1697_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "nlbi_2912212_2147483392",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
       "cookie": "reese84",
       "dominio": ".bienvenido.davivienda.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "visid_incap_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "nlbi_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "incap_ses_1697_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "nlbi_2912212_2147483392",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E3",
@@ -1727,64 +1615,8 @@
     },
     {
       "escenario": "E4",
-      "cookie": "visid_incap_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "nlbi_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "incap_ses_1697_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
       "cookie": "reese84",
       "dominio": ".bienvenido.davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "nlbi_2912212_2147483392",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "visid_incap_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "nlbi_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "incap_ses_1697_2912212",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "incap-resubmit-token",
-      "dominio": "bienvenido.davivienda.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
@@ -1794,13 +1626,6 @@
       "dominio": ".bienvenido.davivienda.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "nlbi_2912212_2147483392",
-      "dominio": ".davivienda.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     }
   ],
   "resumen": {
@@ -1810,11 +1635,11 @@
     "universoReferencia": 19,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 27,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 5.2,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.516Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.934Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

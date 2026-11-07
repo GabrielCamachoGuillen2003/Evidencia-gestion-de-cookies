@@ -338,50 +338,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "CakeCookie[muni_oreamuno_cookie]",
-      "dominio": "oreamuno.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "CakeCookie[muni_oreamuno_cookie]",
-      "dominio": "oreamuno.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "CakeCookie[muni_oreamuno_cookie]",
-      "dominio": "oreamuno.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "CakeCookie[muni_oreamuno_cookie]",
-      "dominio": "oreamuno.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "CakeCookie[muni_oreamuno_cookie]",
-      "dominio": "oreamuno.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "CakeCookie[muni_oreamuno_cookie]",
-      "dominio": "oreamuno.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 0,
     "cotaSuperior": 0,
@@ -391,11 +348,11 @@
     "tratamientosAplicados": [
       "E1"
     ],
-    "proporcionIndeterminadas": 85.7,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.775Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.214Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

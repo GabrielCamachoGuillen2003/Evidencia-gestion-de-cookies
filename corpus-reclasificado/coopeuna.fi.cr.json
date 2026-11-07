@@ -753,7 +753,11 @@
       "gravedad": "Alta",
       "nombre": "Instalación previa al consentimiento",
       "evidencia": [
-        "_scc_session@.coopeuna.fi.cr"
+        "traffic_target@www.coopeuna.fi.cr",
+        "_tccl_visitor@.coopeuna.fi.cr",
+        "_tccl_visit@.coopeuna.fi.cr",
+        "_scc_session@.coopeuna.fi.cr",
+        "pvisitor@www.coopeuna.fi.cr"
       ],
       "regla": "cookies no esenciales presentes en E0"
     }
@@ -819,13 +823,6 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "traffic_target",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "caf_ipaddr",
       "dominio": "www.coopeuna.fi.cr",
       "regla": "RC-6",
@@ -841,34 +838,6 @@
     {
       "escenario": "E0",
       "cookie": "lander_type",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "_tccl_visitor",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "_tccl_visit",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pvisitor",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "traffic_target",
       "dominio": "www.coopeuna.fi.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -895,34 +864,6 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E1",
-      "cookie": "_tccl_visitor",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_tccl_visit",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pvisitor",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "traffic_target",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E2",
       "cookie": "caf_ipaddr",
       "dominio": "www.coopeuna.fi.cr",
@@ -939,34 +880,6 @@
     {
       "escenario": "E2",
       "cookie": "lander_type",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_tccl_visitor",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_tccl_visit",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pvisitor",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "traffic_target",
       "dominio": "www.coopeuna.fi.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -993,34 +906,6 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E3",
-      "cookie": "_tccl_visitor",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_tccl_visit",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pvisitor",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "traffic_target",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E4",
       "cookie": "caf_ipaddr",
       "dominio": "www.coopeuna.fi.cr",
@@ -1042,34 +927,6 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E4",
-      "cookie": "_tccl_visitor",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_tccl_visit",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pvisitor",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "traffic_target",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E5",
       "cookie": "caf_ipaddr",
       "dominio": "www.coopeuna.fi.cr",
@@ -1086,27 +943,6 @@
     {
       "escenario": "E5",
       "cookie": "lander_type",
-      "dominio": "www.coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_tccl_visitor",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_tccl_visit",
-      "dominio": ".coopeuna.fi.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pvisitor",
       "dominio": "www.coopeuna.fi.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -1119,11 +955,11 @@
     "universoReferencia": 9,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 77.8,
+    "proporcionIndeterminadas": 33.3,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.501Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.918Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

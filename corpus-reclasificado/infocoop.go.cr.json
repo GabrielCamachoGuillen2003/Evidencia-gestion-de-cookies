@@ -617,7 +617,9 @@
       "nombre": "Instalación previa al consentimiento",
       "evidencia": [
         "_ga_T64SEHGF7H@.infocoop.go.cr",
-        "_ga@.infocoop.go.cr"
+        "_ga@.infocoop.go.cr",
+        "twk_idm_key@www.infocoop.go.cr",
+        "TawkConnectionTime@www.infocoop.go.cr"
       ],
       "regla": "cookies no esenciales presentes en E0"
     }
@@ -680,134 +682,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "__cf_ob",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "twk_idm_key",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "__cf_ob",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "twk_idm_key",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "__cf_ob",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "twk_idm_key",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "__cf_ob",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "twk_idm_key",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "__cf_ob",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "twk_idm_key",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "__cf_ob",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "twk_idm_key",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.infocoop.go.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 1,
     "cotaSuperior": 1,
@@ -815,11 +690,11 @@
     "universoReferencia": 6,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 50,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.617Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.043Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

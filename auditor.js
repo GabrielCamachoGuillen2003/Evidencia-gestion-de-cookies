@@ -105,6 +105,7 @@ const COOKIES_ESENCIALES = [
 // la fuente y que un tercero reproduzca la clasificación. Una lista propia no
 // puede presentarse como la de Disconnect: por eso se importan y no se copian.
 const L = require('./listas.js');
+const RC7 = require('./rc7.js');   // regla RC-7 y detección de artefactos
 const SET_ESENCIALES = new Set(L.OCD_ESENCIALES);
 const SET_RASTREO = new Set(L.OCD_RASTREO);
 const SET_FUNCIONALES = new Set(L.OCD_FUNCIONALES);
@@ -160,6 +161,12 @@ function clasificar(cookie, hostSitio, soloTrasAceptar = false) {
   const host = (cookie.domain || '').replace(/^\./, '');
   const terceraParte = !esPrimeraParte(host, hostSitio);
 
+  // RC-0. Cookie sin nombre: no almacena nada, luego no puede rastrear ni ser
+  // necesaria. Es una cabecera malformada, no una observación. Queda fuera del
+  // denominador en vez de contarse como incertidumbre.
+  if (RC7.esArtefacto(cookie))
+    return { clase: 'artefacto', regla: 'RC-0', motivo: 'cookie sin nombre: no almacena nada y no es clasificable' };
+
   if (COOKIES_ESENCIALES.some((rx) => rx.test(nombre)))
     return { clase: 'esencial', regla: 'RC-1', motivo: 'patrón de sesión, seguridad o registro de consentimiento' };
 
@@ -177,6 +184,12 @@ function clasificar(cookie, hostSitio, soloTrasAceptar = false) {
 
   if (terceraParte)
     return { clase: 'no_esencial', regla: 'RC-3', motivo: `cookie de tercero (${host})` };
+
+  // RC-7: identificación por plataforma. Va antes que RC-5 a propósito: una
+  // cookie de sesión de Liferay es persistente y de alta entropía, y RC-5 la
+  // declararía no esencial por error si se evaluara primero.
+  const porPlataforma = RC7.clasificarPorPlataforma(nombre);
+  if (porPlataforma) return porPlataforma;
 
   // RC-5: primera parte, persistente y con valor de alta entropía → presunción
   const duracionDias = cookie.expires > 0 ? (cookie.expires * 1000 - Date.now()) / 86400000 : 0;

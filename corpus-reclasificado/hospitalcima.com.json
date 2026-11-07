@@ -2022,6 +2022,13 @@
         "sbjs_first@.hospitalcima.com",
         "sbjs_udata@.hospitalcima.com",
         "sbjs_session@.hospitalcima.com",
+        "pys_session_limit@.hospitalcima.com",
+        "pys_start_session@.hospitalcima.com",
+        "pys_first_visit@.hospitalcima.com",
+        "pysTrafficSource@.hospitalcima.com",
+        "pys_landing_page@.hospitalcima.com",
+        "last_pysTrafficSource@.hospitalcima.com",
+        "last_pys_landing_page@.hospitalcima.com",
         "_fbp@.hospitalcima.com",
         "YSC@.youtube.com",
         "VISITOR_INFO1_LIVE@.youtube.com",
@@ -2103,55 +2110,6 @@
     },
     {
       "escenario": "E0",
-      "cookie": "pys_session_limit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_start_session",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_first_visit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_landing_page",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "pbid",
       "dominio": ".hospitalcima.com",
       "regla": "RC-6",
@@ -2163,55 +2121,6 @@
       "dominio": "hospitalcima.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_session_limit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_start_session",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_first_visit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_landing_page",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E1",
@@ -2229,55 +2138,6 @@
     },
     {
       "escenario": "E2",
-      "cookie": "pys_session_limit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_start_session",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_first_visit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_landing_page",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "pbid",
       "dominio": ".hospitalcima.com",
       "regla": "RC-6",
@@ -2292,105 +2152,7 @@
     },
     {
       "escenario": "E3",
-      "cookie": "pys_session_limit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_start_session",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_first_visit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_landing_page",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
       "cookie": "pbid",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_session_limit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_start_session",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_first_visit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_landing_page",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "last_pys_landing_page",
       "dominio": ".hospitalcima.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -2415,55 +2177,6 @@
       "dominio": "hospitalcima.com",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_session_limit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_start_session",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_first_visit",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_landing_page",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".hospitalcima.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
       "escenario": "E5",
@@ -2480,11 +2193,11 @@
     "universoReferencia": 26,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 34.6,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 7.7,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.593Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.017Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

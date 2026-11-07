@@ -2712,6 +2712,7 @@
         "_clck@.teletica.com",
         "fr@.facebook.com",
         "test_cookie@.doubleclick.net",
+        "_pubcid@.teletica.com",
         "_clsk@.teletica.com",
         "__gads@.teletica.com",
         "__gpi@.teletica.com",
@@ -2723,6 +2724,7 @@
         "FCNEC@.teletica.com",
         "uid@.criteo.com",
         "cto_bundle@.criteo.com",
+        "cto_bundle@.teletica.com",
         "MUID@.bing.com",
         "MR@.c.bing.com",
         "SRM_B@.c.bing.com",
@@ -2792,99 +2794,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "__cflb",
-      "dominio": "www.teletica.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "_pubcid",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "cto_bundle",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_pubcid",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "cto_bundle",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_pubcid",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cto_bundle",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_pubcid",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "cto_bundle",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_pubcid",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "cto_bundle",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_pubcid",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cto_bundle",
-      "dominio": ".teletica.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 1,
     "cotaSuperior": 1,
@@ -2892,11 +2802,11 @@
     "universoReferencia": 32,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 6.7,
+    "proporcionIndeterminadas": 0,
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.848Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.288Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

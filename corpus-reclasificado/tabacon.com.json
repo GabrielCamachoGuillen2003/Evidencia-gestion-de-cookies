@@ -1225,50 +1225,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.tabacon.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.tabacon.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.tabacon.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.tabacon.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.tabacon.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "galaxy-session-cookie-en",
-      "dominio": "www.tabacon.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 2,
     "cotaSuperior": 2,
@@ -1276,11 +1233,11 @@
     "universoReferencia": 11,
     "bannerDetectado": true,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 9.1,
+    "proporcionIndeterminadas": 0,
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.843Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.282Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

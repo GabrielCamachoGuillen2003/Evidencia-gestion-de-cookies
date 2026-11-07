@@ -1902,6 +1902,13 @@
         "sbjs_first@.coopedota.com",
         "sbjs_udata@.coopedota.com",
         "sbjs_session@.coopedota.com",
+        "pys_session_limit@.www.coopedota.com",
+        "pys_start_session@.www.coopedota.com",
+        "pys_first_visit@.www.coopedota.com",
+        "pysTrafficSource@.www.coopedota.com",
+        "pys_landing_page@.www.coopedota.com",
+        "last_pysTrafficSource@.www.coopedota.com",
+        "last_pys_landing_page@.www.coopedota.com",
         "fr@.facebook.com",
         "MUID@.bing.com",
         "MR@.c.bing.com",
@@ -1975,105 +1982,7 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "pys_session_limit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_start_session",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_first_visit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_landing_page",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "pbid",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_session_limit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_start_session",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_first_visit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_landing_page",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "last_pys_landing_page",
       "dominio": ".www.coopedota.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -2087,105 +1996,7 @@
     },
     {
       "escenario": "E2",
-      "cookie": "pys_session_limit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_start_session",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_first_visit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_landing_page",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "pbid",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_session_limit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_start_session",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_first_visit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_landing_page",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "last_pys_landing_page",
       "dominio": ".www.coopedota.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -2199,105 +2010,7 @@
     },
     {
       "escenario": "E4",
-      "cookie": "pys_session_limit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_start_session",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_first_visit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_landing_page",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
       "cookie": "pbid",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_session_limit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_start_session",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_first_visit",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_landing_page",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".www.coopedota.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "last_pys_landing_page",
       "dominio": ".www.coopedota.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -2317,11 +2030,11 @@
     "universoReferencia": 23,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 32.7,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 4.1,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.490Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.906Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

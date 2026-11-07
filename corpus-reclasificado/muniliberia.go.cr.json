@@ -450,53 +450,11 @@
   ],
   "cookiesIndeterminadas": [
     {
-      "escenario": "E0",
-      "cookie": "CakeCookie[muni_liberia_cookie]",
-      "dominio": "www.muniliberia.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "CakeCookie[muni_liberia_cookie]",
-      "dominio": "www.muniliberia.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "CakeCookie[muni_liberia_cookie]",
-      "dominio": "www.muniliberia.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "CakeCookie[muni_liberia_cookie]",
-      "dominio": "www.muniliberia.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "CakeCookie[muni_liberia_cookie]",
-      "dominio": "www.muniliberia.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E4",
       "cookie": "lhc_per",
       "dominio": ".muniliberia.go.cr",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "CakeCookie[muni_liberia_cookie]",
-      "dominio": "www.muniliberia.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     }
   ],
   "resumen": {
@@ -506,11 +464,11 @@
     "universoReferencia": 3,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 36.8,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 5.3,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.723Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.161Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

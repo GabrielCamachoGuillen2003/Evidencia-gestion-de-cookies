@@ -3112,7 +3112,10 @@
         "_gcl_au@.cemaco.com",
         "test_cookie@.doubleclick.net",
         "fr@.facebook.com",
+        "RT@.www.cemaco.com",
         "_ga_JFHSLZMHDP@.cemaco.com",
+        "fs_lua@.cemaco.com",
+        "fs_uid@.cemaco.com",
         "cdv@recommender.scarabresearch.com",
         "cdv@recommender-eu.scarabresearch.com",
         "ttcsid@.cemaco.com",
@@ -3183,36 +3186,8 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "VtexRCSessionIdv7",
-      "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "VtexRCMacIdv7",
       "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "vtex_session",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "vtex_segment",
-      "dominio": "www.cemaco.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
@@ -3225,27 +3200,6 @@
     },
     {
       "escenario": "E0",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "cfs_id",
       "dominio": "www.cemaco.com",
       "regla": "RC-6",
@@ -3253,28 +3207,7 @@
     },
     {
       "escenario": "E0",
-      "cookie": "RT",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
       "cookie": "__apex_test__",
-      "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "fs_lua",
-      "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "fs_uid",
       "dominio": ".cemaco.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -3288,57 +3221,8 @@
     },
     {
       "escenario": "E1",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "VtexRCSessionIdv7",
-      "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
       "cookie": "VtexRCMacIdv7",
       "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "vtex_session",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "vtex_segment",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.cemaco.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
@@ -3358,13 +3242,6 @@
     },
     {
       "escenario": "E1",
-      "cookie": "RT",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
       "cookie": "__apex_test__",
       "dominio": ".cemaco.com",
       "regla": "RC-6",
@@ -3379,36 +3256,8 @@
     },
     {
       "escenario": "E2",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "VtexRCSessionIdv7",
-      "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "VtexRCMacIdv7",
       "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "vtex_session",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "vtex_segment",
-      "dominio": "www.cemaco.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
@@ -3421,38 +3270,10 @@
     },
     {
       "escenario": "E2",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "cfs_id",
       "dominio": "www.cemaco.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "RT",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E2",
@@ -3470,57 +3291,8 @@
     },
     {
       "escenario": "E3",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "VtexRCSessionIdv7",
-      "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
       "cookie": "VtexRCMacIdv7",
       "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "vtex_session",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "vtex_segment",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.cemaco.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
@@ -3540,13 +3312,6 @@
     },
     {
       "escenario": "E3",
-      "cookie": "RT",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
       "cookie": "__apex_test__",
       "dominio": ".cemaco.com",
       "regla": "RC-6",
@@ -3561,50 +3326,8 @@
     },
     {
       "escenario": "E4",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "VtexRCSessionIdv7",
-      "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
       "cookie": "VtexRCMacIdv7",
       "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "vtex_segment",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.cemaco.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
@@ -3619,20 +3342,6 @@
       "escenario": "E4",
       "cookie": "scarab.visitor",
       "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "RT",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "vtex_session",
-      "dominio": "www.cemaco.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
@@ -3652,20 +3361,6 @@
     },
     {
       "escenario": "E5",
-      "cookie": "VtexWorkspace",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "VtexRCSessionIdv7",
-      "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
       "cookie": "VtexRCMacIdv7",
       "dominio": ".cemaco.com",
       "regla": "RC-6",
@@ -3673,36 +3368,8 @@
     },
     {
       "escenario": "E5",
-      "cookie": "vtex_segment",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "CheckoutOrderFormOwnership",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "CheckoutLocale",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
       "cookie": "vtexGraphics",
       "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "checkout.vtex.com",
-      "dominio": ".www.cemaco.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
@@ -3716,34 +3383,6 @@
     {
       "escenario": "E5",
       "cookie": "scarab.visitor",
-      "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "RT",
-      "dominio": ".www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "vtex_session",
-      "dominio": "www.cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "fs_lua",
-      "dominio": ".cemaco.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "fs_uid",
       "dominio": ".cemaco.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -3763,11 +3402,11 @@
     "universoReferencia": 37,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 36.3,
+    "proporcionIndeterminadas": 13.3,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.447Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.864Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

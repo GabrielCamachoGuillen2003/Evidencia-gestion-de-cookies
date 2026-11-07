@@ -1712,6 +1712,8 @@
         "sbjs_udata@.sardimar.com",
         "sbjs_session@.sardimar.com",
         "fr@.facebook.com",
+        "_tccl_visitor@.sardimar.com",
+        "_tccl_visit@.sardimar.com",
         "_scc_session@.sardimar.com",
         "_ga_97DWDDX4E7@.sardimar.com"
       ],
@@ -1776,92 +1778,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "_tccl_visitor",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "_tccl_visit",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_tccl_visitor",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "_tccl_visit",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_tccl_visitor",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "_tccl_visit",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_tccl_visitor",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "_tccl_visit",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_tccl_visitor",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "_tccl_visit",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_tccl_visitor",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "_tccl_visit",
-      "dominio": ".sardimar.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 1,
     "cotaSuperior": 1,
@@ -1869,11 +1786,11 @@
     "universoReferencia": 20,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 10,
+    "proporcionIndeterminadas": 0,
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.817Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.253Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

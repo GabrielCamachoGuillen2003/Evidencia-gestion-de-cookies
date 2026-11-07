@@ -982,7 +982,14 @@
       "evidencia": [
         "_gcl_au@.sinaes.ac.cr",
         "_ga_043WLG63EW@.sinaes.ac.cr",
-        "_ga@.sinaes.ac.cr"
+        "_ga@.sinaes.ac.cr",
+        "pys_session_limit@.sinaes.ac.cr",
+        "pys_start_session@.sinaes.ac.cr",
+        "pys_first_visit@.sinaes.ac.cr",
+        "pysTrafficSource@.sinaes.ac.cr",
+        "pys_landing_page@.sinaes.ac.cr",
+        "last_pysTrafficSource@.sinaes.ac.cr",
+        "last_pys_landing_page@.sinaes.ac.cr"
       ],
       "regla": "cookies no esenciales presentes en E0"
     }
@@ -1045,302 +1052,7 @@
       "razon": "requiere decodificar la cadena TCF y verificar la transmisión a proveedores"
     }
   ],
-  "cookiesIndeterminadas": [
-    {
-      "escenario": "E0",
-      "cookie": "pys_session_limit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_start_session",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_first_visit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_session_limit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_start_session",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_first_visit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_session_limit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_start_session",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_first_visit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_session_limit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_start_session",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_first_visit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_session_limit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_start_session",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_first_visit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_session_limit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_start_session",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_first_visit",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "last_pysTrafficSource",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "last_pys_landing_page",
-      "dominio": ".sinaes.ac.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    }
-  ],
+  "cookiesIndeterminadas": [],
   "resumen": {
     "violacionesConfirmadas": 1,
     "cotaSuperior": 1,
@@ -1348,11 +1060,11 @@
     "universoReferencia": 11,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 63.6,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 0,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.829Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.265Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

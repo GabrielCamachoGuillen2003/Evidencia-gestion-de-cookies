@@ -374,41 +374,6 @@
   ],
   "cookiesIndeterminadas": [
     {
-      "escenario": "E0",
-      "cookie": "aff7e58a54991f7eda1488d1dd198b1f",
-      "dominio": "www.munialajuelita.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "aff7e58a54991f7eda1488d1dd198b1f",
-      "dominio": "www.munialajuelita.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "aff7e58a54991f7eda1488d1dd198b1f",
-      "dominio": "www.munialajuelita.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "aff7e58a54991f7eda1488d1dd198b1f",
-      "dominio": "www.munialajuelita.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "aff7e58a54991f7eda1488d1dd198b1f",
-      "dominio": "www.munialajuelita.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E4",
       "cookie": "webmailsession",
       "dominio": "www.munialajuelita.go.cr",
@@ -428,13 +393,6 @@
       "dominio": "www.munialajuelita.go.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "aff7e58a54991f7eda1488d1dd198b1f",
-      "dominio": "www.munialajuelita.go.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
     }
   ],
   "resumen": {
@@ -444,11 +402,11 @@
     "universoReferencia": 1,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 100,
+    "proporcionIndeterminadas": 33.3,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.708Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.144Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

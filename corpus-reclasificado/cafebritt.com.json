@@ -1485,6 +1485,9 @@
         "_shopify_analytics@www.cafebritt.com",
         "_shopify_marketing@www.cafebritt.com",
         "_shop_app_essential@.shop.app",
+        "__blockify::first-access-url@www.cafebritt.com",
+        "__blockify::analyzer@www.cafebritt.com",
+        "shopify_client_id@www.cafebritt.com",
         "SEARCH_SAMESITE@.google.com",
         "AEC@.google.com",
         "__Secure-STRP@.google.com",
@@ -1568,28 +1571,7 @@
     },
     {
       "escenario": "E0",
-      "cookie": "__blockify::first-access-url",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "geoip-inline-faabaa-2.myshopify.com",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "__blockify::analyzer",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "shopify_client_id",
       "dominio": "www.cafebritt.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -1610,28 +1592,7 @@
     },
     {
       "escenario": "E1",
-      "cookie": "__blockify::first-access-url",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
       "cookie": "geoip-inline-faabaa-2.myshopify.com",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "__blockify::analyzer",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "shopify_client_id",
       "dominio": "www.cafebritt.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -1652,28 +1613,7 @@
     },
     {
       "escenario": "E2",
-      "cookie": "__blockify::first-access-url",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
       "cookie": "geoip-inline-faabaa-2.myshopify.com",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "__blockify::analyzer",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "shopify_client_id",
       "dominio": "www.cafebritt.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -1728,27 +1668,6 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E3",
-      "cookie": "__blockify::first-access-url",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "__blockify::analyzer",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "shopify_client_id",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E4",
       "cookie": "localization",
       "dominio": "www.cafebritt.com",
@@ -1792,28 +1711,7 @@
     },
     {
       "escenario": "E4",
-      "cookie": "__blockify::first-access-url",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
       "cookie": "geoip-inline-faabaa-2.myshopify.com",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "__blockify::analyzer",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "shopify_client_id",
       "dominio": "www.cafebritt.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -1834,28 +1732,7 @@
     },
     {
       "escenario": "E5",
-      "cookie": "__blockify::first-access-url",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
       "cookie": "geoip-inline-faabaa-2.myshopify.com",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "__blockify::analyzer",
-      "dominio": "www.cafebritt.com",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "shopify_client_id",
       "dominio": "www.cafebritt.com",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -1868,11 +1745,11 @@
     "universoReferencia": 15,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 42.7,
+    "proporcionIndeterminadas": 25.2,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.431Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.845Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

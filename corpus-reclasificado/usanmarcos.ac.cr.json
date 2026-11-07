@@ -1614,6 +1614,7 @@
         "FPID@.usanmarcos.ac.cr",
         "FPAU@.usanmarcos.ac.cr",
         "FPLC@.usanmarcos.ac.cr",
+        "FPGSID@.usanmarcos.ac.cr",
         "MUID@.bing.com",
         "MR@.bat.bing.com",
         "_uetsid@.usanmarcos.ac.cr",
@@ -1687,25 +1688,11 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E0",
-      "cookie": "FPGSID",
-      "dominio": ".usanmarcos.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E1",
       "cookie": "__obref",
       "dominio": ".usanmarcos.ac.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "FPGSID",
-      "dominio": ".usanmarcos.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E2",
@@ -1715,25 +1702,11 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E2",
-      "cookie": "FPGSID",
-      "dominio": ".usanmarcos.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E3",
       "cookie": "__obref",
       "dominio": ".usanmarcos.ac.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "FPGSID",
-      "dominio": ".usanmarcos.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
       "escenario": "E4",
@@ -1743,25 +1716,11 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E4",
-      "cookie": "FPGSID",
-      "dominio": ".usanmarcos.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E5",
       "cookie": "__obref",
       "dominio": ".usanmarcos.ac.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "FPGSID",
-      "dominio": ".usanmarcos.ac.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     }
   ],
   "resumen": {
@@ -1773,11 +1732,11 @@
     "tratamientosAplicados": [
       "E1"
     ],
-    "proporcionIndeterminadas": 10.4,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 5.2,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.887Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.328Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

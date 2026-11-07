@@ -7618,6 +7618,11 @@
         "3pi@.id5-sync.com",
         "TDCPM@.adsrvr.org",
         "uuid@.mathtag.com",
+        "kampyle_userid@www.claro.cr",
+        "kampyleUserSession@www.claro.cr",
+        "kampyleUserSessionsCount@www.claro.cr",
+        "kampyleUserPercentile@www.claro.cr",
+        "kampyleSessionPageCounter@www.claro.cr",
         "MUID@.bing.com",
         "MR@.c.bing.com",
         "SRM_B@.c.bing.com",
@@ -7700,78 +7705,8 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E0",
-      "cookie": "kampyle_userid",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "kampyleUserSession",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "kampyleUserSessionsCount",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "kampyleUserPercentile",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "kampyleSessionPageCounter",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E1",
       "cookie": "homePageMdla",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "kampyle_userid",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "kampyleUserSession",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "kampyleUserSessionsCount",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "kampyleUserPercentile",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "kampyleSessionPageCounter",
       "dominio": "www.claro.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -7784,78 +7719,8 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E2",
-      "cookie": "kampyle_userid",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "kampyleUserSession",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "kampyleUserSessionsCount",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "kampyleUserPercentile",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "kampyleSessionPageCounter",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E3",
       "cookie": "homePageMdla",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "kampyle_userid",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "kampyleUserSession",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "kampyleUserSessionsCount",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "kampyleUserPercentile",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "kampyleSessionPageCounter",
       "dominio": "www.claro.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -7868,78 +7733,8 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E4",
-      "cookie": "kampyle_userid",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "kampyleUserSession",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "kampyleUserSessionsCount",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "kampyleUserPercentile",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "kampyleSessionPageCounter",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E5",
       "cookie": "homePageMdla",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "kampyle_userid",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "kampyleUserSession",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "kampyleUserSessionsCount",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "kampyleUserPercentile",
-      "dominio": "www.claro.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "kampyleSessionPageCounter",
       "dominio": "www.claro.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -7952,11 +7747,11 @@
     "universoReferencia": 99,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 5.9,
+    "proporcionIndeterminadas": 1,
     "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.461Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.877Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

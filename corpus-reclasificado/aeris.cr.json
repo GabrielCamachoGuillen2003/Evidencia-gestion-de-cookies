@@ -661,13 +661,6 @@
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
-      "escenario": "E0",
-      "cookie": "cmplz_banner-status",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E1",
       "cookie": "wp-wpml_current_language",
       "dominio": "www.aeris.cr",
@@ -675,64 +668,8 @@
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
-      "escenario": "E1",
-      "cookie": "cmplz_banner-status",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E2",
       "cookie": "wp-wpml_current_language",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cmplz_banner-status",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cmplz_policy_id",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cmplz_marketing",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cmplz_statistics",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cmplz_preferences",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cmplz_functional",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cmplz_consented_services",
       "dominio": "www.aeris.cr",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
@@ -752,13 +689,6 @@
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
-      "escenario": "E3",
-      "cookie": "cmplz_banner-status",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E4",
       "cookie": "wp-wpml_current_language",
       "dominio": "www.aeris.cr",
@@ -766,64 +696,8 @@
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
     },
     {
-      "escenario": "E4",
-      "cookie": "cmplz_banner-status",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
       "escenario": "E5",
       "cookie": "wp-wpml_current_language",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cmplz_banner-status",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cmplz_policy_id",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cmplz_marketing",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cmplz_statistics",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cmplz_preferences",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cmplz_functional",
-      "dominio": "www.aeris.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cmplz_consented_services",
       "dominio": "www.aeris.cr",
       "regla": "RC-6",
       "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
@@ -845,11 +719,11 @@
     "tratamientosAplicados": [
       "E2"
     ],
-    "proporcionIndeterminadas": 81.3,
+    "proporcionIndeterminadas": 25,
     "superaUmbralIndeterminadas": true,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.387Z",
+  "reclasificadoEn": "2026-11-07T02:07:18.801Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",

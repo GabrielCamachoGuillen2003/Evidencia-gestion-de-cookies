@@ -2918,6 +2918,7 @@
         "_ttp@.tiktok.com",
         "_tt_enable_cookie@.officedepot.co.cr",
         "_ttp@.officedepot.co.cr",
+        "twk_idm_key@www.officedepot.co.cr",
         "auid@.acuityplatform.com",
         "_ga_ZX8ZMFYFP4@.officedepot.co.cr",
         "_ga@.officedepot.co.cr",
@@ -2927,6 +2928,8 @@
         "test_cookie@.doubleclick.net",
         "_fbp@.officedepot.co.cr",
         "_ga_NXL84VXGW4@.officedepot.co.cr",
+        "TawkConnectionTime@www.officedepot.co.cr",
+        "twk_uuid_5b96ecc1c9abba5796776a49@.officedepot.co.cr",
         "C@.adform.net",
         "uid@.adform.net",
         "fr@.facebook.com",
@@ -2997,34 +3000,6 @@
   "cookiesIndeterminadas": [
     {
       "escenario": "E0",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "cookie-notification",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "ROUTE",
       "dominio": "www.officedepot.co.cr",
       "regla": "RC-6",
@@ -3032,56 +3007,7 @@
     },
     {
       "escenario": "E0",
-      "cookie": "twk_idm_key",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
       "cookie": "mcforms-200118034-sessionId",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E0",
-      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
-      "dominio": ".officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "cookie-notification",
       "dominio": "www.officedepot.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -3101,55 +3027,6 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E1",
-      "cookie": "twk_idm_key",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E1",
-      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
-      "dominio": ".officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "cookie-notification",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E2",
       "cookie": "ROUTE",
       "dominio": "www.officedepot.co.cr",
@@ -3159,55 +3036,6 @@
     {
       "escenario": "E2",
       "cookie": "mcforms-200118034-sessionId",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "twk_idm_key",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E2",
-      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
-      "dominio": ".officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "cookie-notification",
       "dominio": "www.officedepot.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -3227,55 +3055,6 @@
       "motivo": "ninguna regla resuelve; no se imputa violación"
     },
     {
-      "escenario": "E3",
-      "cookie": "twk_idm_key",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E3",
-      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
-      "dominio": ".officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "cookie-notification",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
       "escenario": "E4",
       "cookie": "ROUTE",
       "dominio": "www.officedepot.co.cr",
@@ -3284,56 +3063,7 @@
     },
     {
       "escenario": "E4",
-      "cookie": "twk_idm_key",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
       "cookie": "mcforms-200118034-sessionId",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E4",
-      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
-      "dominio": ".officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "anonymous-consents",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "cookie-notification",
       "dominio": "www.officedepot.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
@@ -3349,27 +3079,6 @@
       "escenario": "E5",
       "cookie": "mcforms-200118034-sessionId",
       "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "twk_idm_key",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "ninguna regla resuelve; no se imputa violación"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "TawkConnectionTime",
-      "dominio": "www.officedepot.co.cr",
-      "regla": "RC-6",
-      "motivo": "catalogada como Functional o Personalization en F1: ni exenta ni de rastreo"
-    },
-    {
-      "escenario": "E5",
-      "cookie": "twk_uuid_5b96ecc1c9abba5796776a49",
-      "dominio": ".officedepot.co.cr",
       "regla": "RC-6",
       "motivo": "ninguna regla resuelve; no se imputa violación"
     }
@@ -3381,11 +3090,11 @@
     "universoReferencia": 30,
     "bannerDetectado": false,
     "tratamientosAplicados": [],
-    "proporcionIndeterminadas": 25.1,
-    "superaUmbralIndeterminadas": true,
+    "proporcionIndeterminadas": 5.6,
+    "superaUmbralIndeterminadas": false,
     "codificable": false
   },
-  "reclasificadoEn": "2026-11-07T00:33:38.774Z",
+  "reclasificadoEn": "2026-11-07T02:07:19.212Z",
   "basesDeClasificacion": {
     "F1": {
       "nombre": "Open Cookie Database",
