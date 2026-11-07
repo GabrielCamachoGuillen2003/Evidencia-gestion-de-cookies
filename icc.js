@@ -56,7 +56,7 @@ const R = (min, max, nota) => ({ min, max, nota });      // intervalo de nivel
 const NA = (nota) => ({ na: true, nota });               // requisito no aplicable
 
 // ── Evaluación de los once requisitos derivables ───────────────────────────
-function evaluar(d, hayBanner, pol) {
+function evaluar(d, hayBanner, pol, cod) {
   const E = d.escenarios || {};
   const host = d.sitio;
   const vio = new Set((d.violaciones || []).map((v) => v.id));
@@ -214,6 +214,14 @@ function evaluar(d, hayBanner, pol) {
   const D2 = new Set(['R06', 'R07', 'R12', 'R15']);
 
   for (const [id, nota] of Object.entries(PENDIENTES)) {
+    // Una codificación manual cierra el intervalo: el nivel deja de ser un
+    // rango entre lo peor y lo mejor y pasa a ser el que una persona asignó
+    // contra el descriptor. Es la única vía por la que estos siete requisitos
+    // dejan de estar pendientes.
+    if (cod && cod[id] !== undefined && cod[id] !== null) {
+      if (cod[id] === 'NA') { r[id] = NA('codificado a mano como no aplicable'); continue; }
+      if (typeof cod[id] === 'number') { r[id] = R(cod[id], cod[id], 'codificado a mano contra el descriptor'); continue; }
+    }
     if (id === 'R11' && !hayBanner) { r.R11 = R(3, 3, 'sin mecanismo no puede condicionarse el acceso a aceptarlo'); continue; }
     if ((id === 'R02' || id === 'R13') && !hayBanner) { r[id] = R(0, 0, 'no hay banner que evaluar'); continue; }
     if (sinVehiculo && D2.has(id)) {
@@ -242,6 +250,8 @@ if (fs.existsSync(CONFIRMACIONES)) confirm = JSON.parse(fs.readFileSync(CONFIRMA
 let politicas = {};
 if (fs.existsSync('politicas.json')) politicas = JSON.parse(fs.readFileSync('politicas.json', 'utf8'));
 else console.log('(aviso: no hay politicas.json; D2 queda abierta de 0 a 3 en todos los sitios)\n');
+let codificado = {};
+if (fs.existsSync('codificacion.json')) codificado = JSON.parse(fs.readFileSync('codificacion.json', 'utf8'));
 
 const filas = [];
 for (const f of fs.readdirSync(CORPUS).filter((x) => x.endsWith('.json'))) {
@@ -265,7 +275,7 @@ for (const f of fs.readdirSync(CORPUS).filter((x) => x.endsWith('.json'))) {
     continue;
   }
 
-  const ev = evaluar(d, hayBanner, politicas[d.sitio]);
+  const ev = evaluar(d, hayBanner, politicas[d.sitio], codificado[d.sitio]);
   let min = 0, max = 0, pesoVivo = 0, pend = 0;
   const dims = {};
   for (const [id, cfg] of Object.entries(DIMENSIONES)) {
@@ -306,12 +316,13 @@ console.log(`  fichas en el corpus              ${filas.length}`);
 console.log(`  fuera del índice por la regla C7 ${c7.length}   no instalan cookies: nada que consentir`);
 console.log(`  sitios evaluados                 ${N}`);
 console.log(`  sin aviso ni política enlazada   ${eval_.filter((f) => f.sinVehiculo).length}   D2 determinada en cero`);
+console.log(`  con codificación manual          ${Object.keys(codificado).length}`);
 console.log(`  con mecanismo confirmado         ${eval_.filter((f) => f.hayBanner).length}`);
 console.log(`  sin verificación visual          ${eval_.filter((f) => !f.verificado).length}`);
 console.log(`  con la banda ya determinada      ${eval_.filter((f) => f.determinada).length}   ${pc(filas.filter((f) => f.determinada).length, N)}`);
 
 console.log('\n' + linea);
-console.log('BANDAS DETERMINADAS SIN CODIFICACIÓN MANUAL');
+console.log('DISTRIBUCIÓN POR BANDA DE CUMPLIMIENTO');
 console.log(linea);
 const porBanda = {};
 for (const f of eval_) {
