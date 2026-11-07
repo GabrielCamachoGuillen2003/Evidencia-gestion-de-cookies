@@ -166,13 +166,27 @@ resumen.js          agregación de resultados
 tabla20.js          cifras por escenario listas para el informe
 variacion.js        estabilidad entre repeticiones
 
-sitios-*.txt        listas de dominios por lote
+sitios/             listas de dominios por lote, con sus descartes
+control/            ficha del control positivo
 corpus/             fichas tal como se recogieron
 corpus-reclasificado/  fichas con las bases públicas aplicadas
 corpus-rep2/        segunda medición de diez sitios, para la estabilidad
 confirmaciones.json verificación humana, sitio por sitio
 evidencia-banners/  capturas de los sitios con mecanismo de consentimiento
 ```
+
+`sitios/` conserva las listas en sus tres estados: los dominios candidatos de
+cada lote, los que quedaron tras comprobar cuáles resuelven, y los descartados
+con su motivo. Las tres hacen falta: sin ellas, la afirmación de que la muestra
+se construyó por muestreo estratificado y no se escogió después de ver los
+resultados no es comprobable por nadie.
+
+`control/` contiene la ficha de un sitio con aviso de cookies conocido, auditado
+como control positivo. Sirve para demostrar que el instrumento interactúa de
+verdad con un banner —que lo localiza, lo pulsa y observa el cambio en las
+cookies— y no que simplemente no encuentra nada en ninguna parte. Un detector
+averiado y un entorno web sin avisos producen la misma salida; el control
+positivo es lo que distingue un caso del otro.
 
 Las capturas de pantalla de los seis escenarios no se publican. Son 1 669
 imágenes que suman 812 MB, frente a los 10 MB de las fichas JSON que contienen
